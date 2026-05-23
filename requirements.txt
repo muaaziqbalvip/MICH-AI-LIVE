@@ -1,15 +1,28 @@
+# ── Telegram (sync, thread-safe — replaces python-telegram-bot>=20 async) ──
+pyTelegramBotAPI>=4.18.0
+
+# ── AI / LLM ────────────────────────────────────────────────────────────────
 groq>=0.9.0
-python-telegram-bot>=20.7
+
+# ── HTTP & Web ───────────────────────────────────────────────────────────────
 requests>=2.31.0
+httpx>=0.27.0
+aiohttp>=3.9.3
+
+# ── Scraping ─────────────────────────────────────────────────────────────────
 beautifulsoup4>=4.12.3
 lxml>=5.1.0
-aiohttp>=3.9.3
-asyncio-throttle>=1.0.2
-GitPython>=3.1.41
+duckduckgo-search>=5.3.0
+
+# ── Data / Validation ────────────────────────────────────────────────────────
 pydantic>=2.6.0
+
+# ── Git ──────────────────────────────────────────────────────────────────────
+GitPython>=3.1.41
+
+# ── Utilities ────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.1
 tenacity>=8.2.3
 schedule>=1.2.1
-duckduckgo-search>=5.3.0
-python-dotenv>=1.0.1
+asyncio-throttle>=1.0.2
 rich>=13.7.0
-httpx>=0.27.0
