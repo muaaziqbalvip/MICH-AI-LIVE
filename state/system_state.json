@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 32,
+  "cycle_count": 33,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-23T13:13:39.285116+00:00",
+  "last_checkpoint": "2026-05-23T13:44:33.372160+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -21,7 +21,10 @@
       "https://github.com/FFmpeg/FFmpeg",
       "https://en.m.wikipedia.org/wiki/FFmpeg",
       "https://www.wikihow.com/Install-FFmpeg-on-Windows",
-      "https://gizmodo.com/download/ffmpeg"
+      "https://gizmodo.com/download/ffmpeg",
+      "https://blog.csdn.net/Natsuago/article/details/143231558",
+      "https://zhuanlan.zhihu.com/p/15849180981",
+      "https://cloud.tencent.com/developer/article/2529117"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -78,5 +81,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "running"
+  "status": "handoff"
 }
