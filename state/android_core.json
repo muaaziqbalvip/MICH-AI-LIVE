@@ -147,7 +147,82 @@
         "sdk"
       ],
       "added_at": "2026-05-23T12:55:12.797223+00:00"
+    },
+    {
+      "id": "58cf354f",
+      "source_url": "https://kotlinlang.org/",
+      "title": "Kotlin Programming Language",
+      "summary": "* Kotlin is a multiplatform programming language.\n* It supports cross-platform development without compromising performance, UX, or code quality.\n* Kotlin is used for Android, backend, and AI development.\n* It is an object-oriented and functional language.\n* Kotlin has built-in support for asynchronous programming.\n* The language is ideal for tests and has a concise syntax.\n* Kotlin is developed by JetBrains.\n* It has been the official language of Android development since 2019.\n* Kotlin supports integration with Spring and Ktor for backend development.\n* The language has a growing real-world impact, including use in AI-driven workflows and multiplatform development.\n* Kotlin has a Security Support Policy for its Standard Library.\n* Official Kotlin extension for Visual Studio Code is available in Alpha.\n* Kotlin prioritizes developer convenience and productivity over academic purity.\n* Kotlin supports asynchronous, object-oriented, and functional programming.\n* Kotlin is ideal for tests and has a simple syntax.\n* Kotlin Multiplatform (KMP) allows for shared codebase across platforms.\n* Kotlin is used for server-side development by companies like AWS and Adobe.\n* Kotlin's concise syntax and async capabilities improve productivity.\n* Kotlin has interoperability with Java.\n* Kotlin Multiplatform enables sharing of over 80% of logic across iOS and Android.\n* Kotlin allows sharing over 80% of logic across iOS and Android platforms.\n* Kotlin Multiplatform simplifies cross-platform ",
+      "tags": [
+        "kotlin",
+        "android",
+        "backend",
+        "ai",
+        "asynchronous",
+        "multiplatform"
+      ],
+      "added_at": "2026-05-23T13:05:51.257390+00:00"
+    },
+    {
+      "id": "415b57e8",
+      "source_url": "https://en.wikipedia.org/wiki/Kotlin",
+      "title": "Kotlin - Wikipedia",
+      "summary": "* Kotlin is a multi-paradigm language: object-oriented, functional, imperative, block structured, generic, reflective, concurrent.\n* Typing discipline: inferred, static, strong.\n* Platforms: Android, JVM, iOS, iPadOS, tvOS, watchOS, macOS, Linux, Windows, JavaScript, WebAssembly.\n* License: Apache 2.0.\n* Filename extensions: .kt, .kts, .kexe, .klib.\n* Influenced by: C#, Eiffel, Gosu, Groovy, Java, JavaScript, ML, Scala.\n* Compiles to: JVM, JavaScript, native code via LLVM.\n* Stable release: 2.3.0 (December 2025).\n* Supports type inference and interoperability with Java.\n* Used for: Android app development, frontend web applications, native iOS apps.\n* Kotlin was first committed to the Git repository on 8 November 2010.\n* Kotlin is designed to be an industrial-strength object-oriented language, interoperable with Java code.\n* Semicolons are optional as statement terminators in Kotlin.\n* Variable declarations and parameter lists place the data type after the variable name, separated by a colon.\n* Kotlin supports both object-oriented and functional programming.\n* Variables can be declared as mutable (var) or immutable (val).\n* Functions and methods support default arguments, variable-length argument lists, and named arguments.\n* Kotlin 1.3 added support for contracts, inspired by the design-by-contract programming paradigm.\n* Kotlin code can be transpiled to JavaScript, enabling interoperability between Kotlin and JavaScript.\n* Kotlin 1.0 was released on 15 February 2016, with a",
+      "tags": [
+        "android",
+        "jvm",
+        "javascript",
+        "webassembly",
+        "kotlin",
+        "ios"
+      ],
+      "added_at": "2026-05-23T13:06:07.156474+00:00"
+    },
+    {
+      "id": "3ddbdf9d",
+      "source_url": "https://www.w3schools.com/kotlin/index.php",
+      "title": "Kotlin Tutorial - W3Schools",
+      "summary": "* Kotlin is a modern programming language used for Android app development, server-side apps, and more.\n* Kotlin syntax is demonstrated with examples, such as `fun main() { println(\"Hello World\") }`.\n* The \"Try it Yourself\" editor allows users to edit and run Kotlin code in the browser.\n* Kotlin certification is available through a professionally curated study kit and exam.\n* The Kotlin tutorial covers topics such as variables, data types, operators, strings, and classes.\n* Kotlin exercises and quizzes are available to test knowledge and track progress.\n* The Kotlin compiler can be downloaded from GitHub: https://github.com/JetBrains/kotlin.\n* Kotlin supports object-oriented programming (OOP) concepts like classes, objects, and inheritance.\n* A W3Schools account provides access to additional features, such as tracking progress and competing on the leaderboard.\n* Kotlin examples and explanations are provided throughout the tutorial to supplement learning.\n* W3Schools provides tutorials, references, and examples for various programming languages and technologies.\n* Supported programming languages include HTML, CSS, JavaScript, SQL, Python, Java, C++, and more.\n* W3Schools offers certificates for completing tutorials and courses in specific technologies.\n* The website is optimized for learning and training with simplified examples.\n* W3Schools has a terms of use, cookies, and privacy policy that users must agree to.\n* The website is powered by W3.CSS.\n* W3Schools provides a foru",
+      "tags": [
+        "kotlin",
+        "android",
+        "programming",
+        "compiler",
+        "github",
+        "oop"
+      ],
+      "added_at": "2026-05-23T13:06:13.319469+00:00"
+    },
+    {
+      "id": "20fc60d1",
+      "source_url": "https://developer.android.com/kotlin/",
+      "title": "Kotlin and Android | Android Developers",
+      "summary": "* Kotlin is a modern, statically typed programming language used by 60% of professional Android developers.\n* Kotlin helps boost productivity, developer satisfaction, and code safety.\n* Kotlin's type system includes nullability to avoid NullPointerExceptions, reducing app crashes by 20%.\n* Jetpack Compose is Android's modern UI toolkit built on Kotlin for creating adaptive UIs.\n* Kotlin Multiplatform allows sharing code across Android, iOS, and desktop platforms.\n* Android Studio provides first-class support for Kotlin, including a Java-to-Kotlin conversion tool.\n* Android KTX makes Android development with Kotlin more concise and idiomatic.\n* Android SDK contains nullability annotations starting from Android 9 (API level 28) to help avoid NullPointerExceptions.\n* Kotlin-friendly API reference documentation is available for Android development.\n* Android Studio's Show Kotlin Bytecode tool allows viewing equivalent Java-based code for learning Kotlin.\n* Kotlin is an open-source project under the Apache 2.0 license.\n* Kotlin is developed on GitHub by JetBrains, Google, and others.\n* Kotlin helps reduce lines of code and detects defects at compile time.\n* Android codelabs are available in Kotlin for learning best practices and APIs.\n* Coroutines are a key feature in Kotlin for Android development.\n* Room persistence library is compatible with Kotlin.\n* Kotlin is used for new feature releases in Android app development.\n* Android Basics with Compose course teaches Kotlin basics f",
+      "tags": [
+        "kotlin",
+        "android",
+        "jetpack",
+        "ui",
+        "sdk",
+        "java"
+      ],
+      "added_at": "2026-05-23T13:06:19.509249+00:00"
+    },
+    {
+      "id": "5a7ad6ac",
+      "source_url": "https://www.geeksforgeeks.org/kotlin/kotlin-programming-language/",
+      "title": "Kotlin Tutorial - GeeksforGeeks",
+      "summary": "* Kotlin is a modern programming language created by JetBrains in 2011.\n* Kotlin runs on the Java Virtual Machine (JVM) and can be compiled to JavaScript or native code.\n* Kotlin is an object-oriented language and is fully interoperable with Java code.\n* Kotlin is officially supported by Google for Android development.\n* Key features of Kotlin include null safety, coroutines, and functional programming.\n* Kotlin's code is shorter and clearer than Java, making it easier to understand and work with.\n* Kotlin can be used with Java in the same project, making it easy to switch from Java to Kotlin.\n* Kotlin has a growing number of libraries, tools, and community resources to support developers.\n* Kotlin environment can be set up using Command Line, IntelliJ IDEA, or Android Studio.\n* Kotlin's coroutines make it easier to handle background tasks like network requests without blocking the app.\n* Kotlin supports type conversion, expressions, statements, and blocks.\n* Control flow statements include if-else, while, do-while, and for loops.\n* Kotlin has labeled and unlabeled break and continue statements.\n* Arrays and strings are supported, with functions for manipulation.\n* Functions can have default and named arguments, and support recursion and tail recursion.\n* Kotlin supports lambdas, inline functions, infix function notation, and higher-order functions.\n* Collections include lists, sets, and maps, with mutable and immutable variants.\n* OOPs concepts include classes, objects, inhe",
+      "tags": [
+        "java",
+        "kotlin",
+        "javascript",
+        "android",
+        "jvm",
+        "intellij"
+      ],
+      "added_at": "2026-05-23T13:06:26.997566+00:00"
     }
   ],
-  "last_updated": "2026-05-23T12:55:12.797241+00:00"
+  "last_updated": "2026-05-23T13:06:26.997584+00:00"
 }

@@ -102,7 +102,80 @@
         "cron jobs"
       ],
       "added_at": "2026-05-23T13:01:56.813933+00:00"
+    },
+    {
+      "id": "10ae6f62",
+      "source_url": "https://aws.amazon.com/",
+      "title": "Cloud Computing Services - Amazon Web Services (AWS)",
+      "summary": "* AWS has 123 Availability Zones within 39 Geographic Regions.\n* 7 more Availability Zones and 2 more AWS Regions are planned.\n* AWS Cloud spans North America, South America, Europe, Middle East, Africa, Asia Pacific, Australia, and New Zealand.\n* AWS has 31 Edge Network Locations and 3 Edge Cache Locations in North America.\n* 9 Geographic Regions are available in North America.\n* AWS GovCloud (US-East) and AWS GovCloud (US-West) are available for government workloads.\n* AWS has 31 Availability Zones within 9 Geographic Regions in North America.\n* Key services mentioned include Amazon EC2 and S3.\n* AWS supports various industries, including Aerospace, Automotive, and Media & Entertainment.\n* AWS provides AI capabilities, including agentic AI and end-to-end AI platforms like WRITER.",
+      "tags": [
+        "cloud computing",
+        "edge network",
+        "ai platforms",
+        "amazon ec2",
+        "aws govcloud",
+        "availability zones"
+      ],
+      "added_at": "2026-05-23T13:04:35.944403+00:00"
+    },
+    {
+      "id": "194d65e8",
+      "source_url": "https://www.aboutamazon.com/what-we-do/amazon-web-services",
+      "title": "Amazon Web Services",
+      "summary": "* Amazon Web Services (AWS) is a comprehensive cloud platform with a wide range of services.\n* AWS provides on-demand delivery of IT resources over the Internet with pay-as-you-go pricing.\n* AWS offers over 240 fully featured services, including compute, storage, databases, and AI capabilities.\n* AWS has a strong focus on security, with the highest standards for privacy and data security.\n* AWS provides custom silicon and advanced generative AI services.\n* AWS has the largest global infrastructure footprint of any cloud provider.\n* AWS provides a range of services, including storage, databases, and compute power.\n* AWS has a large community of customers and partners, driving innovation and growth.\n* AWS provides flexibility for customers to choose how and where they want to run their workloads.\n* AWS uses Trainium2 chips, a custom-designed AI chip, in its infrastructure.\n* AWS has the largest community of customers and partners among cloud providers.\n* AWS continually enhances infrastructure for increased security and resilience.\n* AWS delivers industry-first capabilities and breakthrough technologies.\n* AWS is investing in AI capabilities, including AI inference and AI chips.\n* Amazon's Trainium chip is being used by researchers to accelerate AI discovery.\n* AWS uses CPUs, GPUs, and accelerators to power AI workloads.\n* Amazon builds its own chips for AI training and general computing.\n* AWS has a range of innovative cloud and AI capabilities and expertise.\n* Amazon is using",
+      "tags": [
+        "cloud computing",
+        "artificial intelligence",
+        "data security",
+        "it resources",
+        "generative ai"
+      ],
+      "added_at": "2026-05-23T13:04:41.896837+00:00"
+    },
+    {
+      "id": "9466c21a",
+      "source_url": "https://www.aws.org/",
+      "title": "American Welding Society (AWS) - Welding Excellence Worldwide",
+      "summary": "* AWS offers certifications in 9 industry categories for welding and joining.\n* Certifications cover various segments of welding, including ASME Section IX.\n* AWS provides comprehensive training resources, including online courses and instructor-led seminars.\n* 66% of the welding workforce supplements their education with AWS Certifications.\n* AWS offers 39 in-person or virtual welding courses and training resources.\n* ASME Section IX requirements include welding, brazing, and fusing qualifications.\n* AWS certifications can enhance career and lifetime earning potential.\n* AWS membership benefits include access to leading educational resources and technical information.\n* AWS offers a range of conferences and events, including the Welding Automation Exposition and Conference.\n* AWS certifications are recognized as a standard for professional certification and education in the welding industry.\n* AWS has defined over 350 standards for the welding industry\n* AWS D1.1/D1.1M:2025 is the updated structural welding code for steel\n* AWS D1.8/D1.8M:2025 is the seismic supplement to the structural welding code\n* AASHTO/AWS D1.5M/D1.5:2025 is the latest bridge welding code\n* QC47 is the specification for the certification of welders and accreditation of test facilities\n* WeldCert Pro is a digital platform for QC47 compliance and welder credential management\n* Welding Procedure Qualifier Endorsement demonstrates knowledge and skill to qualify Welding Procedure Specifications (WPSs)\n* AWS",
+      "tags": [
+        "welding",
+        "automation",
+        "online courses",
+        "virtual training",
+        "educational resources",
+        "technical information"
+      ],
+      "added_at": "2026-05-23T13:04:50.051727+00:00"
+    },
+    {
+      "id": "5fb529af",
+      "source_url": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+      "title": "Amazon Web Services - Wikipedia",
+      "summary": "* Amazon Web Services (AWS) provides on-demand cloud computing platforms and APIs on a metered, pay-as-you-go basis.\n* AWS offers various services related to networking, compute, storage, middleware, IoT, and processing capacity.\n* Amazon Elastic Compute Cloud (EC2) allows users to have a virtual cluster of computers with high availability.\n* AWS virtual computers emulate attributes of real computers, including CPUs, GPUs, RAM, and storage.\n* AWS services are delivered via a network of server farms located throughout the world.\n* Fees are based on a combination of usage, hardware, operating system, software, and networking features.\n* Subscribers can pay for a single virtual AWS computer, a dedicated physical computer, or clusters of either.\n* AWS operates from many global geographical regions, including nine in North America.\n* Amazon provides select portions of security for subscribers, while other aspects are the responsibility of the subscriber.\n* AWS uses a \"Pay-as-you-go\" model, allowing clients to scale up or down to reduce costs.\n* AWS has over 200 products and services, including computing, storage, networking, database, analytics, and machine learning.\n* Popular AWS services include Amazon Elastic Compute Cloud (EC2), Amazon Simple Storage Service (S3), Amazon Connect, and AWS Lambda.\n* AWS services expose functionality through APIs using REST, SOAP, and JSON protocols.\n* Clients can interact with AWS APIs through the AWS console, SDKs (Python, Java, JavaScript), or",
+      "tags": [
+        "cloud computing",
+        "iot",
+        "networking",
+        "storage",
+        "apis",
+        "ec2"
+      ],
+      "added_at": "2026-05-23T13:05:06.660367+00:00"
+    },
+    {
+      "id": "e5a60a95",
+      "source_url": "https://repost.aws/knowledge-center/sign-in-console",
+      "title": "Sign in to the AWS Management Console | AWS re:Post",
+      "summary": "* To sign in to the AWS Management Console, go to https://aws.amazon.com/console/\n* Use the account email address and password associated with the AWS account to sign in\n* If multi-factor authentication (MFA) is enabled, enter the authentication code generated by the MFA device or app\n* If accessing multiple AWS accounts, select the appropriate account from the dropdown menu\n* To sign in as an IAM user, use https://account_alias_or_id.signin.aws.amazon.com/console/\n* Replace account_alias_or_id with the account alias or account ID provided by the root user\n* For AWS GovCloud (US) Region, use IAM credentials to sign in to the AWS Management Console\n* It's a best practice to not use the root user for everyday tasks and to safeguard root user credentials\n* Use the root user credentials only for tasks that require root user access, as listed in the IAM User Guide\n* The sign-in process involves 8 steps: opening a web browser, going to the AWS Management Console, signing in, entering credentials, completing MFA (if enabled), selecting an account (if applicable), signing in, and accessing the console dashboard\n* AWS Management Console sign-in issues can be troubleshooted using official AWS guides.\n* MFA (Multi-Factor Authentication) can be enforced for console sign-in but not for access key (CLI) sign-in.\n* Hardware passkey authentication is supported for AWS Console sign-in.\n* IAM authentication failures can cause AWS Management Console access issues.\n* Lost MFA registered devices ",
+      "tags": [
+        "aws",
+        "mfa",
+        "iam",
+        "cloud",
+        "authentication"
+      ],
+      "added_at": "2026-05-23T13:05:12.714496+00:00"
     }
   ],
-  "last_updated": "2026-05-23T13:01:56.813947+00:00"
+  "last_updated": "2026-05-23T13:05:12.714510+00:00"
 }
