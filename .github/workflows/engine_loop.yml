@@ -1,1 +1,169 @@
+# .github/workflows/engine_loop.yml
+#
+# AI Software Factory – Continuous 24/7 Execution Loop
+#
+# Trigger strategy (three layers for maximum resilience):
+#   1. repository_dispatch  – the running engine triggers the next run
+#                             just before the 6-hour limit is reached.
+#   2. schedule (CRON)      – safety net: if dispatch fails, CRON wakes
+#                             the engine every 6 hours automatically.
+#   3. workflow_dispatch    – manual trigger from the GitHub Actions UI
+#                             for debugging / emergency restart.
 
+name: AI Software Factory Engine Loop
+
+on:
+  # Layer 1: Self-triggered by the engine before each 6h timeout
+  repository_dispatch:
+    types: [engine_loop]
+
+  # Layer 2: CRON safety net – every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+
+  # Layer 3: Manual trigger
+  workflow_dispatch:
+    inputs:
+      debug_mode:
+        description: "Enable verbose debug logging"
+        required: false
+        default: "false"
+        type: string
+
+# Only one run at a time; if a new trigger fires while one is running,
+# queue it (do not cancel) so state is never double-written.
+concurrency:
+  group: engine-loop
+  cancel-in-progress: false
+
+jobs:
+  run_engine:
+    name: Run AI Factory Engine
+    runs-on: ubuntu-latest
+
+    # Hard safety ceiling: GitHub will kill the job at 6h regardless.
+    # The engine self-terminates at 5h45m, leaving 15m buffer.
+    timeout-minutes: 360
+
+    permissions:
+      contents: write      # push state commits
+      actions: write       # trigger next run via repository_dispatch
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so git push works correctly
+          fetch-depth: 0
+          # Use GITHUB_TOKEN with write permissions
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. System dependencies ────────────────────────────────────────────
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends \
+            ffmpeg \
+            nodejs \
+            npm \
+            default-jdk-headless \
+            git \
+            curl \
+            unzip
+
+      # ── 3. Python setup ───────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # ── 4. Install Python dependencies ────────────────────────────────────
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 5. Configure Git identity ─────────────────────────────────────────
+      - name: Configure Git
+        run: |
+          git config user.email "factory@ai-engine.bot"
+          git config user.name "AI Software Factory"
+          git remote set-url origin \
+            https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+      # ── 6. Ensure state directory exists ──────────────────────────────────
+      - name: Initialise state directory
+        run: |
+          mkdir -p state
+          # Touch placeholder files if they don't exist yet
+          for f in android_core web_dev multimedia marketing automation \
+                   system_state reflection_log api_pool_state; do
+            [ -f "state/${f}.json" ] || echo '{}' > "state/${f}.json"
+          done
+
+      # ── 7. Run the engine ─────────────────────────────────────────────────
+      - name: Run AI Software Factory Engine
+        env:
+          # ── Telegram ────────────────────────────────────────────────────
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
+
+          # ── Groq API key pool (add keys as GitHub secrets) ───────────────
+          GROQ_API_KEY_1: ${{ secrets.GROQ_API_KEY_1 }}
+          GROQ_API_KEY_2: ${{ secrets.GROQ_API_KEY_2 }}
+          GROQ_API_KEY_3: ${{ secrets.GROQ_API_KEY_3 }}
+          GROQ_API_KEY_4: ${{ secrets.GROQ_API_KEY_4 }}
+          GROQ_API_KEY_5: ${{ secrets.GROQ_API_KEY_5 }}
+          GROQ_API_KEY_6: ${{ secrets.GROQ_API_KEY_6 }}
+
+          # ── GitHub (auto-provided by Actions) ────────────────────────────
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+
+          # ── Engine config ────────────────────────────────────────────────
+          STATE_DIR: state
+          DEBUG_MODE: ${{ github.event.inputs.debug_mode || 'false' }}
+
+          # ── Python I/O ───────────────────────────────────────────────────
+          PYTHONUNBUFFERED: "1"
+          PYTHONDONTWRITEBYTECODE: "1"
+
+        run: |
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo " رَّبِّ زِدْنِي عِلْمًا"
+          echo " AI Software Factory – Engine Starting"
+          echo " Trigger: ${{ github.event_name }}"
+          echo " Run ID:  ${{ github.run_id }}"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          python -m engine.main
+
+      # ── 8. Upload factory.log as artifact (always, even on failure) ───────
+      - name: Upload execution log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: factory-log-${{ github.run_id }}
+          path: factory.log
+          retention-days: 7
+
+      # ── 9. Upload state as artifact (always) ──────────────────────────────
+      - name: Upload state snapshot
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: state-snapshot-${{ github.run_id }}
+          path: state/
+          retention-days: 14
+
+      # ── 10. Final state commit (safety net if engine crashed before ───────
+      #        its own commit)
+      - name: Commit state (safety net)
+        if: always()
+        run: |
+          git add state/ factory.log || true
+          git diff --staged --quiet || \
+            git commit -m "chore: safety-net state commit [run ${{ github.run_id }}]" && \
+            git push origin ${{ github.ref_name }} || true
