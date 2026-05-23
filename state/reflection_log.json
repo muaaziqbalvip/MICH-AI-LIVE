@@ -799,6 +799,206 @@
       "raw_notes": "**Self-Reflection (Cycle 20)**\n* Learned this cycle: \n  * Automation domain knowledge\n* No recurring error patterns\n* Top 3 domains to prioritise next: \n  1. automation\n  2. android_core\n  3. web_dev\n* Improvement: Expand automation domain entries to enhance task completion capabilities.",
       "next_priorities": [],
       "timestamp": "2026-05-23T13:05:15.238501+00:00"
+    },
+    {
+      "cycle": 21,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "android_core"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 15,
+          "last_updated": "2026-05-23T13:06:26.997584+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 5,
+          "last_updated": "2026-05-23T12:56:19.786049+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 8,
+          "last_updated": "2026-05-23T12:57:09.422041+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 2,
+          "last_updated": "2026-05-23T12:52:48.567352+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 12,
+          "last_updated": "2026-05-23T13:05:12.714510+00:00"
+        }
+      ],
+      "raw_notes": "**Self-Reflection (Cycle 21)**\n* Learned this cycle: \n  * 15 new entries in 'android_core'\n* No recurring error patterns (0 errors this cycle)\n* Top 3 domains to prioritise next: 'android_core', 'automation', 'web_dev'\n* Improvement: Increase task completion rate, currently at 0%.",
+      "next_priorities": [],
+      "timestamp": "2026-05-23T13:06:30.432307+00:00"
+    },
+    {
+      "cycle": 22,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "web_dev"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 15,
+          "last_updated": "2026-05-23T13:06:26.997584+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 5,
+          "last_updated": "2026-05-23T12:56:19.786049+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 8,
+          "last_updated": "2026-05-23T12:57:09.422041+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 2,
+          "last_updated": "2026-05-23T12:52:48.567352+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 12,
+          "last_updated": "2026-05-23T13:05:12.714510+00:00"
+        }
+      ],
+      "raw_notes": "**Self-Reflection (Cycle 22)**\n* Learned this cycle: \n  * Updated web_dev domain knowledge\n* No recurring error patterns\n* Top 3 domains to prioritise next cycle: \n  1. android_core\n  2. automation\n  3. web_dev\n* Improvement: Increase task completion rate by integrating new web_dev knowledge into tasks.",
+      "next_priorities": [],
+      "timestamp": "2026-05-23T13:07:01.296713+00:00"
+    },
+    {
+      "cycle": 23,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "multimedia"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 15,
+          "last_updated": "2026-05-23T13:06:26.997584+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 5,
+          "last_updated": "2026-05-23T12:56:19.786049+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 8,
+          "last_updated": "2026-05-23T12:57:09.422041+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 2,
+          "last_updated": "2026-05-23T12:52:48.567352+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 12,
+          "last_updated": "2026-05-23T13:05:12.714510+00:00"
+        }
+      ],
+      "raw_notes": "**Self-Reflection (Cycle 23)**\n* Learned this cycle: \n  * Multimedia domain knowledge updated\n* No recurring error patterns\n* Top 3 domains to prioritise next cycle: \n  1. Android_core\n  2. Automation\n  3. Web_dev\n* Improvement: Increase task completion rate by integrating learned knowledge into tasks.",
+      "next_priorities": [],
+      "timestamp": "2026-05-23T13:07:32.128492+00:00"
+    },
+    {
+      "cycle": 24,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "marketing"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 15,
+          "last_updated": "2026-05-23T13:06:26.997584+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 5,
+          "last_updated": "2026-05-23T12:56:19.786049+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 8,
+          "last_updated": "2026-05-23T12:57:09.422041+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 2,
+          "last_updated": "2026-05-23T12:52:48.567352+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 12,
+          "last_updated": "2026-05-23T13:05:12.714510+00:00"
+        }
+      ],
+      "raw_notes": "**Self-Reflection (Cycle 24)**\n* Learned this cycle: \n  * Marketing domain basics\n* No recurring error patterns\n* Top 3 knowledge domains to prioritise next cycle: \n  1. android_core\n  2. automation\n  3. web_dev\n* Improvement: Increase entry count in marketing domain, currently low at 2 entries.",
+      "next_priorities": [],
+      "timestamp": "2026-05-23T13:08:03.354261+00:00"
+    },
+    {
+      "cycle": 25,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "automation"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 15,
+          "last_updated": "2026-05-23T13:06:26.997584+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 5,
+          "last_updated": "2026-05-23T12:56:19.786049+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 8,
+          "last_updated": "2026-05-23T12:57:09.422041+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 2,
+          "last_updated": "2026-05-23T12:52:48.567352+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 12,
+          "last_updated": "2026-05-23T13:05:12.714510+00:00"
+        }
+      ],
+      "raw_notes": "**Self-Reflection (Cycle 25)**\n\n* Learned this cycle: \n  * Automation domain knowledge\n* No recurring error patterns\n* Top 3 knowledge domains to prioritise next cycle: \n  1. automation\n  2. android_core\n  3. web_dev\n* Improvement: Increase task completion rate by integrating learned knowledge into practical applications.",
+      "next_priorities": [],
+      "timestamp": "2026-05-23T13:08:34.031420+00:00"
     }
   ]
 }
