@@ -117,7 +117,67 @@
         "opencl"
       ],
       "added_at": "2026-05-23T12:57:09.422024+00:00"
+    },
+    {
+      "id": "d9c82005",
+      "source_url": "https://ffmpeg.org/",
+      "title": "FFmpeg",
+      "summary": "* FFmpeg is a cross-platform solution for recording, converting, and streaming audio and video.\n* FFmpeg 8.1 \"Hoare\" is the latest minor release, featuring new decoders, formats, and filters.\n* New decoders include xHE-AAC, MPEG-H, and LCEVC, with support for parsing and forwarding metadata.\n* Vulkan compute-based codecs support ProRes encoding and decoding, DPX decoding, and FFv1 encoding and decoding.\n* D3D12 support includes H.264/AV1 encoding, scale_d3d12, mestimate_d3d12, and deinterlace_d3d12 filters.\n* Rockchip H.264/HEVC hardware encoding is supported.\n* New formats include hxvs demuxer, and new filters include drawvg and vpp_amf.\n* FFmpeg 8.0 \"Huffman\" introduced native decoders for APV, ProRes RAW, and RealVideo 6.0.\n* Hardware accelerated decoding and encoding are supported for various codecs, including Vulkan VP9 and VAAPI VVC.\n* FFmpeg supports FFv1, ProRes RAW, ProRes, and VC-2 codecs.\n* New codecs support parallelized decoding for significant speedups.\n* VVC decoder is now stable after maturing in version 7.0.\n* Native AAC USAC decoder is added for extensive volume normalization metadata.\n* MV-HEVC decoding is supported for stereoscopic coding.\n* LC-EVC decoding is supported via an external library.\n* Vulkan encoding is supported for H264 and HEVC with feature-parity with VAAPI.\n* AV1 encoding support is coming soon to Vulkan with planned day-one support in FFmpeg.\n* Full-range image support is improved with correct and consistent color range forwarding.\n* FFmp",
+      "tags": [
+        "ffmpeg",
+        "vulkan",
+        "d3d12",
+        "h264",
+        "hevc",
+        "av1"
+      ],
+      "added_at": "2026-05-23T13:10:21.494550+00:00"
+    },
+    {
+      "id": "4526f81c",
+      "source_url": "https://github.com/FFmpeg/FFmpeg",
+      "title": "GitHub - FFmpeg/FFmpeg: Mirror of https://git.ffmpeg.org/ffmpeg.git",
+      "summary": "* FFmpeg is a collection of libraries and tools for processing multimedia content.\n* Key libraries include libavcodec, libavformat, libavutil, libavfilter, libavdevice, libswresample, and libswscale.\n* libavcodec implements a wide range of codecs.\n* libavformat handles streaming protocols, container formats, and basic I/O access.\n* libavfilter provides a directed graph of connected filters for altering audio and video.\n* Tools include ffmpeg, ffplay, ffprobe, aviocat, ismindex, and qt-faststart.\n* FFmpeg is mainly LGPL-licensed with optional GPL components.\n* Documentation is available in the doc/ directory and online.\n* Coding examples are available in the doc/examples directory.\n* Patches should be submitted using git format-patch or git send-email to the ffmpeg-devel mailing list.\n* FFmpeg is primarily written in C (89.5%)\n* Other programming languages used include Assembly (8.3%), Makefile (1.3%), GLSL (0.3%), C++ (0.3%), and Objective-C (0.1%)\n* The project uses multiple licenses, including GPL-2.0, GPL-3.0, LGPL-2.1, and LGPL-3.0\n* FFmpeg supports various multimedia formats, including MP4, HLS, RTSP, RTMP, WebM, and Matroska\n* The project has 60.4k stars, 1.5k watchers, and 13.8k forks on GitHub\n* FFmpeg has 423 releases and uses Git for version control\n* The project's primary topics include audio, video, streaming, and multimedia\n* FFmpeg uses FFT and HEVC technologies\n* The project has a large community of contributors, with an error occurring while loading the contri",
+      "tags": [
+        "ffmpeg",
+        "libavcodec",
+        "libavformat",
+        "multimedia",
+        "audio",
+        "video"
+      ],
+      "added_at": "2026-05-23T13:10:27.849204+00:00"
+    },
+    {
+      "id": "8ed3e2b6",
+      "source_url": "https://en.m.wikipedia.org/wiki/FFmpeg",
+      "title": "FFmpeg - Wikipedia",
+      "summary": "* FFmpeg is a free and open-source software project for handling video, audio, and multimedia files and streams.\n* Written in C and Assembly, with support for various operating systems, including Windows, macOS, and Linux.\n* Supports multiple platforms, including x86, ARM, PowerPC, MIPS, RISC-V, and others.\n* Includes libraries such as libavcodec, libavformat, and libavfilter for audio/video processing and editing.\n* Command-line tools include ffmpeg, ffplay, and ffprobe for processing, playing, and analyzing media files.\n* Supports transcoding, editing, video scaling, and post-production effects.\n* Published under LGPL-2.1-or-later or GPL-2.0-or-later licenses.\n* Includes encoders and decoders for many audio and video file formats.\n* Part of the workflow of many software projects, including VLC, YouTube, and Bilibili.\n* FFmpeg was started by Fabrice Bellard in 2000 and has undergone significant development and forks, including the Libav project.\n* FFmpeg publishes a new release every three months on average.\n* FFmpeg developers recommend compiling the software from source using the latest build from their source code with Git.\n* FFmpeg has created video codecs FFV1 and Snow, and container format NUT.\n* FFmpeg supports various formats, including WebM, VP8, VP9, HEVC, AAC, and AV1.\n* FFmpeg has command-line tools: ffmpeg, ffplay, and ffprobe.\n* FFmpeg libraries include libswresample for audio resampling and libavcodec for audio/video encoding.\n* FFmpeg supports image formats, ",
+      "tags": [
+        "ffmpeg",
+        "multimedia",
+        "video editing",
+        "audio processing",
+        "transcoding",
+        "libavcodec"
+      ],
+      "added_at": "2026-05-23T13:10:45.097486+00:00"
+    },
+    {
+      "id": "d1636390",
+      "source_url": "https://www.wikihow.com/Install-FFmpeg-on-Windows",
+      "title": "How to Install FFmpeg on Windows: A Step-by-Step Guide - wikiHow",
+      "summary": "* FFmpeg is an open-source media tool for converting video formats.\n* It is a command-line only tool, with no graphical interface.\n* FFmpeg can convert any video format into the desired one.\n* Installation on Windows requires downloading and configuring the tool.\n* FFmpeg has no graphical, clickable interface, unlike regular Windows programs.\n* The tool is often used for audio and video conversion.\n* Command-line expertise is required to use FFmpeg effectively.\n* FFmpeg is compatible with Windows operating systems.\n* The tool can be used for various media processing tasks, including video and audio conversion.\n* FFmpeg is a free and open-source software.\n* Install 7-Zip to extract FFmpeg files.\n* Download FFmpeg from www.gyan.dev/ffmpeg/builds.\n* Extract FFmpeg folder and move it to the root of the main drive.\n* Add the FFmpeg folder to the system path.\n* Use `winget install -e --id Gyan.FFmpeg --exact` to install FFmpeg via command prompt.\n* Download `ffmpeg-release-full.7z` for Windows 10 and later.\n* Download `ffmpeg-release-essentials.7z` for Windows 7 and 8.\n* Use 7-Zip to extract the downloaded FFmpeg file.\n* Rename the extracted folder to \"FFmpeg\".\n* Use Command Prompt as an administrator to verify FFmpeg installation.\n* To install FFmpeg, move the folder to the root of the hard drive (e.g., `C:\\ffmpeg\\bin`).\n* Open Command Prompt as an administrator to add FFmpeg to the system path.\n* Use the command `setx /m PATH \"C:\\ffmpeg\\bin;%PATH%\"` to add FFmpeg to the system pa",
+      "tags": [
+        "ffmpeg",
+        "open-source",
+        "command-line",
+        "video conversion",
+        "media processing",
+        "audio conversion"
+      ],
+      "added_at": "2026-05-23T13:10:57.886150+00:00"
     }
   ],
-  "last_updated": "2026-05-23T12:57:09.422041+00:00"
+  "last_updated": "2026-05-23T13:10:57.886164+00:00"
 }
