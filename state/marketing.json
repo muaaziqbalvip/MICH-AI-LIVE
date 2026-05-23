@@ -1,1 +1,34 @@
-{}
+{
+  "entries": [
+    {
+      "id": "b1a599e3",
+      "source_url": "https://mail.google.com/mail",
+      "title": "Gmail - Email from Google",
+      "summary": "* Gmail uses a sign-in system to authenticate users.\n* Users can sign in with their email or phone number.\n* Gmail has a Guest mode for private browsing.\n* A CAPTCHA system is used to verify user input.\n* Users can create a new account from the sign-in page.\n* Forgot email feature is available for account recovery.\n* Gmail uses a multi-step sign-in process.\n* User authentication is required to access the Gmail service.\n* Guest mode provides a private and temporary access to Gmail.\n* CAPTCHA is used to prevent automated sign-in attempts.",
+      "tags": [
+        "captcha",
+        "authentication",
+        "sign-in",
+        "guest mode",
+        "email"
+      ],
+      "added_at": "2026-05-23T12:52:31.934589+00:00"
+    },
+    {
+      "id": "cc09e90e",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=1aa30fc925bc68560da618ab2411692e",
+      "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+      "summary": "* Microsoft Outlook available on desktop, mobile, and web\n* Supports multiple email accounts, including Outlook.com, Gmail, Yahoo!, iCloud\n* Features AI-powered email assistant and generator\n* Includes shared calendar and contacts management\n* Offers enterprise-grade security with attachment and link scanning\n* Supports encryption to prevent forwarding of sensitive information\n* Integrates with Word, Excel, and PowerPoint for file editing and sharing\n* Includes OneDrive for secure file storage and linking\n* Features focused inbox and sweep features for email organization\n* Includes Copilot AI with Microsoft 365 Personal or Family subscription\n* Microsoft Outlook integrates with Microsoft Copilot for AI-powered email drafting and summarization.\n* Copilot in Outlook supports outlook.com, hotmail.com, live.com, and msn.com email addresses.\n* Outlook offers 15 GB of mailbox storage in its free plan.\n* Microsoft 365 Basic plan includes 100 GB of mailbox storage and 100 GB of cloud storage.\n* Microsoft 365 Personal plan includes 1 TB of secure cloud storage.\n* Outlook offers core security features like spam filters in its free plan.\n* Advanced Outlook security features are available in Microsoft 365 Basic and Personal plans.\n* Microsoft 365 plans include access to Word, Excel, PowerPoint, and OneDrive apps.\n* Outlook is available on web, desktop, and mobile apps.\n* Microsoft 365 plans support use on multiple devices simultaneously.\n* 1 TB (1000 GB) of secure cloud storage per user\n",
+      "tags": [
+        "ai assistant",
+        "email client",
+        "cloud storage",
+        "encryption",
+        "microsoft outlook",
+        "file sharing"
+      ],
+      "added_at": "2026-05-23T12:52:48.567333+00:00"
+    }
+  ],
+  "last_updated": "2026-05-23T12:52:48.567352+00:00"
+}

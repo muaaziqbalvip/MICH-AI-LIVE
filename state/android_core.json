@@ -1,1 +1,153 @@
-{}
+{
+  "entries": [
+    {
+      "id": "bd5b0d2f",
+      "source_url": "https://www.android.com/",
+      "title": "Android | Do More With Google on Android Phones & Devices",
+      "summary": "* Android features intelligent eyewear, including audio glasses coming this fall\n* Google Gemini is an AI assistant available on Android devices\n* Android XR expands reality beyond screens, including headsets and glasses\n* Circle to Search allows users to search with one gesture\n* Google Messages brings fun features to chat, including photo remixing\n* Android devices require internet connection for certain features\n* Gemini mobile app availability varies by device, country, and language\n* Android XR and other features have compatibility variations by device and region\n* Google AI is integrated into various Android features and apps\n* Product availability and specifications vary by region, carrier, and device",
+      "tags": [
+        "android",
+        "ai",
+        "google",
+        "xr",
+        "gemini",
+        "messages"
+      ],
+      "added_at": "2026-05-23T12:53:54.157073+00:00"
+    },
+    {
+      "id": "81bf4607",
+      "source_url": "https://ja.wikipedia.org/wiki/Android_(オペレーティングシステム)",
+      "title": "Android (オペレーティングシステム) - Wikipedia",
+      "summary": "* AndroidはGoogleが開発したモバイルオペレーティングシステム\n* Linuxカーネルとオープンソースソフトウェアがベース\n* プログラミング言語: C言語、Java、Kotlin\n* OSの系統: Unix系\n* カーネル: モノリシックカーネル\n* ライセンス: Apache 2.0、GPL v2、LGPL\n* プラットフォーム: ARM32、ARM64、MIPS、x86、x64\n* アップデート方式: Over The Air (OTA)\n* 使用できる言語: 日本語など100言語以上\n* 主な競合: iOS、iPadOS、Windows Mobile、Windows Phone、Symbian OSなど\n* Android supports multi-touch gestures like swiping and pinching\n* Android devices have hardware components like gyroscopes, GPS, and accelerometers\n* Android has a virtual keyboard for text input and supports external keyboards via Bluetooth or USB\n* Android has a status bar that displays system information and notifications\n* Android has a navigation bar with buttons for back, home, and multi-tasking\n* Android supports installation of third-party IMEs (Input Method Editors) for text input\n* Android has a standard C library called Bionic, which is designed for limited memory and processing capacity\n* Android's kernel is based on Linux\n* Android supports various network technologies like GSM, UMTS, CDMA2000, EV-DO, and LTE\n* Android has a package manager called Google Play that allows users to download and install apps\n* AndroidはglibcではなくBionicライブラリを使用\n* BionicはFreeBSD、NetBSD、OpenBSDのコードを組み合わせて作成\n* AndroidはLinuxカーネルに独自パッチを当てたAndroid共通カーネル（ACK）を使用\n* サポートしているCPUはARM（ARMv5以降）、MIPS、x86\n* Android Runtime（ART）が標準の仮想マシン\n* Dalvik仮想マシンはメモリ消費を低く抑えた設計\n* SQLiteがデータ保存用に組み込まれている\n* Media Frameworkにより、H.263、H.264、H.265、MPEG-4 SPなどの映像と音声形式に対応\n* プログラミング言語はC言語、C++、Rust（2021年から新規コードのデ",
+      "tags": [
+        "android",
+        "linux",
+        "java",
+        "kotlin",
+        "unix",
+        "bluetooth"
+      ],
+      "added_at": "2026-05-23T12:54:11.777468+00:00"
+    },
+    {
+      "id": "3d784551",
+      "source_url": "https://play.google.com/",
+      "title": "Android Apps on Google Play",
+      "summary": "* Android apps are available on various devices including Windows, Phone, Tablet, TV, Chromebook, Watch, and XR headset.\n* Popular game genres include Strategy, Simulation, Action, Puzzle, and Role Playing.\n* Top-rated games include Clash of Clans, Township, Free Fire MAX, and Clash Royale.\n* Many games offer in-app purchases and have a rating system based on user reviews.\n* Games can be categorized as free, paid, or grossing.\n* Some games are available for purchase with prices ranging from $4.99 to $24.99.\n* New games are constantly being added to the Google Play store.\n* Games often have updates available to fix bugs or add new features.\n* Some games offer rewards or challenges to complete, such as filling a sticker album.\n* In-app purchases can be used to acquire virtual items or currency within a game.\n* In-app purchases are available for most games.\n* Update availability is common among listed games.\n* Games have varying age ratings: Everyone, Everyone 10+, Teen.\n* Limited-time events and characters are offered in games like Brawl Stars and Genshin Impact.\n* Seasonal updates and new content are added to games like Chaos Zero Nightmare and AFK Journey.\n* New heroes and characters are introduced in games like AFK Journey and Brawl Stars.\n* Special outfits and items are available for purchase or unlock in games like Subway Surfers.\n* Multiplayer action is a feature in games like Grand Hustle RP and Livetopia: Party.\n* Games offer various rewards, such as Stellar Crystals, D",
+      "tags": [
+        "android",
+        "tablet",
+        "chromebook",
+        "watch",
+        "xr",
+        "apps"
+      ],
+      "added_at": "2026-05-23T12:54:20.262591+00:00"
+    },
+    {
+      "id": "d55febc8",
+      "source_url": "https://kakaku.com/keitai/smartphone/?pdf_Spec106=2&msockid=0fc35ca00d3067353b4b4bc20c3c66df",
+      "title": "Androidのスマートフォン 最新人気機種ランキング【2026年5月】",
+      "summary": "* Top Android smartphones: Google Pixel 10a, AQUOS sense10, moto g66j 5G\n* Display sizes: 6.1-6.7 inches\n* Operating Systems: Android 15, Android 16, ColorOS 15 (based on Android 15)\n* RAM/Storage: 64GB-512GB\n* Battery capacities: 4300-5800mAh\n* Camera resolutions: 12-50MP (main), 8-13MP (ultra-wide)\n* Water and dust resistance: available on most models\n* SIM card types: nano-SIM, eSIM\n* Prices: ¥28,539-¥165,073 (new), ¥18,500-¥126,280 (used)\n* Android versions: 14, 15, 16\n* Display sizes: 6.1-6.83 inches\n* Battery capacities: 5000-7025mAh\n* RAM options: 12GB (SONY Xperia 1 VII)\n* Storage options: 64GB, 128GB, 256GB, 512GB\n* Camera resolutions: up to 200MP (Xiaomi REDMI Note 15 Pro 5G)\n* Water and dust resistance: available on most models\n* Operating Systems: Android, Nothing OS 4.1, ColorOS 15 and 16\n* SIM options: nano-SIM, eSIM, SIM-free\n* テザリング対応: スマートフォンを経由してWi-Fi対応のパソコンやタブレット端末などをインターネットにつなぐ機能\n* NFC対応: 近距離無線通信（約10cmの距離で106〜424Kbps）\n* MHL対応: スマートフォンの映像をmicroUSB経由でテレビ画面やPC用モニターに出力\n* 4K撮影対応: 4K解像度の高精細な映像を撮影\n* 5G: 第5世代移動通信システム（高速、大容量、多接続、低遅延）\n* eSIM: 内蔵されたSIM（SIMカードの差し替え不要）\n* ワイヤレス充電（Qi）: ワイヤレス給電の国際標準規格\n* デュアルSIM: 2つのSIMが使える端末\n* MIL規格: アメリカ国防総省が定めている品質基準\n* 内蔵メモリ（ROM）とRAM: データの保存容量とアプリケーションの動作領域の容量\n* No technical information found on this page\n* Page appears to be a footer or terms of service section\n* No smartphone specifications or technical details mentioned\n* Link provided is to a Japanese website about smartphones\n* Page title mentions \"Androidのスマートフォン\" (Android smartph",
+      "tags": [
+        "android",
+        "smartphone",
+        "esim",
+        "nano-sim",
+        "5g"
+      ],
+      "added_at": "2026-05-23T12:54:30.268231+00:00"
+    },
+    {
+      "id": "f2988d47",
+      "source_url": "https://pc-chain.com/sns/android-os/",
+      "title": "Android OSの全バージョン一覧（2025年最新） | アプリの鎖",
+      "summary": "* Android OS versions are named in alphabetical order, with earlier versions named after desserts.\n* Android 10 and later versions do not have official code names, but unofficial names are still used.\n* Android versions and release years: \n  * Android 16 (2025)\n  * Android 15 (2024)\n  * Android 14 (2023)\n  * Android 13 (2022)\n  * Android 12 (2021)\n* Major Android updates typically occur in summer or fall.\n* Current dominant Android versions are Android 15 and 14.\n* Android 16 is the latest version, released in June 2025.\n* Unofficial code names are still used, e.g., Android 15 is \"Vanilla Ice Cream\".\n* Android versions prior to 10 have official dessert-themed code names, e.g., KitKat, Lollipop, Marshmallow.",
+      "tags": [
+        "android os",
+        "mobile updates",
+        "operating system",
+        "android versions",
+        "mobile technology"
+      ],
+      "added_at": "2026-05-23T12:54:35.553815+00:00"
+    },
+    {
+      "id": "ec8cd6db",
+      "source_url": "https://flutter.dev/",
+      "title": "Flutter - Build apps for any screen",
+      "summary": "* Flutter is an open-source framework for building multi-platform applications.\n* Flutter code compiles to ARM or Intel machine code and JavaScript for fast performance.\n* Hot Reload allows for quick build and iteration with almost instant code updates.\n* Flutter supports deployment to multiple devices from a single codebase: mobile, web, desktop, and embedded devices.\n* Flutter is powered by the Dart language, optimized for fast apps on any platform.\n* Automated testing and developer tooling are available for building production-quality apps.\n* Flutter has seamless integration with Google services like Firebase, Google Ads, and Google Maps.\n* The framework is supported by Google and maintained by a global community of developers.\n* Flutter allows for customized, adaptive designs with control over every pixel.\n* Dart packages are available on pub.dev for extending Flutter functionality.\n* Flutter is a framework for building apps\n* Supports building apps for any screen\n* Offers instant access to its power\n* Installation is available\n* Documentation is provided\n* Getting started is a straightforward process\n* Flutter has a dedicated website (flutter.dev) \n* Offers a newsletter for updates and information",
+      "tags": [
+        "flutter",
+        "javascript",
+        "dart",
+        "firebase",
+        "google maps",
+        "hot reload"
+      ],
+      "added_at": "2026-05-23T12:54:41.156078+00:00"
+    },
+    {
+      "id": "3267f83f",
+      "source_url": "https://github.com/flutter/flutter",
+      "title": "GitHub - flutter/flutter: Flutter makes it easy and fast to ...",
+      "summary": "* Flutter is Google's SDK for building mobile, web, and desktop apps from a single codebase.\n* Flutter works with existing code and is free and open source.\n* The Flutter tool downloads resources from Google servers and requires agreement to Google Terms of Service.\n* The Dart SDK is downloaded from Google servers when Flutter is first run or upgraded.\n* Flutter has a layered architecture for control over every pixel on the screen.\n* Flutter supports iOS, Android, web, Windows, macOS, and Linux platforms.\n* The Flutter SDK includes tools for building, testing, and debugging apps.\n* Flutter has a large community with 176k stars and 30.4k forks on GitHub.\n* The Flutter repository includes documentation, examples, and contributing guidelines.\n* Flutter uses the Dart programming language for app development.\n* Flutter uses a layered architecture for control over every pixel on the screen.\n* It includes a full set of widgets for pixel-perfect experiences on iOS (Cupertino) and other platforms (Material).\n* Flutter is powered by hardware-accelerated 2D graphics libraries like Skia and Impeller.\n* It uses the Dart programming language, which enables compilation to various machine codes.\n* Flutter supports stateful hot reload for instant code changes without restarting the app.\n* It provides tens of thousands of packages to speed up development.\n* Flutter supports FFI (Foreign Function Interface) for accessing native code on Android, iOS, macOS, and Windows.\n* It includes editor plug",
+      "tags": [
+        "flutter",
+        "dart",
+        "mobile",
+        "android",
+        "ios",
+        "sdk"
+      ],
+      "added_at": "2026-05-23T12:54:47.380937+00:00"
+    },
+    {
+      "id": "5e33e8d0",
+      "source_url": "https://flutter-website-staging.firebaseapp.com/get-started/install/",
+      "title": "Get Started: Install - Flutter",
+      "summary": "* Flutter installation is the first step in getting started with the framework.\n* The installation process varies by operating system (Windows, macOS, Linux).\n* Special instructions are provided for users in China.\n* Flutter has its own set of tools and IDEs for development.\n* The framework supports hot reload, testing, and debugging.\n* Flutter provides a range of APIs for device and SDK interactions.\n* The framework supports internationalization and platform-specific code.\n* Users can build and release apps for Android and iOS.\n* Flutter has a layered design and rendering pipeline.\n* Additional resources are available, including a technical overview and architecture diagrams.",
+      "tags": [
+        "flutter",
+        "apis",
+        "sdk",
+        "ios",
+        "android",
+        "ides"
+      ],
+      "added_at": "2026-05-23T12:54:51.286498+00:00"
+    },
+    {
+      "id": "78e91ff0",
+      "source_url": "https://www.geeksforgeeks.org/flutter/flutter-tutorial/",
+      "title": "Flutter Tutorial - GeeksforGeeks",
+      "summary": "* Flutter is Google's mobile SDK for building native Android and iOS apps from a single codebase.\n* Flutter uses the Dart programming language and provides ready-to-use widgets for designing user interfaces.\n* Hot reload is a special feature of Flutter that allows developers to see changes instantly as they code.\n* Flutter apps are built using widgets, which are the blocks that make up the user interface.\n* Prerequisites for learning Flutter include a strong grasp of Dart programming, familiarity with Android Studio, and knowledge of web scripting languages like HTML, JavaScript, and CSS.\n* Flutter provides a rich library of built-in widgets, including buttons, text fields, layouts, and animations.\n* Widgets in Flutter can be either stateful or stateless, with stateful widgets having their own state and stateless widgets relying on their parent widget for state.\n* The MaterialApp class is a top-level widget in Flutter that provides a basic material design visual layout structure.\n* Flutter supports development on multiple platforms, including Android, iOS, web, and desktop.\n* Key Flutter widgets include AppBar, FloatingActionButton, BottomNavigationBar, Drawer, Container, and ListView.\n* Flutter provides pre-built UI components like buttons, text fields, and sliders.\n* Icon, Expanded, and Checkbox are some of the available widget classes in Flutter.\n* Flutter supports various layout components like Carousel Slider, Staggered Grid View, and Tabs.\n* Customizable fonts, themes, ",
+      "tags": [
+        "flutter",
+        "dart",
+        "android",
+        "ios",
+        "javascript",
+        "html"
+      ],
+      "added_at": "2026-05-23T12:55:01.876023+00:00"
+    },
+    {
+      "id": "af3f9918",
+      "source_url": "https://en.wikipedia.org/wiki/Flutter_(software)",
+      "title": "Flutter (software) - Wikipedia",
+      "summary": "* Written in: C, C++, Dart\n* Platforms: Android, iOS, Google Fuchsia, Web platform, Linux, macOS, Windows\n* License: New BSD License\n* Architecture: Based on widgets, similar to React\n* Widget types: Stateless, Stateful\n* Rendering: Custom rendering engine, outputs pixel data directly to screen\n* Key feature: Hot reload, allows instant code changes without restarting\n* Framework components: Material Design, Cupertino widgets\n* Development kit: Open-source UI software development kit (SDK) for cross-platform applications\n* Flutter uses Material Design and Cupertino widgets for Android and iOS platforms.\n* Flutter apps are written in the Dart language.\n* Ahead-of-time (AOT) compilation is used for release versions of Flutter apps on all platforms except the Web.\n* The Web version of Flutter apps is transpiled to JavaScript or WebAssembly.\n* Flutter's engine is written primarily in C++ and uses Google's Skia graphics library or the custom \"Impeller\" graphics layer.\n* The engine interfaces with platform-specific SDKs for features like accessibility and native plugin support.\n* Dart's Pub package manager is used for publishing and using custom packages and plugins.\n* Flutter supports null-safety, which was made mandatory in Dart 3.\n* The Foundation library provides basic classes and functions for constructing Flutter applications.\n* Flutter's rendering support uses either Skia or the custom \"Impeller\" graphics layer.\n* Flutter 2.0 introduced support for web platform and desktop be",
+      "tags": [
+        "c++",
+        "dart",
+        "android",
+        "ios",
+        "react",
+        "sdk"
+      ],
+      "added_at": "2026-05-23T12:55:12.797223+00:00"
+    }
+  ],
+  "last_updated": "2026-05-23T12:55:12.797241+00:00"
+}

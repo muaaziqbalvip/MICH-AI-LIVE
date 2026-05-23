@@ -1,1 +1,78 @@
-{}
+{
+  "entries": [
+    {
+      "id": "d3d7a24b",
+      "source_url": "https://www.python.org/",
+      "title": "Welcome to Python.org",
+      "summary": "* Latest Python version: 3.14.5\n* Python 3.15.0 beta 1 is available\n* Python documentation: docs.python.org\n* Python standard library includes various modules and packages\n* Web development frameworks: Django, Pyramid, Bottle, Tornado, Flask, Litestar, FastAPI\n* GUI development libraries: tkInter, PyGObject, PyQt, PySide, Kivy, wxPython, DearPyGui\n* AI and Machine Learning libraries: PyTorch, TensorFlow, scikit-learn, Transformers, Anthropic, LangChain\n* Scientific and Numeric libraries: SciPy, Pandas, IPython\n* System Administration tools: Ansible, Salt, OpenStack, xonsh",
+      "tags": [
+        "python",
+        "django",
+        "flask",
+        "pytorch",
+        "tensorflow",
+        "scipy"
+      ],
+      "added_at": "2026-05-23T12:51:20.487288+00:00"
+    },
+    {
+      "id": "99a41cb4",
+      "source_url": "https://www.online-python.com/",
+      "title": "Online Python - IDE, Editor, Compiler, Interpreter",
+      "summary": "* Online Python IDE provides a free, integrated development environment for Python.\n* Python is a general-purpose, open-source programming language first released in 1991.\n* Python is widely used for web development, mobile apps, data analytics, and machine learning.\n* Python has a simple syntax and is easy to read and write.\n* Key features of Python include simplicity, versatility, and a large community.\n* Python has extensive support libraries, including NumPy and Pandas.\n* Third-party modules contribute to Python's power and functionality.\n* Online Python IDE allows for immediate execution of Python code in a web browser.\n* Python code can be saved and shared online for access from any location.\n* Popular resources for learning Python include python.org, Wikipedia, and w3schools.com.\n* Online Python Compiler supports Python 3.12 for interactive program execution\n* Code editor features include dark and light themes, customizable themes, and undo/redo options\n* Expandable output terminal for displaying program results\n* Interactive Python Shell with advanced Python module support (Pandas, NumPy)\n* Coding sharing functionality allows saving code in the cloud\n* Supported keyboard shortcuts: F8/F10/F9 for run/save/share code\n* ACE code editor powers the Online Python IDE\n* No data is saved on the server, except for shared code with a selected expiry period\n* Code can be downloaded locally or saved online for access anywhere\n* Online-ide.com supports learning and practicing othe",
+      "tags": [
+        "machine learning",
+        "data analytics",
+        "web development",
+        "online ide",
+        "python programming"
+      ],
+      "added_at": "2026-05-23T12:51:27.746418+00:00"
+    },
+    {
+      "id": "e27a5ae1",
+      "source_url": "https://www.programiz.com/python-programming/online-compiler/",
+      "title": "Online Python Compiler (Interpreter) - Programiz",
+      "summary": "* Online Python compiler supports Python 3\n* Code can be written and run directly in the online editor\n* Output is displayed in a separate section\n* Code can be shared via a generated link\n* Compiler supports basic Python syntax, including print statements\n* Online editor provides a \"Run\" button to execute the code\n* Output can be cleared using the \"Clear\" button\n* Compiler is suitable for testing and running small Python programs\n* Supports sharing code on social media platforms\n* Provides a \"Copy Link\" feature to copy the code link to the clipboard",
+      "tags": [
+        "python compiler",
+        "online editor",
+        "code sharing",
+        "social media",
+        "online platform"
+      ],
+      "added_at": "2026-05-23T12:51:31.619037+00:00"
+    },
+    {
+      "id": "a2730efe",
+      "source_url": "https://www.w3schools.com/python/",
+      "title": "Python Tutorial - W3Schools",
+      "summary": "* Python syntax is used to define the structure of Python code.\n* Variables in Python are defined using the `=` operator, e.g., `x = 5`.\n* Python data types include Numbers, Strings, Booleans, Lists, Tuples, Sets, and Dictionaries.\n* Python operators include Arithmetic, Assignment, Comparison, Logical, Identity, and Membership operators.\n* Control structures in Python include If-Else statements, For loops, and While loops.\n* Functions in Python are defined using the `def` keyword, e.g., `def greet():`.\n* Modules in Python are used to organize and reuse code, imported using the `import` statement.\n* Python supports object-oriented programming (OOP) concepts, including Classes and Objects.\n* Error handling in Python is done using Try-Except blocks, e.g., `try: ... except: ...`.\n* Python has built-in support for regular expressions (RegEx) and JSON data format.\n* Python supports object-oriented programming (OOP) concepts like classes, objects, inheritance, polymorphism, and encapsulation.\n* Python has built-in data structures like lists, stacks, queues, linked lists, hash tables, trees, and graphs.\n* Python supports file handling operations like reading, writing, and deleting files.\n* Python has libraries like NumPy, Pandas, and SciPy for scientific computing and data analysis.\n* Python has frameworks like Django for web development and Matplotlib for data visualization.\n* Python supports machine learning concepts like linear regression, polynomial regression, and decision trees",
+      "tags": [
+        "python",
+        "variables",
+        "operators",
+        "loops",
+        "functions",
+        "modules"
+      ],
+      "added_at": "2026-05-23T12:51:40.785934+00:00"
+    },
+    {
+      "id": "f86a88e3",
+      "source_url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "title": "Python (programming language) - Wikipedia",
+      "summary": "* Paradigm: Multi-paradigm, object-oriented, procedural, functional, structured, reflective\n* Typing discipline: Duck, dynamic, strong, optional type annotations\n* Memory management: Garbage-collected\n* OS: Cross-platform\n* License: Python Software Foundation License\n* Filename extensions: .py, .pyc, .pyd, .pyi, .pyw, .pyz\n* Major implementations: CPython, PyPy, MicroPython, CircuitPython, IronPython, Jython\n* Influenced by: ABC, Ada, ALGOL 68, APL, C, C++, CLU, Dylan, Haskell, Icon, Lisp\n* Influenced: Apache Groovy, Boo, Cobra, CoffeeScript, D, F#, GDScript, Go, JavaScript, Julia \n* Stable release: 3.14.5\n* Python is a high-level, general-purpose programming language with emphasis on code readability and simplicity.\n* It supports multiple programming paradigms, including object-oriented programming and dynamic typing.\n* Python has a \"batteries-included\" standard library and uses significant indentation and \"plain English\" naming.\n* The language features garbage collection and optional static typing (added in Python 3.5).\n* Python has a five-year support policy, with versions 3.10-3.14 currently supported.\n* The language is widely used in machine learning and is a popular introductory programming language.\n* Python's development began in 1989, with the first release (0.9.0) in 1991.\n* Guido van Rossum is the creator of Python and was the lead developer until 2018.\n* Python 3.0 (released in 2008) was a major revision with some backward-incompatibility.\n* The language is ranked",
+      "tags": [
+        "garbage-collected",
+        "cross-platform",
+        "object-oriented",
+        "dynamic",
+        "functional",
+        "multi-paradigm"
+      ],
+      "added_at": "2026-05-23T12:51:57.190151+00:00"
+    }
+  ],
+  "last_updated": "2026-05-23T12:51:57.190170+00:00"
+}
