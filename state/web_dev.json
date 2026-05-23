@@ -1,1 +1,79 @@
-{}
+{
+  "entries": [
+    {
+      "id": "44b5a13b",
+      "source_url": "https://tailwindcss.com/",
+      "title": "Tailwind CSS - Rapidly build modern websites without ever leaving your ...",
+      "summary": "* Tailwind CSS is a utility-first CSS framework.\n* It uses classes like `flex`, `pt-4`, `text-center`, and `rotate-90` to build designs directly in HTML.\n* Responsive design is achieved by adding screen size prefixes (e.g. `sm`, `md`, `lg`, `xl`) to utility classes.\n* Dark mode is enabled by prefixing colors with `dark:`.\n* CSS variables are used for customizing themes, with examples like `--font-sans` and `--color-mint-100`.\n* Classes can be composed to build complex designs, such as `flex flex-col items-center rounded-2xl`.\n* Utility classes can be used to apply filters, such as `blur-sm` and `brightness-150`.\n* Tailwind CSS supports modern CSS features for an enjoyable developer experience.\n* Customization is done through CSS variables, allowing for easy theme changes.\n* The framework is supported by partners and sponsors, enabling full-time maintenance by a team of designers and engineers.\n* Tailwind CSS uses OKLCH color model for more vibrant wide gamut colors.\n* Pre-defined color palette includes 13 colors with 10 shades each.\n* CSS grid layout is supported through grid utilities.\n* Transitions and animations can be customized using utility classes.\n* Cascade layers are used to avoid specificity issues.\n* Logical properties support multiple language text directions (LTR and RTL).\n* Container queries allow children to adapt to changes in container size.\n* Gradients can be created using utility classes.\n* 3D transforms enable scaling, rotating, and translating elements in",
+      "tags": [
+        "css",
+        "utility",
+        "responsive",
+        "dark mode",
+        "css variables",
+        "tailwind"
+      ],
+      "added_at": "2026-05-23T12:55:52.235571+00:00"
+    },
+    {
+      "id": "ad012319",
+      "source_url": "https://www.tailwindapp.com/",
+      "title": "Tailwind - Pinterest Growth Tool — Keyword Research, Pin Creator ...",
+      "summary": "* Tailwind is a Pinterest Growth Tool with keyword research, Pin creation, and scheduling capabilities.\n* Keyword Research uses type-ahead suggestions, Trends data, and audience signals to generate a Resonance Score.\n* SmartPin automatically creates fresh Pins based on keywords, using site photos, titles, descriptions, and generated designs.\n* SmartSchedule builds a publishing calendar with optimized time slots for consistent content posting.\n* Turbo promotes top-performing Pins to a community of thousands of professional Pinterest creators.\n* Tailwind has been a Pinterest developer partner since 2012.\n* The tool helps increase Pinterest traffic and engagement through data-driven content creation and scheduling.\n* Over 1.5M Pins are published every month using Tailwind.\n* Tailwind offers a free trial with no credit card required.\n* The tool has been used by creators for over 2M years to grow their presence on Pinterest.",
+      "tags": [
+        "pinterest",
+        "keyword research",
+        "smart schedule",
+        "content creation",
+        "data analytics"
+      ],
+      "added_at": "2026-05-23T12:55:56.386130+00:00"
+    },
+    {
+      "id": "0cc4ecee",
+      "source_url": "https://tailwindnutrition.com/",
+      "title": "Tailwind Nutrition - Nutrition for Athletes",
+      "summary": "* Endurance Fuel: balanced fuel, complete electrolytes, easy to digest, light taste\n* High Carb Fuel: 90g carbs, glucose to fructose ratio, complete electrolytes\n* Recovery Mix: 20g complete protein, rebuilds muscle, replenishes glycogen stores, all 9 essential amino acids\n* Rapid Hydration: rapidly replenishes electrolytes, no Stevia, clean flavor\n* Endurance Fuel suitable for longer efforts\n* High Carb Fuel suitable for high intensity efforts\n* Recovery Mix suitable for after efforts\n* Rapid Hydration suitable for shorter, less intense efforts and everyday hydration\n* Glucose to fructose ratio in High Carb Fuel for optimal energy absorption\n* 9 essential amino acids in Recovery Mix for muscle rebuilding and recovery\n* Tailwind Nutrition offers endurance fuel and hydration products for athletes.\n* Products are designed to be easy on the stomach and provide energizing effects.\n* The company was founded by Jeff, who experimented with sports nutrition science to create the formulas.\n* Tailwind Nutrition products are used by athletes for running, biking, and other endurance sports.\n* The products are available in powder form and can be easily mixed with water.\n* Tailwind Endurance and Tailwind Hydration are two of the company's product offerings.\n* The company has received over 15,000 5-star reviews from verified buyers.\n* Athletes report being able to run longer distances and perform better with Tailwind Nutrition products.\n* The products are designed to work with the body inst",
+      "tags": [
+        "electrolytes",
+        "hydration",
+        "nutrition",
+        "endurance",
+        "recovery",
+        "protein"
+      ],
+      "added_at": "2026-05-23T12:56:02.553655+00:00"
+    },
+    {
+      "id": "e7f4d379",
+      "source_url": "https://www.geeksforgeeks.org/css/introduction-to-tailwind-css/",
+      "title": "Introduction to Tailwind CSS - GeeksforGeeks",
+      "summary": "* Tailwind CSS is a utility-first framework for styling websites directly in HTML.\n* Uses small, reusable utility classes for styling, reducing custom CSS needs.\n* Applies styles directly in HTML using utility classes, reducing context switching.\n* Predefined utility classes eliminate the need for custom CSS class naming.\n* Rapid UI development using ready-made utility classes.\n* Consistent and reusable design system that scales easily.\n* Supports responsive design with mobile-first approach and utility prefixes.\n* Built-in dark mode support using variants.\n* Highly customizable through configuration files.\n* Integrates seamlessly with React, Vue, and Next.js.\n* Advantages of Tailwind CSS include minimal CSS output, easy customization, and built-in responsiveness.\n* Tailwind CSS eliminates the need for complex class names and custom CSS naming conventions.\n* Utility classes enable flexible design changes and reusable components without extra CSS.\n* Scoped styling applies styles locally to elements, avoiding global CSS side effects.\n* Limitations of Tailwind CSS include long class lists, a learning curve, and the need for build setup.\n* Tailwind CSS can make HTML markup less semantic due to styling-heavy classes.\n* Production usage of Tailwind CSS requires configuration and build tools.\n* Tailwind CSS enables creation of mobile-friendly layouts using responsive utility classes.\n* It reduces large custom stylesheets, keeping the codebase lightweight and maintainable.\n* Tailwind",
+      "tags": [
+        "css",
+        "utility",
+        "html",
+        "react",
+        "vue",
+        "next.js"
+      ],
+      "added_at": "2026-05-23T12:56:08.164395+00:00"
+    },
+    {
+      "id": "b6c771d1",
+      "source_url": "https://www.ramotion.com/blog/how-to-install-tailwind-css/",
+      "title": "How to Install Tailwind CSS: Complete Setup Guide",
+      "summary": "* Node.js version 14 or higher is required to install Tailwind CSS.\n* npm or yarn is needed for package management.\n* Basic familiarity with command line and HTML/CSS is assumed.\n* Tailwind CSS v4 uses a utility-first approach with small, single-purpose class names.\n* The framework is built on Lightning CSS, a Rust-based compiler, for faster builds.\n* Setup is now a single line in the CSS file.\n* For framework projects (React, Vue, Next.js), a project should be scaffolded before adding Tailwind.\n* The standalone CLI is suitable for plain HTML projects or setups without a bundler like Vite.\n* PostCSS configuration and additional plugins are not required for the standalone CLI.\n* Tailwind CSS v4 takes advantage of modern CSS features like cascade layers and registered custom properties.\n* To install Tailwind CSS, run `npm install tailwindcss @tailwindcss/cli`.\n* Create a `src/input.css` file and add `@import \"tailwindcss\";` to use Tailwind.\n* Run the development build with `npx @tailwindcss/cli -i ./src/input.css -o ./dist/output.css --watch`.\n* For production build, use `npx @tailwindcss/cli -i ./src/input.css -o ./dist/output.css --minify`.\n* To install Tailwind with Vite, run `npm install tailwindcss @tailwindcss/vite`.\n* Configure Vite plugin by adding `import tailwindcss from '@tailwindcss/vite';` to `vite.config.js`.\n* Add `tailwindcss()` to the `plugins` array in `vite.config.js`.\n* Import Tailwind in main CSS file with `@import \"tailwindcss\";`.\n* Tailwind v4 automatical",
+      "tags": [
+        "node.js",
+        "npm",
+        "react",
+        "vue",
+        "next.js",
+        "postcss"
+      ],
+      "added_at": "2026-05-23T12:56:19.786032+00:00"
+    }
+  ],
+  "last_updated": "2026-05-23T12:56:19.786049+00:00"
+}

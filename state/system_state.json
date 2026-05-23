@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 6,
+  "cycle_count": 11,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-23T12:55:14.798451+00:00",
+  "last_checkpoint": "2026-05-23T12:59:26.162716+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -11,7 +11,12 @@
       "https://www.online-python.com/",
       "https://www.programiz.com/python-programming/online-compiler/",
       "https://www.w3schools.com/python/",
-      "https://en.wikipedia.org/wiki/Python_(programming_language)"
+      "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "https://opencv.org/",
+      "https://github.com/opencv/opencv",
+      "https://zhuanlan.zhihu.com/p/647447851",
+      "https://www.runoob.com/opencv/opencv-tutorial.html",
+      "https://blog.csdn.net/2501_90795470/article/details/151857952"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -31,6 +36,20 @@
       "https://flutter-website-staging.firebaseapp.com/get-started/install/",
       "https://www.geeksforgeeks.org/flutter/flutter-tutorial/",
       "https://en.wikipedia.org/wiki/Flutter_(software)"
+    ],
+    "web_dev": [
+      "https://tailwindcss.com/",
+      "https://www.tailwindapp.com/",
+      "https://tailwindnutrition.com/",
+      "https://www.geeksforgeeks.org/css/introduction-to-tailwind-css/",
+      "https://www.ramotion.com/blog/how-to-install-tailwind-css/"
+    ],
+    "automation": [
+      "https://www.selenium.dev/",
+      "https://www.webmd.com/a-to-z-guides/supplement-guide-selenium",
+      "https://en.m.wikipedia.org/wiki/Selenium",
+      "https://pypi.org/project/selenium/",
+      "https://selenium.io/docs/what-is-selenium"
     ]
   },
   "software_factory_jobs": [],

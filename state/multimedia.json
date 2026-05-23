@@ -72,7 +72,52 @@
         "multi-paradigm"
       ],
       "added_at": "2026-05-23T12:51:57.190151+00:00"
+    },
+    {
+      "id": "ac7da3bc",
+      "source_url": "https://opencv.org/",
+      "title": "OpenCV - Open Computer Vision Library",
+      "summary": "* OpenCV is an open-source computer vision library with over 2500 algorithms.\n* OpenCV is operated by the non-profit Open Source Vision Foundation since June 2000.\n* OpenCV is released under the Apache 2 License and is free for commercial use.\n* The library is highly optimized for real-time applications.\n* OpenCV supports C++, Python, and Java interfaces.\n* Cross-platform support includes Linux, MacOS, Windows, iOS, and Android.\n* OpenCV has a deep learning module for AI and computer vision tasks.\n* The library includes tools for image and video manipulation, object and face detection.\n* OpenCV provides a range of resources, including tutorials, documentation, and a Q&A forum.\n* OpenCV is widely used in various applications, including self-driving cars, robotics, and human behavior analysis.\n* OpenCV supports C++, Python, and Java interfaces\n* Cross-platform compatibility: Linux, MacOS, Windows, iOS, and Android\n* Integrated with CUDA for GPU acceleration\n* Supported by ARM for embedded systems\n* Interfaces with deep learning frameworks: PyTorch, TensorFlow, and Keras\n* Offers various bootcamps and courses for learning OpenCV and computer vision\n* Official resources include books, podcasts, and web stories\n* OpenCV has a GitHub repository for community development\n* Partners with Intel as a Platinum Member\n* Released under an open-source license",
+      "tags": [
+        "computer vision",
+        "opencv",
+        "deep learning",
+        "artificial intelligence",
+        "image processing",
+        "machine learning"
+      ],
+      "added_at": "2026-05-23T12:56:55.836240+00:00"
+    },
+    {
+      "id": "a3b6860f",
+      "source_url": "https://github.com/opencv/opencv",
+      "title": "OpenCV: Open Source Computer Vision Library - GitHub",
+      "summary": "* OpenCV is an open-source computer vision library.\n* Written in C++.\n* Licensed under Apache-2.0.\n* Has 36,194 commits and 56.6k forks on GitHub.\n* Includes modules for image processing, deep learning, and more.\n* Documentation available at https://docs.opencv.org/4.x/.\n* Issue tracking at https://github.com/opencv/opencv/issues.\n* Additional functionality available at https://github.com/opencv/opencv_contrib.\n* Compatible with various platforms, including Windows, Linux, and macOS.\n* Utilizes CMake for building and configuration.\n* Primary programming language: C++ (87.4%)\n* Secondary programming languages: C, Python, CMake, Java, Objective-C++\n* C++ usage: 87.4%\n* C usage: 3.1%\n* Python usage: 3.0%\n* CMake usage: 2.0%\n* Java usage: 1.5%\n* Objective-C++ usage: 0.8%\n* Other languages usage: 2.2% \n* Project build system: CMake",
+      "tags": [
+        "computer vision",
+        "opencv",
+        "deep learning",
+        "image processing",
+        "c++",
+        "python"
+      ],
+      "added_at": "2026-05-23T12:57:01.573418+00:00"
+    },
+    {
+      "id": "66fdbe06",
+      "source_url": "https://www.runoob.com/opencv/opencv-tutorial.html",
+      "title": "OpenCV 教程 | 菜鸟教程",
+      "summary": "* OpenCV 是一个开源的计算机视觉和机器学习软件库。\n* OpenCV 由 C 函数和 C++ 类构成，提供 Python、Java、MATLAB 等语言的接口。\n* OpenCV 支持多种编程语言，Python 和 C++ 是最常用的两种。\n* OpenCV 的设计目标是提供一套简单易用的计算机视觉基础库。\n* OpenCV 提供了大量的计算机视觉算法和图像处理工具。\n* OpenCV 的版本历史：0.9（2000），1.0（2006），2.0（2009），3.0（2015），4.0（2018），4.x（2020）。\n* OpenCV 可以读取并显示图像，使用 `cv2.imread()` 和 `cv2.imshow()` 函数。\n* OpenCV 支持深度学习，增加了对 CUDA、OpenCL 的支持。\n* OpenCV 官网：https://opencv.org/，源代码：https://github.com/opencv/opencv，文档：https://docs.opencv.org/。\n* OpenCV 教程 available on runoob.com\n* Programming languages covered: C, C++, Zig, Scala, Ruby, Perl, Lua, assembly language, Verilog\n* Web development frameworks: ASP, JSP, Servlet, AppML, Swagger, RESTful API\n* Databases: SQL, MySQL, PostgreSQL, SQLite, MongoDB, Redis, Memcached\n* Mobile development: Android, Flutter, Ionic, jQuery Mobile, Swift, Kotlin\n* DevOps tools: Git, SVN, CMake, Maven, VS Code, Obsidian, PyCharm, Eclipse\n* Markup languages: HTML, XML, DTD, XSLT, XPath, XQuery, XLink, XPointer\n* Networking protocols: HTTP, TCP/IP, W3C, RSS, RDF\n* Operating Systems: Linux, Windows (.NET, ASP.NET)",
+      "tags": [
+        "opencv",
+        "computer vision",
+        "machine learning",
+        "deep learning",
+        "cuda",
+        "opencl"
+      ],
+      "added_at": "2026-05-23T12:57:09.422024+00:00"
     }
   ],
-  "last_updated": "2026-05-23T12:51:57.190170+00:00"
+  "last_updated": "2026-05-23T12:57:09.422041+00:00"
 }

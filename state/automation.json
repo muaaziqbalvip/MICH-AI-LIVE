@@ -1,1 +1,64 @@
-{}
+{
+  "entries": [
+    {
+      "id": "0f57150c",
+      "source_url": "https://www.selenium.dev/",
+      "title": "Selenium",
+      "summary": "* Selenium automates browsers for testing and administration tasks.\n* Selenium WebDriver is used for robust browser-based regression automation.\n* Selenium IDE is a Chrome, Firefox, and Edge add-on for record-and-playback of interactions.\n* Selenium Grid is used for scaling and distributing tests across multiple environments.\n* Selenium supports multiple programming languages through language-specific bindings.\n* Selenium 4.44 introduces strongly signed .NET assemblies.\n* Selenium Grid Docker images are mirrored to GitHub Container Registry.\n* Selenium supports testing on multiple browsers and operating systems.\n* Selenium IDE is used for quick bug reproduction scripts and automation-aided exploratory testing.\n* Selenium Grid allows for central management of multiple test environments.",
+      "tags": [
+        "selenium",
+        "webdriver",
+        "automation",
+        "testing",
+        "docker",
+        "grid"
+      ],
+      "added_at": "2026-05-23T12:58:17.232562+00:00"
+    },
+    {
+      "id": "02a8fc56",
+      "source_url": "https://www.webmd.com/a-to-z-guides/supplement-guide-selenium",
+      "title": "Selenium: Benefits, Uses, Side Effects, Dosage, and More - WebMD",
+      "summary": "* Selenium is a mineral found in soil, water, and some foods.\n* Selenium plays a key role in metabolism and supports thyroid health.\n* Selenium has antioxidant properties that fight cell damage and oxidative stress.\n* Selenium supports cognitive function and may help prevent brain diseases like Parkinson's and Alzheimer's.\n* Selenium is important for heart health, with higher levels linked to lower risk of heart failure and death.\n* Selenium supports immune system function and helps control inflammation.\n* Selenium is essential for reproductive health, particularly for healthy sperm.\n* Selenium deficiency is linked to worse symptoms and health outcomes in heart failure and brain diseases.\n* Recommended selenium intake is not specified, but excessive intake can harm thyroid function.\n* Food sources of selenium are not listed, but a balanced diet is implied to provide adequate levels.\n* Recommended dietary allowance (RDA) for selenium: 55 micrograms/day for adults and children 14 and up\n* Safe upper limit for selenium: 400 micrograms/day for adults\n* High selenium food sources: Brazil nuts, seafood, lean meat, pasta, rice, eggs, oatmeal, baked beans\n* Brazil nuts: 1 nut contains 95 micrograms of selenium\n* Seafood: 3-ounce serving of yellowfin tuna and halibut contains 92 micrograms of selenium\n* Selenium deficiency can lead to oxidative stress and infertility\n* Selenium has been studied for treatment of conditions including asthma, arthritis, and prostate cancer\n* Selenium RDA",
+      "tags": [
+        "mineral",
+        "antioxidant",
+        "metabolism",
+        "immune",
+        "reproductive",
+        "thyroid"
+      ],
+      "added_at": "2026-05-23T12:58:26.339135+00:00"
+    },
+    {
+      "id": "d204a519",
+      "source_url": "https://en.m.wikipedia.org/wiki/Selenium",
+      "title": "Selenium - Wikipedia",
+      "summary": "* Atomic number: 34\n* Atomic symbol: Se\n* Atomic weight: 78.971\n* Electron configuration: [Ar] 3d10 4s2 4p4\n* Oxidation states: -2, +2, +4, +6\n* Electronegativity: 2.55 (Pauling scale)\n* Melting point: 494 K (220.85 °C)\n* Boiling point: 958 K (685 °C)\n* Crystal structure: hexagonal (hP3) for grey selenium\n* Density: 4.81 g/cm3 (grey), 4.39 g/cm3 (alpha), 4.28 g/cm3 (vitreous)\n* Atomic number: 34\n* Symbol: Se\n* Young's modulus: 10 GPa\n* Shear modulus: 3.7 GPa\n* Bulk modulus: 8.3 GPa\n* Speed of sound: 3350 m/s (at 20 °C)\n* Mohs hardness: 2.0\n* Brinell hardness: 736 MPa\n* Semiconductor properties\n* Isotopes: 6 stable (74Se, 76Se, 77Se, 78Se, 80Se) and several radioactive isotopes\n* Selenium has multiple allotropes that interconvert with temperature changes.\n* Black selenium has a complex, irregular structure with polymeric rings of up to 1000 atoms.\n* Gray selenium has a chiral hexagonal crystal lattice with helical polymeric chains.\n* Selenium allotropes include Se8, Se6, and Se7 rings.\n* Gray selenium is a semiconductor with appreciable photoconductivity.\n* Selenium has 7 naturally occurring isotopes, with 5 being stable.\n* The most abundant isotope is 80Se (49.6% natural abundance).\n* Selenium has a long-lived primordial radionuclide, 82Se, with a half-life of 8.76×10^19 years.\n* Selenium forms polyselenides with strong reducing agents.\n* Gray selenium resists oxidation by air and is not attacked by nonoxidizing acids.\n* Selenium has 6 stable isotopes: 74Se, 76Se, 77Se, 78Se,",
+      "tags": [
+        "semiconductor",
+        "electronics",
+        "materials",
+        "nanotechnology",
+        "crystallography"
+      ],
+      "added_at": "2026-05-23T12:58:42.213910+00:00"
+    },
+    {
+      "id": "0544777b",
+      "source_url": "https://pypi.org/project/selenium/",
+      "title": "selenium · PyPI",
+      "summary": "* Latest version of Selenium: 4.44.0\n* Python version requirement: Python >=3.10\n* License: Apache-2.0\n* Supported browsers: Chrome, Edge, Firefox, Safari, WebKitGTK, WPEWebKit\n* Installation command: `pip install selenium`\n* Supported Python versions: Python 3.10+\n* Selenium requires a driver to interface with the chosen browser\n* Selenium Manager handles browser and driver installation\n* Drivers available for: Chrome (chromedriver), Edge (edgedriver), Firefox (geckodriver)\n* Selenium supports multiple browsers: Chrome, Firefox, Safari\n* GeckoDriver is required for Firefox: https://github.com/mozilla/geckodriver\n* Safari WebDriver support is available in Safari 10: https://webkit.org/blog/6900/webdriver-support-in-safari-10\n* Python 3.10 or higher is required to use Selenium\n* Selenium can be used with unittest and pytest frameworks for testing\n* Selenium Grid is required for remote testing: https://selenium.dev/documentation/grid/getting_started/\n* Remote WebDriver can be used for remote testing: https://selenium.dev/documentation/webdriver/drivers/remote_webdriver/?tab=python\n* Selenium is licensed under Apache-2.0\n* Latest version of Selenium is 4.44.0, released on May 12, 2026\n* Selenium source code is available on GitHub: https://github.com/SeleniumHQ/selenium/tree/trunk/py\n* Latest version: 4.39.0\n* Release date of latest version: Dec 6, 2025\n* Programming language: Python\n* Package manager: PyPI\n* Library name: Selenium\n* Purpose: Automation of web browsers\n* Version ",
+      "tags": [
+        "selenium",
+        "python",
+        "chrome",
+        "firefox",
+        "geckodriver",
+        "webdriver"
+      ],
+      "added_at": "2026-05-23T12:58:52.476620+00:00"
+    }
+  ],
+  "last_updated": "2026-05-23T12:58:52.476638+00:00"
+}
