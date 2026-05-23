@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 11,
+  "cycle_count": 16,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-23T12:59:26.162716+00:00",
+  "last_checkpoint": "2026-05-23T13:02:30.182381+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -49,7 +49,12 @@
       "https://www.webmd.com/a-to-z-guides/supplement-guide-selenium",
       "https://en.m.wikipedia.org/wiki/Selenium",
       "https://pypi.org/project/selenium/",
-      "https://selenium.io/docs/what-is-selenium"
+      "https://selenium.io/docs/what-is-selenium",
+      "https://crontab.guru/",
+      "https://crontab.cronhub.io/",
+      "https://en.m.wikipedia.org/wiki/Cron",
+      "https://cron-checker.com/",
+      "https://croncalculator.com/"
     ]
   },
   "software_factory_jobs": [],

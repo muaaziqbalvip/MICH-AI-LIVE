@@ -58,7 +58,51 @@
         "webdriver"
       ],
       "added_at": "2026-05-23T12:58:52.476620+00:00"
+    },
+    {
+      "id": "5525bde2",
+      "source_url": "https://crontab.guru/",
+      "title": "Crontab.guru - The cron schedule expression generator",
+      "summary": "* Crontab.guru is a cron schedule expression generator.\n* Cronitor is a tool for monitoring cron jobs.\n* Cronitor tracks job execution, alerts on failures, and provides job insights.\n* Crontab Guru dashboard is a free, self-hosted, open-source control panel.\n* The dashboard supports cron jobs, systemd, and uptime monitoring.\n* Cronitor offers a free setup and takes minutes to start.\n* Crontab.guru provides examples for cron expressions.\n* The platform is related to Cronitor.io.\n* Systemd guru is a related tool for systemd management.\n* Crontab.guru offers a simple editor for cron schedule expressions.",
+      "tags": [
+        "cron jobs",
+        "systemd",
+        "monitoring",
+        "cronitor",
+        "uptime",
+        "scheduling"
+      ],
+      "added_at": "2026-05-23T13:01:35.321221+00:00"
+    },
+    {
+      "id": "91ed9639",
+      "source_url": "https://en.m.wikipedia.org/wiki/Cron",
+      "title": "cron - Wikipedia",
+      "summary": "* cron is a time-based job scheduler written in C for Unix-like operating systems.\n* cron jobs are scheduled using a crontab file with a syntax of five fields: minute, hour, day of month, month, and day of week.\n* Each field can have a value of 0-59 for minutes, 0-23 for hours, 1-31 for day of month, 1-12 for month, and 0-6 for day of week.\n* The asterisk (*) is a wildcard character that matches all possible values for a field.\n* The syntax also supports intervals (e.g., */n) and comma-separated values (e.g., 1,2,3).\n* cron jobs can be edited using the crontab -e command.\n* The cron daemon runs jobs when the time/date specification fields match the current time and date.\n* Some cron implementations support a sixth field for specifying the account username that runs the job.\n* cron is suitable for scheduling repetitive tasks, while one-time tasks can be scheduled using the at command.\n* crontab files can be stored in /etc or a subdirectory of /etc, and users can have their own individual crontab files.\n* Cron implementations may have 5 or 6 fields: minute, hour, day, month, day of week, and optionally username or year.\n* The 6th field is used for username in system crontabs or year in some implementations like nncron.\n* Amazon EventBridge cron uses 1-7 for day of week instead of 0-6.\n* Non-standard macros include @yearly, @monthly, @weekly, @daily, @hourly, and @reboot.\n* @reboot jobs run at startup, not when the cron daemon is restarted.\n* Cron permissions are controlled by /",
+      "tags": [
+        "cron",
+        "unix",
+        "scheduler",
+        "crontab",
+        "daemon",
+        "syntax"
+      ],
+      "added_at": "2026-05-23T13:01:52.745931+00:00"
+    },
+    {
+      "id": "449e8783",
+      "source_url": "https://cron-checker.com/",
+      "title": "Cron Checker",
+      "summary": "* Cron expressions support 5, 6, and 7 parts with special characters.\n* Allowed fields: seconds, minutes, hours, day of month, month, day of week, year.\n* Special characters: *, /, -, ?, L, W, #, C.\n* Seconds and minutes: 0-59, with special characters *, /, -,.\n* Day of month: 1-31, with special characters *, /, -, ?, L, W, C.\n* Month: 0-11 or JAN-DEC, with special characters *, /, -,.\n* Day of week: 1-7 or MON-SUN, with special characters *, /, -, ?, L, C, #.\n* Year: empty or 1970-2099, with special characters *, /, -, /.",
+      "tags": [
+        "cron expressions",
+        "special characters",
+        "time formatting",
+        "scheduling tools",
+        "cron jobs"
+      ],
+      "added_at": "2026-05-23T13:01:56.813933+00:00"
     }
   ],
-  "last_updated": "2026-05-23T12:58:52.476638+00:00"
+  "last_updated": "2026-05-23T13:01:56.813947+00:00"
 }
