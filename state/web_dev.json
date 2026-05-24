@@ -152,7 +152,37 @@
         "jakartaee"
       ],
       "added_at": "2026-05-24T04:34:36.602715+00:00"
+    },
+    {
+      "id": "b81a24c2",
+      "source_url": "https://en.wikipedia.org/wiki/WebSocket",
+      "title": "WebSocket - Wikipedia",
+      "summary": "* WebSocket protocol enables full-duplex communication over TCP port 80.\n* WebSocket aims to solve problems of Comet implementation inefficiency for small messages.\n* The WebSocket protocol was first versioned in June 2008 by Michael Carter.\n* WebSocket interface allows bidirectional communication with a WebSocket server.\n* WebSocket URL scheme must be ws, wss, http, or https.\n* WebSocket constructor: `ws = new WebSocket(url [, protocols])`.\n* `ws.send(data)` method sends data message, where data can be string, Blob, ArrayBuffer, or ArrayBufferView.\n* WebSocket events: onopen, onmessage, onclose, onerror.\n* RFC 6455 finalized the WebSocket protocol in December 2011.\n* RFC 7692 introduced compression extension to WebSocket using the DEFLATE algorithm.\n* WebSocket clients must mask all frames sent to the server.\n* Control frames are unfragmentable and have an opcode >= 8.\n* The FIN bit indicates whether a frame is the last one in a message.\n* The OPCODE field determines the type of WebSocket frame.\n* Payload size is determined by the first byte of the frame.\n* If payload size is 126, the actual size is a 2-byte unsigned integer.\n* If payload size is 127, the actual size is an 8-byte unsigned integer.\n* The minimum number of bits must be used to represent the payload size.\n* Payload size is calculated using bitwise operations (e.g. `byte1 & 0b111_1111`).\n* The `struct.unpack` function is used to unpack binary data from the connection.",
+      "tags": [
+        "websocket",
+        "tcp",
+        "comet",
+        "rfc",
+        "deflate",
+        "blob"
+      ],
+      "added_at": "2026-05-24T06:25:00.385577+00:00"
+    },
+    {
+      "id": "1793644d",
+      "source_url": "https://websocket.org/reference/websocket-api",
+      "title": "WebSocket API: Events, Methods & Properties",
+      "summary": "* The WebSocket API uses an asynchronous, event-driven model.\n* `close()` method initiates the closing handshake or closes the connection.\n* `close()` parameters: `code` (optional, default: 1000) and `reason` (optional, max 123 bytes UTF-8).\n* Four event types: `open`, `message`, `error`, `close`.\n* Events can be handled using `onevent` properties (e.g. `onopen`) or `addEventListener()`.\n* `onopen` event: fired when the WebSocket connection is established.\n* `onmessage` event: fired when data is received from the server, `event.data` contains the message payload.\n* `onerror` event: fired when an error occurs, but doesn't provide detailed error information for security reasons.\n* `binaryType` property determines the type of binary data received: `'arraybuffer'` or `'blob'`.",
+      "tags": [
+        "websocket",
+        "api",
+        "javascript",
+        "websockets",
+        "eventdriven",
+        "asynchronous"
+      ],
+      "added_at": "2026-05-24T06:46:03.175378+00:00"
     }
   ],
-  "last_updated": "2026-05-24T04:34:36.602730+00:00"
+  "last_updated": "2026-05-24T06:46:03.175394+00:00"
 }

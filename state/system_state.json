@@ -102,7 +102,11 @@
       "https://www.prisma-statement.org/",
       "https://prisma.icfes.edu.co/prisma-web/pages/administracion/autenticacion/autenticacionIcfes.jsf?faces-redirect=true",
       "https://prismahealth.org/",
-      "https://get.pabrowser.com/"
+      "https://get.pabrowser.com/",
+      "https://en.wikipedia.org/wiki/WebSocket",
+      "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
+      "https://www.geeksforgeeks.org/web-tech/what-is-web-socket-and-how-it-is-different-from-the-http/",
+      "https://websocket.org/reference/websocket-api"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -135,5 +139,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "running"
+  "status": "handoff"
 }
