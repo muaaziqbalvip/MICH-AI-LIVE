@@ -177,7 +177,42 @@
         "audio conversion"
       ],
       "added_at": "2026-05-23T13:10:57.886150+00:00"
+    },
+    {
+      "id": "f793316b",
+      "source_url": "https://32blog.com/en/ffmpeg/ffmpeg-python-batch-automation",
+      "title": "Automate Video Processing with FFmpeg and Python | 32blog",
+      "summary": "* FFmpeg is called from Python using `subprocess.run()` with the command as a list of strings.\n* `ffmpeg-python` library is a convenient wrapper but adds a dependency and hasn't been updated since 2019.\n* `MAX_WORKERS` should match available CPU cores to avoid contention.\n* 2-4 workers is a reasonable starting point for parallel encoding on an 8-core machine.\n* Memory usage scales linearly with the number of parallel encodes.\n* File I/O can become a bottleneck, especially on spinning disks.\n* Using 4 workers can deliver a 3-4x speedup over single-threaded processing for large batches.\n* Offloading work to a VPS encoding server can be beneficial for very large batches.\n* `python-ffmpeg` and `typed-ffmpeg` are alternative libraries to `ffmpeg-python`.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-24T12:51:56.202548+00:00"
+    },
+    {
+      "id": "97584a44",
+      "source_url": "https://github.com/superyngo/ffmpeg_toolkit",
+      "title": "Python scripts for auto editing videos with ffmpeg. - GitHub",
+      "summary": "* FFmpeg is used for video processing through a Python interface.\n* The toolkit supports video speed manipulation, jump cut effects, and silence removal.\n* It can detect and remove motionless sections of videos.\n* Video partitioning and batch processing are also supported.\n* The toolkit allows for custom FFmpeg commands and video merging.\n* Installation is done via `pip install ffmpeg-toolkit`.\n* The package includes bundled FFmpeg and FFprobe executables for Windows.\n* The toolkit can be used as a Python library with `from ffmpeg_toolkit import FF_TASKS`.\n* FFmpeg must be installed and available in the system PATH.\n* The toolkit provides video information probing for encoding details and duration.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-24T13:07:13.093532+00:00"
+    },
+    {
+      "id": "1ef7cff7",
+      "source_url": "https://img.ly/blog/building-a-production-ready-batch-video-processing-server-with-ffmpeg/",
+      "title": "Automated Video Processing with FFmpeg and Docker - img.ly",
+      "summary": "* Job queue system manages video processing tasks asynchronously with state persistence.\n* Job Class represents a video processing task with attributes like id, input_file, output_file, operation, and status.\n* JobQueue Class manages a queue of video processing jobs with asynchronous workers and tracks key statistics.\n* VideoProcessor class provides methods for video processing using FFmpeg, including transcoding, compression, and metadata extraction.\n* Video operations supported: transcode, compress, add_watermark, generate_thumbnail, extract_audio, create_gif, concatenate_videos, and trim_video.\n* FFmpeg execution is handled by the _execute_ffmpeg method with progress tracking and error handling.\n* ConfigManager class manages video processing profiles and workflows stored in a YAML configuration file.\n* Configuration Management loads profiles and workflows from a YAML file and saves updates or new data.\n* Asynchronous workers process jobs using a processor object, updating progress and handling errors.\n* Subprocesses are used to interact with FFmpeg, supporting progress callbacks for real-time updates.\n* FFmpeg is used for automated video processing\n* Docker is utilized for building a production-ready batch video processing server\n* AWS Spot Instances can be used for scalable and low-cost video processing with FFmpeg\n* FFmpeg can be used for cropping and trimming videos\n* FFmpeg can be integrated with Flutter for video processing\n* Docker provides a containerized environmen",
+      "tags": [
+        "video processing",
+        "job queue",
+        "ffmpeg",
+        "asynchronous workers",
+        "config manager",
+        "yaml"
+      ],
+      "added_at": "2026-05-24T13:16:11.827796+00:00"
     }
   ],
-  "last_updated": "2026-05-23T13:10:57.886164+00:00"
+  "last_updated": "2026-05-24T13:16:11.827814+00:00"
 }

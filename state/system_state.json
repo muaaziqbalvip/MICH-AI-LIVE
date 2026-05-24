@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 51,
+  "cycle_count": 56,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-24T06:12:18.266818+00:00",
+  "last_checkpoint": "2026-05-24T13:55:25.559370+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -24,7 +24,12 @@
       "https://gizmodo.com/download/ffmpeg",
       "https://blog.csdn.net/Natsuago/article/details/143231558",
       "https://zhuanlan.zhihu.com/p/15849180981",
-      "https://cloud.tencent.com/developer/article/2529117"
+      "https://cloud.tencent.com/developer/article/2529117",
+      "https://32blog.com/en/ffmpeg/ffmpeg-python-batch-automation",
+      "https://medium.com/@andygyakobo/mastering-ffmpeg-the-complete-guide-to-video-processing-in-python-ca9d76dec413",
+      "https://kush-mehta.github.io/FFmpeg-python/",
+      "https://github.com/superyngo/ffmpeg_toolkit",
+      "https://img.ly/blog/building-a-production-ready-batch-video-processing-server-with-ffmpeg/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -60,7 +65,14 @@
       "https://www.youtube.com/watch?v=cKODT6-u_bA",
       "https://github.com/googleads/google-ads-python",
       "https://www.digitalapplied.com/blog/google-ads-api-ai-automation-tutorial",
-      "https://pypi.org/project/google-ads/"
+      "https://pypi.org/project/google-ads/",
+      "https://www.ssa.gov/",
+      "https://en.wikipedia.org/wiki/Social_media",
+      "https://www.merriam-webster.com/dictionary/content",
+      "https://dictionary.cambridge.org/dictionary/english/content",
+      "https://www.dictionary.com/browse/content",
+      "https://www.iciba.com/word?w=content",
+      "https://www.collinsdictionary.com/us/dictionary/english/content"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -139,5 +151,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "stopped"
+  "status": "running"
 }
