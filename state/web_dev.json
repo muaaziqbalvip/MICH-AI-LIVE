@@ -102,7 +102,42 @@
         "node"
       ],
       "added_at": "2026-05-24T02:18:55.843749+00:00"
+    },
+    {
+      "id": "86efea42",
+      "source_url": "https://www.geeksforgeeks.org/python/fastapi-tutorial/",
+      "title": "FastAPI Tutorial - GeeksforGeeks",
+      "summary": "* FastAPI is used for building scalable solutions\n* Dependency Injection is a key feature in FastAPI\n* FastAPI supports Error Handling and WebSockets\n* Deployment options include Render\n* Testing is essential for ensuring reliability\n* FastAPI can be used for real-world projects like To-Do List App, Login & Registration System, and Chat App\n* FastAPI is a Python framework for building REST APIs\n* FastAPI can be used with other Python technologies like JWT, WebSockets, and databases\n* FastAPI apps can be deployed and tested in production environments\n* FastAPI is an alternative to other Python web frameworks like Flask and Django",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-24T03:07:29.745882+00:00"
+    },
+    {
+      "id": "5151cf93",
+      "source_url": "https://github.com/FastAPI/FastAPI",
+      "title": "GitHub - fastapi/fastapi: FastAPI framework, high performance, easy t…",
+      "summary": "* FastAPI is licensed under the MIT license\n* Built with Python 3\n* Utilizes asyncio for asynchronous operations\n* Supports JSON, JSON-schema, and OpenAPI\n* Integrates with Uvicorn and Starlette\n* Uses Pydantic for data validation\n* Compatible with Swagger and Redoc\n* Supports RESTful API design\n* Built for high performance and ease of use\n* Primary language is Python (100%)",
+      "tags": [
+        "fastapi",
+        "python",
+        "asyncio",
+        "json",
+        "openapi",
+        "uvicorn"
+      ],
+      "added_at": "2026-05-24T03:15:39.847327+00:00"
+    },
+    {
+      "id": "ba15d51e",
+      "source_url": "https://en.wikipedia.org/wiki/FastAPI",
+      "title": "FastAPI - Wikipedia",
+      "summary": "* FastAPI supports asynchronous operations using async/await pattern.\n* Dependency Injection (DI) system is used to manage services for HTTP endpoints.\n* OpenAPI integration generates automatic API documentation with Swagger UI and ReDoc.\n* WebSockets support enables full-duplex communication between client and server.\n* Background tasks can be executed after an HTTP response has been sent.\n* FastAPI uses a single-threaded event loop to handle concurrent requests efficiently.\n* Asynchronous programming is inherently supported by FastAPI's architecture.\n* `Depends` is used to declare dependencies for function parameters.\n* `WebSocket` is used to establish WebSocket connections.\n* `async` and `await` keywords are used for asynchronous operations in FastAPI.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-24T03:34:56.317419+00:00"
     }
   ],
-  "last_updated": "2026-05-24T02:18:55.843767+00:00"
+  "last_updated": "2026-05-24T03:34:56.317440+00:00"
 }
