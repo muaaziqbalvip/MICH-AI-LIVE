@@ -222,7 +222,27 @@
         "intellij"
       ],
       "added_at": "2026-05-23T13:06:26.997566+00:00"
+    },
+    {
+      "id": "939b860f",
+      "source_url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+      "title": "Android (operating system) - Wikipedia",
+      "summary": "* Android devices have a customizable home screen with swipe functionality.\n* Third-party apps can re-theme the home screen and mimic other operating systems.\n* The status bar displays device information and connectivity, and can be pulled down to reveal notifications.\n* Notifications provide timely information about apps and can be expanded for more details.\n* Android 4.1 \"Jelly Bean\" introduced expandable notifications.\n* The \"All Apps\" screen lists installed applications, and the \"Recents\" screen shows recently used apps.\n* Navigation buttons include home, menu/options, back, and search, with some devices using a dedicated search button.\n* Android version 10 no longer supports the dedicated option key or menu key.\n* Split-screen view is natively supported in stock Android version 7.0 Nougat.\n* Split-screen view was removed in Android Go Edition to optimize the user experience for low-end devices.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-24T05:52:58.451398+00:00"
+    },
+    {
+      "id": "a9c7e302",
+      "source_url": "https://www.androidauthority.com/android-17-3561251/",
+      "title": "Android 17: Upcoming confirmed and leaked features",
+      "summary": "* Android 17 expected release date: June 2026\n* Android 17 major SDK release: Q2 2026\n* Android 17 minor SDK release: Q4 2026\n* Android Canary builds replace Developer Previews\n* Android 17 beta release milestones: February 13, February 26, March 27, April 16, April 22\n* Supported devices: Pixel 6 and later, select non-Pixel phones with beta programs\n* Android 17 confirmed features: Material 3\n* Android 17 release channels: Canary, beta, stable\n* Android 17 beta program enrollment available for supported devices\n* QPR (Quarterly Platform Release) updates will continue with Android 17\n* Android 17 introduces expanded dark theme with individual app exclusion.\n* Dark theme feature was first introduced in Android 16 QPR2 stable release.\n* Android 17 Beta 3 adds ability to exclude apps from dark theme.\n* Exclusion feature may not be included in stable release.\n* Low light mode is a new feature in Android.\n* Screen saver function allows apps to display info when not in use.\n* Android 17 has a settings path: Settings > Display & touch > Dark theme.\n* Pixel devices support dark theme feature.\n* Android 17 is currently in Beta 3 stage.\n* QPR2 is a stable release version of Android 16.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-24T06:05:11.043501+00:00"
     }
   ],
-  "last_updated": "2026-05-23T13:06:26.997584+00:00"
+  "last_updated": "2026-05-24T06:05:11.043519+00:00"
 }

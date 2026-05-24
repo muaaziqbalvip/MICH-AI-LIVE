@@ -200,7 +200,27 @@
         "blobs"
       ],
       "added_at": "2026-05-24T01:46:32.438158+00:00"
+    },
+    {
+      "id": "d7682965",
+      "source_url": "https://developer.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows",
+      "title": "The Complete Playwright End-to-End Story, Tools, AI, and Real-World ...",
+      "summary": "* Playwright provides end-to-end testing with tools like Azure App Testing and AI debugging.\n* Traces in Playwright explain test failures with a story, not just a stack trace.\n* Playwright MCP (Model Context Protocol) bridges AI agents and live browser sessions.\n* Playwright MCP provides complete browser state, interaction tools, and real-time page snapshots.\n* Use cases for Playwright MCP include automated test execution, test generation, and task automation.\n* GitHub Copilot's Coding Agent uses Playwright MCP for real-time app interaction and self-verifying AI workflows.\n* Playwright MCP enables a closed loop of prompt, code generation, app interaction, and confirmation.\n* No extra setup is needed for Playwright MCP with GitHub Copilot Coding Agent.\n* Playwright's ecosystem supports a seamless workflow for writing, debugging, and maintaining tests with AI-powered automation.\n* Playwright MCP can be used with other AI tools and assistants, such as GitHub Copilot, for AI-assisted testing and automation.\n* Playwright's ecosystem integrates writing, debugging, and maintaining tests with AI-powered automation.\n* Codegen bootstraps tests by capturing user flows and generating test code.\n* VS Code extension provides inline feedback, AI fixes, and test organization.\n* UI Mode allows interactive test exploration, filtering, and rerunning.\n* HTML Report offers detailed, interactive test suite overviews.\n* Trace Viewer enables frame-by-frame inspection of DOM snapshots, network activi",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-24T05:15:43.697860+00:00"
+    },
+    {
+      "id": "cc339630",
+      "source_url": "https://www.browserstack.com/guide/playwright-tutorial",
+      "title": "Playwright Automation Framework: Tutorial - BrowserStack",
+      "summary": "* Playwright tests can be run in parallel using `test.describe.configure({ mode: 'parallel' })`.\n* Each worker is an independent Node.js process with its own browser instance and memory.\n* Workers can be capped using `export default defineConfig({ workers: process.env.CI ? 2 : 4 })`.\n* Retries can be configured using `export default defineConfig({ retries: process.env.CI ? 2 : 0 })`.\n* Retries can also be set per test using `test('test', { retries: 2 }, async ({ page }) => { ... })`.\n* Hooks (`beforeEach`, `afterEach`, `beforeAll`, `afterAll`) can be used for setup and teardown logic.\n* `beforeEach` and `afterEach` receive a `page` object, while `beforeAll` and `afterAll` do not.\n* Playwright marks tests as flaky if they fail on the first attempt and pass on retry.\n* Isolation between workers prevents shared global state corruption and makes parallel execution reliable.\n* Playwright provides five core fixtures: `page`, `browser`, `context`, `request`, and `browserName`.\n* Custom fixtures can be created to add setup logic, such as logging in before a test.\n* Fixtures can be extended using the `extend` method and imported across the test suite.\n* The `test` function can be extended with custom fixtures using the `extend` method.\n* Fixtures can be scoped to the test or worker using the `scope` option.\n* The `use` function is used to hand the fixture to the test and the `await use()` call is used to signal the end of the setup.\n* Teardown logic can be added after the `await use()",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-24T05:36:38.857518+00:00"
     }
   ],
-  "last_updated": "2026-05-24T01:46:32.438176+00:00"
+  "last_updated": "2026-05-24T05:36:38.857538+00:00"
 }

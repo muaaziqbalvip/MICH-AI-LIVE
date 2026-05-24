@@ -109,7 +109,36 @@
         "marketing"
       ],
       "added_at": "2026-05-24T04:19:50.965746+00:00"
+    },
+    {
+      "id": "5346c41f",
+      "source_url": "https://www.digitalapplied.com/blog/google-ads-api-ai-automation-tutorial",
+      "title": "Google Ads API AI Automation: Complete October 2025 Guide",
+      "summary": "* Google Ads API v24 is the latest release, while v22 is preserved for compatibility work.\n* AssetGenerationService is in limited beta, allowing AI-powered asset generation.\n* View-Based Conversions track engaged-view conversions for Display and Video campaigns.\n* AI Max Reporting uses ai_max_search_term_ad_combination_view for search term and metric fields.\n* Performance Max enhancements include image enhancement, extraction automation, and campaign-level reporting.\n* Targetless Bidding introduces new goals: OPTIMIZE_IN_APP_CONVERSIONS_WITHOUT_TARGET_CPA and OPTIMIZE_TOTAL_VALUE_WITHOUT_TARGET_ROAS.\n* Smart Bidding Diversity Metrics enable targeting ROAS strategies on Search with time-segmented diversity metrics.\n* campaign.feed_types is a campaign-level field, not an asset_group_asset field.\n* ai_max_search_term_ad_combination_view provides detailed performance data for AI Max for Search campaigns.\n* AssetGenerationService requires verifying account eligibility and current method names before building production automation.\n* Google Ads API service: `GoogleAdsService`\n* Query language: Google Ads Query Language (GAQL)\n* Selected fields: \n  + `campaign.name`\n  + `metrics.impressions`\n  + `metrics.clicks`\n  + `metrics.conversions`\n  + `metrics.conversion_value`\n  + `metrics.average_cpc`\n  + `metrics.search_budget_lost_impression_share`\n  + `metrics.search_rank_lost_impression_share`\n* Selected segments: \n  + `segments.hour`\n  + `segments.day_of_week`\n  + `segments.device`\n* C",
+      "tags": [
+        "ai",
+        "api",
+        "assetgeneration",
+        "smart bidding",
+        "performance max",
+        "google ads"
+      ],
+      "added_at": "2026-05-24T04:56:11.433830+00:00"
+    },
+    {
+      "id": "54d6db61",
+      "source_url": "https://pypi.org/project/google-ads/",
+      "title": "google-ads · PyPI",
+      "summary": "* The issue is related to a failed loading of a site component\n* Possible causes include browser extensions, network issues, or browser settings\n* Ad blockers may be interfering with the site's functionality\n* Disabling ad blockers is a suggested troubleshooting step\n* Trying a different browser is a recommended alternative solution\n* Network connection issues may be contributing to the problem\n* Browser settings may be blocking the required site component from loading \n* No specific code or technical implementation is mentioned\n* The issue appears to be client-side rather than server-side\n* No specific error messages or codes are provided",
+      "tags": [
+        "browser extensions",
+        "network issues",
+        "ad blockers",
+        "browser settings",
+        "network connection"
+      ],
+      "added_at": "2026-05-24T04:56:15.264178+00:00"
     }
   ],
-  "last_updated": "2026-05-24T04:19:50.965765+00:00"
+  "last_updated": "2026-05-24T04:56:15.264192+00:00"
 }

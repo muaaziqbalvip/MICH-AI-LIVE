@@ -137,7 +137,22 @@
         "web_dev"
       ],
       "added_at": "2026-05-24T03:34:56.317419+00:00"
+    },
+    {
+      "id": "efe97ac3",
+      "source_url": "https://prisma.icfes.edu.co/prisma-web/pages/administracion/autenticacion/autenticacionIcfes.jsf?faces-redirect=true",
+      "title": "Bienvenido al Sistema PRISMA",
+      "summary": "* Website built using JavaServer Faces (JSF) technology\n* Uses Faces-Redirect for page navigation\n* Runs on a Java-based web server\n* Utilizes a templating engine for dynamic content\n* May integrate with a database for user authentication\n* Employs a custom authentication mechanism (autenticacionIcfes.jsf)\n* Website likely uses a Java-based framework (e.g., Spring, Hibernate)\n* May use a Colombian-specific character encoding (e.g., ISO-8859-1)\n* Website does not provide explicit technical details about its infrastructure\n* Built using a Java-based web application framework (e.g., Java EE, Jakarta EE)",
+      "tags": [
+        "java",
+        "jsf",
+        "hibernate",
+        "spring",
+        "javaee",
+        "jakartaee"
+      ],
+      "added_at": "2026-05-24T04:34:36.602715+00:00"
     }
   ],
-  "last_updated": "2026-05-24T03:34:56.317440+00:00"
+  "last_updated": "2026-05-24T04:34:36.602730+00:00"
 }
