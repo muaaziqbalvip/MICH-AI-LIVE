@@ -73,7 +73,36 @@
         "postcss"
       ],
       "added_at": "2026-05-23T12:56:19.786032+00:00"
+    },
+    {
+      "id": "3f803887",
+      "source_url": "https://en.wikipedia.org/wiki/React_(software)",
+      "title": "React (software) - Wikipedia",
+      "summary": "* React components have lifecycle methods: `componentDidUpdate`, `componentWillUnmount`, and `render`.\n* `render` is the most important lifecycle method and the only required one.\n* JSX is an extension to JavaScript syntax, similar to HTML, used for structuring component rendering.\n* JSX is converted to JavaScript code during compilation.\n* React can be used for server-side rendering (SSR) to improve application performance.\n* SSR allows rendering React components on the server and sending the resulting HTML to the client.\n* React supports universal loading, rendering identical HTML on both server and client.\n* React can be used to develop native apps for Android and iOS using React Native.\n* `useState` is a hook used to declare state variables in functional components.\n* React components can be written in pure JavaScript, but JSX is commonly used.\n* React is designed for building user interfaces, not a complete application library.\n* Unidirectional data flow is a core concept in React, contrasting with bidirectional flow in AngularJS.\n* Flux architecture is used to support unidirectional data flow, featuring actions, dispatchers, and stores.\n* Flux can be considered a variant of the observer pattern.\n* React components should not directly modify props, but use callback functions to create actions.\n* Redux and MobX are popular alternatives to Flux for state management.\n* useReducer is a React hook introduced in 16.8, enabling local state management similar to Redux.\n* React u",
+      "tags": [
+        "react",
+        "jsx",
+        "javascript",
+        "ssr",
+        "react native"
+      ],
+      "added_at": "2026-05-24T02:11:56.446565+00:00"
+    },
+    {
+      "id": "9683540e",
+      "source_url": "https://www.geeksforgeeks.org/reactjs/react/",
+      "title": "React Tutorial - GeeksforGeeks",
+      "summary": "* ReactJS is used for building various applications such as ToDo, Quiz, Coin Flipping, Color-Box, and Dice Rolling apps.\n* Code Splitting is a technique used in React for optimizing performance.\n* Higher-Order Components (HOCs) are a key concept in ReactJS.\n* React can be used with other technologies like MERN (MongoDB, Express, React, Node) for full-stack development.\n* ReactJS can be used for creating interactive games like Guess the Number.\n* ReactJS has various courses and tutorials available for learning.\n* DSA (Data Structures and Algorithms) and System Design are important concepts for React developers.\n* ReactJS can be used for creating dynamic and interactive user interfaces.\n* ReactJS has a wide range of applications, from simple apps to complex full-stack applications.\n* ReactJS is often used in conjunction with other technologies for building robust and scalable applications.",
+      "tags": [
+        "reactjs",
+        "code splitting",
+        "higher-order components",
+        "mern",
+        "data structures",
+        "node"
+      ],
+      "added_at": "2026-05-24T02:18:55.843749+00:00"
     }
   ],
-  "last_updated": "2026-05-23T12:56:19.786049+00:00"
+  "last_updated": "2026-05-24T02:18:55.843767+00:00"
 }

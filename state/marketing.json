@@ -51,7 +51,35 @@
         "business networking"
       ],
       "added_at": "2026-05-24T01:30:03.412333+00:00"
+    },
+    {
+      "id": "68ab8bb1",
+      "source_url": "https://www.programiz.com/python-programming/online-compiler/",
+      "title": "Online Python Compiler (Interpreter) - Programiz",
+      "summary": "* Online Python compiler supports Python 3.\n* Code can be written and run directly in the online editor.\n* The compiler provides an output section to display results.\n* A \"Run\" button is used to execute the Python code.\n* A \"Clear\" button is available to reset the output.\n* The online compiler allows code sharing via link or copy.\n* The editor has a \"Copy Link\" feature for easy sharing.\n* Code can be saved as a file (e.g., main.py).\n* The online compiler is accessible via the Programiz website.\n* The compiler provides a simple interface for writing and running Python code.",
+      "tags": [
+        "online compiler",
+        "python editor",
+        "code sharing",
+        "online editor"
+      ],
+      "added_at": "2026-05-24T02:39:14.364848+00:00"
+    },
+    {
+      "id": "dd23625f",
+      "source_url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "title": "Python (programming language) - Wikipedia",
+      "summary": "* Python has functional programming tools like filter, map, and reduce functions.\n* List comprehensions, dictionaries, sets, and generator expressions are supported.\n* The standard library includes modules like itertools and functools for functional programming.\n* Python's core philosophy is outlined in the Zen of Python (PEP 20), emphasizing readability and simplicity.\n* Python is designed to be highly extensible through modules.\n* The language lacks do..while loops, considered harmful by Guido van Rossum.\n* Python prioritizes readability over performance, rejecting patches that compromise clarity.\n* Execution speed can be improved using extension modules written in languages like C.\n* Just-in-time compilers like PyPy can also improve execution speed.\n* Python code can be transpiled to other languages for potential speed improvements.\n* Python tuples are immutable objects.\n* Tuples can be modified by reassigning a new tuple to the original variable.\n* Parentheses are optional for tuples in unambiguous contexts.\n* Sequence unpacking allows multiple expressions to be assigned to multiple variables.\n* Tuples can be concatenated using the `+` operator.\n* Tuple concatenation creates a new tuple object.\n* The `+` operator evaluates the expression on the right side first.\n* The result of the expression is then assigned back to the original variable.\n* Tuple modification is achieved through reassignment, not in-place modification.\n* Python supports multiple assignment through sequen",
+      "tags": [
+        "python",
+        "functional",
+        "readability",
+        "extensibility",
+        "jit",
+        "modules"
+      ],
+      "added_at": "2026-05-24T02:49:26.973717+00:00"
     }
   ],
-  "last_updated": "2026-05-24T01:30:03.412356+00:00"
+  "last_updated": "2026-05-24T02:49:26.973735+00:00"
 }

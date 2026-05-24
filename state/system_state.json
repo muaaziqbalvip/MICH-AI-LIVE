@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 36,
+  "cycle_count": 41,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-24T01:51:07.985492+00:00",
+  "last_checkpoint": "2026-05-24T02:54:31.691523+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -39,7 +39,17 @@
       "https://www.merriam-webster.com/dictionary/social",
       "https://dictionary.cambridge.org/dictionary/english/social",
       "https://www.definitions.net/definition/Social",
-      "https://www.dictionary.net/dictionary/social"
+      "https://www.dictionary.net/dictionary/social",
+      "https://www.python.org/",
+      "https://www.online-python.com/",
+      "https://www.w3schools.com/python/",
+      "https://www.programiz.com/python-programming/online-compiler/",
+      "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "https://www.facebook.com/",
+      "https://www.facebook.com/r.php/?v=3",
+      "https://www.facebook.com/login.php/",
+      "https://www.facebook.com/#_",
+      "https://www.facebook.com/index.php/?lang=en_us"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -63,7 +73,12 @@
       "https://www.tailwindapp.com/",
       "https://tailwindnutrition.com/",
       "https://www.geeksforgeeks.org/css/introduction-to-tailwind-css/",
-      "https://www.ramotion.com/blog/how-to-install-tailwind-css/"
+      "https://www.ramotion.com/blog/how-to-install-tailwind-css/",
+      "https://react.dev/",
+      "https://www.w3schools.com/react/",
+      "https://en.wikipedia.org/wiki/React_(software)",
+      "https://www.geeksforgeeks.org/reactjs/react/",
+      "https://github.com/facebook/react"
     ],
     "automation": [
       "https://www.selenium.dev/",
