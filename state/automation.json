@@ -175,7 +175,32 @@
         "authentication"
       ],
       "added_at": "2026-05-23T13:05:12.714496+00:00"
+    },
+    {
+      "id": "f04c2f76",
+      "source_url": "https://git-scm.com/",
+      "title": "Git",
+      "summary": "* Git is a free and open source distributed version control system.\n* Designed to handle small to very large projects with speed and efficiency.\n* Lightning fast performance.\n* Huge ecosystem of GUIs, hosting services, and command-line tools.\n* Latest source release is 2.54.0.\n* Release date of latest source is 2026-04-20.\n* Git has a command-line interface.\n* Available for installation from GitHub Repository.\n* Official book \"Pro Git\" available online for free.\n* Version control system is distributed.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-24T01:31:38.247459+00:00"
+    },
+    {
+      "id": "7eaad368",
+      "source_url": "https://en.wikipedia.org/wiki/Git",
+      "title": "Git - Wikipedia",
+      "summary": "* Git objects are identified by a SHA-1 hash of their contents.\n* Objects are stored in a directory matching the first two characters of its hash.\n* Git stores each revision of a file as a unique blob.\n* Newly added objects are stored using zlib compression.\n* Packs use delta compression to save space, storing blobs as changes relative to other blobs.\n* Git stores labels called refs to indicate commit locations, including heads, tags, and HEAD.\n* Common Git commands include `git init`, `git clone`, `git add`, and `git commit`.\n* A `.gitignore` file can be used to ignore files from being tracked by Git.\n* Git references include heads, remotes, stash, meta, and tags, and can be listed using `git show-ref`.\n* Git supports multiple operating systems, including Linux, macOS, Windows, and BSDs.\n* Git supports multiple operating systems, including BSDs, Solaris, macOS, and Windows.\n* Git has a Windows port, initially based on Linux-emulation framework.\n* The Windows port uses Mingw-w64, a port of the GNU Compiler Collection.\n* Supported BSDs include DragonFly BSD, FreeBSD, NetBSD, and OpenBSD.\n* Git can be installed on Windows, creating a Program Files directory.\n* Mingw-w64 is used to host the Linux version of Git on Windows.\n* GNU Compiler Collection is used in the Mingw-w64 port.\n* Git installation on Windows includes a Linux-emulation framework.\n* The Linux version of Git is hosted on Windows through the emulation framework.\n* Git's cross-platform support allows for consistent v",
+      "tags": [
+        "git",
+        "sha-1",
+        "zlib",
+        "delta compression",
+        "refs",
+        "blobs"
+      ],
+      "added_at": "2026-05-24T01:46:32.438158+00:00"
     }
   ],
-  "last_updated": "2026-05-23T13:05:12.714510+00:00"
+  "last_updated": "2026-05-24T01:46:32.438176+00:00"
 }

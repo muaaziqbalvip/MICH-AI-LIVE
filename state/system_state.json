@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 33,
+  "cycle_count": 36,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-23T13:44:33.372160+00:00",
+  "last_checkpoint": "2026-05-24T01:51:07.985492+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -34,7 +34,12 @@
       "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=1aa30fc925bc68560da618ab2411692e",
       "https://outlook.office.com/mail/inbox",
       "https://myaccount.microsoft.com/",
-      "https://outlook.office365.com/mail/oauthRedirect.html"
+      "https://outlook.office365.com/mail/oauthRedirect.html",
+      "https://www.ssa.gov/myaccount/",
+      "https://www.merriam-webster.com/dictionary/social",
+      "https://dictionary.cambridge.org/dictionary/english/social",
+      "https://www.definitions.net/definition/Social",
+      "https://www.dictionary.net/dictionary/social"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -75,11 +80,16 @@
       "https://www.aboutamazon.com/what-we-do/amazon-web-services",
       "https://www.aws.org/",
       "https://en.wikipedia.org/wiki/Amazon_Web_Services",
-      "https://repost.aws/knowledge-center/sign-in-console"
+      "https://repost.aws/knowledge-center/sign-in-console",
+      "https://git-scm.com/",
+      "https://github.com/git-guides",
+      "https://en.wikipedia.org/wiki/Git",
+      "https://gitforwindows.org/",
+      "https://learn.microsoft.com/en-us/devops/develop/git/install-and-set-up-git"
     ]
   },
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "stopped"
+  "status": "running"
 }
