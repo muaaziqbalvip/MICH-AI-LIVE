@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 56,
+  "cycle_count": 61,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-24T13:55:25.559370+00:00",
+  "last_checkpoint": "2026-05-24T14:14:12.807879+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -118,7 +118,12 @@
       "https://en.wikipedia.org/wiki/WebSocket",
       "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API",
       "https://www.geeksforgeeks.org/web-tech/what-is-web-socket-and-how-it-is-different-from-the-http/",
-      "https://websocket.org/reference/websocket-api"
+      "https://websocket.org/reference/websocket-api",
+      "https://www.next.us/en",
+      "https://www.nextdirect.com/gi/en",
+      "https://www.next.co.uk/",
+      "https://nextdoor.com/news_feed/",
+      "https://play.google.com/store/apps/details/?id=com.nextdoor&hl=en-US"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -145,7 +150,8 @@
       "https://github.com/microsoft/playwright",
       "https://developer.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows",
       "https://en.wikipedia.org/wiki/Playwright_(software)",
-      "https://www.browserstack.com/guide/playwright-tutorial"
+      "https://www.browserstack.com/guide/playwright-tutorial",
+      "https://www.geeksforgeeks.org/devops/aws-tutorial/"
     ]
   },
   "software_factory_jobs": [],
