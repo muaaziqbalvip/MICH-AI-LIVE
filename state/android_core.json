@@ -242,7 +242,42 @@
         "android_core"
       ],
       "added_at": "2026-05-24T06:05:11.043501+00:00"
+    },
+    {
+      "id": "57c43d15",
+      "source_url": "https://medium.com/@sharmapraveen91/designing-multi-module-android-applications-a-comprehensive-guide-1124d4b4c6c3",
+      "title": "Designing Multi-Module Android Applications: A Comprehensive Guide",
+      "summary": "* Clean Architecture is suitable for multi-module Android applications, separating code into Presentation, Domain, and Data layers.\n* Multi-module applications can be divided into App, Feature, Core, and Data modules.\n* Feature Modules should be self-contained units of functionality, such as authentication or profile management.\n* Core Modules should contain shared utilities, resources, and components used across features.\n* Data Modules should implement repositories and data sources.\n* MVVM pattern complements multi-module architecture, with each feature module implementing its own MVVM.\n* Dependency direction is crucial, with Feature Modules not depending on other Feature Modules.\n* Core/Common Modules should have minimal or no dependencies on other modules.\n* Data Modules may depend on Core Modules but not on Feature Modules.\n* Clear separation of concerns and well-defined interfaces are key to successful multi-module design.\n* Each feature module implements its own navigation graph and registers with the main navigation controller.\n* Consistent module structure: feature_module/ → api/, impl/, build.gradle, README.md.\n* Use Kotlin's visibility modifiers (internal, public) to control module exposure.\n* Implement testing strategies: unit tests, integration tests, UI tests, and test doubles.\n* Create test doubles (mocks, fakes) for module boundaries to enable isolated testing.\n* Document module interactions: dependency graphs, API contracts, data flow diagrams, module respons",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-24T15:09:38.515185+00:00"
+    },
+    {
+      "id": "ead60e5c",
+      "source_url": "https://ithy.com/article/android-multi-module-best-practices-ag76y11h",
+      "title": "Ithy - Best Practices for Android Multi-Module Architecture",
+      "summary": "* Modular Android app architecture helps scale and maintain large projects.\n* Multi-module architecture separates features into independent modules.\n* Each module should have its own Gradle build file.\n* Domain module should not depend on data module, but rather the other way around.\n* Use a shared or common module for shared code between features.\n* Clean architecture principles can be applied to multi-module architecture.\n* Navigation between modules should be handled using a navigation component.\n* Use a consistent package structure for multi-module projects.\n* Gradle files can be shared between modules using a common gradle file.\n* Modularization improves maintainability, scalability, and testability of Android apps.",
+      "tags": [
+        "android",
+        "modular",
+        "gradle",
+        "multi-module",
+        "clean architecture",
+        "navigation component"
+      ],
+      "added_at": "2026-05-24T15:21:47.621732+00:00"
+    },
+    {
+      "id": "5f510eff",
+      "source_url": "https://dev.to/myougatheaxo/android-multi-module-architecture-with-material3-design-system-4hda",
+      "title": "Android Multi-Module Architecture with Material3 Design System",
+      "summary": "* Android multi-module architecture reduces build times by compiling only changed modules.\n* Modular structure improves testability by allowing isolated module testing.\n* Team development scalability is enhanced by clear module boundaries and separation of concerns.\n* Modules can be shared across projects, promoting code reusability.\n* Recommended architecture includes app, core, feature, and build-logic modules.\n* Core module contains shared utilities, networking, and storage.\n* Feature modules depend on core, but core cannot depend on features to prevent circular dependencies.\n* Convention Plugins define shared configurations to eliminate repetition.\n* Dependency direction follows the \"Golden Rule\": feature modules → core, but core → feature modules is not allowed.\n* Module responsibilities include: app (entry point), core-common (utilities), core-network (HTTP client), core-database (Room database).",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-24T15:29:55.218188+00:00"
     }
   ],
-  "last_updated": "2026-05-24T06:05:11.043519+00:00"
+  "last_updated": "2026-05-24T15:29:55.218211+00:00"
 }

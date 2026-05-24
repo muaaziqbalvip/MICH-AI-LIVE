@@ -220,7 +220,50 @@
         "automation"
       ],
       "added_at": "2026-05-24T05:36:38.857518+00:00"
+    },
+    {
+      "id": "6dfbc508",
+      "source_url": "https://www.online-python.com/",
+      "title": "Online Python - IDE, Editor, Compiler, Interpreter",
+      "summary": "* Online Python provides an IDE, Editor, Compiler, and Interpreter.\n* The platform allows users to write and execute Python code.\n* Users can save their code before resetting.\n* Resetting removes all current code changes.\n* Resetting closes all additional tabs.\n* Resetting returns to the initial starter code.\n* The platform has Editor Settings.\n* The platform has Advanced Settings.\n* Users can choose to keep their code or reset it.\n* A confirmation prompt appears before resetting code.",
+      "tags": [
+        "ide",
+        "compiler",
+        "interpreter",
+        "editor",
+        "python",
+        "online"
+      ],
+      "added_at": "2026-05-24T14:25:23.896569+00:00"
+    },
+    {
+      "id": "298e33af",
+      "source_url": "https://www.programiz.com/python-programming/online-compiler/",
+      "title": "Online Python Compiler (Interpreter) - Programiz",
+      "summary": "* Online Python compiler supports Python 3\n* Code can be written and run directly in the online editor\n* Output is displayed in a separate section\n* Code can be shared via a generated link\n* Compiler supports basic Python syntax (e.g. print statements)\n* Editor has a \"Run\" button to execute the code\n* Editor has a \"Clear\" button to clear the output\n* Code can be copied to clipboard for sharing\n* Supports collaboration through code sharing\n* Compatible with various devices and browsers",
+      "tags": [
+        "online compiler",
+        "python editor",
+        "code sharing",
+        "online editor"
+      ],
+      "added_at": "2026-05-24T14:35:33.384103+00:00"
+    },
+    {
+      "id": "39e81f35",
+      "source_url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "title": "Python (programming language) - Wikipedia",
+      "summary": "* Python can be compiled to C or used with a just-in-time compiler like PyPy.\n* Python is a dynamic language, making compilation challenging.\n* Python code uses whitespace indentation to delimit blocks.\n* Indentation has semantic meaning in Python, following the off-side rule.\n* The recommended indent size is four spaces.\n* Python statements include assignment, if, and control flow statements.\n* Python uses English keywords instead of punctuation for readability.\n* Curly brackets are not used to delimit blocks in Python.\n* Semicolons after statements are allowed but rarely used in Python.\n* Python Enhancement Proposals (PEPs) are used to propose new features and document language processes.\n* Python tuples are immutable objects.\n* Tuples can be modified by reassigning a new tuple to the original variable.\n* Tuple concatenation is possible using the `+` operator.\n* Parentheses are optional for tuples in unambiguous contexts.\n* Sequence unpacking allows multiple expressions to be assigned to multiple variables.\n* Tuple concatenation evaluates to a new tuple object.\n* The `+` operator can be used to concatenate tuples.\n* Tuple modification is achieved by reassigning a new tuple to the original variable.\n* Python supports implicit tuple creation without parentheses in some contexts.\n* Sequence unpacking enables simultaneous assignment of multiple values to multiple variables.",
+      "tags": [
+        "python",
+        "compiler",
+        "pypy",
+        "indentation",
+        "keywords",
+        "tuples"
+      ],
+      "added_at": "2026-05-24T14:50:46.533553+00:00"
     }
   ],
-  "last_updated": "2026-05-24T05:36:38.857538+00:00"
+  "last_updated": "2026-05-24T14:50:46.533571+00:00"
 }
