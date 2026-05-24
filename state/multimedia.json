@@ -212,7 +212,32 @@
         "yaml"
       ],
       "added_at": "2026-05-24T13:16:11.827796+00:00"
+    },
+    {
+      "id": "6d779b5b",
+      "source_url": "https://coderivers.org/opencv/opencv-video-processing/",
+      "title": "OpenCV Video Processing: A Comprehensive Guide - CodeRivers",
+      "summary": "* OpenCV treats videos as a sequence of frames, where each frame is an image.\n* `VideoCapture` object is used to read frames from a video file or live video source.\n* `VideoWriter` object is used to write processed frames to a new video file.\n* `cv2.VideoCapture` is used to create a `VideoCapture` object to read the input video.\n* `cap.read()` function returns a boolean `ret` and the frame itself, indicating whether the frame was read successfully.\n* `cv2.VideoWriter` is used to create a `VideoWriter` object, specifying output file name, codec, frame rate, and frame size.\n* `out.write(frame)` is used to write each frame to the output video.\n* Frames can be manipulated using various OpenCV functions, such as converting to grayscale using `cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)`.\n* `cv2.imshow` is used to display the video frames, and `cv2.waitKey` is used to handle keyboard events.\n* `cap.release()` and `out.release()` are used to release the `VideoCapture` and `VideoWriter` objects, respectively.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-24T15:46:13.968982+00:00"
+    },
+    {
+      "id": "16da4529",
+      "source_url": "https://www.geeksforgeeks.org/python/opencv-python-tutorial/",
+      "title": "OpenCV Tutorial in Python - GeeksforGeeks",
+      "summary": "* OpenCV is an open-source computer vision and machine learning library.\n* OpenCV supports image and video processing, object detection, and handwriting recognition.\n* Key features include comprehensive image processing, real-time video processing, and cross-platform compatibility.\n* OpenCV integrates with deep learning libraries like TensorFlow and PyTorch.\n* Essential OpenCV functions include loading, saving, and displaying images.\n* Image processing techniques include blurring, grayscaling, scaling, rotating, and edge detection.\n* Image segmentation techniques include simple thresholding, adaptive thresholding, and Otsu thresholding.\n* Morphological operations include erosion, dilation, bilateral filtering, and denoising.\n* OpenCV supports color space conversion and histogram equalization.\n* OpenCV can be installed on Windows, Linux, macOS, and Android platforms.",
+      "tags": [
+        "computer vision",
+        "machine learning",
+        "image processing",
+        "object detection",
+        "deep learning",
+        "video processing"
+      ],
+      "added_at": "2026-05-24T15:57:25.401740+00:00"
     }
   ],
-  "last_updated": "2026-05-24T13:16:11.827814+00:00"
+  "last_updated": "2026-05-24T15:57:25.401759+00:00"
 }

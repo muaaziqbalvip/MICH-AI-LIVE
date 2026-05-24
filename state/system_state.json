@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 66,
+  "cycle_count": 71,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-24T15:33:59.197574+00:00",
+  "last_checkpoint": "2026-05-24T16:34:35.297330+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -29,7 +29,12 @@
       "https://medium.com/@andygyakobo/mastering-ffmpeg-the-complete-guide-to-video-processing-in-python-ca9d76dec413",
       "https://kush-mehta.github.io/FFmpeg-python/",
       "https://github.com/superyngo/ffmpeg_toolkit",
-      "https://img.ly/blog/building-a-production-ready-batch-video-processing-server-with-ffmpeg/"
+      "https://img.ly/blog/building-a-production-ready-batch-video-processing-server-with-ffmpeg/",
+      "https://www.linkedin.com/pulse/real-time-video-manipulation-using-python-opencv-ayush-srivastav",
+      "https://coderivers.org/opencv/opencv-video-processing/",
+      "https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html",
+      "https://www.geeksforgeeks.org/python/opencv-python-tutorial/",
+      "https://pytutorial.com/python-opencv-cv2videocapture-guide/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -73,7 +78,12 @@
       "https://www.dictionary.com/browse/content",
       "https://www.iciba.com/word?w=content",
       "https://www.collinsdictionary.com/us/dictionary/english/content",
-      "https://outlook.office.com/mail/"
+      "https://outlook.office.com/mail/",
+      "https://prateeksha.com/blog/from-manual-to-automated-keyword-research-with-python",
+      "https://www.searchcans.com/blog/python-seo-automation-scripts-guide/",
+      "https://geoclarity.io/blog/python-seo-tools/",
+      "https://www.linkedin.com/pulse/python-seo-top-8-scripts-automating-tasks-bint-e-jamil-lzjbf",
+      "https://webdevbyte.com/python/leveraging-python-and-seo-together-enhancing-keyword-research-with-automation-and-analysis"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -162,7 +172,8 @@
       "https://www.online-python.com/",
       "https://www.w3schools.com/python/",
       "https://www.programiz.com/python-programming/online-compiler/",
-      "https://en.wikipedia.org/wiki/Python_(programming_language)"
+      "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "https://www.drugs.com/mtm/selenium.html"
     ]
   },
   "software_factory_jobs": [],

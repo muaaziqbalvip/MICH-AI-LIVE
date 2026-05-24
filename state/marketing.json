@@ -174,7 +174,45 @@
         "language processing"
       ],
       "added_at": "2026-05-24T13:52:22.516640+00:00"
+    },
+    {
+      "id": "80291450",
+      "source_url": "https://www.searchcans.com/blog/python-seo-automation-scripts-guide/",
+      "title": "Python SEO Automation: 20+ Ready Scripts Guide",
+      "summary": "* Python can be used for SEO automation with libraries and a SERP API.\n* Scripts can automate tasks like keyword research, rank tracking, and content analysis.\n* A SERP API can be used to find related keyword opportunities and extract \"People Also Ask\" questions.\n* Python scripts can perform competition analysis for discovered keywords.\n* Automated rank tracking can be done using a daily script and a SERP API.\n* Scripts can save rank and date data to a database like SQLite or a Google Sheet.\n* On-page content analysis can be automated using a Python script that audits heading structure, word count, and related topics.\n* Python scripts can be scheduled to run daily for tasks like rank tracking.\n* A cost-effective SERP API can be used to reduce the cost of SEO automation.\n* Python scripts can help build a historical record of SEO performance and visualize progress over time.",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-05-24T16:07:05.191401+00:00"
+    },
+    {
+      "id": "2c97fc39",
+      "source_url": "https://geoclarity.io/blog/python-seo-tools/",
+      "title": "Python SEO Tools: 40+ Scripts & Libraries | GEOClarity",
+      "summary": "* Python libraries for SEO: advertools, Polars, trafilatura, google-api-python-client, pytrends\n* trafilatura extracts main content from web pages, outperforming BeautifulSoup\n* Polars is a faster alternative to pandas for large keyword datasets\n* google-api-python-client is essential for pulling Search Console and GA4 data\n* pytrends is an unofficial Google Trends API for keyword research and trend analysis\n* Core Python libraries for SEO: requests, BeautifulSoup, pandas, Scrapy, sentence-transformers\n* Python can automate repetitive SEO tasks, enable custom analyses, and connect data from multiple sources\n* Python can't fully replace SEO tools like Ahrefs or SEMrush due to proprietary data\n* Basic Python can be learned in 2-4 weeks for SEO automation and analysis\n* Python scripts can be combined to create custom workflows for SEO tasks\n* Python can extend and automate work with SEO tools like keyword databases.\n* A broken link checker is a simple Python SEO script to start with.\n* The requests library is required for a basic broken link checker.\n* A broken link checker can be implemented in approximately 15 lines of code.\n* HTTP requests and response handling are fundamental concepts learned from this script.\n* Python can be used to automate tasks with existing SEO tools.\n* The requests library is a key component for handling HTTP requests in Python.\n* Basic SEO scripts can provide immediately useful results.\n* Python scripts can be used to identify and report broken links.",
+      "tags": [
+        "python",
+        "seo",
+        "pandas",
+        "polars",
+        "scrapy",
+        "beautifulsoup"
+      ],
+      "added_at": "2026-05-24T16:19:17.829890+00:00"
+    },
+    {
+      "id": "798ede85",
+      "source_url": "https://www.linkedin.com/pulse/python-seo-top-8-scripts-automating-tasks-bint-e-jamil-lzjbf",
+      "title": "Python for SEO: Top 8 Python Scripts for Automating SEO Task…",
+      "summary": "* No technical information is present in the provided text\n* The text appears to be a list of content categories on LinkedIn\n* No Python scripts or SEO tasks are mentioned\n* The title \"Python for SEO: Top 8 Python Scripts for Automating SEO Task\" is not related to the provided text\n* The provided text does not contain any code patterns or technical facts\n* The text is not related to the topic of Python or SEO\n* No actionable insights can be extracted from the provided text\n* The text is a list of general topics and categories\n* No specific technical knowledge can be gained from the provided text\n* The text is not relevant to the topic of technical knowledge extraction",
+      "tags": [
+        "technology",
+        "linkedin",
+        "seo",
+        "python"
+      ],
+      "added_at": "2026-05-24T16:28:29.240094+00:00"
     }
   ],
-  "last_updated": "2026-05-24T13:52:22.516657+00:00"
+  "last_updated": "2026-05-24T16:28:29.240112+00:00"
 }
