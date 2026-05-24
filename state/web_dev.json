@@ -182,7 +182,17 @@
         "asynchronous"
       ],
       "added_at": "2026-05-24T06:46:03.175378+00:00"
+    },
+    {
+      "id": "8a8006a6",
+      "source_url": "https://pytutorial.com/fastapi-websockets-tutorial-real-time-python/",
+      "title": "FastAPI WebSockets Tutorial: Real Time Python",
+      "summary": "* FastAPI has built-in support for WebSockets, enabling real-time communication.\n* WebSockets create a persistent, two-way channel between client and server.\n* To use WebSockets with FastAPI, install `fastapi`, `uvicorn`, and `websockets` using pip.\n* Define a WebSocket route using the `@app.websocket` decorator.\n* Handle WebSocket connections using `await websocket.accept()`, `await websocket.receive_text()`, and `await websocket.send_text()`.\n* Use Uvicorn to run the FastAPI application with `uvicorn main:app --reload`.\n* Test WebSocket connections using a simple HTML page with JavaScript.\n* Manage multiple clients by storing active connections in a list and handling `WebSocketDisconnect` events.\n* Use `ws://localhost:8000/ws` as the WebSocket endpoint URL.\n* FastAPI provides automatic documentation and data validation using standard Python type hints.\n* Store active WebSocket connections in a list to manage clients.\n* Use `WebSocketDisconnect` exception to handle client disconnections.\n* Create a `ConnectionManager` class to organize connection logic.\n* Use `async`/`await` for asynchronous WebSocket operations.\n* Validate incoming JSON data with Pydantic models (e.g., `BaseModel`).\n* Use `websocket.receive_text()` to receive text messages from clients.\n* Use `websocket.send_text()` to send text messages to clients.\n* Use `websocket.receive_json()` to receive JSON data from clients.\n* Broadcast messages to all connected clients using a loop.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-24T16:53:01.582276+00:00"
     }
   ],
-  "last_updated": "2026-05-24T06:46:03.175394+00:00"
+  "last_updated": "2026-05-24T16:53:01.582292+00:00"
 }

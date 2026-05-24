@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 71,
+  "cycle_count": 75,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-24T16:34:35.297330+00:00",
+  "last_checkpoint": "2026-05-24T18:06:40.961351+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -34,7 +34,13 @@
       "https://coderivers.org/opencv/opencv-video-processing/",
       "https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html",
       "https://www.geeksforgeeks.org/python/opencv-python-tutorial/",
-      "https://pytutorial.com/python-opencv-cv2videocapture-guide/"
+      "https://pytutorial.com/python-opencv-cv2videocapture-guide/",
+      "https://en.wikipedia.org/wiki/FFmpeg",
+      "https://www.reddit.com/r/frugalmalefashion/comments/14k0149/need_plain_tshirts_jiffyshirts_is_amazing/",
+      "https://www.reddit.com/r/SCREENPRINTING/comments/bknjp1/has_anyone_ordered_from_jiffy_shirts_com_and_if/",
+      "https://www.reddit.com/r/malefashionadvice/comments/16g4jxk/i_bought_every_white_tshirt_on_jiffyshirts_and/",
+      "https://www.reddit.com/r/cricut/comments/175tl27/jiffyshirts/",
+      "https://www.reddit.com/r/BuyItForLife/comments/16qk9cv/best_value_for_money_polo_shirts/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -83,7 +89,13 @@
       "https://www.searchcans.com/blog/python-seo-automation-scripts-guide/",
       "https://geoclarity.io/blog/python-seo-tools/",
       "https://www.linkedin.com/pulse/python-seo-top-8-scripts-automating-tasks-bint-e-jamil-lzjbf",
-      "https://webdevbyte.com/python/leveraging-python-and-seo-together-enhancing-keyword-research-with-automation-and-analysis"
+      "https://webdevbyte.com/python/leveraging-python-and-seo-together-enhancing-keyword-research-with-automation-and-analysis",
+      "https://www.societe.com/societe/finom-payments-b-v-981536642.html",
+      "https://finom.co/fr-fr/",
+      "https://entreprendre.service-public.gouv.fr/vosdroits/F32886",
+      "https://www.top10banques.com/banque-pro-sasu",
+      "https://www.entreprise-progres.net/creation-sas-guide-complet/",
+      "https://www.vocabulary.com/dictionary/content"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -108,7 +120,10 @@
       "https://medium.com/@sharmapraveen91/designing-multi-module-android-applications-a-comprehensive-guide-1124d4b4c6c3",
       "https://ithy.com/article/android-multi-module-best-practices-ag76y11h",
       "https://dev.to/myougatheaxo/android-multi-module-architecture-with-material3-design-system-4hda",
-      "https://www.linkedin.com/pulse/multi-module-architecture-manmohan-pal-qnubc"
+      "https://www.linkedin.com/pulse/multi-module-architecture-manmohan-pal-qnubc",
+      "https://developer.android.com/training/dependency-injection/hilt-jetpack",
+      "https://medium.com/@chethan.n/viewmodels-with-hilt-and-compose-navigation-c11923df1540",
+      "https://www.rayadams.app/2024/04/07/hilt-dependency-injection-minimum/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
@@ -139,7 +154,12 @@
       "https://www.nextdirect.com/gi/en",
       "https://www.next.co.uk/",
       "https://nextdoor.com/news_feed/",
-      "https://play.google.com/store/apps/details/?id=com.nextdoor&hl=en-US"
+      "https://play.google.com/store/apps/details/?id=com.nextdoor&hl=en-US",
+      "https://medium.com/@AlexanderObregon/building-real-time-applications-with-python-and-websockets-eb33a4098e02",
+      "https://websocket.org/guides/languages/python/",
+      "https://codezup.com/build-real-time-chat-app-python-websockets/",
+      "https://pytutorial.com/fastapi-websockets-tutorial-real-time-python/",
+      "https://coderivers.org/blog/websockets-in-python/"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -173,11 +193,13 @@
       "https://www.w3schools.com/python/",
       "https://www.programiz.com/python-programming/online-compiler/",
       "https://en.wikipedia.org/wiki/Python_(programming_language)",
-      "https://www.drugs.com/mtm/selenium.html"
+      "https://www.drugs.com/mtm/selenium.html",
+      "https://en.wikipedia.org/wiki/Cron",
+      "https://crontab.io/"
     ]
   },
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "running"
+  "status": "handoff"
 }

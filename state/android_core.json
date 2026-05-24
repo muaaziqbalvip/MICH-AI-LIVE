@@ -277,7 +277,17 @@
         "android_core"
       ],
       "added_at": "2026-05-24T15:29:55.218188+00:00"
+    },
+    {
+      "id": "7653494f",
+      "source_url": "https://www.rayadams.app/2024/04/07/hilt-dependency-injection-minimum/",
+      "title": "Hilt Dependency Injection for JetPackCompose. Minimum knowledge …",
+      "summary": "* Hilt uses `@Singleton` to ensure a single instance of an object throughout the application.\n* `@Provides` marks methods that create injectable objects.\n* `@InstallIn` determines the scope and lifecycle of a module's provided objects.\n* Modules can depend on other modules using Hilt's dependency injection mechanism.\n* Use cases (e.g. `GetAllContactsUseCase`, `GetContactByIdUseCase`) encapsulate specific business logic.\n* Use cases promote cleaner separation of concerns, reduced code duplication, and improved maintainability.\n* `@Inject` constructor is used to inject dependencies into use cases.\n* Hilt supports modular and organized code structures through module dependencies.\n* Use cases can be used for data validation (e.g. `DataValidUseCase`) and data operations (e.g. `AddContactUseCase`).\n* Hilt is used for dependency injection in Jetpack Compose.\n* Use cases (e.g. `AddContactUseCase`, `UpdateContactUseCase`, `DeleteContactUseCase`) rely on Hilt for dependency injection.\n* `@Inject` constructor is used to inject dependencies into use cases and ViewModels.\n* `@HiltViewModel` annotation is used to enable Hilt dependency injection for ViewModels.\n* `hiltViewModel()` function is used to create a ViewModel instance with Hilt.\n* Hilt automatically creates and injects dependencies for ViewModels.\n* ViewModels (e.g. `ContactsViewModel`) can be used in composables without manual instantiation.\n* Hilt handles creation and injection of dependencies under the hood.\n* Same dependency ",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-24T18:27:36.554426+00:00"
     }
   ],
-  "last_updated": "2026-05-24T15:29:55.218211+00:00"
+  "last_updated": "2026-05-24T18:27:36.554443+00:00"
 }

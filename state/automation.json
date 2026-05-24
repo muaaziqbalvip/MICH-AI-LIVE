@@ -263,7 +263,17 @@
         "tuples"
       ],
       "added_at": "2026-05-24T14:50:46.533553+00:00"
+    },
+    {
+      "id": "34a761f6",
+      "source_url": "https://crontab.io/",
+      "title": "Crontab.io - Free Cron Expression Generator & Editor",
+      "summary": "* Cron expressions have 5 fields: minute, hour, day of month, month, and day of week.\n* Field values: minute (0-59), hour (0-23), day of month (1-31), month (1-12), day of week (0-6).\n* Special characters: `*` (any value), `,` (value list separator), `-` (range of values), `/` (step values).\n* Standard cron jobs can run as frequently as once per minute.\n* Extended cron formats or specialized schedulers are needed for more frequent execution.\n* Cron jobs typically run in the server's local timezone.\n* Timezone-specific cron formats are supported by some systems.\n* Common cron job examples: daily at midnight (`0 0 * * *`), every 15 minutes (`*/15 * * * *`).\n* Cron syntax errors can prevent cron jobs from running, use a validator to check syntax.\n* Cron expressions can be generated and validated using online tools like Crontab.io.\n* Cron expressions have a 5-field format\n* Special characters in cron syntax include `*`, `/`, `-`, `,`, and `@`\n* Common cron job examples include backups, log management, and security scanning\n* Kubernetes CronJobs support concurrency policies, timezones, and retries\n* systemd timers offer reliability, logging, and dependency management\n* Docker cron jobs enable container scheduling and automation\n* Cron jobs can be used for database maintenance, data science workflows, and security automation\n* Troubleshooting cron jobs involves checking logs, permissions, and environment issues\n* Best practices for cron jobs include writing, managing, and debugging",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-24T18:06:38.808922+00:00"
     }
   ],
-  "last_updated": "2026-05-24T14:50:46.533571+00:00"
+  "last_updated": "2026-05-24T18:06:38.808940+00:00"
 }
