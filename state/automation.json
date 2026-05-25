@@ -288,7 +288,17 @@
         "github"
       ],
       "added_at": "2026-05-25T00:54:46.368059+00:00"
+    },
+    {
+      "id": "a8a8ecd1",
+      "source_url": "https://software-testing-tutorials-automation.com/2025/04/playwright-automation-tutorial.html",
+      "title": "Playwright Automation Framework: 2026 Tutorial Guide",
+      "summary": "* Use `getByAltText` and `getByPlaceholder` for element location in Playwright\n* `page.title()` retrieves the page title\n* `click()`, `fill()`, `selectOption()`, `check()`, and `setChecked()` methods for basic actions\n* `dblclick()` and `click()` with options for simulating right and double clicks\n* `page.url()` gets the current page URL\n* `scrollTo()`, `hover()`, and `dragAndDrop()` for advanced interactions\n* `waitFor()` and `waitForSelector()` for synchronization and waiting\n* `toHaveTitle()`, `toBeVisible()`, and `toBeEnabled()` for assertions and verifications\n* Playwright supports multiple languages, including JavaScript, Java, and Python\n* Page Object Model and data-driven testing are supported in Playwright for structured testing",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-25T01:44:36.714265+00:00"
     }
   ],
-  "last_updated": "2026-05-25T00:54:46.368079+00:00"
+  "last_updated": "2026-05-25T01:44:36.714284+00:00"
 }
