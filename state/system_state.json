@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 126,
+  "cycle_count": 131,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-25T05:38:42.931157+00:00",
+  "last_checkpoint": "2026-05-25T05:57:32.249269+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -47,7 +47,9 @@
       "https://www.pilofficial.com/tour/",
       "https://en.wikipedia.org/wiki/Public_Image_Ltd",
       "https://www.dhs.gov/pil",
-      "https://blabbermouth.net/news/public-image-ltd-announces-north-american-tour-dates-for-2026-and-2027"
+      "https://blabbermouth.net/news/public-image-ltd-announces-north-american-tour-dates-for-2026-and-2027",
+      "https://cloudinary.com/guides/front-end-development/python-video-processing-6-useful-libraries-and-a-quick-tutorial",
+      "https://codezup.com/video-analysis-opencv-python/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -201,7 +203,9 @@
       "https://www.runoob.com/fastapi/fastapi-tutorial.html",
       "https://fastapi.org.cn/",
       "https://blog.csdn.net/inuex/article/details/159203950",
-      "https://zhuanlan.zhihu.com/p/1986776514642063467"
+      "https://zhuanlan.zhihu.com/p/1986776514642063467",
+      "https://www.npmjs.com/package/prisma",
+      "https://github.com/prisma"
     ],
     "automation": [
       "https://www.selenium.dev/",

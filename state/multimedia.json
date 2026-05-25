@@ -262,7 +262,22 @@
         "multimedia"
       ],
       "added_at": "2026-05-25T05:31:02.753825+00:00"
+    },
+    {
+      "id": "08348989",
+      "source_url": "https://cloudinary.com/guides/front-end-development/python-video-processing-6-useful-libraries-and-a-quick-tutorial",
+      "title": "Python Video Processing: 6 Useful Libraries and a Quick Tutorial",
+      "summary": "* Python is used for video processing\n* OpenCV is a key library for video processing\n* MoviePy is used for video editing\n* FFmpeg is used for video encoding and decoding\n* Scikit-image is used for image processing\n* Imageio is used for reading and writing images and videos\n* PyAV is used for reading, writing, and manipulating video and audio files",
+      "tags": [
+        "opencv",
+        "ffmpeg",
+        "pyav",
+        "imageio",
+        "moviepy",
+        "scikit-image"
+      ],
+      "added_at": "2026-05-25T05:53:57.319777+00:00"
     }
   ],
-  "last_updated": "2026-05-25T05:31:02.753839+00:00"
+  "last_updated": "2026-05-25T05:53:57.319796+00:00"
 }
