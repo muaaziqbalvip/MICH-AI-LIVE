@@ -250,7 +250,47 @@
         "pydantic"
       ],
       "added_at": "2026-05-25T03:50:18.929310+00:00"
+    },
+    {
+      "id": "3acccad7",
+      "source_url": "https://codewander.vercel.app/blog/tailwind-css-advanced-patterns",
+      "title": "Advanced Tailwind CSS Patterns That Will Change How You Build UIs",
+      "summary": "* Use CSS variables for design tokens, e.g., `:root { --color-brand: 16 185 129; }`.\n* Define theme colors using `rgb(var(--color-brand) / <alpha-value>)`.\n* Utilize the `cva` pattern from `class-variance-authority` for component variation.\n* Define component variants using `cva` options, e.g., `variants: { intent: { primary: 'bg-brand-500 text-white hover:bg-brand-600' } }`.\n* Set default variants for components, e.g., `defaultVariants: { intent: 'primary', size: 'md' }`.\n* Extend Tailwind theme using `module.exports = { theme: { extend: { colors: { brand: '...' } } } }`.\n* Use `cva` to generate class names for components, e.g., `const button = cva('inline-flex items-center rounded-lg font-medium', { ... })`.\n* Leverage Tailwind's built-in utility classes for styling, e.g., `bg-brand-500`, `text-white`, `hover:bg-brand-600`.\n* Define custom color palettes using CSS variables, e.g., `.dark { --color-brand: 52 211 153; }`.\n* Use `class-variance-authority` to manage complex component variations and reduce CSS bloat.",
+      "tags": [
+        "css",
+        "tailwind",
+        "javascript",
+        "classnames",
+        "variables",
+        "utility"
+      ],
+      "added_at": "2026-05-25T12:22:22.724832+00:00"
+    },
+    {
+      "id": "0a64d142",
+      "source_url": "https://www.goprisma.com/",
+      "title": "Home - Go Prisma",
+      "summary": "* Payments: ACH, credit, debit, check, wire, cash\n* Resident portal features: security deposits, lease agreements, maintenance requests, messaging, announcements\n* Security deposit management: electronic platform, centralized, sub-accounts\n* Digital wallets: property wallets, treasury, multiple property bank accounts\n* Leasing portal features: online guest cards, applications, background checks, digital lease signing\n* Utility billing: smart metering, Ratio Utility Billing Systems (RUBS), automated management\n* Payment methods: ACH, credit, debit, checks, cash\n* Financial management: receivables, payables, integrated processing solutions\n* Transaction handling: secure, reliable, efficient\n* Integration: unified system, multiple payment methods, property management tools",
+      "tags": [
+        "digital wallets",
+        "ach payments",
+        "smart metering",
+        "online leasing",
+        "electronic platform",
+        "automated management"
+      ],
+      "added_at": "2026-05-25T12:36:41.483732+00:00"
+    },
+    {
+      "id": "af7bfffa",
+      "source_url": "http://prisma.icfes.edu.co/prisma-web/pages/administracion/autenticacion/autenticacionIcfes.jsf?faces-redirect=true",
+      "title": "Bienvenido al Sistema PRISMA - Icfes Interactivo",
+      "summary": "* Website built using JavaServer Faces (JSF) technology\n* Faces-redirect=true parameter used for page redirection\n* System named PRISMA, possibly a custom-built application\n* ICFES is the Instituto Colombiano para la Evaluación de la Educación\n* Website provides access to various services of PRISMA\n* No specific technical details about the system's architecture or infrastructure\n* JSF page named autenticacionIcfes.jsf handles user authentication\n* Website likely uses a Java-based backend\n* No apparent use of modern frontend frameworks like React or Angular",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-25T12:38:46.248475+00:00"
     }
   ],
-  "last_updated": "2026-05-25T03:50:18.929320+00:00"
+  "last_updated": "2026-05-25T12:38:46.248490+00:00"
 }

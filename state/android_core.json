@@ -317,7 +317,22 @@
         "lifecycle"
       ],
       "added_at": "2026-05-25T05:06:28.791119+00:00"
+    },
+    {
+      "id": "34d68749",
+      "source_url": "https://en.m.wikipedia.org/wiki/Kotlin",
+      "title": "Kotlin - Wikipedia",
+      "summary": "* Kotlin is a multi-paradigm language: object-oriented, functional, imperative, block structured, generic, reflective, concurrent.\n* Typing discipline: inferred, static, strong.\n* Platforms: Android, JVM, iOS, iPadOS, tvOS, watchOS, macOS, Linux, Windows, JavaScript, WebAssembly.\n* License: Apache 2.0.\n* Filename extensions: .kt, .kts, .kexe, .klib.\n* Influenced by: C#, Eiffel, Gosu, Groovy, Java, JavaScript, ML, Scala.\n* Compiles to: JVM, JavaScript, native code via LLVM.\n* Stable release: 2.3.0 (December 2025).\n* Supports type inference and bidirectional record class interoperability with Java.\n* Used by Google as the preferred language for Android app developers since 2019.\n* Kotlin is used for Android app development\n* Kotlin is used with Jetpack Compose for UI components\n* Kotlin can be used for small-scale Android projects\n* ISBN 978-1-032-62253-8 is a resource for learning Kotlin\n* Kotlin is mentioned in the \"State of the Octoverse\" report\n* Kotlin is a topic in the \"Stack Overflow Developer Survey 2020\"\n* Kotlin is an alternative to Java for Android development\n* Jetpack Compose is a UI framework for Kotlin\n* Kotlin is used in conjunction with Android SDK \n* Kotlin has growing adoption in the developer community",
+      "tags": [
+        "kotlin",
+        "android",
+        "jvm",
+        "javascript",
+        "webassembly",
+        "ios"
+      ],
+      "added_at": "2026-05-25T13:29:38.743990+00:00"
     }
   ],
-  "last_updated": "2026-05-25T05:06:28.791128+00:00"
+  "last_updated": "2026-05-25T13:29:38.744005+00:00"
 }
