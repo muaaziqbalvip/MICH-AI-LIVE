@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 121,
+  "cycle_count": 126,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-25T05:13:39.096393+00:00",
+  "last_checkpoint": "2026-05-25T05:38:42.931157+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -42,7 +42,12 @@
       "https://www.reddit.com/r/cricut/comments/175tl27/jiffyshirts/",
       "https://www.reddit.com/r/BuyItForLife/comments/16qk9cv/best_value_for_money_polo_shirts/",
       "https://realpython.com/cheatsheets/python/",
-      "https://www.gyan.dev/ffmpeg/builds/"
+      "https://www.gyan.dev/ffmpeg/builds/",
+      "https://www.pilship.com/",
+      "https://www.pilofficial.com/tour/",
+      "https://en.wikipedia.org/wiki/Public_Image_Ltd",
+      "https://www.dhs.gov/pil",
+      "https://blabbermouth.net/news/public-image-ltd-announces-north-american-tour-dates-for-2026-and-2027"
     ],
     "marketing": [
       "https://mail.google.com/mail",

@@ -237,7 +237,32 @@
         "video processing"
       ],
       "added_at": "2026-05-24T15:57:25.401740+00:00"
+    },
+    {
+      "id": "ec2a1253",
+      "source_url": "https://www.pilofficial.com/tour/",
+      "title": "Tour - PiL Official",
+      "summary": "* Website platform: unknown\n* Payment gateway: unknown\n* Social media integrations: Facebook, Instagram, YouTube, X\n* Music streaming integrations: Apple Music, Spotify\n* Date format: Day of the week, Month Day, Year\n* Venue information: name, city, state, country\n* Ticket purchase: \"Buy Tickets\" button\n* Copyright year: 2026\n* Record label: Universal Music Recordings\n* Website features: checkout, cookie choices, privacy policy",
+      "tags": [
+        "facebook",
+        "instagram",
+        "youtube",
+        "spotify",
+        "apple music",
+        "website"
+      ],
+      "added_at": "2026-05-25T05:21:50.544762+00:00"
+    },
+    {
+      "id": "bdeae213",
+      "source_url": "https://en.wikipedia.org/wiki/Public_Image_Ltd",
+      "title": "Public Image Ltd - Wikipedia",
+      "summary": "* Public Image Ltd's album \"The Flowers of Romance\" features minimal bass parts and emphasizes synthesizers, drums, and tape loops.\n* Martin Atkins' drumming style on the album is described as \"marching band\"-style.\n* The album incorporates musique concrète and tape loops, with Levene playing some bass and keyboards.\n* The track \"Francis Massacre\" was inspired by Lydon's incarceration in Mountjoy Prison.\n* The album \"Commercial Zone\" was recorded in 1982 but released later, with contributions from bassist Pete Jones.\n* PiL's live album \"Live in Tokyo\" (1983) was one of the first digital live albums ever recorded.\n* The album \"This Is What You Want... This Is What You Get\" (1984) features re-recorded versions of songs from \"Commercial Zone\" and new tracks with a horn section.\n* PiL's single \"This Is Not a Love Song\" (1983) reached No. 5 in the UK singles charts and No. 12 in the Netherlands.\n* The band's sound shifted towards commercial pop and dance music during this period, alienating some of their original audience.\n* The song \"This Is Not a Love Song\" was inspired by a line from the Flying Lizards' song \"Her Story\", which critiques bands for \"selling out\" their artistic principles.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-25T05:31:02.753825+00:00"
     }
   ],
-  "last_updated": "2026-05-24T15:57:25.401759+00:00"
+  "last_updated": "2026-05-25T05:31:02.753839+00:00"
 }
