@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 161,
+  "cycle_count": 166,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-25T15:53:20.609936+00:00",
+  "last_checkpoint": "2026-05-25T16:34:44.187802+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -49,7 +49,9 @@
       "https://www.dhs.gov/pil",
       "https://blabbermouth.net/news/public-image-ltd-announces-north-american-tour-dates-for-2026-and-2027",
       "https://cloudinary.com/guides/front-end-development/python-video-processing-6-useful-libraries-and-a-quick-tutorial",
-      "https://codezup.com/video-analysis-opencv-python/"
+      "https://codezup.com/video-analysis-opencv-python/",
+      "https://www.pilofficial.com/pil-north-america-2026-2027/",
+      "https://www.youtube.com/@pilofficial"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -239,7 +241,11 @@
       "https://www.patterns.dev/react/react-server-components/",
       "https://devstarsj.github.io/2026/04/17/react-20-server-components-architecture-patterns/",
       "https://learnwebcraft.com/blog/react-server-components-next-js-14-guide",
-      "https://blog.logrocket.com/react-server-components-comprehensive-guide/"
+      "https://blog.logrocket.com/react-server-components-comprehensive-guide/",
+      "https://fastapi.tiangolo.com/async/",
+      "https://www.c-sharpcorner.com/article/how-to-build-a-rest-api-with-fastapi-and-async-operations/",
+      "https://tech-insider.org/fastapi-tutorial-rest-api-python-2026/",
+      "https://medium.com/@backendbyeli/building-rest-apis-with-fastapi-d05336399283"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -301,7 +307,10 @@
       "https://gitpython.readthedocs.io/en/stable/tutorial.html",
       "https://www.geeksforgeeks.org/python/automating-some-git-commands-with-python/",
       "https://www.iditect.com/programming/python-example/automating-some-git-commands-with-python.html",
-      "https://pypi.org/project/GitPython/"
+      "https://pypi.org/project/GitPython/",
+      "https://www.codecademy.com/catalog/language/python",
+      "https://pypi.org/",
+      "https://www.py4e.com/"
     ]
   },
   "software_factory_jobs": [],

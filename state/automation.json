@@ -372,7 +372,31 @@
         "automation"
       ],
       "added_at": "2026-05-25T14:02:52.405958+00:00"
+    },
+    {
+      "id": "63dcbf7e",
+      "source_url": "https://www.codecademy.com/catalog/language/python",
+      "title": "Best Python Courses + Tutorials | Codecademy",
+      "summary": "* Python is used for concurrent programming, machine learning, and data analysis.\n* Logistic Regression is a machine learning technique for predicting probabilities.\n* Software engineering skills are necessary for data scientists to bridge the gap between data science and engineering.\n* OpenAI and LangChain are used to build autonomous AI agents.\n* Recursion is a problem-solving technique in Python that defines a problem in terms of itself.\n* Python is used for data analysis, visualization, and statistics.\n* Sentiment analysis and natural language processing are used to analyze text data, such as song lyrics.\n* Specialized Python collections and set operations are used to create dynamic and efficient programs.\n* Django is a framework used to build real-world applications with database interaction and UI creation.\n* OpenAI API can be integrated with Python for chat completion and prompt engineering.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-25T16:32:06.892934+00:00"
+    },
+    {
+      "id": "03058395",
+      "source_url": "https://pypi.org/",
+      "title": "PyPI · The Python Package Index",
+      "summary": "* PyPI is a repository for Python software packages.\n* 816,257 projects are available on PyPI.\n* 8,760,143 releases have been published on PyPI.\n* 19,073,827 files are hosted on PyPI.\n* 1,061,621 users are registered on PyPI.\n* PyPI supports package installation and distribution.\n* Package authors can share their software on PyPI.\n* PyPI is supported by various sponsors, including AWS and Google.\n* Supported services include cloud computing, monitoring, and error logging.\n* PyPI provides download analytics and status page services.",
+      "tags": [
+        "python",
+        "pypi",
+        "cloud computing",
+        "package management",
+        "software distribution"
+      ],
+      "added_at": "2026-05-25T16:33:11.126911+00:00"
     }
   ],
-  "last_updated": "2026-05-25T14:02:52.405973+00:00"
+  "last_updated": "2026-05-25T16:33:11.126927+00:00"
 }

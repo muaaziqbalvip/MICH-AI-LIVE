@@ -310,7 +310,17 @@
         "web_dev"
       ],
       "added_at": "2026-05-25T15:38:44.316106+00:00"
+    },
+    {
+      "id": "920a4aa0",
+      "source_url": "https://tech-insider.org/fastapi-tutorial-rest-api-python-2026/",
+      "title": "FastAPI: Build a Python REST API in 5 Steps [2026]",
+      "summary": "* FastAPI supports native async for I/O-bound workloads, handling thousands of concurrent connections.\n* FastAPI requires Python 3.10+ and has native async support, auto documentation, and Pydantic v2 data validation.\n* Comparison of Python web frameworks: FastAPI, Flask, and Django REST Framework.\n* FastAPI performance: ~12,000 req/sec, GitHub stars: 82,000+.\n* Prerequisites: Python 3.12+, FastAPI 0.135.2, Uvicorn 0.34.x, SQLAlchemy 2.0.x, Pydantic 2.10.x.\n* Required tools: PostgreSQL 16.x, Docker 27.x (optional), httpx 0.28.x, python-jose 3.3.x, passlib 1.7.x.\n* Basic familiarity with Python type hints, REST API concepts, and command-line operations is required.\n* FastAPI is recommended for modern APIs and microservices, while Django REST Framework is suitable for full-stack Django projects.\n* Flask is suitable for simple applications and prototypes.\n* FastAPI has a moderate learning curve, while Django REST Framework has a steep learning curve.\n* FastAPI uses `Depends` for dependency injection, allowing seamless authentication.\n* `get_current_user` function extracts and validates JWT tokens from the Authorization header.\n* JWT tokens are decoded using `jwt.decode` with a secret key and algorithm.\n* Password hashing uses `bcrypt` with automatic salt generation.\n* Tokens include an expiration timestamp to limit exposure if compromised.\n* FastAPI's `APIRouter` organizes endpoints into logical groups with prefixes, tags, and dependencies.\n* `OAuth2PasswordRequestForm` is used ",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-25T16:14:15.502864+00:00"
     }
   ],
-  "last_updated": "2026-05-25T15:38:44.316122+00:00"
+  "last_updated": "2026-05-25T16:14:15.502879+00:00"
 }
