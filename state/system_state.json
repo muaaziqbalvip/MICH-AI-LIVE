@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 181,
+  "cycle_count": 184,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-25T17:20:11.678962+00:00",
+  "last_checkpoint": "2026-05-25T17:38:02.766794+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -139,7 +139,12 @@
       "https://pypi.org/",
       "https://www.py4e.com/",
       "https://www.google.com/fbx?fbx=tic_tac_toe",
-      "https://www.google.co.uk/chrome/"
+      "https://www.google.co.uk/chrome/",
+      "https://www.mailmodo.com/guides/python-email-automation/",
+      "https://dailypythonprojects.substack.com/p/automated-email-newsletter-sender",
+      "https://github.com/topics/email-marketing?l=python",
+      "https://python.plainenglish.io/building-an-email-automation-engine-in-python-from-scratch-c76f3988b760",
+      "https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -326,5 +331,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "running"
+  "status": "handoff"
 }
