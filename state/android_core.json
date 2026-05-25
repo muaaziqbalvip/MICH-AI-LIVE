@@ -372,7 +372,17 @@
         "material"
       ],
       "added_at": "2026-05-25T14:49:22.642949+00:00"
+    },
+    {
+      "id": "1dae0353",
+      "source_url": "https://www.siberoloji.com/using-hilt-for-dependency-injection-in-jetpack-compose/",
+      "title": "Using Hilt for Dependency Injection in Jetpack Compose",
+      "summary": "* Hilt is a dependency injection library built on top of Dagger for Android applications.\n* Dependency Injection (DI) decouples object creation from usage, promoting loose coupling and testability.\n* Hilt reduces boilerplate code and provides predefined components and scopes for easy setup.\n* @AndroidEntryPoint and @HiltViewModel are Android-specific annotations for dependency injection.\n* Hilt integrates seamlessly with Jetpack libraries like ViewModel, WorkManager, and Navigation.\n* Hilt improves testability by allowing replacement of dependencies with test doubles.\n* Hilt provides a standardized way to manage dependencies in Android applications.\n* Jetpack Compose benefits from Hilt's dependency injection for building scalable and maintainable applications.\n* Hilt simplifies the process of injecting dependencies into Compose components.\n* Hilt enables easy swapping of dependency implementations, such as using mock repositories for testing.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-25T17:06:23.369218+00:00"
     }
   ],
-  "last_updated": "2026-05-25T14:49:22.642966+00:00"
+  "last_updated": "2026-05-25T17:06:23.369235+00:00"
 }
