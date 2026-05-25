@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 136,
+  "cycle_count": 141,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-25T11:52:47.442096+00:00",
+  "last_checkpoint": "2026-05-25T12:03:28.064132+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -121,7 +121,10 @@
       "https://images.google.com/",
       "https://m.me/login/",
       "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en-US",
-      "https://en.wikipedia.org/wiki/Facebook"
+      "https://en.wikipedia.org/wiki/Facebook",
+      "https://www.facebook.com",
+      "https://m.facebook.com/",
+      "https://secure.facebook.com/"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -259,7 +262,8 @@
       "https://instadevops.com/blog/advanced-github-actions-patterns/",
       "https://clouddc.substack.com/p/day-8-github-actions-advanced-patterns",
       "https://www.youtube.com/watch?v=ffnXbhmCfiQ",
-      "https://devops-daily.com/guides/introduction-to-cicd/07-advanced-workflows-and-automation"
+      "https://devops-daily.com/guides/introduction-to-cicd/07-advanced-workflows-and-automation",
+      "https://en.wikipedia.org/wiki/Terraform_(software)"
     ]
   },
   "software_factory_jobs": [],
