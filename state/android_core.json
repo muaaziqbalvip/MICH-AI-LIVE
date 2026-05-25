@@ -382,7 +382,17 @@
         "android_core"
       ],
       "added_at": "2026-05-25T17:06:23.369218+00:00"
+    },
+    {
+      "id": "33d0aa1f",
+      "source_url": "https://es.ccm.net/aplicaciones-e-internet/redes-sociales-y-mensajeria/2916-como-buscar-personas-en-facebook/",
+      "title": "Buscar personas en Facebook: por nombre, foto, sin registro - CCM",
+      "summary": "* Se puede buscar a alguien en Facebook utilizando su correo electrónico en la barra de búsqueda.\n* La búsqueda por correo electrónico solo funciona si la persona ha aceptado que su dirección sea visible.\n* Se puede buscar a alguien a través de amigos en común o grupos compartidos en Facebook.\n* Para buscar por amigos, se debe entrar en el perfil de un amigo en común y revisar su lista de contactos.\n* Se puede buscar a alguien en grupos dedicados a centros de estudios, empresas, vecindarios, etc.\n* La sección de sugerencias de amistad en Facebook puede ser útil para encontrar a alguien sin conocer su nombre o apellidos.\n* Las sugerencias de amistad se basan en la geolocalización y amigos en común.\n* La sección de sugerencias de amistad se encuentra en el mismo sitio que las peticiones de amistad pendientes.\n* Se puede buscar a alguien en la sección de sugerencias de amistad durante un rato para encontrar coincidencias.\n* La búsqueda en Facebook puede ser tediosa, pero no se pierde nada por intentarlo.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-25T23:40:49.458631+00:00"
     }
   ],
-  "last_updated": "2026-05-25T17:06:23.369235+00:00"
+  "last_updated": "2026-05-25T23:40:49.458650+00:00"
 }
