@@ -332,7 +332,22 @@
         "automation"
       ],
       "added_at": "2026-05-25T03:13:39.643439+00:00"
+    },
+    {
+      "id": "c4d9c4fe",
+      "source_url": "https://instadevops.com/blog/advanced-github-actions-patterns/",
+      "title": "Advanced GitHub Actions: Matrix Builds, Reusable Workflows, and Self ...",
+      "summary": "* GitHub Actions can use `workflow_call` to trigger reusable workflows.\n* Reusable workflows can be defined in a shared repository and called from multiple service repositories.\n* `workflow_call` inputs can include `service-name`, `dockerfile-path`, and `environment`.\n* Secrets like `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` can be passed to reusable workflows.\n* Reusable workflows can be pinned to a specific tag (e.g. `@v2.1.0`) to prevent upstream changes from breaking pipelines.\n* Self-hosted runners can provide performance and cost control benefits over GitHub-hosted runners.\n* GitHub Actions can use `uses` to reference external actions, such as `actions/checkout@v4`.\n* `needs` can be used to define job dependencies, such as `deploy` needing `build`.\n* `secrets` can be used to store sensitive information, such as AWS credentials.\n* `environment` can be used to specify the environment for a job, such as `staging` or `production`.\n* GitHub Actions is a key component of DevOps workflows\n* Matrix builds can be utilized in GitHub Actions\n* Reusable workflows are a feature of GitHub Actions\n* Self-hosted runners can be used with GitHub Actions\n* GitHub Actions can be used for automated testing and deployment\n* Workflows can be customized and optimized for specific use cases\n* GitHub Actions integrates with other DevOps tools and services\n* InstaDevOps provides DevOps services and expertise\n* GitHub Actions workflows can be used for continuous integration and delivery\n* Aut",
+      "tags": [
+        "github actions",
+        "reusable workflows",
+        "self-hosted runners",
+        "docker",
+        "aws secrets",
+        "ci/cd"
+      ],
+      "added_at": "2026-05-25T04:11:14.222584+00:00"
     }
   ],
-  "last_updated": "2026-05-25T03:13:39.643456+00:00"
+  "last_updated": "2026-05-25T04:11:14.222606+00:00"
 }

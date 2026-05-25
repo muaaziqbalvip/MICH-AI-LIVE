@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 101,
+  "cycle_count": 106,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-25T03:44:05.429265+00:00",
+  "last_checkpoint": "2026-05-25T04:23:56.767222+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -105,7 +105,8 @@
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=135de6f7b9186e980d86f193b8866fa0",
       "https://en.m.wikipedia.org/wiki/Social_media",
       "https://www.dictionary.com/browse/social",
-      "https://realpython.com/cheatsheets/python/"
+      "https://realpython.com/cheatsheets/python/",
+      "https://outlook.office365.com/owa/outlook.office365.com"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -178,7 +179,11 @@
       "https://www.geeksforgeeks.org/devops/introduction-to-docker/",
       "https://www.howtogeek.com/733522/docker-for-beginners-everything-you-need-to-know/",
       "https://pypi.org/project/websockets/",
-      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started"
+      "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started",
+      "https://www.runoob.com/fastapi/fastapi-tutorial.html",
+      "https://fastapi.org.cn/",
+      "https://blog.csdn.net/inuex/article/details/159203950",
+      "https://zhuanlan.zhihu.com/p/1986776514642063467"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -227,7 +232,12 @@
       "https://devgex.com/en/article/00010747",
       "https://www.bomberbot.com/python/scheduling-python-scripts-on-linux-empowering-automation-and-productivity/",
       "https://www.python-engineer.com/posts/cron-jobs-for-python/",
-      "https://about.gitlab.com/blog/what-is-git-the-ultimate-guide-to-gits-role-and-functionality/"
+      "https://about.gitlab.com/blog/what-is-git-the-ultimate-guide-to-gits-role-and-functionality/",
+      "https://devopsvibe.io/en/blog/github-actions-advanced",
+      "https://instadevops.com/blog/advanced-github-actions-patterns/",
+      "https://clouddc.substack.com/p/day-8-github-actions-advanced-patterns",
+      "https://www.youtube.com/watch?v=ffnXbhmCfiQ",
+      "https://devops-daily.com/guides/introduction-to-cicd/07-advanced-workflows-and-automation"
     ]
   },
   "software_factory_jobs": [],

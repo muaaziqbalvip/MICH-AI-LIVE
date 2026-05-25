@@ -235,7 +235,22 @@
         "windows"
       ],
       "added_at": "2026-05-25T02:27:13.962227+00:00"
+    },
+    {
+      "id": "2ecb7ad2",
+      "source_url": "https://fastapi.org.cn/",
+      "title": "FastAPI - FastAPI 框架",
+      "summary": "* FastAPI 支持自动与 JSON 进行相互转换。\n* FastAPI 使用 OpenAPI 对所有内容进行文档化。\n* FastAPI 支持多种语言的自动客户端代码生成系统。\n* FastAPI 提供 2 个交互式文档 Web 界面。\n* FastAPI 依赖于 Pydantic 和 Starlette。\n* FastAPI 支持深度嵌套 JSON 模型的声明。\n* FastAPI 支持 GraphQL 集成。\n* FastAPI 支持 WebSockets 和 CORS。\n* FastAPI 可以部署到 FastAPI Cloud 或其他云服务提供商。\n* FastAPI 根据 MIT 许可证进行许可。",
+      "tags": [
+        "fastapi",
+        "openapi",
+        "json",
+        "graphql",
+        "websockets",
+        "pydantic"
+      ],
+      "added_at": "2026-05-25T03:50:18.929310+00:00"
     }
   ],
-  "last_updated": "2026-05-25T02:27:13.962248+00:00"
+  "last_updated": "2026-05-25T03:50:18.929320+00:00"
 }
