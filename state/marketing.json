@@ -306,7 +306,21 @@
         "marketing"
       ],
       "added_at": "2026-05-25T13:06:13.362603+00:00"
+    },
+    {
+      "id": "a25febef",
+      "source_url": "https://pypi.org/",
+      "title": "PyPI · The Python Package Index",
+      "summary": "* PyPI is a repository for Python software packages.\n* 816,224 projects are available on PyPI.\n* 8,759,902 releases have been published on PyPI.\n* 19,073,187 files are hosted on PyPI.\n* 1,061,609 users are registered on PyPI.\n* PyPI supports package installation and distribution.\n* Package authors can share their software on PyPI.\n* PyPI is supported by various sponsors, including AWS and Google.\n* Supported services include cloud computing, monitoring, and error logging.\n* PyPI provides download analytics and status page services.",
+      "tags": [
+        "python",
+        "pypi",
+        "cloud computing",
+        "package management",
+        "software distribution"
+      ],
+      "added_at": "2026-05-25T15:51:15.978678+00:00"
     }
   ],
-  "last_updated": "2026-05-25T13:06:13.362618+00:00"
+  "last_updated": "2026-05-25T15:51:15.978690+00:00"
 }

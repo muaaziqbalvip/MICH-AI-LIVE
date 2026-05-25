@@ -290,7 +290,27 @@
         "web_dev"
       ],
       "added_at": "2026-05-25T12:38:46.248475+00:00"
+    },
+    {
+      "id": "13d2fcc6",
+      "source_url": "https://www.patterns.dev/react/react-server-components/",
+      "title": "React Server Components - patterns.dev",
+      "summary": "* React Server Components (RSC) can reduce bundle size by 20-40% by keeping non-interactive code on the server.\n* Imports inside Server Components contribute zero to the client-side bundle.\n* Data-fetching code, auth checks, and query builders stay on the server with RSC.\n* Client components should be small and only handle interactivity.\n* File conventions in Next.js App Router include `page.tsx`, `layout.tsx`, `loading.tsx`, `error.tsx`, and `route.ts`.\n* Server Components are suitable for non-interactive page elements like navigation, footer, and headings.\n* Lists of content from a database or CMS can use Server Components with inline data fetching.\n* Forms should use a Client Component for the form fields and submit state, calling a Server Action.\n* Components using `useState`, `useEffect`, or event handlers should be Client Components.\n* Heavy libraries used only for rendering output should be used in Server Components to avoid adding to the client-side bundle.\n* Use `useState`, `useEffect`, or event handlers in Client Components.\n* Keep heavy libraries for rendering output in Server Components.\n* Use `next/dynamic` for interactive widgets to reduce initial load cost.\n* Treat `'use client'` as the exception, declared at the leaves of the tree.\n* Use `use cache` directive to mark functions or components as cacheable.\n* In Next.js 15, APIs like `cookies()`, `headers()`, and `searchParams` are async.\n* RSC support is being adopted by frameworks like Waku, RedwoodJS, and Remi",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-25T15:11:16.958372+00:00"
+    },
+    {
+      "id": "b8eaba4e",
+      "source_url": "https://blog.logrocket.com/react-server-components-comprehensive-guide/",
+      "title": "React Server Components: A comprehensive guide",
+      "summary": "* React Server Components (RSCs) allow for server rendering at the component level.\n* RSCs introduce a new mental model, enabling components to span both server and client realms.\n* Client-side rendering (CSR) can lead to slow websites and poor SEO performance.\n* Server-side rendering (SSR) and static site generation (SSG) can improve rendering performance.\n* SSR renders pages at request time, while SSG occurs at build time.\n* Hydration is the process of making a server-rendered UI interactive with client-side JavaScript.\n* RSCs can seamlessly interweave with Client Components for a blend of server-side efficiency and client-side interactivity.\n* React 18 supports concurrent rendering and RSCs.\n* Next 14 and 15 RC enhance RSC integration.\n* RSCs can improve Core Web Vitals and SEO performance.\n* React Server Components allow UI rendering and caching on the server.\n* Component logic, such as data fetching and database mutations, is executed exclusively on the server.\n* Server Components can import Client Components for dynamic client-side interactivity.\n* Server Components can asynchronously fetch data and pre-render content entirely on the server.\n* The generated HTML template is streamed into the client-side React tree.\n* Server Components never re-render, resulting in faster page loading times.\n* Using Server Components reduces the total JavaScript bundle size and improves page load time.\n* Advantages of Server Components include improved performance, performant SEO, enhanc",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-25T15:38:44.316106+00:00"
     }
   ],
-  "last_updated": "2026-05-25T12:38:46.248490+00:00"
+  "last_updated": "2026-05-25T15:38:44.316122+00:00"
 }
