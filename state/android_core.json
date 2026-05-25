@@ -287,7 +287,37 @@
         "android_core"
       ],
       "added_at": "2026-05-24T18:27:36.554426+00:00"
+    },
+    {
+      "id": "22805e99",
+      "source_url": "https://trricho.medium.com/kotlin-5-advanced-coroutine-patterns-you-must-know-3e8363dbe811",
+      "title": "Kotlin: 5 Advanced Coroutine Patterns You Must Know",
+      "summary": "* Kotlin Coroutines revolutionized asynchronous programming on Android.\n* Mastering advanced coroutine patterns unlocks cleaner, more efficient, and robust code.\n* Custom dispatchers can be created for specialized sequential tasks.\n* `Dispatchers.IO`, `Default`, and `Main` are standard dispatchers in Kotlin.\n* Custom dispatchers provide granular control over thread pools and concurrency.\n* Kotlin's concurrency model is modern and powerful.\n* `viewModelScope.launch` and `withContext` are basic coroutine functions.\n* Advanced coroutine patterns are necessary for handling complex, real-world scenarios.\n* Kotlin remains one of the most loved programming languages, with a 75% developer preference rating.\n* Custom dispatchers can limit concurrency for specific operations, such as interacting with singleton resources.",
+      "tags": [
+        "kotlin",
+        "coroutines",
+        "android",
+        "concurrency",
+        "dispatchers",
+        "viewmodelscope"
+      ],
+      "added_at": "2026-05-25T05:00:56.721422+00:00"
+    },
+    {
+      "id": "bc86bea1",
+      "source_url": "https://github.com/SupunIsharaWK/KotlinCoroutinesDeepDive",
+      "title": "Kotlin Coroutines Deep Dive: From Basics to Advanced Patterns",
+      "summary": "* Kotlin version required: 1.9+\n* Required libraries: kotlinx-coroutines-core, kotlinx-coroutines-android\n* AndroidX Lifecycle required for ViewModel and lifecycleScope\n* Repository structure includes basics, usecases, advanced, and rxjava folders\n* Basics folder covers launch, runBlocking, and viewModelScope\n* Usecases folder covers parallel API calls and retry with backoff\n* Advanced folder covers Flow, SupervisorScope, and lifecycle-aware coroutine usage\n* RxJava folder provides equivalent examples in RxJava and their Coroutine counterparts\n* Project can be cloned and opened with Android Studio or IntelliJ for exploration",
+      "tags": [
+        "kotlin",
+        "coroutines",
+        "androidx",
+        "rxjava",
+        "viewmodel",
+        "lifecycle"
+      ],
+      "added_at": "2026-05-25T05:06:28.791119+00:00"
     }
   ],
-  "last_updated": "2026-05-24T18:27:36.554443+00:00"
+  "last_updated": "2026-05-25T05:06:28.791128+00:00"
 }

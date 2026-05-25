@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 116,
+  "cycle_count": 121,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-25T04:41:15.268650+00:00",
+  "last_checkpoint": "2026-05-25T05:13:39.096393+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -111,7 +111,10 @@
       "https://search.google/",
       "https://accounts.google.com/",
       "https://accounts.google.com/InteractiveLogin?service=safesearchlock",
-      "https://images.google.com/"
+      "https://images.google.com/",
+      "https://m.me/login/",
+      "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en-US",
+      "https://en.wikipedia.org/wiki/Facebook"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -139,7 +142,12 @@
       "https://www.linkedin.com/pulse/multi-module-architecture-manmohan-pal-qnubc",
       "https://developer.android.com/training/dependency-injection/hilt-jetpack",
       "https://medium.com/@chethan.n/viewmodels-with-hilt-and-compose-navigation-c11923df1540",
-      "https://www.rayadams.app/2024/04/07/hilt-dependency-injection-minimum/"
+      "https://www.rayadams.app/2024/04/07/hilt-dependency-injection-minimum/",
+      "https://trricho.medium.com/kotlin-5-advanced-coroutine-patterns-you-must-know-3e8363dbe811",
+      "https://www.linkedin.com/pulse/advanced-coroutine-patterns-kotlin-daniel-cardoso-y97kf",
+      "https://github.com/SupunIsharaWK/KotlinCoroutinesDeepDive",
+      "https://levelup.gitconnected.com/kotlin-coroutines-deep-dive-from-basics-to-advanced-patterns-f00fee370523",
+      "https://softwarepatternslexicon.com/kotlin/behavioral-patterns-in-kotlin/coroutines-patterns/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
