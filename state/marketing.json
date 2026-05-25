@@ -281,7 +281,22 @@
         "bots"
       ],
       "added_at": "2026-05-25T02:39:28.822821+00:00"
+    },
+    {
+      "id": "5c060485",
+      "source_url": "https://www.google.com/",
+      "title": "Google",
+      "summary": "* Google utilizes AI in its search functionality\n* Advanced search options are available for refined queries\n* Search history is stored and can be accessed\n* Search settings can be customized\n* Dark theme is an available display option\n* Google integrates with other apps and services\n* User data is collected and stored in Search\n* Privacy settings are available for user customization\n* Feedback mechanism is available for user input\n* Google has a terms of service agreement",
+      "tags": [
+        "ai",
+        "search",
+        "dark theme",
+        "user data",
+        "privacy settings",
+        "feedback mechanism"
+      ],
+      "added_at": "2026-05-25T04:26:32.414036+00:00"
     }
   ],
-  "last_updated": "2026-05-25T02:39:28.822841+00:00"
+  "last_updated": "2026-05-25T04:26:32.414049+00:00"
 }

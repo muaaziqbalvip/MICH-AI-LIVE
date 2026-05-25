@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 106,
+  "cycle_count": 111,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-25T04:23:56.767222+00:00",
+  "last_checkpoint": "2026-05-25T04:33:41.636358+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -106,7 +106,12 @@
       "https://en.m.wikipedia.org/wiki/Social_media",
       "https://www.dictionary.com/browse/social",
       "https://realpython.com/cheatsheets/python/",
-      "https://outlook.office365.com/owa/outlook.office365.com"
+      "https://outlook.office365.com/owa/outlook.office365.com",
+      "https://www.google.com/",
+      "https://search.google/",
+      "https://accounts.google.com/",
+      "https://accounts.google.com/InteractiveLogin?service=safesearchlock",
+      "https://images.google.com/"
     ],
     "android_core": [
       "https://www.android.com/",
