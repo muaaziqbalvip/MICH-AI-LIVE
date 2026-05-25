@@ -241,7 +241,32 @@
         "information processing"
       ],
       "added_at": "2026-05-24T17:48:03.381975+00:00"
+    },
+    {
+      "id": "41ed3ecf",
+      "source_url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en-GB",
+      "title": "Facebook – Apps on Google Play",
+      "summary": "* Facebook app has video watching issues, including multiple videos playing at once and loud ads.\n* Algorithm shows unwanted content to users.\n* App has notification issues, with some users not receiving notifications for likes and reactions.\n* Search bar glitches and ads can be interruptive during videos.\n* App has a separate friends tab for a friends-only feed.\n* Facebook Groups are a useful feature.\n* In-app purchases are available.\n* Users can interact and share location within the app.\n* Developer contact: facebook.android@fb.com and android-support@fb.com.\n* App version not specified, but has a 4.6-star rating.",
+      "tags": [
+        "algorithm",
+        "video",
+        "notifications",
+        "search",
+        "app",
+        "facebook"
+      ],
+      "added_at": "2026-05-25T00:33:32.639520+00:00"
+    },
+    {
+      "id": "8c1fad88",
+      "source_url": "https://apps.apple.com/us/app/facebook/id284882215",
+      "title": "‎Facebook App - App Store",
+      "summary": "* No technical knowledge is present in the provided text.\n* The text appears to be a personal review or story with no relevance to technical facts or code patterns.\n* No programming languages or software development concepts are mentioned.\n* No data structures or algorithms are discussed.\n* No technical terms or jargon are used.\n* The text is primarily composed of personal anecdotes and emotional expressions.\n* No insights into computer science or technology can be gleaned from the text.\n* The text does not contain any code snippets or examples.\n* No technical problems or solutions are presented.\n* The text is not relevant to technical knowledge extraction.",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-05-25T00:43:00.837920+00:00"
     }
   ],
-  "last_updated": "2026-05-24T17:48:03.381992+00:00"
+  "last_updated": "2026-05-25T00:43:00.837939+00:00"
 }

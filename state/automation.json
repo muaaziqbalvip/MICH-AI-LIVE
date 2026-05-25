@@ -273,7 +273,22 @@
         "automation"
       ],
       "added_at": "2026-05-24T18:06:38.808922+00:00"
+    },
+    {
+      "id": "1b39f13d",
+      "source_url": "https://en.m.wikipedia.org/wiki/Terraform_(software)",
+      "title": "Terraform (software) - Wikipedia",
+      "summary": "* Terraform is a cross-platform software for cloud infrastructure management.\n* It uses a Business Source License.\n* Terraform is used for infrastructure as code (IaC) and orchestration.\n* It supports state locking, state environments, and destroy provisioners.\n* Terraform has official documentation and is available on GitHub.\n* It can be used with various cloud providers.\n* Terraform releases are versioned, with notable releases including 0.9.\n* The software is developed by HashiCorp.\n* Terraform has books and resources available, including \"Terraform: Up & Running\" and \"The Terraform Book\".\n* Terraform is compared to other tools like Chef and Puppet for infrastructure management.",
+      "tags": [
+        "cloud infrastructure",
+        "cross-platform",
+        "infrastructure management",
+        "orchestration",
+        "iac",
+        "github"
+      ],
+      "added_at": "2026-05-25T00:54:46.368059+00:00"
     }
   ],
-  "last_updated": "2026-05-24T18:06:38.808940+00:00"
+  "last_updated": "2026-05-25T00:54:46.368079+00:00"
 }
