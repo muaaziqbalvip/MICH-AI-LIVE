@@ -347,7 +347,32 @@
         "ci/cd"
       ],
       "added_at": "2026-05-25T04:11:14.222584+00:00"
+    },
+    {
+      "id": "b5092a4a",
+      "source_url": "https://gitpython.readthedocs.io/en/stable/tutorial.html",
+      "title": "GitPython Tutorial — GitPython 3.1.50 documentation",
+      "summary": "* GitPython allows access to Git repository objects like commits, trees, and tags.\n* `repo.head.ref` points to the current branch (e.g. master).\n* `repo.tags` and `repo.heads` provide access to tags and branches respectively.\n* `repo.refs` provides access to all references (heads, remotes, tags).\n* New branches can be created using `repo.create_head()`.\n* New tags can be created using `repo.create_tag()`.\n* References point to specific commits or other references.\n* Git objects like commits have additional meta-data (e.g. message).\n* Trees can be traversed to handle all contained files of a particular commit.\n* Remotes allow handling fetch, pull, and push operations with optional progress information.",
+      "tags": [
+        "git",
+        "python",
+        "branches",
+        "tags",
+        "commits",
+        "remotes"
+      ],
+      "added_at": "2026-05-25T13:55:41.381483+00:00"
+    },
+    {
+      "id": "8ba73878",
+      "source_url": "https://www.iditect.com/programming/python-example/automating-some-git-commands-with-python.html",
+      "title": "Automating some git commands with Python - iDiTect.com",
+      "summary": "* Install GitPython using `pip install GitPython`\n* Import GitPython library with `import git`\n* Clone a repository using `git.Repo.clone_from(repo_url, clone_folder)`\n* Add and commit changes with `repo.git.add(A=True)` and `repo.index.commit('Your commit message')`\n* Push changes to a remote branch with `origin = repo.remote(name='origin'); origin.push()`\n* Pull changes from a remote branch with `origin.pull()`\n* Handle exceptions and errors for push and pull operations\n* Replace repository URL, local folder path, and commit message with custom values\n* Ensure necessary permissions to push to the repository\n* Refer to GitPython documentation for advanced use cases and functionalities\n* Python's `subprocess` module can be used to automate Git commands.\n* The `gitpython` library provides a Python interface to Git.\n* `py.test` uses the `tmpdir` fixture to create a temporary folder for the session scope.\n* In C#, `Flush()` is not necessary when using the `using` statement with a stream or writer.\n* Entity Framework does not automatically save related classes.\n* BigQuery query to find column names: `SELECT * FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'table_name'`.\n* In JavaScript, `preventDefault()` can be used with `event.checked` to handle checkbox events.\n* WebSocket connection alive can be implemented using Ping/Pong requests with `ws.send()` and `ws.onmessage`.\n* In Python, a string can be printed multiple times using a loop or the `*` operator.\n* In JavaScript, a ",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-25T14:02:52.405958+00:00"
     }
   ],
-  "last_updated": "2026-05-25T04:11:14.222606+00:00"
+  "last_updated": "2026-05-25T14:02:52.405973+00:00"
 }

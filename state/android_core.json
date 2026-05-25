@@ -332,7 +332,47 @@
         "ios"
       ],
       "added_at": "2026-05-25T13:29:38.743990+00:00"
+    },
+    {
+      "id": "5e830607",
+      "source_url": "https://www.daydreamsoft.com/blog/room-database-complete-guide-for-android-developers-from-basics-to-advanced-implementation",
+      "title": "Room Database Complete Guide for Android Developers: Learn Setup ...",
+      "summary": "* Room Database is a persistence library for Android that simplifies data handling.\n* Room acts as an abstraction layer over SQLite, reducing raw queries and runtime errors.\n* Room enforces compile-time validation, making applications more robust and reliable.\n* Room has three essential components: entities, data access objects (DAOs), and databases.\n* Entities represent the structure of data stored in the database, defining table organization.\n* Data access objects (DAOs) serve as an interface between the application and database.\n* Room reduces boilerplate code and complex queries associated with traditional SQLite use.\n* Room improves overall code quality and maintainability of Android applications.\n* Room supports migrations, allowing for changes to the database schema over time.\n* Room provides a more structured and organized approach to local data storage in Android.\n* Room Database has three main components: entity, data access layer, and database.\n* Room integrates with modern Android development tools and architecture components.\n* It supports asynchronous operations for smooth performance and responsive user experience.\n* Room provides a structured approach to handle database migrations and schema updates.\n* It promotes better architectural practices, such as layered architecture and separation of responsibilities.\n* Room supports lifecycle-aware components for automatic UI updates.\n* It requires careful planning for complex data relationships and migrations in larg",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-25T14:24:49.639795+00:00"
+    },
+    {
+      "id": "8c1166f8",
+      "source_url": "https://daily.dev/blog/android-room-persistence-library-complete-guide/",
+      "title": "Android Room Persistence Library: Complete Guide - daily.dev",
+      "summary": "* Android Room Persistence Library is a part of the Android Jetpack libraries.\n* Room provides an abstraction layer over SQLite databases.\n* It allows for compile-time verification of SQL queries.\n* Room consists of three main components: Entity, DAO, and Database.\n* Entities represent tables in the database.\n* DAOs (Data Access Objects) define interactions with the database.\n* Room supports asynchronous database operations.\n* It provides support for migrations and backup.\n* Room integrates with other Android Jetpack libraries, such as LiveData and ViewModel.\n* Room uses annotation-based configuration for simplicity and readability.",
+      "tags": [
+        "android",
+        "sqlite",
+        "jetpack",
+        "room",
+        "dao",
+        "livedata"
+      ],
+      "added_at": "2026-05-25T14:33:01.421598+00:00"
+    },
+    {
+      "id": "51f7ec5f",
+      "source_url": "https://developer.android.com/compose",
+      "title": "Jetpack Compose UI App Development Toolkit - Android D…",
+      "summary": "* Jetpack Compose is Android's recommended modern toolkit for building native UI.\n* Compose simplifies and accelerates UI development with less code and intuitive Kotlin APIs.\n* Compose is compatible with existing code, allowing for flexible adoption.\n* Compose supports Material Design, Dark theme, animations, and adaptive layouts.\n* Compose uses declarative programming, automatically updating the UI as app state changes.\n* Compose Material 3 Adaptive layouts enable building responsive, adaptive UIs.\n* Compose for Wear OS simplifies building apps for wearable devices.\n* Compose can be combined with View-based UIs using interop.\n* Android Studio provides full support for Compose, including live previews and debugging tools.\n* Compose provides built-in support for accessibility and testing.\n* Jetpack Compose is a UI app development toolkit for Android.\n* Compose supports Wear OS and View-based UIs through interop.\n* Android Studio has built-in features for Compose development.\n* Layouts, theming, and state management are key concepts in Compose.\n* Compose supports light and dark themes.\n* Codelabs and guides are available for learning Compose.\n* Compose integrates with Kotlin and Android Studio.\n* State management patterns are essential for Compose development.\n* Compose is used by major apps like Airbnb, Twitter, and Dropbox.\n* Resources include guides, codelabs, and a Slack community for support.",
+      "tags": [
+        "android",
+        "kotlin",
+        "ui",
+        "jetpack",
+        "compose",
+        "material"
+      ],
+      "added_at": "2026-05-25T14:49:22.642949+00:00"
     }
   ],
-  "last_updated": "2026-05-25T13:29:38.744005+00:00"
+  "last_updated": "2026-05-25T14:49:22.642966+00:00"
 }
