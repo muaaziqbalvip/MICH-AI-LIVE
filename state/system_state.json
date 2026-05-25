@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 91,
+  "cycle_count": 96,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-25T01:46:09.583223+00:00",
+  "last_checkpoint": "2026-05-25T03:15:12.446761+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -102,7 +102,9 @@
       "https://apps.apple.com/us/app/facebook/id284882215",
       "https://apps.microsoft.com/detail/9wzdncrfj2wl",
       "https://secure.facebook.com/login/",
-      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=135de6f7b9186e980d86f193b8866fa0"
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=135de6f7b9186e980d86f193b8866fa0",
+      "https://en.m.wikipedia.org/wiki/Social_media",
+      "https://www.dictionary.com/browse/social"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -168,7 +170,13 @@
       "https://pytutorial.com/fastapi-websockets-tutorial-real-time-python/",
       "https://coderivers.org/blog/websockets-in-python/",
       "https://tailwindcss-com.vercel.app/docs",
-      "https://en.wikipedia.org/wiki/Tailwind_CSS"
+      "https://en.wikipedia.org/wiki/Tailwind_CSS",
+      "https://www.docker.com/",
+      "https://en.wikipedia.org/wiki/Docker_(software)",
+      "https://apps.microsoft.com/detail/xp8cbj40xlbwkx",
+      "https://www.geeksforgeeks.org/devops/introduction-to-docker/",
+      "https://www.howtogeek.com/733522/docker-for-beginners-everything-you-need-to-know/",
+      "https://pypi.org/project/websockets/"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -211,7 +219,13 @@
       "https://github.com/hashicorp/terraform",
       "https://registry.terraform.io/",
       "https://en.wikipedia.org/wiki/Selenium",
-      "https://software-testing-tutorials-automation.com/2025/04/playwright-automation-tutorial.html"
+      "https://software-testing-tutorials-automation.com/2025/04/playwright-automation-tutorial.html",
+      "https://www.geeksforgeeks.org/python/how-to-schedule-python-scripts-as-cron-jobs-with-crontab/",
+      "https://pythonb.org/how-to-schedule-python-scripts-with-cron-jobs/",
+      "https://devgex.com/en/article/00010747",
+      "https://www.bomberbot.com/python/scheduling-python-scripts-on-linux-empowering-automation-and-productivity/",
+      "https://www.python-engineer.com/posts/cron-jobs-for-python/",
+      "https://about.gitlab.com/blog/what-is-git-the-ultimate-guide-to-gits-role-and-functionality/"
     ]
   },
   "software_factory_jobs": [],

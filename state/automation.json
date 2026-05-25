@@ -298,7 +298,41 @@
         "automation"
       ],
       "added_at": "2026-05-25T01:44:36.714265+00:00"
+    },
+    {
+      "id": "c8bdea6f",
+      "source_url": "https://pythonb.org/how-to-schedule-python-scripts-with-cron-jobs/",
+      "title": "How to Schedule Python Scripts with Cron Jobs - PythonB.org",
+      "summary": "* Use absolute paths for files and resources in scripts.\n* Configure virtual environment activation or explicit Python path.\n* Redirect and rotate logs for cron jobs.\n* Ensure scripts are executable and have a proper shebang.\n* Handle time zones consistently, logging in UTC and converting for users.\n* Use clear exit codes (0 for success, non-zero for alerts).\n* Separate concerns with modular functions or separate scripts.\n* Version control cron configurations using text files and automation.\n* Use cron daemon and ensure it's running on the host with proper permissions.\n* Explore alternatives like schedule, APScheduler, Celery, or Airflow for advanced scheduling needs.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-25T02:58:28.875081+00:00"
+    },
+    {
+      "id": "5f2bbbce",
+      "source_url": "https://www.python-engineer.com/posts/cron-jobs-for-python/",
+      "title": "How To Schedule Python Scripts As Cron Jobs With Crontab (Mac/Linux)",
+      "summary": "* Specify the full path to the python executable when using a virtual environment in crontab.\n* Use `~/opt/miniconda3/envs/py38/bin/python` or `~/code/python-task-automation/venv/bin/python` as the executable path.\n* Crontab format is `* * * * * command_to_run`.\n* Command to run is the full path to the python executable followed by the python script path.\n* Example crontab entry: `* * * * * ~/code/python-task-automation/venv/bin/python ~/code/python-task-automation/fetch_github.py`.\n* Use `~/` to specify the home directory in crontab paths.\n* Crontab supports running python scripts using a virtual environment.\n* The python script path should be the full path to the script file.\n* Use `bin/python` to specify the python executable in the virtual environment directory.",
+      "tags": [
+        "python",
+        "crontab",
+        "virtual environment",
+        "miniconda",
+        "python scripts"
+      ],
+      "added_at": "2026-05-25T03:06:38.637838+00:00"
+    },
+    {
+      "id": "50ead077",
+      "source_url": "https://about.gitlab.com/blog/what-is-git-the-ultimate-guide-to-gits-role-and-functionality/",
+      "title": "What is Git? The ultimate guide to Git's role and functionality - GitLab",
+      "summary": "* Git is a decentralized version control system based on branching and merging.\n* Git allows multiple parallel branches, each with its own history but the same root.\n* A branch in Git is a pointer to a change history, pointing to the last commit performed on it.\n* A commit in Git is a record of changes to a software's source code, accompanied by an explanatory message.\n* Branches in Git enable developers to work simultaneously on distinct features without compromising the main branch.\n* Git is an open-source project, free and open to everyone, but requires installation on a device.\n* Commits in Git enable project tracking and allow reversion to earlier, functional versions if needed.\n* Git's branching system is more lightweight than other version control systems.\n* Git enables efficient collaboration among development teams without version conflicts.\n* Git provides a change history, making it easier to track and manage software development projects.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-25T03:13:39.643439+00:00"
     }
   ],
-  "last_updated": "2026-05-25T01:44:36.714284+00:00"
+  "last_updated": "2026-05-25T03:13:39.643456+00:00"
 }

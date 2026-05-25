@@ -192,7 +192,50 @@
         "web_dev"
       ],
       "added_at": "2026-05-24T16:53:01.582276+00:00"
+    },
+    {
+      "id": "afd4173c",
+      "source_url": "https://en.wikipedia.org/wiki/Docker_(software)",
+      "title": "Docker (software) - Wikipedia",
+      "summary": "* A Dockerfile specifies aspects of a Docker container, including Linux distribution and installation commands.\n* Dockerfile instructions include `FROM`, `COPY`, `ENV`, `RUN`, `VOLUME`, and `EXPOSE`.\n* Docker Compose uses YAML files to configure application services and manage multiple containers.\n* `docker-compose.yml` file defines application services and includes configuration options like `build` and `command`.\n* Docker Swarm provides native clustering functionality for Docker containers.\n* Docker Swarm uses the Raft consensus algorithm for managing swarms.\n* `docker swarm` and `docker node` CLI utilities manage Swarm containers and nodes.\n* `docker stack` manages Swarm services with greater flexibility, using a configuration file similar to `docker-compose.yml`.\n* Docker Volume mounts a directory from the Docker volume, specified in the `docker run` command or Dockerfile.\n* Docker Compose and Docker Swarm support commands like `build`, `scale`, and `run` for managing containers.\n* Docker is a containerization platform\n* Docker Compose is used for orchestrating containers\n* Compose file version 3 is a reference for container configuration\n* Docker Compose was first released as version 0.0.1 on December 21, 2013\n* Docker uses a YAML file for container configuration\n* Containers are lightweight and portable\n* Docker provides a layer of abstraction between the container and host OS\n* Docker Compose allows for defining and running multi-container applications\n* Docker uses a ",
+      "tags": [
+        "docker",
+        "linux",
+        "yaml",
+        "raft",
+        "swarm",
+        "containers"
+      ],
+      "added_at": "2026-05-25T02:02:47.091531+00:00"
+    },
+    {
+      "id": "8f77654e",
+      "source_url": "https://www.geeksforgeeks.org/devops/introduction-to-docker/",
+      "title": "What is Docker? - GeeksforGeeks",
+      "summary": "* Docker is not mentioned in the provided text\n* Related topics include DevOps, Terraform, AWS Cloudformation, Prometheus, Grafana, Helm, Kubernetes, DevSecOps\n* Monitoring and Logging is a key aspect of DevOps\n* Security is an important consideration in DevOps\n* Kubernetes is a relevant technology in DevOps\n* DevOps engineering and architecture are key skills\n* AWS is a relevant cloud platform in DevOps\n* Prometheus and Grafana are used for monitoring and logging\n* Helm is used for deploying applications on Kubernetes",
+      "tags": [
+        "kubernetes",
+        "devops",
+        "terraform",
+        "prometheus",
+        "grafana",
+        "helm"
+      ],
+      "added_at": "2026-05-25T02:07:55.074924+00:00"
+    },
+    {
+      "id": "b7110906",
+      "source_url": "https://pypi.org/project/websockets/",
+      "title": "websockets · PyPI",
+      "summary": "* Project name: websockets\n* Package version: 16.0\n* Python version: 3.11\n* Package type: wheel (.whl)\n* Platform: Windows AMD64\n* Hash algorithm: SHA-256 (subject digest)\n* Sigstore transparency entry: 813072072\n* Integration time: January 10, 2026\n* Source repository: python-websockets/websockets\n* Repository commit: d430",
+      "tags": [
+        "websockets",
+        "python",
+        "sha-256",
+        "windows"
+      ],
+      "added_at": "2026-05-25T02:27:13.962227+00:00"
     }
   ],
-  "last_updated": "2026-05-24T16:53:01.582292+00:00"
+  "last_updated": "2026-05-25T02:27:13.962248+00:00"
 }
