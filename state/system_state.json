@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 201,
+  "cycle_count": 206,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T00:18:57.940845+00:00",
+  "last_checkpoint": "2026-05-26T01:00:45.029819+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -60,7 +60,12 @@
       "https://en.wikipedia.org/wiki/OpenCV",
       "https://sourceforge.net/projects/opencvlibrary/",
       "https://www.codecademy.com/catalog/language/python",
-      "https://www.youtube.com/watch?v=Rq5gJVxz55Q"
+      "https://www.youtube.com/watch?v=Rq5gJVxz55Q",
+      "https://www.tutorialspoint.com/python_pillow/python_pillow_batch_processing_images.htm",
+      "https://pillowpython.com/doc/handbook.html",
+      "https://pytutorial.com/python-simple-image-batch-processing-guide/",
+      "https://www.pythonlore.com/batch-processing-of-multiple-images-with-pillow/",
+      "https://realpython.com/image-processing-with-the-python-pillow-library/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -271,7 +276,9 @@
       "https://fastapi.tiangolo.com/async/",
       "https://www.c-sharpcorner.com/article/how-to-build-a-rest-api-with-fastapi-and-async-operations/",
       "https://tech-insider.org/fastapi-tutorial-rest-api-python-2026/",
-      "https://medium.com/@backendbyeli/building-rest-apis-with-fastapi-d05336399283"
+      "https://medium.com/@backendbyeli/building-rest-apis-with-fastapi-d05336399283",
+      "https://realpython.com/get-started-with-fastapi/",
+      "https://www.tutorialspoint.com/fastapi/index.htm"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -337,7 +344,10 @@
       "https://www.codecademy.com/catalog/language/python",
       "https://pypi.org/",
       "https://www.py4e.com/",
-      "https://www.w3schools.com/git/default.asp"
+      "https://www.w3schools.com/git/default.asp",
+      "https://docs.github.com/en/actions/concepts/workflows-and-actions",
+      "https://medium.com/@morepravin1989/mastering-advanced-github-actions-conditional-execution-matrix-strategies-reusable-workflows-49bb4c643312",
+      "https://github.blog/developer-skills/github/7-advanced-workflow-automation-features-with-github-actions/"
     ]
   },
   "software_factory_jobs": [],

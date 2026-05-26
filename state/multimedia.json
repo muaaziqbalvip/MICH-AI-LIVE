@@ -277,7 +277,27 @@
         "scikit-image"
       ],
       "added_at": "2026-05-25T05:53:57.319777+00:00"
+    },
+    {
+      "id": "8874bfd1",
+      "source_url": "https://www.tutorialspoint.com/python_pillow/python_pillow_batch_processing_images.htm",
+      "title": "Python Pillow - Batch Processing of Images - Online Tutorials Library",
+      "summary": "* Python Pillow supports batch processing of images for efficient editing.\n* Batch processing can be used for resizing, cropping, renaming, watermarking, and formatting images.\n* It enhances workflow efficiency and optimizes output, especially with large numbers of images.\n* Pillow's batch processing can significantly impact speed and efficiency.\n* Batch processing can be applied to various image operations like flipping, rotating, and adding borders.\n* ImageDraw module can be used for writing text on images during batch processing.\n* Batch processing can also be used for image filtering, such as blurring, edge detection, and embossing.\n* Pillow's batch processing can handle image sequences and color conversions.\n* Batch processing can be used for image enhancement and correction, such as enhancing contrast and sharpness.\n* Pillow's batch processing can be automated using Python scripts for efficient image editing.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-26T00:33:14.916854+00:00"
+    },
+    {
+      "id": "b1858727",
+      "source_url": "https://realpython.com/image-processing-with-the-python-pillow-library/",
+      "title": "Image Processing With the Python Pillow Library",
+      "summary": "* The `rotate()` method in Pillow rotates an image by a specified angle counterclockwise.\n* The `expand` parameter in `rotate()` can be set to `True` to return a larger image that fully contains the rotated image.\n* An image in Pillow is a 2D array of pixels, where each pixel corresponds to a color.\n* Each pixel can be represented by one or more values (e.g., RGB, RGBA).\n* The `getbands()` method returns the number of bands in an image (e.g., 'R', 'G', 'B' for RGB).\n* The `convert()` method converts an image from one mode to another (e.g., RGB to CMYK or grayscale).\n* Supported modes in Pillow include binary, grayscale, RGB, RGBA, and CMYK.\n* The mode of an image describes the type of image (e.g., RGB, CMYK).\n* RGBA images have four bands: red, green, blue, and alpha (transparency).\n* Image modes can be converted using the `convert()` method (e.g., `img.convert('CMYK')`).",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-26T00:50:03.890470+00:00"
     }
   ],
-  "last_updated": "2026-05-25T05:53:57.319796+00:00"
+  "last_updated": "2026-05-26T00:50:03.890490+00:00"
 }
