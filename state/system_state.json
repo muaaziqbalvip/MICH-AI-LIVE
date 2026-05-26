@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 196,
+  "cycle_count": 201,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T00:02:11.048785+00:00",
+  "last_checkpoint": "2026-05-26T00:18:57.940845+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -58,7 +58,9 @@
       "https://pythonacademy.io/articles/python-moviepy-advanced",
       "https://www.youtube.com/watch?v=OmlAHK2h3vc",
       "https://en.wikipedia.org/wiki/OpenCV",
-      "https://sourceforge.net/projects/opencvlibrary/"
+      "https://sourceforge.net/projects/opencvlibrary/",
+      "https://www.codecademy.com/catalog/language/python",
+      "https://www.youtube.com/watch?v=Rq5gJVxz55Q"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -147,7 +149,8 @@
       "https://github.com/topics/email-marketing?l=python",
       "https://python.plainenglish.io/building-an-email-automation-engine-in-python-from-scratch-c76f3988b760",
       "https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/",
-      "https://login.gov/help/specific-agencies/ssa/"
+      "https://login.gov/help/specific-agencies/ssa/",
+      "https://www.youtube.com/watch?v=Rq5gJVxz55Q"
     ],
     "android_core": [
       "https://www.android.com/",
