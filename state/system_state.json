@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 236,
+  "cycle_count": 241,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T04:00:00.690327+00:00",
+  "last_checkpoint": "2026-05-26T04:48:50.168268+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -376,7 +376,12 @@
       "https://scrapfly.io/blog/posts/playwright-examples-javascript-and-python",
       "https://pypi.org/project/playwright/",
       "https://software-testing-tutorials-automation.com/2025/08/playwright-python-tutorial.html",
-      "https://github.com/microsoft/playwright-python"
+      "https://github.com/microsoft/playwright-python",
+      "https://medium.com/@Scofield_Idehen/writing-python-scripts-to-automate-infrastructure-in-terraform-a20b143ebdda",
+      "https://dev.to/scofieldidehen/writing-python-scripts-to-automate-infrastructure-in-terraform-1li6",
+      "https://coderivers.org/blog/python-terraform/",
+      "https://github.com/Romeshdg/-Automated-Infrastructure-Provisioning-with-Python-and-Terraform-",
+      "https://www.linkedin.com/pulse/infrastructure-code-python-terraform-mihai-vlad-stoica"
     ]
   },
   "software_factory_jobs": [],

@@ -455,7 +455,37 @@
         "chromium"
       ],
       "added_at": "2026-05-26T03:35:34.011514+00:00"
+    },
+    {
+      "id": "7a57bc94",
+      "source_url": "https://medium.com/@Scofield_Idehen/writing-python-scripts-to-automate-infrastructure-in-terraform-a20b143ebdda",
+      "title": "Writing Python scripts to automate infrastructure in Terraform",
+      "summary": "* Terraform supports infrastructure-as-code methodologies for automating infrastructure management.\n* Python can be used to automate infrastructure in Terraform for streamlined operations.\n* Reusing Terraform code promotes consistency and reliability in infrastructure deployment.\n* Leveraging the Python ecosystem enables testing, CI/CD, and reuse in infrastructure management.\n* Terraform and Python can be used together for one-step deployment across modules.\n* Infrastructure-as-code methodologies reduce costs and improve efficiency at scale.\n* Terraform and Python support automation of infrastructure provisioning and management.\n* Python scripts can be used to codify and automate infrastructure management tasks.\n* Terraform modules can be reused across different infrastructure deployments.\n* Combining Terraform and Python enables robust infrastructure management and automation.",
+      "tags": [
+        "terraform",
+        "python",
+        "infrastructure",
+        "automation",
+        "ci/cd",
+        "deployment"
+      ],
+      "added_at": "2026-05-26T04:14:42.503133+00:00"
+    },
+    {
+      "id": "6596a96c",
+      "source_url": "https://coderivers.org/blog/python-terraform/",
+      "title": "Python and Terraform: A Powerful Duo in Infrastructure Management",
+      "summary": "* Terraform is an open-source infrastructure as code (IaC) tool developed by HashiCorp.\n* Terraform uses the HashiCorp Configuration Language (HCL) to define and manage infrastructure.\n* Python can generate Terraform configuration files programmatically using libraries like `os` and `hcl`.\n* Python can interact with the Terraform CLI to automate Terraform commands like `terraform plan` and `terraform apply`.\n* The `hcl` library can be used to parse and generate HCL configuration files in Python.\n* Python scripts can be integrated with Terraform commands to perform tasks like validating configurations and handling output.\n* Data manipulation and pre-processing can be done using Python before passing it to Terraform.\n* Error handling and logging are crucial when working with Python and Terraform together.\n* Python libraries like `boto3` and `azure-mgmt` can be used to interact with cloud providers like AWS and Azure.\n* The `os.environ.get()` function is used to retrieve environment variables, such as `AWS_ACCESS_KEY_ID`.\n* The `terraform.Terraform()` class is used to initialize a Terraform object, specifying a working directory.\n* The `tf.init()` method initializes the Terraform working directory.\n* The `tf.plan()` method generates a Terraform plan.\n* Environment variables can be used to securely manage API keys.\n* The `if __name__ == \"__main__\":` block is used to ensure the `run_terraform_with_api_key()` function runs when the script is executed directly.\n* The `raise ValueErr",
+      "tags": [
+        "terraform",
+        "hashicorp",
+        "python",
+        "hcl",
+        "infrastructure",
+        "automation"
+      ],
+      "added_at": "2026-05-26T04:30:06.024618+00:00"
     }
   ],
-  "last_updated": "2026-05-26T03:35:34.011544+00:00"
+  "last_updated": "2026-05-26T04:30:06.024638+00:00"
 }
