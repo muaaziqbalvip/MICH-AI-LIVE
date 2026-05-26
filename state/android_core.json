@@ -417,7 +417,36 @@
         "android_core"
       ],
       "added_at": "2026-05-26T01:42:33.305660+00:00"
+    },
+    {
+      "id": "6f6c8f4b",
+      "source_url": "https://dictionary.cambridge.org/dictionary/english/compose",
+      "title": "COMPOSE | English meaning - Cambridge Dictionary",
+      "summary": "* Compose is a verb with multiple meanings, including producing art, forming something, becoming calm, and arranging text.\n* In music, compose means to produce music, poetry, or formal writing.\n* In writing, compose can mean to arrange words, sentences, and pages for printing.\n* Compose can also mean to be formed from various things or to be the parts that something is made of.\n* The verb compose is used in different contexts, including music, writing, and self-calming.\n* Compose is related to other words such as composition, compositional, and composer.\n* The verb consist is often used interchangeably with compose, but has slightly different connotations.\n* Comprise is another verb that is similar to compose, but is used to describe what something is made of.\n* Compose can be used in different tenses, but not in continuous forms.\n* The word compose has various synonyms, including orchestrate, reharmonize, and rescore.\n* Compose is a verb used to describe creation or formation of something.\n* It can mean to produce or create music, poems, or writing.\n* Compose can also mean to form or make up something, such as a group or area.\n* It is not used in continuous forms.\n* Compose is often used to describe the structure or components of something.\n* Examples of composition include cells, molecules, and economic landscapes.\n* Compose can be used in various contexts, including art, music, and science.\n* The verb comprise is often confused with compose, but they have different meaning",
+      "tags": [
+        "natural language",
+        "text processing",
+        "music production",
+        "printing technology",
+        "composition software"
+      ],
+      "added_at": "2026-05-26T14:59:55.528937+00:00"
+    },
+    {
+      "id": "9bb9306b",
+      "source_url": "https://github.com/JetBrains/compose-multiplatform",
+      "title": "GitHub - JetBrains/compose-multiplatform: Compose Multiplat…",
+      "summary": "* Compose Multiplatform is a declarative UI framework for sharing code across multiple platforms with Kotlin.\n* Based on Jetpack Compose, developed by JetBrains and open-source contributors.\n* Supports sharing UI code across iOS, Android, Desktop (Windows, MacOS, Linux), and Web (Beta) platforms.\n* Shares most of its API with Jetpack Compose, allowing for shared UI code between Android and iOS.\n* Built on top of Kotlin Multiplatform, enabling access to native APIs and embedding native UI views.\n* Supports high-performance hardware-accelerated UI rendering on desktop platforms.\n* Provides desktop extensions for menus, keyboard shortcuts, window manipulation, and notification management.\n* Web support is in Beta, with a public Slack channel for feedback and YouTrack for issue reporting.\n* Allows for sharing mobile or desktop UIs with the web.\n* Uses Kotlin as the primary programming language.\n* Compose Multiplatform is a modern UI framework for Kotlin.\n* It uses Kotlin/Wasm for web targets, allowing code to run in browsers with WebAssembly benefits.\n* Compose HTML is a library for creating web UIs with HTML and CSS, targeting Kotlin/JS.\n* Compose Multiplatform supports multiple platforms, including web, iOS, desktop, and Android.\n* It uses a declarative UI approach and is reactive.\n* The project is licensed under Apache-2.0.\n* Kotlin is the primary language used (98.7% of the codebase).\n* Compose Multiplatform has a dedicated public Slack channel (#compose) and issue tracking o",
+      "tags": [
+        "kotlin",
+        "jetpack",
+        "multiplatform",
+        "ui framework",
+        "cross-platform",
+        "android"
+      ],
+      "added_at": "2026-05-26T15:00:02.183189+00:00"
     }
   ],
-  "last_updated": "2026-05-26T01:42:33.305678+00:00"
+  "last_updated": "2026-05-26T15:00:02.183200+00:00"
 }
