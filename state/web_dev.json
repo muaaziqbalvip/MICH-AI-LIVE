@@ -335,7 +335,32 @@
         "literals"
       ],
       "added_at": "2026-05-26T01:07:23.578421+00:00"
+    },
+    {
+      "id": "df67f52b",
+      "source_url": "https://www.geeksforgeeks.org/devops/architecture-of-docker/",
+      "title": "Architecture of Docker - GeeksforGeeks",
+      "summary": "* Docker uses private registries (e.g. Harbor, AWS ECR) to store proprietary images.\n* `docker pull` downloads an image from a registry, while `docker push` uploads a local image.\n* Docker objects include images, containers, volumes, and networks.\n* Images are read-only templates built from Dockerfiles, with layered architecture for efficient builds.\n* Containers are runnable instances of images, isolated from each other and the host machine.\n* Docker storage options include volumes, bind mounts, and tmpfs mounts for data persistence.\n* Volumes are the preferred storage mechanism, managed by Docker and stored on the host filesystem.\n* Docker networking provides isolation for containers, with types including bridge, host, overlay, none, and macvlan.\n* Each container has its own filesystem, networking, and process space, and can be created, started, stopped, or deleted using the Docker API or CLI.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-26T03:42:42.242928+00:00"
+    },
+    {
+      "id": "68cf1080",
+      "source_url": "https://docs.docker.com/desktop/setup/install/windows-install/",
+      "title": "Install Docker Desktop on Windows",
+      "summary": "* Docker Desktop on Windows supports both Windows and Linux containers.\n* Switching between Windows and Linux containers changes available settings tabs.\n* Proxies and daemon configurations are container-type specific.\n* Settings for Windows containers are retained when switching to Linux containers.\n* Docker Desktop settings are not shared between Windows and Linux containers.\n* Docker provides subscriptions, troubleshooting, FAQs, and release notes.\n* Backing up and restoring Docker data is a supported feature.\n* Docker Desktop has a settings panel for configuration.\n* Container type (Windows or Linux) determines available features and settings.",
+      "tags": [
+        "docker",
+        "linux",
+        "containers",
+        "windows",
+        "proxies",
+        "daemon"
+      ],
+      "added_at": "2026-05-26T03:50:53.112834+00:00"
     }
   ],
-  "last_updated": "2026-05-26T01:07:23.578439+00:00"
+  "last_updated": "2026-05-26T03:50:53.112848+00:00"
 }

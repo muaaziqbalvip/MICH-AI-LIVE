@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 231,
+  "cycle_count": 236,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T03:37:06.541849+00:00",
+  "last_checkpoint": "2026-05-26T04:00:00.690327+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -298,7 +298,10 @@
       "https://realpython.com/get-started-with-fastapi/",
       "https://www.tutorialspoint.com/fastapi/index.htm",
       "https://tailwindcss.com/plus",
-      "https://jsschools.com/tailwind/component-patterns/"
+      "https://jsschools.com/tailwind/component-patterns/",
+      "https://www.geeksforgeeks.org/devops/architecture-of-docker/",
+      "https://docs.docker.com/desktop/setup/install/windows-install/",
+      "https://www.docker.com/products/docker-desktop/"
     ],
     "automation": [
       "https://www.selenium.dev/",
