@@ -414,7 +414,61 @@
         "optimization"
       ],
       "added_at": "2026-05-26T17:08:44.612173+00:00"
+    },
+    {
+      "id": "8fedb4cf",
+      "source_url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+      "title": "SEO Starter Guide: The Basics | Google Search Central ...",
+      "summary": "* SEO stands for Search Engine Optimization, helping search engines understand content and users find a site.\n* Google Search uses automated crawlers to explore the web and add pages to its index.\n* Following Search Essentials makes a website more likely to appear in Google's search results.\n* SEO improvements can take hours to months to be reflected in search results.\n* Changes to a website may not always result in noticeable impact in search results.\n* Google discovers, crawls, and serves web pages automatically, with most sites being added without manual intervention.\n* Waiting a few weeks is recommended to assess the effects of SEO changes on Google Search results.\n* Iterating on changes can help if initial results are not satisfactory.\n* Checking if Google has already found a site's content is a preliminary step before making SEO changes.\n* Add descriptive alt text to images using the `alt` attribute of the `img` element.\n* Optimize videos by creating high-quality content and embedding on standalone pages with relevant text.\n* Write descriptive text in video titles and description fields.\n* Promote website through social media, community engagement, and word of mouth.\n* Use offline promotion methods like business cards, letterhead, and newsletters.\n* Avoid over-promoting, as it can harm search engine rankings.\n* Use the `title` attribute for video titles, following best practices for writing titles.\n* Embed videos on pages with relevant text to improve video search resul",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-05-26T17:37:45.984956+00:00"
+    },
+    {
+      "id": "95c981c9",
+      "source_url": "https://www.seo.com/basics/glossary/seo/",
+      "title": "What Is SEO? Search Engine Optimization Guide for 2026",
+      "summary": "* Google maintains 79% of desktop search market share\n* AI is emerging as a powerful search tool and will integrate with Google\n* Google is developing AI technologies like Gemini to enhance search capabilities\n* SEO has on-page, technical, off-page, and local components\n* SEO ranking factors are crucial for search engine optimization\n* Tailored SEO strategies are necessary for different businesses and industries\n* SEO experience and expertise are essential for successful implementation\n* SEO analytics are necessary to measure and improve SEO results\n* SEO content is a key component of a successful SEO strategy\n* Technical SEO is a critical aspect of search engine optimization",
+      "tags": [
+        "ai",
+        "seo",
+        "google",
+        "gemini",
+        "analytics"
+      ],
+      "added_at": "2026-05-26T17:51:56.745963+00:00"
+    },
+    {
+      "id": "16cfc801",
+      "source_url": "https://ahrefs.com/seo",
+      "title": "SEO: The Complete Guide for Beginners - Ahrefs",
+      "summary": "* Search engines build indexes, rank pages, and personalize results.\n* Four main facets of SEO: setting up for success, getting on Google, tracking success, and SEO fundamentals.\n* Keyword research involves understanding target customer searches, types of keywords, and prioritizing keywords.\n* SEO content creation involves understanding SEO content basics and creating content that ranks.\n* On-page SEO involves optimizing pages with target keywords, header tags, title tags, and meta descriptions.\n* SEO-friendly URLs, internal links, and external links are important for on-page SEO.\n* Image optimization and schema markup can improve search engine understanding.\n* User experience and content gaps are important for on-page SEO optimization.\n* Tracking on-page SEO performance is crucial for improvement.\n* Zero-click search and rich results can be achieved with optimization and schema markup.",
+      "tags": [
+        "seo",
+        "search",
+        "keywords",
+        "optimization",
+        "ranking",
+        "engines"
+      ],
+      "added_at": "2026-05-26T17:56:03.137493+00:00"
+    },
+    {
+      "id": "500100de",
+      "source_url": "https://en.wikipedia.org/wiki/Search_engine_optimization",
+      "title": "Search engine optimization - Wikipedia",
+      "summary": "* Writing content with frequently searched keyword phrases increases traffic.\n* Updating content keeps search engines crawling back, giving additional weight to a site.\n* Adding relevant keywords to metadata (title tag, meta description) improves search listings.\n* URL canonicalization helps links to different versions of a URL count towards the page's link popularity score.\n* White hat SEO techniques conform to search engines' guidelines, involve no deception, and promote accessibility.\n* Black hat SEO attempts to improve rankings through disapproved methods, such as hidden text or cloaking.\n* Grey hat SEO uses methods that avoid penalties but don't produce the best content for users.\n* Search engines may penalize sites using black or grey hat methods.\n* 301 redirects can help with URL canonicalization.\n* Canonical link element can be used to specify preferred version of a URL.\n* Keyword proximity affects search engine ranking.\n* Search engines do not pay for organic search traffic.\n* Algorithms used by search engines are subject to change.\n* No guarantees of continued referrals from search engines.\n* Return on investment (ROI) from SEO can be adequate.\n* Keyword placement is important for search engine optimization.\n* Search engine traffic can be uncertain and unpredictable.\n* Businesses relying on search engine traffic are vulnerable to algorithm changes.\n* Organic search traffic is free, but rankings are not guaranteed.",
+      "tags": [
+        "seo",
+        "metadata",
+        "canonicalization",
+        "redirects",
+        "keywords",
+        "crawling"
+      ],
+      "added_at": "2026-05-26T18:11:36.328624+00:00"
     }
   ],
-  "last_updated": "2026-05-26T17:08:44.612193+00:00"
+  "last_updated": "2026-05-26T18:11:36.328637+00:00"
 }

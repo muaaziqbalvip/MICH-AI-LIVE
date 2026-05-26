@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 286,
+  "cycle_count": 291,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T17:10:48.719532+00:00",
+  "last_checkpoint": "2026-05-26T18:19:06.989321+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -182,7 +182,13 @@
       "https://blog.coupler.io/facebook-ads-api/",
       "https://pontalk.com/automate-your-email-marketing-with-python/",
       "https://medium.com/@theethicsgeek/streamlining-email-marketing-campaigns-with-python-automation-b376a4ac42e5",
-      "https://codezup.com/python-email-marketing-automation/"
+      "https://codezup.com/python-email-marketing-automation/",
+      "https://moz.com/learn/seo/what-is-seo",
+      "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+      "https://www.seo.com/basics/glossary/seo/",
+      "https://ahrefs.com/seo",
+      "https://en.wikipedia.org/wiki/Search_engine_optimization",
+      "https://www.google.com.ai/webhp?hl=en&gl=ai"
     ],
     "android_core": [
       "https://www.android.com/",
