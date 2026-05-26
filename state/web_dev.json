@@ -360,7 +360,52 @@
         "daemon"
       ],
       "added_at": "2026-05-26T03:50:53.112834+00:00"
+    },
+    {
+      "id": "fcdc4e26",
+      "source_url": "https://www.typescriptlang.org/",
+      "title": "TypeScript: JavaScript With Syntax For Types.",
+      "summary": "* TypeScript is a strongly typed programming language that builds on JavaScript.\n* TypeScript adds syntax for types to JavaScript, enabling better tooling and error checking.\n* TypeScript code converts to JavaScript, which runs anywhere JavaScript runs.\n* TypeScript uses type inference to provide great tooling without additional code.\n* The `// @ts-check` comment enables TypeScript checking in JavaScript files.\n* JSDoc comments can be used to provide type information in JavaScript files.\n* TypeScript supports interfaces to describe the shape of objects and functions.\n* The `interface` keyword is used to define a TypeScript interface.\n* TypeScript provides auto-complete, editor checks, and other features to improve development.\n* TypeScript can be adopted gradually, with types added incrementally to existing JavaScript projects.\n* TypeScript is a superset of JavaScript that adds optional static typing.\n* Interfaces are used to define the shape of objects, e.g., `interface Account { id: number; displayName: string; version: 1 }`.\n* Type aliases can be used to define union types, e.g., `type Result = \"pass\" | \"fail\"`.\n* TypeScript code is compiled to JavaScript, with types being removed in the process.\n* Editor integration provides features like code completion, documentation, and issue detection.\n* TypeScript supports various frameworks and libraries, including Angular, Vue, Jest, and Redux.\n* TypeScript is widely adopted, with 78% of 2020 State of JS respondents using it.\n* Ty",
+      "tags": [
+        "typescript",
+        "javascript",
+        "tooling",
+        "syntax",
+        "interfaces",
+        "inference"
+      ],
+      "added_at": "2026-05-26T15:03:20.151109+00:00"
+    },
+    {
+      "id": "ea2b988d",
+      "source_url": "https://www.runoob.com/typescript/ts-tutorial.html",
+      "title": "TypeScript 教程 | 菜鸟教程",
+      "summary": "* TypeScript 是 JavaScript 的超集，支持 ECMAScript 6 标准（ES6）。\n* TypeScript 由微软开发，增加了静态类型检查的超集。\n* TypeScript 设计目标是开发大型应用，可以编译成纯 JavaScript。\n* TypeScript 的主要优势包括静态类型检查、强大的 IDE 支持、更好的代码可读性和现代 JavaScript 特性。\n* TypeScript 不能直接在浏览器中运行，需要先编译为 JavaScript。\n* TypeScript 编译器 (tsc) 在编译过程中进行类型检查，如果发现类型错误会报错并阻止编译。\n* TypeScript 的核心增强能力包括类型批注、类型推断、类型擦除、接口、枚举、泛型和 mixin。\n* TypeScript 支持 ES2015 的语法，包括类、模块、箭头函数、可选参数和默认参数。\n* TypeScript 可以处理已有的 JavaScript 代码，并只对其中的 TypeScript 代码进行编译。\n* TypeScript 与 JavaScript 代码可以一起工作无需任何修改\n* TypeScript 通过类型注解提供编译时的静态类型检查\n* TypeScript 可处理已有的 JavaScript 代码，并只对其中的 TypeScript 代码进行编译\n* TypeScript 支持类型注解，如 `const hello: string = \"Hello World!\"`\n* TypeScript 可以输出内容，如 `console.log(hello)`\n* TypeScript 需要安装后才能使用\n* TypeScript 是一种静态类型检查语言\n* TypeScript 支持 JavaScript 代码的兼容性\n* TypeScript 可以与其他编程语言一起使用，如 JavaScript、HTML、CSS\n* TypeScript 提供了类型安全和编译时检查的功能",
+      "tags": [
+        "typescript",
+        "javascript",
+        "ecmascript",
+        "static typing",
+        "compiler",
+        "ide"
+      ],
+      "added_at": "2026-05-26T15:03:27.385523+00:00"
+    },
+    {
+      "id": "81bcb5f4",
+      "source_url": "https://www.tslang.cn/",
+      "title": "TypeScript中文网 · TypeScript——JavaScript的超集",
+      "summary": "* TypeScript is a superset of JavaScript that can be compiled to plain JavaScript.\n* TypeScript is open-source and can run on any browser, machine, and operating system.\n* TypeScript supports type checking, which helps catch errors and improves code quality.\n* TypeScript is compatible with existing JavaScript code and libraries.\n* TypeScript can be used with popular frameworks like Preact, Webpack, and Node.js.\n* TypeScript has optional static typing, which can improve code maintainability and scalability.\n* TypeScript supports meta-programming and has a powerful type system.\n* TypeScript integrates well with tools like VS Code, providing features like IntelliSense and error messages.\n* TypeScript can help reduce bugs and improve code clarity through type inference and rationalization.\n* TypeScript is widely adopted and has a growing community of developers who use it for large-scale applications.\n* TypeScript is a superset of JavaScript that adds optional static typing and other features.\n* TypeScript supports the latest JavaScript features, including those from ECMAScript 2015 and future proposals.\n* TypeScript code is compiled to plain JavaScript that can run on any JavaScript engine.\n* TypeScript supports type inference, type checking, and code refactoring.\n* TypeScript can be used with popular editors and IDEs, including Visual Studio, Visual Studio Code, Sublime Text, and Atom.\n* The TypeScript compiler can be installed using npm with the command `npm install -g typescr",
+      "tags": [
+        "typescript",
+        "javascript",
+        "node.js",
+        "webpack",
+        "preact",
+        "intellisense"
+      ],
+      "added_at": "2026-05-26T15:03:37.000585+00:00"
     }
   ],
-  "last_updated": "2026-05-26T03:50:53.112848+00:00"
+  "last_updated": "2026-05-26T15:03:37.000598+00:00"
 }

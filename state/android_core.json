@@ -446,7 +446,17 @@
         "android"
       ],
       "added_at": "2026-05-26T15:00:02.183189+00:00"
+    },
+    {
+      "id": "e9e8a4e1",
+      "source_url": "https://www.tomsguide.com/phones/android-phones/android-17-changes-worth-paying-attention-to",
+      "title": "I tried Android 17, and these are the 5 changes I love most",
+      "summary": "* Android 17 is the latest version of the Android operating system.\n* Google has shifted to a more accelerated release cycle for Android updates.\n* Major Android versions are now released mid-year, instead of alongside new Pixel launches.\n* Feature drops will follow around the Pixel launch, typically in August or September.\n* Android 16 was the previous version of the Android operating system, released last year.\n* Google's new release cycle includes stable Android releases mid-year.\n* Android 17 introduces a new feature called App Bubbles, allowing full apps to run in floating windows.\n* App Bubbles can be launched by pressing and holding an app icon and tapping the bubble option.\n* Multiple App Bubbles can be active at once and moved around together.\n* Android 17 improves screen recording features, including options to record device audio, microphone audio, or show touches.\n* Screen recording now includes a pill-shaped overlay with a clearly labeled stop button.\n* Android 17 is being released with a mid-year stable update and feature drops around the Pixel launch.\n* Google Pixel phones and other devices will support App Bubbles out of the box.\n* App Bubbles are similar to Facebook Messenger's chat heads, but for full apps.\n* Android 17's screen recording feature allows recording of the entire screen or a single app.\n* The update is expected to be particularly useful for foldable devices.\n* Android 17 introduces a new pill-shaped overlay for screen recording with a stop butt",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-26T15:08:09.915742+00:00"
     }
   ],
-  "last_updated": "2026-05-26T15:00:02.183200+00:00"
+  "last_updated": "2026-05-26T15:08:09.915756+00:00"
 }

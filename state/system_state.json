@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 261,
+  "cycle_count": 266,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T15:02:42.209221+00:00",
+  "last_checkpoint": "2026-05-26T15:08:12.148802+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -173,7 +173,8 @@
       "https://factorydirectsales.net/",
       "https://factorydirectsales.net/ht.php",
       "https://factorydirectsales.net/ss.php",
-      "https://factorydirectsales.net/products/legend_series/legend_series_comapre.php"
+      "https://factorydirectsales.net/products/legend_series/legend_series_comapre.php",
+      "https://mail.aol.com/m"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -232,7 +233,8 @@
       "https://android-developers.googleblog.com/2025/11/leveling-guide-for-your-performance.html",
       "https://daily.dev/blog/android-app-performance-optimization-guide-2024/",
       "https://dictionary.cambridge.org/dictionary/english/compose",
-      "https://github.com/JetBrains/compose-multiplatform"
+      "https://github.com/JetBrains/compose-multiplatform",
+      "https://www.tomsguide.com/phones/android-phones/android-17-changes-worth-paying-attention-to"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
@@ -308,7 +310,12 @@
       "https://jsschools.com/tailwind/component-patterns/",
       "https://www.geeksforgeeks.org/devops/architecture-of-docker/",
       "https://docs.docker.com/desktop/setup/install/windows-install/",
-      "https://www.docker.com/products/docker-desktop/"
+      "https://www.docker.com/products/docker-desktop/",
+      "https://www.typescriptlang.org/",
+      "https://www.runoob.com/typescript/ts-tutorial.html",
+      "https://www.tslang.cn/",
+      "https://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html",
+      "https://zhuanlan.zhihu.com/p/267778856"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -388,7 +395,12 @@
       "https://dev.to/scofieldidehen/writing-python-scripts-to-automate-infrastructure-in-terraform-1li6",
       "https://coderivers.org/blog/python-terraform/",
       "https://github.com/Romeshdg/-Automated-Infrastructure-Provisioning-with-Python-and-Terraform-",
-      "https://www.linkedin.com/pulse/infrastructure-code-python-terraform-mihai-vlad-stoica"
+      "https://www.linkedin.com/pulse/infrastructure-code-python-terraform-mihai-vlad-stoica",
+      "https://github.com/",
+      "https://github-cn.com/",
+      "https://zhuanlan.zhihu.com/p/369486197",
+      "https://baike.baidu.com/item/github/10145341",
+      "https://github.net.cn/zh/get-started/quickstart"
     ]
   },
   "software_factory_jobs": [],

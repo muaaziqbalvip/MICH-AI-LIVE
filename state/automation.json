@@ -485,7 +485,37 @@
         "automation"
       ],
       "added_at": "2026-05-26T04:30:06.024618+00:00"
+    },
+    {
+      "id": "ae56a88d",
+      "source_url": "https://github.com/",
+      "title": "GitHub · Change is constant. GitHub keeps you ahead.",
+      "summary": "* GitHub Copilot: AI-powered code assistant for writing, testing, and fixing code\n* GitHub Actions: Automate CI/CD for secure and reliable deployment\n* GitHub Codespaces: Cloud-based development environment for instant coding\n* GitHub Mobile: Manage projects and assign tasks on-the-go\n* GitHub Marketplace: Extend toolchain with apps, actions, and AI models\n* Copilot Autofix: Automatic bug fixing and code optimization\n* GitHub Advanced Security: Identify and fix security vulnerabilities\n* Dependabot: Update vulnerable dependencies with supported fixes\n* GitHub Secret Protection: Detect and prevent secret leaks\n* GitHub Code Security: Reduce application vulnerabilities with security campaigns\n* GitHub Secret Protection detects and remediates leaked secrets across organizations.\n* Copilot Autofix reduces Mean Time To Repair (MTTR) by 70%.\n* Push protection stopped 8.3M secret leaks in the past 12 months.\n* GitHub Projects helps with high-level roadmaps and everyday task organization.\n* GitHub Issues and pull requests are used for task management and code review.\n* GitHub Discussions enables open-ended conversations alongside projects.\n* Code review can be assigned to Copilot for increased speed and quality.\n* GitHub Sponsors allows funding of open source projects and libraries.\n* GitHub Copilot is available for trying and integrating into development workflows.\n* GitHub provides solutions for various industries, including technology, automotive, and financial services.",
+      "tags": [
+        "ai",
+        "cloud",
+        "ci/cd",
+        "github",
+        "automation",
+        "security"
+      ],
+      "added_at": "2026-05-26T15:05:18.848600+00:00"
+    },
+    {
+      "id": "352af70d",
+      "source_url": "https://github-cn.com/",
+      "title": "GitHub 中文社区 - 深度开源技术解读与趋势洞察",
+      "summary": "* GitHub 中文社区提供深度开源技术解读和趋势洞察。\n* 项目收录标准基于多维度数据和社区活跃度综合评估。\n* 主要编程语言包括 Python、TypeScript、JavaScript 和 C。\n* 热门项目包括 public-apis、free-programming-books 和 openclaw。\n* 开源项目涉及 AI、Web3、数据可视化和网络服务等领域。\n* 项目评估标准包括清晰价值、可落地性和社区活跃度。\n* GitHub 中文社区致力于解决项目发现难、文档理解难和技术选型难的问题。\n* 人工精选项目可以帮助开发者发现高质量的开源资源。\n* 项目分类包括机器学习、数据科学、网络开发和系统设计等。\n* 代理工具包括Oh-My-OpenCode、Clash、Hysteria2、V2ray、Hysteria等。\n* 编程语言包括TypeScript、Rust、Python、Shell等。\n* 项目框架包括LangChain、LangGraph、RSSHub等。\n* AI代理工具包括DeepAgents、Qwen、Unsloth等。\n* 开源项目平台包括GitHub、Discord等。\n* 项目开发工具包括Codex、OpenCode、Gemini等。\n* 网页界面工具包括Unsloth Studio等。\n* 开源项目推荐平台包括GitHub-CN等。\n* 代码质量评估标准包括Issues区维护、PR合并情况等。\n* 开源项目选择标准包括活跃度、代码可读性、文档质量等。",
+      "tags": [
+        "ai",
+        "web3",
+        "javascript",
+        "python",
+        "typescript",
+        "data visualization"
+      ],
+      "added_at": "2026-05-26T15:05:26.835355+00:00"
     }
   ],
-  "last_updated": "2026-05-26T04:30:06.024638+00:00"
+  "last_updated": "2026-05-26T15:05:26.835366+00:00"
 }
