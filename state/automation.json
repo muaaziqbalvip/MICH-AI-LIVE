@@ -410,7 +410,52 @@
         "tutorials"
       ],
       "added_at": "2026-05-26T00:01:38.394431+00:00"
+    },
+    {
+      "id": "449221cd",
+      "source_url": "https://scrapfly.io/blog/posts/playwright-examples-javascript-and-python",
+      "title": "Playwright Examples for Web Scraping and Automation - Scrapfly Blog",
+      "summary": "* Playwright allows interaction with browser local storage using the `evaluate` function.\n* Cookies can be captured using `page.context().cookies()` in JavaScript and `page.context.cookies()` in Python.\n* Playwright can launch a new browser instance using `chromium.launch()` in JavaScript and `p.chromium.launch()` in Python.\n* Pages can be created using `browser.newPage()` in JavaScript and `browser.new_page()` in Python.\n* Navigation to a URL can be done using `page.goto()` in both JavaScript and Python.\n* Form fields can be filled using `page.fill()` and buttons can be clicked using `page.click()`.\n* Login sessions can be reused by saving and loading cookies using `page.context().cookies()` in JavaScript and `page.context.cookies()` in Python.\n* Waiting for a specific URL can be done using `page.waitForURL()` in JavaScript and `page.wait_for_url()` in Python.\n* Browser instances can be closed using `browser.close()` in both JavaScript and Python.\n* Playwright supports both JavaScript and Python for web scraping and automation.\n* `browser.close()` is used to close the browser in JavaScript.\n* `sync_playwright()` is used to launch the browser in Python.\n* `p.chromium.launch()` launches a Chromium browser instance in Python.\n* `page.goto()` navigates to a specific URL in both JavaScript and Python.\n* `page` object is used to interact with the browser page in both languages.\n* `TimeoutError` can be handled when using `sync_playwright()` in Python.\n* Playwright can handle cookie",
+      "tags": [
+        "browser",
+        "cookies",
+        "javascript",
+        "python",
+        "playwright",
+        "chromium"
+      ],
+      "added_at": "2026-05-26T03:19:26.802130+00:00"
+    },
+    {
+      "id": "8946d72f",
+      "source_url": "https://pypi.org/project/playwright/",
+      "title": "playwright · PyPI",
+      "summary": "* Playwright is a Python package available on PyPI.\n* Supported by various sponsors including AWS, Datadog, and Google.\n* Integrates with services like Depot for Continuous Integration.\n* Uses services like Fastly for CDN and Pingdom for monitoring.\n* Error logging is handled by Sentry.\n* StatusPage is used for status page management.\n* Datadog is used for monitoring.\n* Google is used for download analytics.\n* AWS is used for cloud computing and security.\n* Playwright package has a unique hash (ee2c5a67) for verification.",
+      "tags": [
+        "python",
+        "pypi",
+        "aws",
+        "datadog",
+        "cdn",
+        "monitoring"
+      ],
+      "added_at": "2026-05-26T03:24:35.266799+00:00"
+    },
+    {
+      "id": "83dd5cf9",
+      "source_url": "https://github.com/microsoft/playwright-python",
+      "title": "GitHub - microsoft/playwright-python: Python version of the Playwright …",
+      "summary": "* Playwright is available in Node.js, .NET, Java, and Python.\n* Playwright supports Firefox, Chromium, and WebKit browsers.\n* The Python version of Playwright is licensed under Apache-2.0.\n* The library is used for testing and automation.\n* The project has 14.7k stars, 152 watchers, and 1.2k forks on GitHub.\n* The latest release is v1.60.0, released on May 18, 2026.\n* The project has 104 releases in total.\n* The code is primarily written in Python (99.1%).\n* The project has a code of conduct and security policy.\n* The documentation for the Python version is available at playwright.dev/python/.",
+      "tags": [
+        "node.js",
+        ".net",
+        "java",
+        "python",
+        "firefox",
+        "chromium"
+      ],
+      "added_at": "2026-05-26T03:35:34.011514+00:00"
     }
   ],
-  "last_updated": "2026-05-26T00:01:38.394449+00:00"
+  "last_updated": "2026-05-26T03:35:34.011544+00:00"
 }

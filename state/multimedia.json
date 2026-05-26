@@ -322,7 +322,17 @@
         "multimedia"
       ],
       "added_at": "2026-05-26T02:13:27.893437+00:00"
+    },
+    {
+      "id": "46fe163e",
+      "source_url": "https://kkroening.github.io/ffmpeg-python/",
+      "title": "ffmpeg-python: Python bindings for FFmpeg - GitHub Pages",
+      "summary": "* `me_num` variable default value is 0\n* `tabsize` default value is 4\n* `timecode` format is \"hh:mm:ss[:;.]ff\"\n* `timecode_rate` is an alias for `rate` and `r`\n* `tc24hmax` default value is 0 (disabled)\n* `text` and `textfile` parameters are mutually exclusive\n* `x` and `y` expressions can use constants like `dar`, `hsub`, `vsub`, `line_h`, `main_h`, `main_w`, `ascent`, `descent`\n* `rand(min, max)` function returns a random number between `min` and `max`\n* `sar` is the sample aspect ratio\n* `hsub` and `vsub` are horizontal and vertical chroma subsample values\n* `th` and `text_h` represent the height of rendered text.\n* `tw` and `text_w` represent the width of rendered text.\n* `x` and `y` represent the offset coordinates where the text is drawn.\n* `sar` represents the input sample aspect ratio.\n* `t` represents the timestamp in seconds.\n* `filter_` function applies a custom filter to a stream, taking `stream_spec`, `filter_name`, `*args`, and `**kwargs` as parameters.\n* `filter_multi_output` function applies a custom filter with one or more outputs.\n* `hflip` function flips the input video horizontally.\n* `hue` function modifies the hue and/or saturation of the input, taking `h`, `s`, `H`, and `b` as parameters.\n* `overlay` function overlays one video on top of another, taking `x` and `eof_action` as parameters.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-26T02:54:08.844374+00:00"
     }
   ],
-  "last_updated": "2026-05-26T02:13:27.893455+00:00"
+  "last_updated": "2026-05-26T02:54:08.844397+00:00"
 }

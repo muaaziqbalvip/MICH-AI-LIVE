@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 226,
+  "cycle_count": 231,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T02:36:51.144998+00:00",
+  "last_checkpoint": "2026-05-26T03:37:06.541849+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -71,7 +71,12 @@
       "https://filethings.net/ffmpeg-filter-complex-multiple-filters/",
       "https://www.mpegflow.com/topics/encoding/ffmpeg-filter-complex-patterns",
       "https://l-lin.github.io/video/ffmpeg/filtering-overview-with-ffmpeg",
-      "https://github.com/ffiirree/ffmpeg-tutorials"
+      "https://github.com/ffiirree/ffmpeg-tutorials",
+      "https://github.com/kkroening/ffmpeg-python",
+      "https://kkroening.github.io/ffmpeg-python/",
+      "https://templated.io/blog/ffmpeg-in-python-a-practical-guide-with-code-examples/",
+      "https://pypi.org/project/python-ffmpeg/",
+      "https://en.guidetopython.com/Ffmpeg-python_Advanced"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -363,7 +368,12 @@
       "https://docs.github.com/en/actions/concepts/workflows-and-actions",
       "https://medium.com/@morepravin1989/mastering-advanced-github-actions-conditional-execution-matrix-strategies-reusable-workflows-49bb4c643312",
       "https://github.blog/developer-skills/github/7-advanced-workflow-automation-features-with-github-actions/",
-      "https://www.youtube.com/watch?v=Rq5gJVxz55Q"
+      "https://www.youtube.com/watch?v=Rq5gJVxz55Q",
+      "https://playwright.dev/python/docs/library",
+      "https://scrapfly.io/blog/posts/playwright-examples-javascript-and-python",
+      "https://pypi.org/project/playwright/",
+      "https://software-testing-tutorials-automation.com/2025/08/playwright-python-tutorial.html",
+      "https://github.com/microsoft/playwright-python"
     ]
   },
   "software_factory_jobs": [],
