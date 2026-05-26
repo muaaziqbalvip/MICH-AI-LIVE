@@ -392,7 +392,32 @@
         "android_core"
       ],
       "added_at": "2026-05-25T23:40:49.458631+00:00"
+    },
+    {
+      "id": "13ef3202",
+      "source_url": "https://dev.to/mikekelvin/best-practices-for-android-app-performance-optimization-1hod",
+      "title": "Best Practices for Android App Performance Optimization",
+      "summary": "* Use caching strategies and libraries like Retrofit and OkHttp to minimize redundant network requests.\n* Optimize API calls by using HTTP/2, reducing payload size, and implementing pagination.\n* Use JobScheduler or WorkManager for deferred tasks to optimize battery life.\n* Enable hardware acceleration to offload rendering tasks to the GPU.\n* Minimize overdraw using the GPU Overdraw tool in Android Studio.\n* Use AsyncTask for simple background tasks and Kotlin Coroutines for complex asynchronous programming.\n* Implement thread pools to manage multiple threads efficiently.\n* Use Android Profiler to monitor CPU, memory, and network usage.\n* Integrate tools like Firebase Performance Monitoring for real-time performance insights.\n* Analyze battery usage patterns with Battery Historian to address power wastage.",
+      "tags": [
+        "retrofit",
+        "okhttp",
+        "jobscheduler",
+        "workmanager",
+        "asynctask",
+        "coroutines"
+      ],
+      "added_at": "2026-05-26T01:29:17.977017+00:00"
+    },
+    {
+      "id": "ae9ea2e4",
+      "source_url": "https://daily.dev/blog/android-app-performance-optimization-guide-2024/",
+      "title": "Android App Performance Optimization Guide 2024 - daily.dev",
+      "summary": "* Use ConstraintLayout to optimize UI layout performance and reduce layout calculations.\n* Set `android:hardwareAccelerated=\"true\"` to minimize over-draw and optimize view hierarchies.\n* Leverage RecyclerView to improve list performance and reduce memory usage.\n* Use Async Tasks to perform computationally expensive tasks asynchronously and prevent UI blocking.\n* Implement Job Scheduling using JobScheduler or WorkManager to optimize resource usage and reduce battery drain.\n* Implement caching mechanisms to reduce network requests and load times.\n* Target latest Android versions to leverage performance improvements and new features.\n* Migrate to AndroidX libraries for optimized and modular implementations of Android APIs.\n* Use Android NDK to optimize performance-critical components and take advantage of native code optimizations.\n* Utilize Android Profiler to monitor app performance, including CPU usage, memory allocation, and network activity.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-26T01:42:33.305660+00:00"
     }
   ],
-  "last_updated": "2026-05-25T23:40:49.458650+00:00"
+  "last_updated": "2026-05-26T01:42:33.305678+00:00"
 }

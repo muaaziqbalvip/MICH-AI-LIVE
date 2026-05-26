@@ -297,7 +297,22 @@
         "multimedia"
       ],
       "added_at": "2026-05-26T00:50:03.890470+00:00"
+    },
+    {
+      "id": "b6c04af8",
+      "source_url": "https://www.geeksforgeeks.org/computer-vision/opencv-overview/",
+      "title": "What is OpenCV Library? - GeeksforGeeks",
+      "summary": "* OpenCV is used for object detection and recognition.\n* Haar Cascades and YOLO v2 are algorithms used for object detection in OpenCV.\n* R-CNN and Mask R-CNN are Region-Based Convolutional Neural Networks for object detection.\n* Image segmentation techniques include Thresholding, Region and Edge Based Segmentation, and U-Net.\n* OpenCV supports face recognition using Eigenfaces (PCA Algorithm) and Deep Face Recognition.\n* Detection Transformer (DETR) is used for object detection.\n* OpenCV provides tools for camera calibration and pose estimation.\n* Stereo images can be used to create depth maps with OpenCV.\n* Watershed Algorithm is used for image segmentation in OpenCV.",
+      "tags": [
+        "opencv",
+        "yolo",
+        "r-cnn",
+        "detr",
+        "pca",
+        "u-net"
+      ],
+      "added_at": "2026-05-26T01:13:31.556892+00:00"
     }
   ],
-  "last_updated": "2026-05-26T00:50:03.890490+00:00"
+  "last_updated": "2026-05-26T01:13:31.556906+00:00"
 }

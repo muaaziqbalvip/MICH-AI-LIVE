@@ -320,7 +320,22 @@
         "web_dev"
       ],
       "added_at": "2026-05-25T16:14:15.502864+00:00"
+    },
+    {
+      "id": "0a404d6e",
+      "source_url": "https://jsschools.com/tailwind/component-patterns/",
+      "title": "Reusable Component Patterns — Tailwind CSS — jsschools",
+      "summary": "* Extract components to avoid duplicating markup and classes.\n* Use a lookup object to map variant and size props to class strings.\n* Define variants and sizes as separate objects for better maintainability.\n* Use template literals to concatenate class strings in JSX.\n* Prefer real components over `@apply` for custom markup.\n* Use `@apply` for third-party HTML, Markdown output, or CMS body.\n* Define a default variant and size prop in the component function.\n* Use the `className` prop to apply classes to an HTML element.\n* Use destructuring to extract props in the component function.\n* Keep class lists in one place to avoid find-and-replace issues.",
+      "tags": [
+        "jsx",
+        "markdown",
+        "cms",
+        "html",
+        "template",
+        "literals"
+      ],
+      "added_at": "2026-05-26T01:07:23.578421+00:00"
     }
   ],
-  "last_updated": "2026-05-25T16:14:15.502879+00:00"
+  "last_updated": "2026-05-26T01:07:23.578439+00:00"
 }
