@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 316,
+  "cycle_count": 321,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T19:43:21.682693+00:00",
+  "last_checkpoint": "2026-05-26T19:59:08.083278+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -76,7 +76,8 @@
       "https://kkroening.github.io/ffmpeg-python/",
       "https://templated.io/blog/ffmpeg-in-python-a-practical-guide-with-code-examples/",
       "https://pypi.org/project/python-ffmpeg/",
-      "https://en.guidetopython.com/Ffmpeg-python_Advanced"
+      "https://en.guidetopython.com/Ffmpeg-python_Advanced",
+      "https://ffmpeg-api.com/learn/ffmpeg/guide"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -429,7 +430,8 @@
       "https://code.visualstudio.com/docs/terminal/basics",
       "https://code.visualstudio.com/docs/devcontainers/create-dev-container",
       "https://code.visualstudio.com/blogs/2020/07/27/containers-edu",
-      "https://code.visualstudio.com/docs/azure/overview?wt.md_id=AZ-MVP-5004796"
+      "https://code.visualstudio.com/docs/azure/overview?wt.md_id=AZ-MVP-5004796",
+      "https://amazon.nnda.org/"
     ]
   },
   "software_factory_jobs": [],

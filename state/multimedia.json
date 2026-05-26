@@ -332,7 +332,22 @@
         "multimedia"
       ],
       "added_at": "2026-05-26T02:54:08.844374+00:00"
+    },
+    {
+      "id": "92518460",
+      "source_url": "https://ffmpeg-api.com/learn/ffmpeg/guide",
+      "title": "FFmpeg Complete Guide: Installation, Commands & Use Cases - FFmpeg A…",
+      "summary": "* FFmpeg is a powerful tool for handling multimedia data.\n* Supported input file: `input.mp4`.\n* Supported output file: `output.mp4`.\n* Command for adding subtitles: `ffmpeg -i input.mp4 -vf \"subtitles=subtitles.srt\" output.mp4`.\n* FFmpeg can stream live video over the internet.\n* Supported subtitle file: `subtitles.srt`.\n* FFmpeg supports a wide range of codecs and formats.\n* Basic syntax: `ffmpeg [options] [[input_file] output_file]`.\n* Option `-i` specifies the input file.\n* Option `-vf` specifies a video filter, such as adding subtitles.",
+      "tags": [
+        "ffmpeg",
+        "multimedia",
+        "video",
+        "streaming",
+        "subtitles",
+        "codecs"
+      ],
+      "added_at": "2026-05-26T19:48:27.059438+00:00"
     }
   ],
-  "last_updated": "2026-05-26T02:54:08.844397+00:00"
+  "last_updated": "2026-05-26T19:48:27.059447+00:00"
 }
