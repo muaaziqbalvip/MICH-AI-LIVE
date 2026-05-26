@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 216,
+  "cycle_count": 221,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T01:54:10.162091+00:00",
+  "last_checkpoint": "2026-05-26T02:30:13.867405+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -66,7 +66,12 @@
       "https://pytutorial.com/python-simple-image-batch-processing-guide/",
       "https://www.pythonlore.com/batch-processing-of-multiple-images-with-pillow/",
       "https://realpython.com/image-processing-with-the-python-pillow-library/",
-      "https://www.geeksforgeeks.org/computer-vision/opencv-overview/"
+      "https://www.geeksforgeeks.org/computer-vision/opencv-overview/",
+      "https://ffmpeg.org/ffmpeg-filters.html",
+      "https://filethings.net/ffmpeg-filter-complex-multiple-filters/",
+      "https://www.mpegflow.com/topics/encoding/ffmpeg-filter-complex-patterns",
+      "https://l-lin.github.io/video/ffmpeg/filtering-overview-with-ffmpeg",
+      "https://github.com/ffiirree/ffmpeg-tutorials"
     ],
     "marketing": [
       "https://mail.google.com/mail",

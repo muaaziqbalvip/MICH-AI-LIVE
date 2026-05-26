@@ -312,7 +312,17 @@
         "u-net"
       ],
       "added_at": "2026-05-26T01:13:31.556892+00:00"
+    },
+    {
+      "id": "ba4bec36",
+      "source_url": "https://www.mpegflow.com/topics/encoding/ffmpeg-filter-complex-patterns",
+      "title": "FFmpeg filter_complex patterns — branching, merging, and multi …",
+      "summary": "* FFmpeg `filter_complex` enables non-linear filter graphs with multiple inputs, outputs, branching, and merging.\n* The labeling system uses square brackets to identify streams: `[INDEX:STREAM_TYPE]` for input streams and `[NAME]` for intermediate streams.\n* Filters take labeled inputs and produce labeled outputs, with the graph described as a series of filter operations separated by semicolons.\n* The `split` filter creates multiple copies of a stream, allowing for branching and multiple outputs.\n* The `concat`, `hstack`, and `overlay` filters can be used for merging multiple streams into one output.\n* Audio and video can be processed jointly using `filter_complex`.\n* Hardware acceleration can be used with `filter_complex` for improved performance.\n* Debugging `filter_complex` graphs can be challenging, but understanding the labeling system and filter syntax is key.\n* Common use cases for `filter_complex` include multi-output pipelines, audio/video joint processing, and cross-stream processing.\n* FFmpeg's `split` filter creates multiple copies of a stream for parallel processing.\n* `overlay` filter overlays one video on top of another with customizable positioning.\n* `hstack` filter stacks multiple videos horizontally for side-by-side comparison.\n* `amix` filter mixes multiple audio streams with adjustable volume and duration.\n* `enable` expression in `overlay` filter controls the timing of overlay appearance.\n* `split` and `map` filters enable multiple output files with diff",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-26T02:13:27.893437+00:00"
     }
   ],
-  "last_updated": "2026-05-26T01:13:31.556906+00:00"
+  "last_updated": "2026-05-26T02:13:27.893455+00:00"
 }
