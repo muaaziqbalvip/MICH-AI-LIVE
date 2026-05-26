@@ -358,7 +358,48 @@
         "technology"
       ],
       "added_at": "2026-05-26T15:04:42.474064+00:00"
+    },
+    {
+      "id": "170165ad",
+      "source_url": "https://github.com/facebook/facebook-python-business-sdk",
+      "title": "Facebook Business SDK for Python - GitHub",
+      "summary": "* The Facebook Business SDK is written in Python.\n* The repository has 1.5k stars, 156 watchers, and 669 forks.\n* The latest release is version 25.0.1, released on March 30, 2026.\n* There are 54 releases in total.\n* The repository contains 0 packages.\n* The SDK is maintained by Facebook.\n* The codebase is entirely written in Python (100%).\n* The repository is hosted on GitHub.\n* The SDK has a large community of contributors (though the list is currently unavailable).\n* The SDK is actively maintained with regular releases.",
+      "tags": [
+        "python",
+        "facebook",
+        "github",
+        "sdk"
+      ],
+      "added_at": "2026-05-26T15:44:45.165202+00:00"
+    },
+    {
+      "id": "08e343f3",
+      "source_url": "https://socialeum.com/mastering-the-facebook-ads-api-with-python/",
+      "title": "Mastering the Facebook Ads API with Python (Boost Campaigns)",
+      "summary": "* Facebook Ads API offers advanced features for automating ad campaigns with Python scripts.\n* Python can be used to integrate Facebook Ads API with other marketing tools, such as CRM systems.\n* e Analytics can track website conversions and attribute them to Facebook ad campaigns.\n* Facebook Ads API can be used to optimize ad spend based on customer lifetime value.\n* Python scripts can automate tasks, such as tracking advertising data and making informed decisions.\n* The Facebook Ads API documentation provides resources for building automation scripts.\n* Experimenting with code examples and exploring the API documentation can help build skills.\n* Automating Facebook ad campaigns with Python can drive real results for businesses.\n* Understanding the Facebook Ads API can help unlock the full potential of ad campaigns.\n* Programmatically interacting with advertising platforms will become increasingly important in the future of digital marketing.",
+      "tags": [
+        "facebook ads",
+        "python scripts",
+        "crm systems",
+        "ad campaigns",
+        "api documentation"
+      ],
+      "added_at": "2026-05-26T15:55:56.506353+00:00"
+    },
+    {
+      "id": "9921107b",
+      "source_url": "https://blog.coupler.io/facebook-ads-api/",
+      "title": "Facebook Ads API Guide from A to Z | Coupler.io Blog",
+      "summary": "* Facebook Ads API requires an access token with `ads_read` and `ads_management` permissions.\n* Advanced Access permissions are needed to manage other ad accounts.\n* Marketing API has rate limiting based on call count within a rolling one-hour window.\n* Rate limit calculation: 60 + 400 * Number of Active ads - 0.001 * User Errors.\n* Applying for Ads Management Standard Access feature can increase rate limit.\n* Facebook Ads API uses Graph API endpoints (nodes + edges) for data retrieval.\n* Insights API is used for reporting and retrieving performance data from Facebook marketing campaigns.\n* Insights API is available on objects: `/act_{ad-account-id}/insights`, `/{ad-id}/insights`, `/{ad-campaign-id}/insights`, `/{ad-set-id}/insights`.\n* Insights API cURL syntax: `https://graph.facebook.com/{api_version}/{ads_object}/insights`.",
+      "tags": [
+        "facebook ads",
+        "marketing api",
+        "rate limiting",
+        "graph api",
+        "insights api"
+      ],
+      "added_at": "2026-05-26T16:10:12.344957+00:00"
     }
   ],
-  "last_updated": "2026-05-26T15:04:42.474075+00:00"
+  "last_updated": "2026-05-26T16:10:12.344971+00:00"
 }

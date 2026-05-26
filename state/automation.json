@@ -515,7 +515,42 @@
         "data visualization"
       ],
       "added_at": "2026-05-26T15:05:26.835355+00:00"
+    },
+    {
+      "id": "a8760a83",
+      "source_url": "https://code.visualstudio.com/docs/copilot/overview",
+      "title": "GitHub Copilot in VS Code",
+      "summary": "* GitHub Copilot is integrated with VS Code.\n* Offers various paid plans for different users.\n* Customization options available for AI workflow.\n* Supports agents in VS Code for enhanced functionality.\n* Quickstart guide available for easy setup.\n* Tutorial provided for getting started with agents.\n* Pricing details available for GitHub Copilot.\n* Compatible with VS Code for development tasks.\n* AI-powered coding assistance is a key feature.\n* Available for use as of May 20, 2026.",
+      "tags": [
+        "ai",
+        "vs code",
+        "github",
+        "coding",
+        "agents",
+        "workflow"
+      ],
+      "added_at": "2026-05-26T16:16:51.150512+00:00"
+    },
+    {
+      "id": "a6a5ce75",
+      "source_url": "https://code.visualstudio.com/docs/terminal/basics",
+      "title": "Terminal Basics - Visual Studio Code",
+      "summary": "* Use `#terminalLastCommand` to include the last command in the terminal.\n* Access terminal commands via `Preferences: Open Keyboard Shortcuts` and search for 'terminal'.\n* Create an Admin terminal using platform utilities like `runas.exe`.\n* Customize terminals via terminal profiles in `Configuring Profiles`.\n* Add a keyboard shortcut for `Open in Integrated Terminal` by editing `keybindings.json`.\n* Example `keybindings.json` entry: `{\"key\": \"ctrl+t\", \"command\": \"openInTerminal\", \"when\": \"filesExplorerFocus\"}`.\n* Resolve nvm prefix option error by running `npm config delete prefix` or `nvm use --delete-prefix`.\n* nvm error often occurs due to globally installed npm using another node instance.\n* VS Code launches a bash login shell on startup, potentially reordering the `$PATH`.\n* Use `which npm` to find the path to the old npm installation and remove it.\n* The `which npm` command is used to find the path to the npm executable.\n* The `ls -la` command is used to list files in a directory, including symlinks.\n* The `grep` command is used to search for patterns in output, in this case \"np[mx]\".\n* The `|` character is used to pipe output from one command to another.\n* Resolving symlinks can be done by running `ls -la` on a directory, such as `/usr/local/bin`.\n* The `npm` executable is often a symlink to a file like `npm-cli.js`.\n* The `npx` executable is often a symlink to a file in the `npm` directory.\n* The `../lib/node_modules/npm/bin/npm-cli.js` path is a common location for",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-26T16:28:04.517011+00:00"
+    },
+    {
+      "id": "bf7b045e",
+      "source_url": "https://code.visualstudio.com/blogs/2020/07/27/containers-edu",
+      "title": "Development Containers in Education: A Guide for Instructors",
+      "summary": "* `.devcontainer` folder contains `devcontainer.json` and `Dockerfile` configuration files.\n* `devcontainer.json` describes how VS Code starts and connects to the container.\n* `devcontainer.json` properties include `image`, `dockerFile`, `name`, `extensions`, and `settings`.\n* `image` property specifies the container image from a registry like DockerHub.\n* `dockerFile` property references a Dockerfile that defines the container contents.\n* `Dockerfile` uses `FROM` to specify a base image and includes command-line instructions.\n* `devcontainer.json` can install extensions and set container-specific settings automatically.\n* `settings` property in `devcontainer.json` adds default `settings.json` values to the container.\n* `extensions` property in `devcontainer.json` installs specified extensions in the container.\n* A `devcontainer.json` file is created when setting up a development container in VS Code.\n* The `Dockerfile` is used to configure the container for a Python app.\n* The \"Reopen in Container\" option in VS Code launches a new instance with the dev container.\n* The dev container provides a consistent development experience, regardless of local machine configuration.\n* A `.devcontainer` folder contains the configuration files for the dev container.\n* Git is required to upload the dev container to a repository.\n* The `git init` command initializes a new Git repository from the command line.\n* The local Git repository is connected to a remote repository on GitHub.\n* The `de",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-26T16:48:23.900890+00:00"
     }
   ],
-  "last_updated": "2026-05-26T15:05:26.835366+00:00"
+  "last_updated": "2026-05-26T16:48:23.900906+00:00"
 }

@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 276,
+  "cycle_count": 281,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T15:27:17.494329+00:00",
+  "last_checkpoint": "2026-05-26T16:53:59.778709+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -174,7 +174,12 @@
       "https://factorydirectsales.net/ht.php",
       "https://factorydirectsales.net/ss.php",
       "https://factorydirectsales.net/products/legend_series/legend_series_comapre.php",
-      "https://mail.aol.com/m"
+      "https://mail.aol.com/m",
+      "https://github.com/facebook/facebook-python-business-sdk",
+      "https://socialeum.com/mastering-the-facebook-ads-api-with-python/",
+      "https://developers.facebook.com/documentation/ads-commerce/marketing-api/",
+      "https://medium.com/@zarafshanwaheed444/facebook-marketing-api-4e7e0ad1195d",
+      "https://blog.coupler.io/facebook-ads-api/"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -315,7 +320,8 @@
       "https://www.runoob.com/typescript/ts-tutorial.html",
       "https://www.tslang.cn/",
       "https://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html",
-      "https://zhuanlan.zhihu.com/p/267778856"
+      "https://zhuanlan.zhihu.com/p/267778856",
+      "https://devsheets.io/sheets/react-patterns"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -404,7 +410,12 @@
       "http://crontab.cronhub.io/",
       "https://www.runoob.com/git/git-tutorial.html",
       "https://blog.csdn.net/mukes/article/details/115693833",
-      "https://git-scm.cn/install/"
+      "https://git-scm.cn/install/",
+      "https://code.visualstudio.com/docs/copilot/overview",
+      "https://code.visualstudio.com/docs/terminal/basics",
+      "https://code.visualstudio.com/docs/devcontainers/create-dev-container",
+      "https://code.visualstudio.com/blogs/2020/07/27/containers-edu",
+      "https://code.visualstudio.com/docs/azure/overview?wt.md_id=AZ-MVP-5004796"
     ]
   },
   "software_factory_jobs": [],
