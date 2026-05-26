@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 281,
+  "cycle_count": 286,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T16:53:59.778709+00:00",
+  "last_checkpoint": "2026-05-26T17:10:48.719532+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -179,7 +179,10 @@
       "https://socialeum.com/mastering-the-facebook-ads-api-with-python/",
       "https://developers.facebook.com/documentation/ads-commerce/marketing-api/",
       "https://medium.com/@zarafshanwaheed444/facebook-marketing-api-4e7e0ad1195d",
-      "https://blog.coupler.io/facebook-ads-api/"
+      "https://blog.coupler.io/facebook-ads-api/",
+      "https://pontalk.com/automate-your-email-marketing-with-python/",
+      "https://medium.com/@theethicsgeek/streamlining-email-marketing-campaigns-with-python-automation-b376a4ac42e5",
+      "https://codezup.com/python-email-marketing-automation/"
     ],
     "android_core": [
       "https://www.android.com/",
