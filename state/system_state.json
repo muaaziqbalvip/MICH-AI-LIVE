@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 326,
+  "cycle_count": 331,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T20:05:33.308186+00:00",
+  "last_checkpoint": "2026-05-26T20:19:17.344002+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -77,7 +77,8 @@
       "https://templated.io/blog/ffmpeg-in-python-a-practical-guide-with-code-examples/",
       "https://pypi.org/project/python-ffmpeg/",
       "https://en.guidetopython.com/Ffmpeg-python_Advanced",
-      "https://ffmpeg-api.com/learn/ffmpeg/guide"
+      "https://ffmpeg-api.com/learn/ffmpeg/guide",
+      "https://pythonacademy.io/articles/python-ffmpeg-python-advanced"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -189,7 +190,8 @@
       "https://www.seo.com/basics/glossary/seo/",
       "https://ahrefs.com/seo",
       "https://en.wikipedia.org/wiki/Search_engine_optimization",
-      "https://www.google.com.ai/webhp?hl=en&gl=ai"
+      "https://www.google.com.ai/webhp?hl=en&gl=ai",
+      "https://about.google/"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -336,7 +338,8 @@
       "https://www.tslang.cn/",
       "https://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html",
       "https://zhuanlan.zhihu.com/p/267778856",
-      "https://devsheets.io/sheets/react-patterns"
+      "https://devsheets.io/sheets/react-patterns",
+      "https://www.geeksforgeeks.org/css/tailwind-css/"
     ],
     "automation": [
       "https://www.selenium.dev/",
