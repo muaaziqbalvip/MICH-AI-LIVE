@@ -396,7 +396,21 @@
         "software distribution"
       ],
       "added_at": "2026-05-25T16:33:11.126911+00:00"
+    },
+    {
+      "id": "4903ae20",
+      "source_url": "https://www.w3schools.com/git/default.asp",
+      "title": "Git Tutorial - W3Schools",
+      "summary": "* W3Schools is a tutorial website\n* Content is reviewed to minimize errors\n* Terms of use, cookies, and privacy policy are applicable\n* Copyright 1999-2026 by Refsnes Data\n* W3Schools uses W3.CSS for its design\n* No specific Git-related technical facts are present in this section \n* Website provides tutorials, references, and examples\n* Content is subject to review and revision\n* No warranty for full correctness of content is provided\n* User agreement is required for using the website",
+      "tags": [
+        "w3.css",
+        "cookies",
+        "git",
+        "website",
+        "tutorials"
+      ],
+      "added_at": "2026-05-26T00:01:38.394431+00:00"
     }
   ],
-  "last_updated": "2026-05-25T16:33:11.126927+00:00"
+  "last_updated": "2026-05-26T00:01:38.394449+00:00"
 }
