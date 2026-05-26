@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 271,
+  "cycle_count": 276,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T15:14:46.826700+00:00",
+  "last_checkpoint": "2026-05-26T15:27:17.494329+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -400,7 +400,11 @@
       "https://github-cn.com/",
       "https://zhuanlan.zhihu.com/p/369486197",
       "https://baike.baidu.com/item/github/10145341",
-      "https://github.net.cn/zh/get-started/quickstart"
+      "https://github.net.cn/zh/get-started/quickstart",
+      "http://crontab.cronhub.io/",
+      "https://www.runoob.com/git/git-tutorial.html",
+      "https://blog.csdn.net/mukes/article/details/115693833",
+      "https://git-scm.cn/install/"
     ]
   },
   "software_factory_jobs": [],
