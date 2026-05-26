@@ -456,7 +456,47 @@
         "android_core"
       ],
       "added_at": "2026-05-26T15:08:09.915742+00:00"
+    },
+    {
+      "id": "a1723069",
+      "source_url": "https://www.djamware.com/post/flutter-state-management-with-riverpod-a-complete-guide",
+      "title": "Flutter State Management with Riverpod: A Complete Guide",
+      "summary": "* Riverpod's `FutureProvider.family` allows fetching different data based on parameters like user IDs.\n* `FutureProvider.family` is useful for API requests, filtering, or item-specific state.\n* Scoped providers override the value of a provider in a specific widget subtree.\n* Scoped providers are useful for testing, theming, or customizing behavior in specific screens.\n* The `ProviderScope` widget is used to override providers locally.\n* Family providers are used when state/data depends on parameters like IDs or filters.\n* Scoped providers are used when different behaviors/values are needed in specific parts of the app.\n* Riverpod allows combining multiple providers to compute new values.\n* Computed providers can automatically rebuild the UI when dependencies change.\n* Business logic can be kept separate from widgets using Riverpod's reactive provider system.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-26T19:03:41.004410+00:00"
+    },
+    {
+      "id": "5eb7eb1c",
+      "source_url": "https://www.geeksforgeeks.org/flutter/flutter-introduction-to-state-management-using-riverpod/",
+      "title": "Flutter - Introduction to State Management Using Riverpod",
+      "summary": "* Riverpod is a state management library for Flutter.\n* State management is crucial for managing app data and UI updates.\n* Riverpod uses providers to manage state and notify listeners of changes.\n* Providers can be used to manage simple values or complex objects.\n* Riverpod supports both simple and complex state management scenarios.\n* Flutter apps can use Riverpod to manage state across multiple widgets.\n* Riverpod integrates with Flutter's widget tree to update UI automatically.\n* Riverpod provides a simple and efficient way to manage app state.\n* Riverpod is an alternative to other state management libraries like BLoC and Provider.",
+      "tags": [
+        "flutter",
+        "riverpod",
+        "state management",
+        "providers",
+        "bloc",
+        "widget tree"
+      ],
+      "added_at": "2026-05-26T19:15:53.577349+00:00"
+    },
+    {
+      "id": "d0a19140",
+      "source_url": "https://blog.stackademic.com/flutter-state-management-with-riverpod-a-complete-guide-e85af6f5d7ad",
+      "title": "Flutter State Management with Riverpod: A Complete Guide",
+      "summary": "* Riverpod has two main variants: `flutter_riverpod` for Flutter apps and `riverpod` for pure Dart projects.\n* Add `flutter_riverpod` dependency to `pubspec.yaml` using `flutter pub add flutter_riverpod`.\n* Wrap the app with `ProviderScope` at the root of the widget tree.\n* `Provider` is used for read-only values, while `StateProvider` is used for mutable state.\n* Define a `Provider` using `Provider<String>((ref) { return 'value'; });`.\n* Access a `Provider` value using `ref.watch(provider)`.\n* Define a `StateProvider` using `StateProvider<int>((ref) => initialValue)`.\n* Read the state of a `StateProvider` using `ref.watch(provider)`.\n* Use `ConsumerWidget` to rebuild the widget when the state changes.\n* Use `WidgetRef ref` to access providers in the widget tree.",
+      "tags": [
+        "flutter",
+        "riverpod",
+        "dart",
+        "provider",
+        "stateprovider",
+        "widgetref"
+      ],
+      "added_at": "2026-05-26T19:31:09.240799+00:00"
     }
   ],
-  "last_updated": "2026-05-26T15:08:09.915756+00:00"
+  "last_updated": "2026-05-26T19:31:09.240808+00:00"
 }

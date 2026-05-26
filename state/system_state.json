@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 301,
+  "cycle_count": 306,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T18:40:16.733859+00:00",
+  "last_checkpoint": "2026-05-26T19:31:11.242567+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -248,7 +248,12 @@
       "https://daily.dev/blog/android-app-performance-optimization-guide-2024/",
       "https://dictionary.cambridge.org/dictionary/english/compose",
       "https://github.com/JetBrains/compose-multiplatform",
-      "https://www.tomsguide.com/phones/android-phones/android-17-changes-worth-paying-attention-to"
+      "https://www.tomsguide.com/phones/android-phones/android-17-changes-worth-paying-attention-to",
+      "https://www.djamware.com/post/flutter-state-management-with-riverpod-a-complete-guide",
+      "https://medium.com/@ugamakelechi501/how-to-use-riverpod-for-state-management-an-advanced-flutter-guide-4741cc8dd9eb",
+      "https://www.geeksforgeeks.org/flutter/flutter-introduction-to-state-management-using-riverpod/",
+      "https://riverpod.dev/",
+      "https://blog.stackademic.com/flutter-state-management-with-riverpod-a-complete-guide-e85af6f5d7ad"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
