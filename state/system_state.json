@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 386,
+  "cycle_count": 391,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T14:09:43.632809+00:00",
+  "last_checkpoint": "2026-05-27T14:42:51.352954+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -221,7 +221,8 @@
       "https://dev.to/oxylabs-io/python-guide-to-scraping-google-search-results-bhk",
       "https://medium.com/@hasdata/build-a-google-serp-scraper-in-python-04607e2078ab",
       "https://outlook.office.com/mail/mini/opxdeeplink/mail/inbox",
-      "https://outlook.office365.com/mail/login.html?bO=2&authRedirect=true"
+      "https://outlook.office365.com/mail/login.html?bO=2&authRedirect=true",
+      "https://en.m.wikipedia.org/wiki/Search_engine_optimization"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -294,7 +295,12 @@
       "https://www.geeksforgeeks.org/android/android-jetpack-compose-tutorial/",
       "https://www.jetpackcompose.net/",
       "https://medium.com/@manishkumar_75473/android-jetpack-compose-a-master-guide-3b1f2501f4cf",
-      "https://www.youtube.com/playlist?list=PLQ_Ai1O7sMV33aJHfqR-vquGZE1OCOS51"
+      "https://www.youtube.com/playlist?list=PLQ_Ai1O7sMV33aJHfqR-vquGZE1OCOS51",
+      "https://kotlinlang.org/docs/multiplatform/multiplatform-create-first-app.html",
+      "https://developer.android.com/codelabs/kmp-get-started",
+      "https://codezup.com/kotlin-multiplatform-development-cross-platform-mobile-app/",
+      "https://medium.com/@TufelMalik/how-to-create-a-kotlin-multiplatform-project-a-step-by-step-guide-8f4e52c461b1",
+      "https://ktor.io/docs/client-create-multiplatform-application.html"
     ],
     "web_dev": [
       "https://tailwindcss.com/",

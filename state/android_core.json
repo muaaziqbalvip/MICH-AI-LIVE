@@ -526,7 +526,22 @@
         "navigation"
       ],
       "added_at": "2026-05-27T07:55:14.687600+00:00"
+    },
+    {
+      "id": "465f92d6",
+      "source_url": "https://kotlinlang.org/docs/multiplatform/multiplatform-create-first-app.html",
+      "title": "Create your Kotlin Multiplatform app | Kotlin Multiplatform",
+      "summary": "* Kotlin Multiplatform allows for cross-platform app development.\n* Platform-specific libraries are used to update UI elements.\n* Multiplatform tests can be created and run to ensure code correctness.\n* A specific project structure is used in Kotlin Multiplatform projects.\n* Existing Android projects can be converted into cross-platform apps.\n* Kotlin Slack's #multiplatform channel provides community support.\n* Kotlin issue tracker is used for reporting and tracking issues.\n* Kotlin Multiplatform apps can be updated to change the user interface.\n* Multiplatform projects can share code across different platforms.\n* Kotlin documentation provides tutorials and guides for multiplatform development.",
+      "tags": [
+        "kotlin",
+        "multiplatform",
+        "cross-platform",
+        "android",
+        "ui",
+        "libraries"
+      ],
+      "added_at": "2026-05-27T14:29:35.321670+00:00"
     }
   ],
-  "last_updated": "2026-05-27T07:55:14.687619+00:00"
+  "last_updated": "2026-05-27T14:29:35.321679+00:00"
 }
