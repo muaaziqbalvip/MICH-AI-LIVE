@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 383,
+  "cycle_count": 386,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T08:17:37.464589+00:00",
+  "last_checkpoint": "2026-05-27T14:09:43.632809+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -219,7 +219,9 @@
       "https://alterlab.io/blog/how-to-scrape-google-search-results-python-2026",
       "https://www.scrapingdog.com/blog/scrape-google-search-results/",
       "https://dev.to/oxylabs-io/python-guide-to-scraping-google-search-results-bhk",
-      "https://medium.com/@hasdata/build-a-google-serp-scraper-in-python-04607e2078ab"
+      "https://medium.com/@hasdata/build-a-google-serp-scraper-in-python-04607e2078ab",
+      "https://outlook.office.com/mail/mini/opxdeeplink/mail/inbox",
+      "https://outlook.office365.com/mail/login.html?bO=2&authRedirect=true"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -501,5 +503,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "stopped"
+  "status": "running"
 }
