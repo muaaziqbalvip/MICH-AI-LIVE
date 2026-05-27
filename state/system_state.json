@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 456,
+  "cycle_count": 461,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T18:45:46.281051+00:00",
+  "last_checkpoint": "2026-05-27T19:15:12.247032+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -230,7 +230,9 @@
       "https://bloggingwizard.com/best-social-media-scheduling-tools/",
       "https://socialmediacurve.com/social-media-scheduling-tools/",
       "https://www.dataslayer.ai/blog/ai-in-content-marketing",
-      "https://www.canva.com/resources/ai-content-marketing/?msockid=0c09a06647686e3438e8b70046ae6ff2"
+      "https://www.canva.com/resources/ai-content-marketing/?msockid=0c09a06647686e3438e8b70046ae6ff2",
+      "https://m.me/lite/",
+      "https://www.messenger.com/help/185285184853471"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -417,7 +419,12 @@
       "https://docs.docker.com/reference/compose-file/deploy/",
       "https://medium.com/@austintyler0239/full-stack-deployments-with-docker-compose-905f9588af85",
       "https://www.gersoncalienes.com/articles/docker-compose-full-stack-developers-practical-guide",
-      "https://www.nordiso.com/blog/react-server-components-architecture-a-complete-guide"
+      "https://www.nordiso.com/blog/react-server-components-architecture-a-complete-guide",
+      "https://nextjs.org/docs/app",
+      "https://medium.com/@botifyxindia/complete-guide-to-next-js-14-app-router-8c1ded367d79",
+      "https://www.harshrastogi.tech/blog/nextjs-14-app-router-complete-guide",
+      "https://www.buttercups.tech/blog/react/mastering-nextjs-14-app-router-a-comprehensive-guide",
+      "https://generalistprogrammer.com/tutorials/nextjs-app-router-complete-guide"
     ],
     "automation": [
       "https://www.selenium.dev/",

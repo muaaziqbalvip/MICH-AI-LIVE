@@ -484,7 +484,27 @@
         "failure monitoring"
       ],
       "added_at": "2026-05-27T15:59:38.551562+00:00"
+    },
+    {
+      "id": "1b3532b2",
+      "source_url": "https://www.buttercups.tech/blog/react/mastering-nextjs-14-app-router-a-comprehensive-guide",
+      "title": "Mastering Next.js 14 App Router: A Comprehensive Guide",
+      "summary": "* Initialize a new Next.js 14 project with `npx create-next-app@latest` and select the `app` directory option.\n* The `/app` directory structure showcases nested routing and layout inheritance.\n* Each directory under `/app` becomes a route segment, with `page.js` files rendering at their corresponding path.\n* Layouts apply shared UI or state across multiple pages or route segments using files like `layout.js`.\n* The Next.js 14 App Router supports nested routing with ease, using folders to reflect the UI's hierarchy.\n* Server components allow rendering parts of the UI purely on the server, reducing client-side bundle size and boosting performance.\n* Next.js 14 leverages React Suspense for advanced data fetching, providing seamless loading states and robust error boundaries.\n* Custom loading experiences can be created by adding a `loading.js` file in the route folder.\n* Suspense-based loading states can improve user-perceived performance, according to research from the React team.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-27T19:00:33.929497+00:00"
+    },
+    {
+      "id": "4b7c344d",
+      "source_url": "https://generalistprogrammer.com/tutorials/nextjs-app-router-complete-guide",
+      "title": "Next.js App Router: Complete Guide to Modern Routing (2025)",
+      "summary": "* Next.js App Router was introduced in version 13 and stabilized in version 14.\n* App Router combines server-side rendering, static generation, and client-side transitions for improved performance.\n* File-based routing uses folder structure to automatically generate routes.\n* Special files in App Router include: `page.tsx`, `layout.tsx`, `loading.tsx`, `error.tsx`, `not-found.tsx`, `route.ts`, and `template.tsx`.\n* `page.tsx` defines a route and makes the path publicly accessible.\n* `layout.tsx` creates shared UI that wraps pages and persists across navigation.\n* `loading.tsx` automatically shows loading UI using React Suspense.\n* Folder hierarchy directly maps to URL segments, with each folder representing a URL segment.\n* Route parameters can be defined using square brackets, e.g. `[slug]` or `[category]`.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-27T19:11:06.127701+00:00"
     }
   ],
-  "last_updated": "2026-05-27T15:59:38.551572+00:00"
+  "last_updated": "2026-05-27T19:11:06.127716+00:00"
 }
