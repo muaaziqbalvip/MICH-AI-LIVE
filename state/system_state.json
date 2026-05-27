@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 361,
+  "cycle_count": 366,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T04:30:28.484854+00:00",
+  "last_checkpoint": "2026-05-27T05:48:38.632589+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -203,7 +203,13 @@
       "https://blog.hubspot.com/marketing/ai-in-content-marketing",
       "https://thecmo.com/demand-generation/ai-in-content-marketing/",
       "https://firstmovers.ai/ai-content-generation-marketing/",
-      "https://searchengineland.com/guide/what-is-seo"
+      "https://searchengineland.com/guide/what-is-seo",
+      "https://www.outlook.com/",
+      "https://influencermarketinghub.com/influencer-analytics-tools/",
+      "https://sproutsocial.com/insights/influencer-analytics-tools/",
+      "https://hypeauditor.com/",
+      "https://sociallypowerful.com/influencer/marketing/tools",
+      "https://collabstr.com/blog/best-influencer-marketing-tools-platforms"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -362,7 +368,11 @@
       "https://fastapi.tiangolo.com/tutorial/",
       "https://realpython.com/fastapi-python-web-apis/",
       "https://pytutorial.com/fastapi-tutorial-build-your-first-python-rest-api/",
-      "https://pyquesthub.com/building-real-time-applications-with-websockets-in-python"
+      "https://pyquesthub.com/building-real-time-applications-with-websockets-in-python",
+      "https://www.w3schools.com/typescript/index.php",
+      "https://en.wikipedia.org/wiki/TypeScript",
+      "https://github.com/microsoft/TypeScript",
+      "https://www.geeksforgeeks.org/typescript/typescript-tutorial/"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -460,7 +470,11 @@
       "https://amazon.nnda.org/",
       "https://python.plainenglish.io/schedule-scripts-with-python-crontab-a-step-by-step-guide-linux-macos-0ad89118a4b7",
       "https://dev.to/whoakarsh/automate-scheduled-jobs-in-python-using-the-schedule-library-a-cron-alternative-811",
-      "https://medium.com/@zafer_kahraman/automating-your-python-script-execution-with-cron-jobs-7380dc6d8173"
+      "https://medium.com/@zafer_kahraman/automating-your-python-script-execution-with-cron-jobs-7380dc6d8173",
+      "https://github.blog/",
+      "https://gizmodo.com/download/github",
+      "https://github.com/login",
+      "https://github.com/search"
     ]
   },
   "software_factory_jobs": [],

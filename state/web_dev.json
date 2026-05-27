@@ -420,7 +420,31 @@
         "http"
       ],
       "added_at": "2026-05-27T03:26:59.807298+00:00"
+    },
+    {
+      "id": "4bba73f6",
+      "source_url": "https://en.wikipedia.org/wiki/TypeScript",
+      "title": "TypeScript - Wikipedia",
+      "summary": "* TypeScript is a strongly-typed language\n* Strong-typing enables IntelliSense productivity benefits\n* TypeScript is used with Visual Studio\n* Visual Studio 2012 supports TypeScript\n* TypeScript has a package called TypeStrong\n* TypeStrong is available on GitHub\n* TypeScript is an extension of JavaScript\n* TypeScript code is compiled to JavaScript\n* TypeScript supports object-oriented programming\n* TypeScript is designed for large-scale JavaScript applications",
+      "tags": [
+        "typescript",
+        "javascript",
+        "visual studio",
+        "intellisense",
+        "github"
+      ],
+      "added_at": "2026-05-27T04:44:12.036381+00:00"
+    },
+    {
+      "id": "aeb6421c",
+      "source_url": "https://www.geeksforgeeks.org/typescript/typescript-tutorial/",
+      "title": "TypeScript Tutorial - GeeksforGeeks",
+      "summary": "* TypeScript is a superset of JavaScript that adds static types for building scalable applications.\n* Key TypeScript concepts include type annotations, interfaces, classes, union types, generics, and type inference.\n* Setting up a development environment involves installing Node.js and TypeScript, and using an editor like Visual Studio Code.\n* Fundamental syntax elements in TypeScript include type annotations, interfaces, and classes.\n* Advanced topics in TypeScript include union types, generics, and type inference.\n* Real-world projects, such as task managers and weather apps, can help reinforce knowledge of TypeScript.\n* Staying updated with the official documentation and engaging with the community is essential for mastering TypeScript.\n* A TypeScript Cheat Sheet can serve as a quick reference guide to essential concepts, features, and syntax.\n* TypeScript is widely used with popular JavaScript-based frameworks and libraries, such as React and Angular.\n* Mastering TypeScript involves building a portfolio of projects and staying informed about best practices and new developments.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-27T04:52:24.169415+00:00"
     }
   ],
-  "last_updated": "2026-05-27T03:26:59.807316+00:00"
+  "last_updated": "2026-05-27T04:52:24.169435+00:00"
 }
