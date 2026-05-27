@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 411,
+  "cycle_count": 416,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T15:42:20.725402+00:00",
+  "last_checkpoint": "2026-05-27T16:10:51.740562+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -404,7 +404,12 @@
       "https://tech-insider.org/prisma-orm-tutorial-typescript-postgres-13-steps-2026/",
       "https://dev.to/sameer_saleem/the-ultimate-guide-to-prisma-orm-postgresql-2025-edition-4lcj",
       "https://medium.com/@manendrav/how-to-setup-prisma-v7-with-postgresql-in-node-js-2026-a187f749dac4",
-      "https://www.w3resource.com/PostgreSQL/snippets/prisma-postgresql.php"
+      "https://www.w3resource.com/PostgreSQL/snippets/prisma-postgresql.php",
+      "https://dev.to/afeezaa/complete-guide-to-containerizing-and-deploying-a-full-stack-application-with-docker-nginx-and-4koj",
+      "https://github.com/TheToriqul/fullstack-app-docker-deployment",
+      "https://docs.docker.com/reference/compose-file/deploy/",
+      "https://medium.com/@austintyler0239/full-stack-deployments-with-docker-compose-905f9588af85",
+      "https://www.gersoncalienes.com/articles/docker-compose-full-stack-developers-practical-guide"
     ],
     "automation": [
       "https://www.selenium.dev/",

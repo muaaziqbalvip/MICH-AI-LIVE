@@ -459,7 +459,32 @@
         "json"
       ],
       "added_at": "2026-05-27T06:04:26.569192+00:00"
+    },
+    {
+      "id": "5b758727",
+      "source_url": "https://dev.to/afeezaa/complete-guide-to-containerizing-and-deploying-a-full-stack-application-with-docker-nginx-and-4koj",
+      "title": "Complete Guide to Containerizing and Deploying a Full-Stack …",
+      "summary": "* Docker Compose file defines services for Prometheus, cAdvisor, Loki, Promtail, and Grafana.\n* Shared network `shared-network` is created for communication between services.\n* Prometheus service uses `prom/prometheus` image and exposes port 9090.\n* cAdvisor service uses `gcr.io/cadvisor/cadvisor:latest` image and exposes port 8080.\n* Loki service uses `grafana/loki:3.0.0` image and exposes port 3100.\n* Promtail service uses `grafana/promtail:3.0.0` image and depends on Loki.\n* Grafana service requires environment variables `GF_SERVER_DOMAIN`, `GF_SERVER_ROOT_URL`, and `GF_SERVER_SERVE_FROM_SUB_PATH`.\n* Configuration files required: `prometheus.yml`, `loki-config.yaml`, and `promtail-config.yaml`.\n* `docker network create shared-network` command creates the shared network.\n* `prometheus.yml` file defines scrape intervals, timeouts, and alerting settings for Prometheus.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-27T15:52:27.549527+00:00"
+    },
+    {
+      "id": "d299fd5a",
+      "source_url": "https://docs.docker.com/reference/compose-file/deploy/",
+      "title": "Compose Deploy Specification | Docker Docs",
+      "summary": "* `update_config` configures rolling updates for services\n* `parallelism` sets the number of containers to update at a time (default not specified)\n* `delay` sets the time to wait between updating groups of containers (e.g., 10s)\n* `failure_action` determines the action to take on update failure (continue, rollback, or pause, default: pause)\n* `monitor` sets the duration to monitor for failure after each task update (e.g., 0s, 10s)\n* `max_failure_ratio` sets the failure rate to tolerate during updates (default 0)\n* `order` sets the order of operations during updates (stop-first or start-first, default: stop-first)\n* `parallelism` example value: 2\n* `delay` example value: 10s\n* `order` example value: stop-first",
+      "tags": [
+        "container updates",
+        "rolling updates",
+        "cloud computing",
+        "service configuration",
+        "parallelism settings",
+        "failure monitoring"
+      ],
+      "added_at": "2026-05-27T15:59:38.551562+00:00"
     }
   ],
-  "last_updated": "2026-05-27T06:04:26.569211+00:00"
+  "last_updated": "2026-05-27T15:59:38.551572+00:00"
 }
