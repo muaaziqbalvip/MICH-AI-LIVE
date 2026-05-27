@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 436,
+  "cycle_count": 441,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T17:54:43.559587+00:00",
+  "last_checkpoint": "2026-05-27T18:06:26.007496+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -414,7 +414,8 @@
       "https://github.com/TheToriqul/fullstack-app-docker-deployment",
       "https://docs.docker.com/reference/compose-file/deploy/",
       "https://medium.com/@austintyler0239/full-stack-deployments-with-docker-compose-905f9588af85",
-      "https://www.gersoncalienes.com/articles/docker-compose-full-stack-developers-practical-guide"
+      "https://www.gersoncalienes.com/articles/docker-compose-full-stack-developers-practical-guide",
+      "https://www.nordiso.com/blog/react-server-components-architecture-a-complete-guide"
     ],
     "automation": [
       "https://www.selenium.dev/",
