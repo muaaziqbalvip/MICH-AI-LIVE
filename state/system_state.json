@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 401,
+  "cycle_count": 406,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T14:59:54.827701+00:00",
+  "last_checkpoint": "2026-05-27T15:10:38.942554+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -301,7 +301,9 @@
       "https://developer.android.com/codelabs/kmp-get-started",
       "https://codezup.com/kotlin-multiplatform-development-cross-platform-mobile-app/",
       "https://medium.com/@TufelMalik/how-to-create-a-kotlin-multiplatform-project-a-step-by-step-guide-8f4e52c461b1",
-      "https://ktor.io/docs/client-create-multiplatform-application.html"
+      "https://ktor.io/docs/client-create-multiplatform-application.html",
+      "https://medium.com/@mr.abdulrehman.ar/understanding-riverpod-the-future-of-state-management-in-flutter-81b0743ae787",
+      "https://codezup.com/flutter-state-management-riverpod-guide/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
