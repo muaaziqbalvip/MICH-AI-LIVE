@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 461,
+  "cycle_count": 466,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T19:15:12.247032+00:00",
+  "last_checkpoint": "2026-05-27T19:35:59.140295+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -232,7 +232,9 @@
       "https://www.dataslayer.ai/blog/ai-in-content-marketing",
       "https://www.canva.com/resources/ai-content-marketing/?msockid=0c09a06647686e3438e8b70046ae6ff2",
       "https://m.me/lite/",
-      "https://www.messenger.com/help/185285184853471"
+      "https://www.messenger.com/help/185285184853471",
+      "https://mail.services.live.com/mail/",
+      "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=311773a0e42366f3027664c6e51e67f8"
     ],
     "android_core": [
       "https://www.android.com/",

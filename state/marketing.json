@@ -582,7 +582,21 @@
         "analytics"
       ],
       "added_at": "2026-05-27T17:43:30.394353+00:00"
+    },
+    {
+      "id": "c773b4ad",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=311773a0e42366f3027664c6e51e67f8",
+      "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+      "summary": "* Pricing: $4.40/user/month (annual subscription, auto-renews)\n* Core features: identity and access management for up to 300 users\n* Supported platforms: web and mobile\n* Included apps: Word, Excel, PowerPoint, Outlook\n* Custom business email available\n* Cloud storage: 1 TB per user\n* Additional apps: 10+ (including Bookings, Planner, Forms)\n* Security feature: AI-powered chat\n* Subscription model: annual payment, auto-renewal\n* Free trial available",
+      "tags": [
+        "cloud storage",
+        "identity management",
+        "access management",
+        "ai powered",
+        "mobile apps"
+      ],
+      "added_at": "2026-05-27T19:32:55.894766+00:00"
     }
   ],
-  "last_updated": "2026-05-27T17:43:30.394363+00:00"
+  "last_updated": "2026-05-27T19:32:55.894781+00:00"
 }
