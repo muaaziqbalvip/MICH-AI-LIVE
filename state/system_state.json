@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 351,
+  "cycle_count": 356,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T04:13:18.658702+00:00",
+  "last_checkpoint": "2026-05-27T04:22:50.325178+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -360,7 +360,8 @@
       "https://www.booking.com/city/fr/paris.fr.html?msockid=2635cba42f1b6d9a23fedcc12e636c7b",
       "https://fastapi.tiangolo.com/tutorial/",
       "https://realpython.com/fastapi-python-web-apis/",
-      "https://pytutorial.com/fastapi-tutorial-build-your-first-python-rest-api/"
+      "https://pytutorial.com/fastapi-tutorial-build-your-first-python-rest-api/",
+      "https://pyquesthub.com/building-real-time-applications-with-websockets-in-python"
     ],
     "automation": [
       "https://www.selenium.dev/",
