@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 446,
+  "cycle_count": 451,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T18:13:13.937141+00:00",
+  "last_checkpoint": "2026-05-27T18:26:56.614820+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -527,7 +527,8 @@
       "https://www.geeksforgeeks.org/devops/aws-lambda-create-a-lambda-function-in-python-integrated-with-api-gateway/",
       "https://stackify.com/aws-lambda-with-python-a-complete-getting-started-guide/",
       "https://emitechlogic.com/mastering-aws-lambda-with-boto3-and-python/",
-      "https://www.youtube.com/playlist?list=PLjl2dJMjkDjlcI3SQErSq4UMX3okzafvO"
+      "https://www.youtube.com/playlist?list=PLjl2dJMjkDjlcI3SQErSq4UMX3okzafvO",
+      "https://www.coursera.org/learn/packt-advanced-selenium-techniques-and-framework-introduction-bxdya?msockid=07b602bca30967f8241a15daa2006625"
     ]
   },
   "software_factory_jobs": [],
