@@ -444,7 +444,22 @@
         "web_dev"
       ],
       "added_at": "2026-05-27T04:52:24.169415+00:00"
+    },
+    {
+      "id": "07a7ffee",
+      "source_url": "https://dev.to/sameer_saleem/the-ultimate-guide-to-prisma-orm-postgresql-2025-edition-4lcj",
+      "title": "The Ultimate Guide to Prisma ORM + PostgreSQL (2025 Edition)",
+      "summary": "* Prisma 6/7 uses a TypeScript-based engine for faster cold starts and smaller Docker images.\n* TypedSQL allows writing raw SQL in .sql files with generated TypeScript types.\n* Prisma Studio provides a visual dashboard for PostgreSQL data using `npx prisma studio`.\n* Connection Pooling strings are required for hosted PostgreSQL providers like Supabase or Neon.\n* `prisma.user.findMany()` fetches all users and includes their posts with `include: { posts: true }`.\n* Raw SQL can be used with Prisma for more control over database queries.\n* Prisma generates TypeScript types for SQL files.\n* `JSON.stringify()` is used to log data in a readable format.\n* Docker images are smaller with Prisma 6/7 due to the TypeScript-based engine.\n* `npx prisma studio` is used to launch Prisma Studio for data visualization.",
+      "tags": [
+        "typescript",
+        "postgresql",
+        "docker",
+        "prisma",
+        "sql",
+        "json"
+      ],
+      "added_at": "2026-05-27T06:04:26.569192+00:00"
     }
   ],
-  "last_updated": "2026-05-27T04:52:24.169435+00:00"
+  "last_updated": "2026-05-27T06:04:26.569211+00:00"
 }

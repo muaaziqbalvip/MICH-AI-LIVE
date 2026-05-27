@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 366,
+  "cycle_count": 371,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T05:48:38.632589+00:00",
+  "last_checkpoint": "2026-05-27T06:13:36.274827+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -209,7 +209,8 @@
       "https://sproutsocial.com/insights/influencer-analytics-tools/",
       "https://hypeauditor.com/",
       "https://sociallypowerful.com/influencer/marketing/tools",
-      "https://collabstr.com/blog/best-influencer-marketing-tools-platforms"
+      "https://collabstr.com/blog/best-influencer-marketing-tools-platforms",
+      "https://www.cahoover.com/getting-started-with-the-google-ads-api-using-python/"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -372,7 +373,12 @@
       "https://www.w3schools.com/typescript/index.php",
       "https://en.wikipedia.org/wiki/TypeScript",
       "https://github.com/microsoft/TypeScript",
-      "https://www.geeksforgeeks.org/typescript/typescript-tutorial/"
+      "https://www.geeksforgeeks.org/typescript/typescript-tutorial/",
+      "https://www.prisma.io/docs/prisma-orm/quickstart/postgresql",
+      "https://tech-insider.org/prisma-orm-tutorial-typescript-postgres-13-steps-2026/",
+      "https://dev.to/sameer_saleem/the-ultimate-guide-to-prisma-orm-postgresql-2025-edition-4lcj",
+      "https://medium.com/@manendrav/how-to-setup-prisma-v7-with-postgresql-in-node-js-2026-a187f749dac4",
+      "https://www.w3resource.com/PostgreSQL/snippets/prisma-postgresql.php"
     ],
     "automation": [
       "https://www.selenium.dev/",
