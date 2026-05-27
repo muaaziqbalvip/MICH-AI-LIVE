@@ -565,7 +565,32 @@
         "logging"
       ],
       "added_at": "2026-05-27T03:00:03.081870+00:00"
+    },
+    {
+      "id": "e4a74b14",
+      "source_url": "https://www.softwaretestingmaterial.com/selenium-tutorial/",
+      "title": "Free Selenium Tutorial | Beginner To Advanced Level",
+      "summary": "* No technical information is present in the provided text.\n* The text appears to be comments and replies on a blog post.\n* No code patterns or technical facts are mentioned.\n* The conversation is about the blog's content and suggestions for improvement.\n* No Selenium-related technical information is present.\n* The text is not related to the Selenium tutorial.\n* No programming concepts are discussed.\n* No testing techniques are mentioned.\n* The conversation is informal and not technical.\n* No actionable technical insights can be extracted.",
+      "tags": [
+        "blog comments",
+        "informal conversation",
+        "technical information",
+        "programming concepts",
+        "testing techniques",
+        "selenium tutorial"
+      ],
+      "added_at": "2026-05-27T15:21:50.172837+00:00"
+    },
+    {
+      "id": "b712b691",
+      "source_url": "https://www.coursera.org/learn/packt-advanced-selenium-techniques-and-framework-introduction-bxdya?msockid=3cfc2397f53e65a7325534f1f4766408",
+      "title": "Advanced Selenium Techniques and Framework Introduction",
+      "summary": "* Locators in WebDriver API include CSS selectors, XPath, and name locators.\n* ChroPath plugin is used for finding elements with XPath and CSS.\n* Selenium WebDriver supports explicit and implicit waits for synchronization.\n* Action class is used for advanced user interactions.\n* JavaScript execution and web table sorting are supported in Selenium.\n* Python is used for functional automation, including complex scenarios.\n* Selenium supports handling child windows and frames.\n* Dynamic dropdowns, checkboxes, and radio buttons can be automated using Selenium.\n* JavaScript alert popups can be managed using Selenium WebDriver.\n* Select class is used for identifying static dropdowns in Selenium.\n* Course requires paid enrollment or financial aid to access.\n* Financial aid and scholarships are available for select learning programs.\n* Course Certificate is awarded upon successful completion.\n* Certificate can be printed or added to LinkedIn profile.\n* Course is not available for audit.\n* Financial aid application link is on the course description page.\n* Enrollment fee is required for course access.\n* Accomplishments page stores earned Course Certificates.\n* Learner help center is available for more information.\n* Select learning programs offer financial aid or scholarship options.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-27T15:34:43.590876+00:00"
     }
   ],
-  "last_updated": "2026-05-27T03:00:03.081891+00:00"
+  "last_updated": "2026-05-27T15:34:43.590889+00:00"
 }

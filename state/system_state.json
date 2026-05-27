@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 406,
+  "cycle_count": 411,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T15:10:38.942554+00:00",
+  "last_checkpoint": "2026-05-27T15:42:20.725402+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -506,7 +506,12 @@
       "https://github.blog/",
       "https://gizmodo.com/download/github",
       "https://github.com/login",
-      "https://github.com/search"
+      "https://github.com/search",
+      "https://www.softwaretestingmaterial.com/selenium-tutorial/",
+      "https://qaautomation.expert/2023/11/17/advance-selenium-tutorials/",
+      "https://www.guru99.com/selenium-tutorial.html",
+      "https://www.coursera.org/learn/packt-advanced-selenium-techniques-and-framework-introduction-bxdya?msockid=3cfc2397f53e65a7325534f1f4766408",
+      "https://artoftesting.com/selenium-tutorial"
     ]
   },
   "software_factory_jobs": [],
