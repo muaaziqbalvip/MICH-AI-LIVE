@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 451,
+  "cycle_count": 456,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T18:26:56.614820+00:00",
+  "last_checkpoint": "2026-05-27T18:45:46.281051+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -228,7 +228,9 @@
       "https://influencermarketinghub.com/social-media-posting-scheduling-tools/",
       "https://blog.hootsuite.com/social-media-scheduling-tools/",
       "https://bloggingwizard.com/best-social-media-scheduling-tools/",
-      "https://socialmediacurve.com/social-media-scheduling-tools/"
+      "https://socialmediacurve.com/social-media-scheduling-tools/",
+      "https://www.dataslayer.ai/blog/ai-in-content-marketing",
+      "https://www.canva.com/resources/ai-content-marketing/?msockid=0c09a06647686e3438e8b70046ae6ff2"
     ],
     "android_core": [
       "https://www.android.com/",
