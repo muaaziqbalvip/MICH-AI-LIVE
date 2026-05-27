@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 341,
+  "cycle_count": 346,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T03:10:11.903471+00:00",
+  "last_checkpoint": "2026-05-27T03:57:36.655390+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -78,7 +78,12 @@
       "https://pypi.org/project/python-ffmpeg/",
       "https://en.guidetopython.com/Ffmpeg-python_Advanced",
       "https://ffmpeg-api.com/learn/ffmpeg/guide",
-      "https://pythonacademy.io/articles/python-ffmpeg-python-advanced"
+      "https://pythonacademy.io/articles/python-ffmpeg-python-advanced",
+      "https://pypi.org/project/pyttsx3/",
+      "https://coderivers.org/blog/tts-python/",
+      "https://github.com/shashwatttttt/Text-To-speech",
+      "https://smallest.ai/blog/python-packages-realistic-text-to-speech",
+      "https://murf.ai/blog/python-text-to-speech"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -350,7 +355,10 @@
       "https://social.msdn.microsoft.com/Forums/en-US/e9fd59a4-f380-4cae-9777-f0f196d0a24d",
       "https://social.msdn.microsoft.com/forums/windowsapps/en-US/21b8a6a7-a461-4a39-8994-eca05853417b/opencv-on-arm",
       "https://social.msdn.microsoft.com/Forums/en-US/6a8ad849-7db0-43a2-a708-052c110051eb/polygons-with-holes-complex-polygons?forum=bingmaps",
-      "https://www.booking.com/city/fr/paris.fr.html?msockid=2635cba42f1b6d9a23fedcc12e636c7b"
+      "https://www.booking.com/city/fr/paris.fr.html?msockid=2635cba42f1b6d9a23fedcc12e636c7b",
+      "https://fastapi.tiangolo.com/tutorial/",
+      "https://realpython.com/fastapi-python-web-apis/",
+      "https://pytutorial.com/fastapi-tutorial-build-your-first-python-rest-api/"
     ],
     "automation": [
       "https://www.selenium.dev/",

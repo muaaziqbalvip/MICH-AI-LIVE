@@ -347,7 +347,32 @@
         "codecs"
       ],
       "added_at": "2026-05-26T19:48:27.059438+00:00"
+    },
+    {
+      "id": "3a84ca5a",
+      "source_url": "https://smallest.ai/blog/python-packages-realistic-text-to-speech",
+      "title": "Top Python Packages for Realistic Text-to-Speech Solutions",
+      "summary": "* Python is a popular choice for text-to-speech (TTS) applications due to its simplicity, flexibility, and AI capabilities.\n* Key Python libraries for TTS include TensorFlow, PyTorch, and WaveGlow.\n* Popular Python packages for realistic TTS are pyttsx3, Coqui TTS, Mimic3, and Orca TTS.\n* Python offers easy integration with deep learning frameworks for advanced voice synthesis.\n* Python-based TTS applications support multiple languages and accents.\n* Real-time processing capabilities are available with some Python-based TTS solutions.\n* Cloud providers like Google Cloud, Amazon Polly, and Smallest.ai offer Python SDKs for TTS integration.\n* Python's cross-platform compatibility allows TTS applications to run on Windows, macOS, Linux, and embedded systems.\n* Python's simple syntax makes it easy for beginners and experienced developers to implement TTS solutions quickly.\n* Smallest.ai Waves is a Python-based TTS solution that generates speech in under 100 milliseconds.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-27T03:46:52.450841+00:00"
+    },
+    {
+      "id": "71b94e58",
+      "source_url": "https://murf.ai/blog/python-text-to-speech",
+      "title": "A guide on converting Text to Speech with Python - Murf",
+      "summary": "* Python libraries for text-to-speech (TTS) include pyttsx3, gTTS, and Amazon Polly.\n* pyttsx3 is a cross-platform TTS library that supports multiple TTS engines.\n* gTTS (Google Text-to-Speech) is a library for converting text to speech using Google's TTS API.\n* Amazon Polly is a cloud-based TTS service that provides high-quality, lifelike voices.\n* Offline TTS engines are reliable but robotic, while cloud-based TTS provides realistic voices but requires an internet connection.\n* Python's simple syntax and readable code make it easy to implement speech synthesis.\n* TTS works best when combined with other Python tools like NLP, web apps, or machine learning.\n* Cross-platform support means Python-based TTS works consistently on Windows, macOS, and Linux.\n* Choosing the right TTS library is crucial for ensuring desired functionality and performance.\n* Murf is a service that provides natural, human-like speech for Python projects.\n* Murf offers a Text-to-Speech API for converting text to speech\n* Supported use cases include e-learning, advertisements, explainer videos, and audiobooks\n* Murf provides voice styles, accent generation, and voice cloning capabilities\n* The platform supports multilingual dubbing and transcription\n* Integrations are available for Canva, Google Slides, and PowerPoint\n* Murf offers a studio for creating and editing audio content\n* The platform provides a savings calculator and TTS benchmarks\n* Murf supports conversational AI voice and speech-to-text conve",
+      "tags": [
+        "text-to-speech",
+        "speech synthesis",
+        "machine learning",
+        "nlp",
+        "cloud-based",
+        "python"
+      ],
+      "added_at": "2026-05-27T03:53:02.766778+00:00"
     }
   ],
-  "last_updated": "2026-05-26T19:48:27.059447+00:00"
+  "last_updated": "2026-05-27T03:53:02.766795+00:00"
 }

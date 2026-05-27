@@ -405,7 +405,22 @@
         "intellisense"
       ],
       "added_at": "2026-05-26T15:03:37.000585+00:00"
+    },
+    {
+      "id": "a5923915",
+      "source_url": "https://pytutorial.com/fastapi-tutorial-build-your-first-python-rest-api/",
+      "title": "FastAPI Tutorial: Build Your First Python REST API",
+      "summary": "* The API returns a JSON error response `{\"error\": \"Book not found\"}` for missing resources.\n* The `@app.post(\"/books/\")` endpoint creates a new book using the `Book` Pydantic model.\n* The `@app.get(\"/books/\")` endpoint lists all books, with optional filtering by author using a query parameter.\n* The `books_db` list stores book data in memory, but a proper database like SQLAlchemy or Tortoise-ORM is recommended for real projects.\n* Error handling should be implemented using HTTP status codes.\n* Authentication and authorization should be added for secure API access.\n* The project should be structured into modules with routers to organize endpoints.\n* FastAPI provides automatic validation and documentation features.\n* Pydantic models are used to define the structure of API request and response data.\n* The `return` statement is used to respond to API requests with JSON data.",
+      "tags": [
+        "api",
+        "json",
+        "fastapi",
+        "pydantic",
+        "sqlalchemy",
+        "http"
+      ],
+      "added_at": "2026-05-27T03:26:59.807298+00:00"
     }
   ],
-  "last_updated": "2026-05-26T15:03:37.000598+00:00"
+  "last_updated": "2026-05-27T03:26:59.807316+00:00"
 }
