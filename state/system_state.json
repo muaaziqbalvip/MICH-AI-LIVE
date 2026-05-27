@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 381,
+  "cycle_count": 383,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T07:57:18.347969+00:00",
+  "last_checkpoint": "2026-05-27T08:17:37.464589+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -85,7 +85,10 @@
       "https://smallest.ai/blog/python-packages-realistic-text-to-speech",
       "https://murf.ai/blog/python-text-to-speech",
       "https://ffmpeg-api.com/learn/ffmpeg/guide/syntax-and-examples",
-      "https://www.ffmpeg.media/articles/batch-processing-automate-multiple-files"
+      "https://www.ffmpeg.media/articles/batch-processing-automate-multiple-files",
+      "https://www.pilofficial.com/",
+      "https://en.m.wikipedia.org/wiki/Public_Image_Ltd",
+      "https://www.bandsintown.com/a/53032-public-image-ltd."
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -498,5 +501,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "running"
+  "status": "handoff"
 }
