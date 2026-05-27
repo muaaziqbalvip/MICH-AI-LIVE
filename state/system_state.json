@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 346,
+  "cycle_count": 351,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T03:57:36.655390+00:00",
+  "last_checkpoint": "2026-05-27T04:13:18.658702+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -201,7 +201,8 @@
       "https://sproutsocial.com/insights/ai-content-marketing/",
       "https://blog.hubspot.com/marketing/ai-in-content-marketing",
       "https://thecmo.com/demand-generation/ai-in-content-marketing/",
-      "https://firstmovers.ai/ai-content-generation-marketing/"
+      "https://firstmovers.ai/ai-content-generation-marketing/",
+      "https://searchengineland.com/guide/what-is-seo"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -267,7 +268,8 @@
       "https://www.geeksforgeeks.org/flutter/flutter-introduction-to-state-management-using-riverpod/",
       "https://riverpod.dev/",
       "https://blog.stackademic.com/flutter-state-management-with-riverpod-a-complete-guide-e85af6f5d7ad",
-      "https://support.google.com/android/?hl=en"
+      "https://support.google.com/android/?hl=en",
+      "https://nandbox.com/blog/android-app-optimization-techniques/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
