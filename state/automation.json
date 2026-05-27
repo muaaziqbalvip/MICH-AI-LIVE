@@ -590,7 +590,17 @@
         "automation"
       ],
       "added_at": "2026-05-27T15:34:43.590876+00:00"
+    },
+    {
+      "id": "53f72520",
+      "source_url": "https://stackify.com/aws-lambda-with-python-a-complete-getting-started-guide/",
+      "title": "AWS Lambda with Python: A Complete Getting Started Guide",
+      "summary": "* AWS Lambda functions can be monitored using CloudWatch logs and metrics.\n* CloudWatch logs provide detailed information about function execution, including error messages and invocation counts.\n* Environment variables can be set in AWS Lambda function configuration and accessed using `os.environ` in Python.\n* `os.environ` module is used to access environment variables in Lambda functions.\n* Environment variables are stored as key-value pairs in the Lambda function configuration.\n* Sensitive information in environment variables can be encrypted using AWS Key Management Service (KMS).\n* Lambda functions can be tested using the \"Test\" button, and execution results can be viewed in the \"Execution result\" section.\n* `lambda_handler` function is the main entry point for AWS Lambda functions in Python.\n* `os` module is imported to access environment variables in Lambda functions.\n* Environment variables can be logged to CloudWatch using `print` statements in the Lambda function code.\n* AWS Lambda environment variables can be encrypted using AWS Key Management Service (KMS).\n* To encrypt environment variables, check the \"Enable helpers for encryption in transit\" box and select a KMS key.\n* The `Encrypt` button is used to encrypt environment variable values.\n* The `boto3` library is used to decrypt encrypted environment variables in AWS Lambda functions.\n* The `b64decode` function from the `base64` library is used to decode the encrypted environment variable.\n* The `kms.decrypt` met",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-27T16:32:03.881719+00:00"
     }
   ],
-  "last_updated": "2026-05-27T15:34:43.590889+00:00"
+  "last_updated": "2026-05-27T16:32:03.881774+00:00"
 }

@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 416,
+  "cycle_count": 421,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T16:10:51.740562+00:00",
+  "last_checkpoint": "2026-05-27T16:48:47.826827+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -516,7 +516,12 @@
       "https://qaautomation.expert/2023/11/17/advance-selenium-tutorials/",
       "https://www.guru99.com/selenium-tutorial.html",
       "https://www.coursera.org/learn/packt-advanced-selenium-techniques-and-framework-introduction-bxdya?msockid=3cfc2397f53e65a7325534f1f4766408",
-      "https://artoftesting.com/selenium-tutorial"
+      "https://artoftesting.com/selenium-tutorial",
+      "https://docs.aws.amazon.com/lambda/latest/dg/lambda-python.html",
+      "https://www.geeksforgeeks.org/devops/aws-lambda-create-a-lambda-function-in-python-integrated-with-api-gateway/",
+      "https://stackify.com/aws-lambda-with-python-a-complete-getting-started-guide/",
+      "https://emitechlogic.com/mastering-aws-lambda-with-boto3-and-python/",
+      "https://www.youtube.com/playlist?list=PLjl2dJMjkDjlcI3SQErSq4UMX3okzafvO"
     ]
   },
   "software_factory_jobs": [],
