@@ -496,7 +496,37 @@
         "widgetref"
       ],
       "added_at": "2026-05-26T19:31:09.240799+00:00"
+    },
+    {
+      "id": "13cc4170",
+      "source_url": "https://www.geeksforgeeks.org/android/android-jetpack-compose-tutorial/",
+      "title": "Android Jetpack Compose Tutorial - GeeksforGeeks",
+      "summary": "* Use Firestore in Jetpack Compose for real-time data storage and retrieval.\n* Implement phone authentication using Firebase in Jetpack Compose for secure user authentication.\n* Integrate Retrofit or Volley for API integration and data posting in Jetpack Compose.\n* Use Google Maps in Android for location-based services and marker placement.\n* Implement encrypted shared preferences in Jetpack Compose for secure data storage.\n* Handle runtime permissions using Dexter in Jetpack Compose for secure app functionality.\n* Detect screen orientation and battery level in Android using Jetpack Compose.\n* Implement dark mode in Jetpack Compose for customizable user interfaces.\n* Use Firebase Realtime Database for real-time data retrieval and updates in Jetpack Compose.\n* Integrate Google reCAPTCHA in Jetpack Compose for secure user verification.",
+      "tags": [
+        "firestore",
+        "firebase",
+        "retrofit",
+        "volley",
+        "dexter",
+        "jetpack"
+      ],
+      "added_at": "2026-05-27T07:55:10.577860+00:00"
+    },
+    {
+      "id": "fba17fe9",
+      "source_url": "https://medium.com/@manishkumar_75473/android-jetpack-compose-a-master-guide-3b1f2501f4cf",
+      "title": "Android Jetpack Compose — A Master Guide - Medium",
+      "summary": "* Jetpack Compose is a declarative way to build Android user interfaces.\n* Declarative nature makes code more readable and speeds up development.\n* Key concepts in Compose include recomposition, side effects, and state management.\n* Jetpack Compose uses Kotlin programming language.\n* Compose requires understanding of declarative design paradigm.\n* Jetpack Navigation is used for navigating screens in Compose.\n* ViewModels are used in a new way with Compose.\n* Compose supports MVVM architecture with LiveData and StateFlow.\n* Migration from traditional XML-based view system to Compose is possible.\n* Compose provides themes and styles for customizing app appearance.",
+      "tags": [
+        "android",
+        "jetpack",
+        "kotlin",
+        "compose",
+        "mvvm",
+        "navigation"
+      ],
+      "added_at": "2026-05-27T07:55:14.687600+00:00"
     }
   ],
-  "last_updated": "2026-05-26T19:31:09.240808+00:00"
+  "last_updated": "2026-05-27T07:55:14.687619+00:00"
 }

@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 376,
+  "cycle_count": 381,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T06:26:04.898654+00:00",
+  "last_checkpoint": "2026-05-27T07:57:18.347969+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -211,7 +211,12 @@
       "https://hypeauditor.com/",
       "https://sociallypowerful.com/influencer/marketing/tools",
       "https://collabstr.com/blog/best-influencer-marketing-tools-platforms",
-      "https://www.cahoover.com/getting-started-with-the-google-ads-api-using-python/"
+      "https://www.cahoover.com/getting-started-with-the-google-ads-api-using-python/",
+      "https://scrapfly.io/blog/posts/how-to-scrape-google",
+      "https://alterlab.io/blog/how-to-scrape-google-search-results-python-2026",
+      "https://www.scrapingdog.com/blog/scrape-google-search-results/",
+      "https://dev.to/oxylabs-io/python-guide-to-scraping-google-search-results-bhk",
+      "https://medium.com/@hasdata/build-a-google-serp-scraper-in-python-04607e2078ab"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -279,7 +284,12 @@
       "https://blog.stackademic.com/flutter-state-management-with-riverpod-a-complete-guide-e85af6f5d7ad",
       "https://support.google.com/android/?hl=en",
       "https://nandbox.com/blog/android-app-optimization-techniques/",
-      "https://github.com/NicosNicolaou16/SampleComposeWithHiltAndRoom"
+      "https://github.com/NicosNicolaou16/SampleComposeWithHiltAndRoom",
+      "https://developer.android.com/develop/ui/compose/tutorial",
+      "https://www.geeksforgeeks.org/android/android-jetpack-compose-tutorial/",
+      "https://www.jetpackcompose.net/",
+      "https://medium.com/@manishkumar_75473/android-jetpack-compose-a-master-guide-3b1f2501f4cf",
+      "https://www.youtube.com/playlist?list=PLQ_Ai1O7sMV33aJHfqR-vquGZE1OCOS51"
     ],
     "web_dev": [
       "https://tailwindcss.com/",

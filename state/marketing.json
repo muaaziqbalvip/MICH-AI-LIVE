@@ -523,7 +523,42 @@
         "marketing"
       ],
       "added_at": "2026-05-27T05:39:29.499441+00:00"
+    },
+    {
+      "id": "bcd982a8",
+      "source_url": "https://scrapfly.io/blog/posts/how-to-scrape-google",
+      "title": "How to Scrape Google Search Results in 2026 - ScrapFly Blog",
+      "summary": "* The `scrape_search` function is used to collect search result data from Google SERPs.\n* The `check_ranking` function checks the ranking of a given URL for a specific keyword.\n* The `check_ranking` function takes parameters `keyword`, `url_match`, `max_pages`, and `country`.\n* The `parse_related_search` function extracts related search keywords from a Google SERP.\n* The `httpx` library is used to create an HTTP client with headers that mimic a real web browser.\n* The `parsel` library is used to parse HTML content using XPath expressions.\n* The `User-Agent` header is set to mimic a Chrome browser on Windows 10.\n* The `Accept` and `Accept-Encoding` headers are set to accept HTML, XML, and compressed content.\n* The `follow_redirects` and `http2` parameters are set to `True` for the HTTP client.\n* The `quote` function from `urllib.parse` is used to encode URLs.\n* Python libraries used: `collections`, `urllib.parse`, `parsel`, `scrapfly`\n* `ScrapeConfig` and `ScrapflyClient` are used for scraping configuration and client setup\n* `Selector` from `parsel` is used for parsing HTML selectors\n* `quote` from `urllib.parse` is used for URL encoding\n* `defaultdict` is used for initializing dictionaries with default values\n* `scrape_search` function returns a dictionary with search results and rich snippets\n* `parse_search_results` and `parse_search_snippet` functions are used for parsing search results and rich snippets\n* ScrapFly API key is required for scraping with `ScrapflyClient`\n* ",
+      "tags": [
+        "http",
+        "xpath",
+        "html",
+        "httpx",
+        "parsel",
+        "serp"
+      ],
+      "added_at": "2026-05-27T06:49:17.584454+00:00"
+    },
+    {
+      "id": "c92b3dfc",
+      "source_url": "https://www.scrapingdog.com/blog/scrape-google-search-results/",
+      "title": "How to Scrape Google Search Results in Python (2026 ... - Scrapingdog",
+      "summary": "* Use Selenium for JavaScript-rendered pages to scrape Google search results.\n* Parse HTML response using BeautifulSoup to extract titles, links, and descriptions.\n* Utilize Scrapingdog's Google SERP API for production use to avoid getting blocked.\n* API endpoint: `https://api.scrapingdog.com/google`.\n* Required API parameters: `api_key`, `query`, `country`, `advance_search`, `domain`.\n* Send GET request to API endpoint with required parameters using `requests` library.\n* Check response status code (200 for success) and parse JSON response.\n* Benefits of scraping Google search results include competitive intelligence, SEO tracking, market research, lead generation, and AI training.\n* Scrapingdog handles proxy rotation, header randomization, and browser fingerprinting to avoid getting blocked.\n* Python libraries required: `beautifulsoup4`, `selenium`, `pandas`\n* `selenium` is used for browser automation and JavaScript rendering\n* `BeautifulSoup` is used for parsing HTML data\n* `pandas` is used for storing data in a CSV file\n* ChromeDriver is required for Selenium to work with Google Chrome\n* Google's update requires JavaScript rendering to access Google pages\n* `webdriver.Chrome` is used to initialize the Chrome browser with Selenium\n* `time.sleep(2)` is used to wait for the page to load\n* `driver.get(search_url)` is used to open the Google Search URL\n* `BeautifulSoup` is used to parse the raw HTML data from the page",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-05-27T07:22:41.229818+00:00"
+    },
+    {
+      "id": "4b7800c2",
+      "source_url": "https://dev.to/oxylabs-io/python-guide-to-scraping-google-search-results-bhk",
+      "title": "Python Guide to Scraping Google Search Results",
+      "summary": "* Google SERPs (Search Engine Results Page) contain complex elements like featured snippets, paid ads, and video carousels.\n* Scraping Google's publicly available SERP data is generally legal, but consult legal experts for specific cases.\n* Google uses CAPTCHAs and IP blocks as anti-bot measures.\n* Oxylabs' SERP Scraper API can bypass these challenges.\n* Install Python and the Requests library to use the API: `python3 -m pip install requests`.\n* Send a POST request to the API using `requests.request()` with a payload containing `source` and `url` or `query` parameters.\n* Customize query parameters by adjusting the payload, e.g., `payload = {'source': 'google_search', 'query': 'newton'}`.\n* Export data to CSV using Python's Pandas library: `df.to_csv('export.csv', index=False)`.\n* Handle errors and exceptions using try-except blocks, e.g., `except requests.exceptions.RequestException as e`.\n* No technical information is present in the provided text, it appears to be a conclusion and comments section.\n* The link to the original article is https://dev.to/oxylabs-io/python-guide-to-scraping-google-search-results-bhk\n* The article is about scraping Google search results using Python.\n* Oxylabs is a provider of data gathering solutions.\n* The article aims to assist with web scraping challenges and solutions.\n* Oxylabs' tools are used as examples in the article.\n* The article blends educational content with practical advice.\n* Web scraping is the main topic of the article.\n* Python ",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-05-27T07:26:47.126837+00:00"
     }
   ],
-  "last_updated": "2026-05-27T05:39:29.499460+00:00"
+  "last_updated": "2026-05-27T07:26:47.126855+00:00"
 }
