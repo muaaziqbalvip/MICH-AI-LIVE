@@ -550,7 +550,22 @@
         "automation"
       ],
       "added_at": "2026-05-26T16:48:23.900890+00:00"
+    },
+    {
+      "id": "2b2fb854",
+      "source_url": "https://medium.com/@zafer_kahraman/automating-your-python-script-execution-with-cron-jobs-7380dc6d8173",
+      "title": "Schedule and Automate Python Scripts Using Cron Jobs - Medium",
+      "summary": "* Use absolute paths for scripts and log files in cron jobs.\n* Format for cron jobs: `minute hour day month day_of_week command`.\n* Example cron job: `*/5 * * * * /usr/bin/python3 /path/to/script.py >> /path/to/log.txt 2>&1`.\n* `crontab -l` command lists scheduled cron jobs.\n* `crontab -r` command removes all cron jobs.\n* `tail -f /path/to/log.txt` displays latest log entries in real-time.\n* Common cron job timings: `* * * * *` (every minute), `*/5 * * * *` (every 5 minutes).\n* `chmod +x script.sh` gives execution permission to a script.\n* `./script.sh` runs a script with execution permission.\n* `crontab` commands manage, edit, or remove cron jobs.",
+      "tags": [
+        "cron jobs",
+        "python",
+        "crontab",
+        "linux",
+        "scripts",
+        "logging"
+      ],
+      "added_at": "2026-05-27T03:00:03.081870+00:00"
     }
   ],
-  "last_updated": "2026-05-26T16:48:23.900906+00:00"
+  "last_updated": "2026-05-27T03:00:03.081891+00:00"
 }

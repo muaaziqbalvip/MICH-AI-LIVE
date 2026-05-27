@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 333,
+  "cycle_count": 336,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-26T20:32:30.853706+00:00",
+  "last_checkpoint": "2026-05-27T03:02:36.946599+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -192,7 +192,11 @@
       "https://en.wikipedia.org/wiki/Search_engine_optimization",
       "https://www.google.com.ai/webhp?hl=en&gl=ai",
       "https://about.google/",
-      "https://venngage.com/blog/ai-in-content-marketing/"
+      "https://venngage.com/blog/ai-in-content-marketing/",
+      "https://sproutsocial.com/insights/ai-content-marketing/",
+      "https://blog.hubspot.com/marketing/ai-in-content-marketing",
+      "https://thecmo.com/demand-generation/ai-in-content-marketing/",
+      "https://firstmovers.ai/ai-content-generation-marketing/"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -257,7 +261,8 @@
       "https://medium.com/@ugamakelechi501/how-to-use-riverpod-for-state-management-an-advanced-flutter-guide-4741cc8dd9eb",
       "https://www.geeksforgeeks.org/flutter/flutter-introduction-to-state-management-using-riverpod/",
       "https://riverpod.dev/",
-      "https://blog.stackademic.com/flutter-state-management-with-riverpod-a-complete-guide-e85af6f5d7ad"
+      "https://blog.stackademic.com/flutter-state-management-with-riverpod-a-complete-guide-e85af6f5d7ad",
+      "https://support.google.com/android/?hl=en"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
@@ -440,11 +445,14 @@
       "https://code.visualstudio.com/docs/devcontainers/create-dev-container",
       "https://code.visualstudio.com/blogs/2020/07/27/containers-edu",
       "https://code.visualstudio.com/docs/azure/overview?wt.md_id=AZ-MVP-5004796",
-      "https://amazon.nnda.org/"
+      "https://amazon.nnda.org/",
+      "https://python.plainenglish.io/schedule-scripts-with-python-crontab-a-step-by-step-guide-linux-macos-0ad89118a4b7",
+      "https://dev.to/whoakarsh/automate-scheduled-jobs-in-python-using-the-schedule-library-a-cron-alternative-811",
+      "https://medium.com/@zafer_kahraman/automating-your-python-script-execution-with-cron-jobs-7380dc6d8173"
     ]
   },
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "stopped"
+  "status": "running"
 }
