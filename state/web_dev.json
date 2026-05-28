@@ -554,7 +554,27 @@
         "premium"
       ],
       "added_at": "2026-05-28T04:44:13.074113+00:00"
+    },
+    {
+      "id": "648d1405",
+      "source_url": "https://www.tailwindcss.cn/",
+      "title": "Tailwind CSS - 只需书写 HTML 代码，无需书写 CSS，即可快速构建美 …",
+      "summary": "* Tailwind CSS allows for rapid and efficient web development\n* It provides a ready-to-use UI without compromising on customization\n* Tailwind CSS is scalable and suitable for large projects\n* It improves development workflow and productivity\n* The framework is regularly updated and improved\n* Tailwind CSS is compatible with various frameworks and tools\n* It enables consistent and unified CSS across different projects\n* The CLI works consistently across different frameworks\n* Tailwind CSS simplifies the design phase of development\n* It allows for faster creation of web pages and custom themes\n* `items-center` and `justify-center` are used for horizontal and vertical centering.\n* `peer-checked` is used to style elements based on the checked state of a peer element.\n* `text-slate-700` and `bg-slate-900` are used for text and background color styling.\n* `flex` and `space-x-4` are used for flexbox layout and horizontal spacing.\n* `font-medium` and `font-semibold` are used for font weight styling.\n* `rounded-md` is used for border radius styling.\n* `bg-black` and `text-white` are used for background and text color styling.\n* `h-10` and `px-6` are used for height and padding styling.\n* `flex-auto` is used to make an element take up the remaining space in a flex container.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-28T05:31:50.587772+00:00"
+    },
+    {
+      "id": "900b47cf",
+      "source_url": "https://tailwind.org.cn/",
+      "title": "Tailwind CSS - 无需离开 HTML 即可快速构建现代网站。 - Tailwind 框架",
+      "summary": "* Tailwind CSS uses utility classes for styling, such as `grid`, `aspect-square`, and `object-cover`.\n* Responsive design is achieved using prefixes like `@sm` for small screens.\n* Tailwind CSS has a built-in rendering engine that provides fast performance, with 6.4x faster rendering time and 4.2x faster frame rate.\n* The framework supports 3D transformations, allowing for scaling, rotating, and translating elements.\n* Tailwind CSS automatically removes unused CSS in production builds, resulting in smaller CSS packages (typically under 10kB).\n* The framework uses a `@layer` directive to define custom utility classes.\n* Tailwind Plus offers pre-designed, responsive UI components and templates for faster development.\n* Tailwind CSS is used by popular websites such as OpenAI, Reddit, and NASA.\n* The framework supports customization and extension through its utility-based approach.\n* Tailwind CSS can be used with popular front-end frameworks like React and Next.js.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-28T05:38:59.848814+00:00"
     }
   ],
-  "last_updated": "2026-05-28T04:44:13.074129+00:00"
+  "last_updated": "2026-05-28T05:38:59.848831+00:00"
 }

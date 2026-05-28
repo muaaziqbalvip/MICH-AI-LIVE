@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 546,
+  "cycle_count": 551,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-28T05:18:07.177170+00:00",
+  "last_checkpoint": "2026-05-28T05:53:13.660377+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -246,7 +246,9 @@
       "https://mail.services.live.com/mail/",
       "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=311773a0e42366f3027664c6e51e67f8",
       "https://www.facebook.com/�%/",
-      "https://l.facebook.com/facebook/"
+      "https://l.facebook.com/facebook/",
+      "https://kotaku.com/download/google-chrome",
+      "http://www.gmail.com/mail/help/intl/en-US/about.html?__shortid__=1wZ9"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -465,7 +467,11 @@
       "https://apps.apple.com/us/app/polybuzz-chat-with-characters/id6449190344",
       "https://react.docschina.org/",
       "https://www.runoob.com/react/react-tutorial.html",
-      "https://zhuanlan.zhihu.com/p/18764028654"
+      "https://zhuanlan.zhihu.com/p/18764028654",
+      "https://www.tailwindcss.cn/",
+      "https://www.runoob.com/tailwindcss/tailwindcss-tutorial.html",
+      "https://tailwind.org.cn/",
+      "https://tailwindcss.readdevdocs.com/docs/installation.html"
     ],
     "automation": [
       "https://www.selenium.dev/",
