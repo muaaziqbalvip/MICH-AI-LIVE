@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 476,
+  "cycle_count": 481,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-27T19:52:16.147818+00:00",
+  "last_checkpoint": "2026-05-28T01:51:35.687336+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -234,7 +234,9 @@
       "https://m.me/lite/",
       "https://www.messenger.com/help/185285184853471",
       "https://mail.services.live.com/mail/",
-      "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=311773a0e42366f3027664c6e51e67f8"
+      "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=311773a0e42366f3027664c6e51e67f8",
+      "https://www.facebook.com/�%/",
+      "https://l.facebook.com/facebook/"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -426,7 +428,11 @@
       "https://medium.com/@botifyxindia/complete-guide-to-next-js-14-app-router-8c1ded367d79",
       "https://www.harshrastogi.tech/blog/nextjs-14-app-router-complete-guide",
       "https://www.buttercups.tech/blog/react/mastering-nextjs-14-app-router-a-comprehensive-guide",
-      "https://generalistprogrammer.com/tutorials/nextjs-app-router-complete-guide"
+      "https://generalistprogrammer.com/tutorials/nextjs-app-router-complete-guide",
+      "https://www.next.co.uk/?msockid=1b78f772923969c207cbe015931168ab",
+      "https://next.right.com/",
+      "https://www.nextinsurance.com/",
+      "https://www.nordstrom.com/brands/next--25801?msockid=1b78f772923969c207cbe015931168ab"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -540,11 +546,12 @@
       "https://emitechlogic.com/mastering-aws-lambda-with-boto3-and-python/",
       "https://www.youtube.com/playlist?list=PLjl2dJMjkDjlcI3SQErSq4UMX3okzafvO",
       "https://www.coursera.org/learn/packt-advanced-selenium-techniques-and-framework-introduction-bxdya?msockid=07b602bca30967f8241a15daa2006625",
-      "https://tortoisegit.org/"
+      "https://tortoisegit.org/",
+      "https://view.awsapps.com/start/"
     ]
   },
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "stopped"
+  "status": "running"
 }
