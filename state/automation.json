@@ -649,7 +649,47 @@
         "automation"
       ],
       "added_at": "2026-05-28T14:20:15.266063+00:00"
+    },
+    {
+      "id": "7c2ccd92",
+      "source_url": "https://dev.to/alexander_yizchak/5-practical-examples-of-terraform-with-python-3hbn",
+      "title": "5 Practical Examples of Terraform with Python - DEV Community",
+      "summary": "* Terraform can be used with Python using the `terraformpy` library.\n* The `Provider` class is used to set up a provider, such as AWS, with a specific profile and region.\n* The `Resource` class is used to define infrastructure resources, such as AWS instances or databases.\n* The `Output` class is used to output values, such as the public IP of a server.\n* The `Variable` class is used to define input variables for flexibility.\n* AWS resources that can be created using Terraform and Python include instances, databases, VPCs, and subnets.\n* Terraform scripts can be used to automate the deployment of infrastructure, including scalable web applications and network infrastructure.\n* The `aws_db_instance` resource is used to create a managed database with AWS RDS.\n* The `aws_vpc` and `aws_subnet` resources are used to create a VPC and subnet, respectively.\n* Python scripts can be used to automate the deployment process using Terraform.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-28T15:20:50.384912+00:00"
+    },
+    {
+      "id": "9647f5f5",
+      "source_url": "https://developer.hashicorp.com/terraform/tutorials/automation/automate-terraform",
+      "title": "Running Terraform in automation - HashiCorp Developer",
+      "summary": "* Use `terraform init -input=false` and `terraform apply -input=false -auto-approve` for auto-approval of plans in non-production environments.\n* `terraform plan` can be used for limited verification of Terraform configurations without affecting real infrastructure.\n* Use `terraform plan -input=false` for testing pull requests and code reviews.\n* Provide variables using `-var` or `-var-file` as needed.\n* Avoid using the `-out` option for code review plans, as they will never be applied.\n* Be cautious when passing sensitive data to Terraform via variables or environment variables.\n* Use automation to ensure correct settings and working directory configuration for multi-environment deployments.\n* `terraform apply` invalidates existing plans against the same state when applied.\n* Manual review of plans is recommended for production use-cases to avoid unintended changes.\n* Use automatic approval only with non-critical infrastructure and when downtime is tolerated.",
+      "tags": [
+        "terraform",
+        "automation",
+        "infrastructure",
+        "cloud",
+        "deployment",
+        "configuration"
+      ],
+      "added_at": "2026-05-28T15:32:22.523486+00:00"
+    },
+    {
+      "id": "82825676",
+      "source_url": "https://learnmodernpython.com/automate-python-deployments-with-terraform/",
+      "title": "Automate Python Deployments With Terraform",
+      "summary": "* The AWS provider is configured with a specific region (`us-east-1`) using the `provider \"aws\"` block.\n* A new VPC is created with a private IP address range (`10.0.0.0/16`) using the `resource \"aws_vpc\" \"main\"` block.\n* A public subnet is created within the VPC with a smaller IP range (`10.0.1.0/24`) using the `resource \"aws_subnet\" \"main\"` block.\n* An Internet Gateway is created to connect the VPC to the internet using the `resource \"aws_internet_gateway\" \"main\"` block.\n* A route table is created to allow traffic to the internet via the Internet Gateway using the `resource \"aws_route_table\" \"main\"` block.\n* A security group is created to allow SSH (port 22) and HTTP (port 80) traffic using the `resource \"aws_security_group\" \"main\"` block.\n* The security group allows all outbound traffic using the `egress` block.\n* The `aws_ami` data source is used to find the latest Amazon Linux 2 AMI.\n* The `owners` filter is set to `[\"amazon\"]` to filter for AMIs owned by Amazon.\n* The `most_recent` attribute is set to `true` to get the latest available AMI.\n* Terraform is used for automating Python deployments.\n* `main.tf` is the primary configuration file in a Terraform project.\n* Modules are used to organize and reuse Terraform configurations.\n* `module` block is used to invoke a Terraform module.\n* `source` attribute specifies the path to a local module.\n* `instance_type`, `ami`, `subnet_id`, and `security_group_ids` are variables passed to a module.\n* `data.aws_ami` is used to retri",
+      "tags": [
+        "aws",
+        "vpc",
+        "internet gateway",
+        "security group",
+        "route table",
+        "cloud computing"
+      ],
+      "added_at": "2026-05-28T15:43:55.124358+00:00"
     }
   ],
-  "last_updated": "2026-05-28T14:20:15.266080+00:00"
+  "last_updated": "2026-05-28T15:43:55.124373+00:00"
 }

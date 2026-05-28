@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 596,
+  "cycle_count": 601,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-28T15:00:09.486270+00:00",
+  "last_checkpoint": "2026-05-28T15:45:28.011403+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -100,7 +100,8 @@
       "https://www.jornada.com.mx/noticia/2026/05/13/estados/sonora-hospital-universitario-del-imss-ya-funciona-a-toda-capacidad-contara-con-28-especialidades",
       "https://www.sonora.gob.mx/gobierno/acciones/gobernador/continua-hospital-universitario-imss-bienestar-proceso-de-modernizacion",
       "https://oem.com.mx/elsoldehermosillo/local/hospital-universitario-del-imss-ya-opera-al-100-en-hermosillo-29948553",
-      "https://pypi.org/project/opencv-python/"
+      "https://pypi.org/project/opencv-python/",
+      "https://skillkit.io/skills/claude-code/ffmpeg-filter-complex-patterns"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -614,7 +615,10 @@
       "https://playwright.nodejs.cn/",
       "https://blog.csdn.net/2603_95532426/article/details/159681542",
       "https://realpython.com/modern-web-automation-with-python-and-selenium/",
-      "https://www.selenium.dev/documentation/webdriver/getting_started/first_script/"
+      "https://www.selenium.dev/documentation/webdriver/getting_started/first_script/",
+      "https://dev.to/alexander_yizchak/5-practical-examples-of-terraform-with-python-3hbn",
+      "https://developer.hashicorp.com/terraform/tutorials/automation/automate-terraform",
+      "https://learnmodernpython.com/automate-python-deployments-with-terraform/"
     ]
   },
   "software_factory_jobs": [],
