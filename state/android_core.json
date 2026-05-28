@@ -569,7 +569,62 @@
         "registry"
       ],
       "added_at": "2026-05-28T15:00:07.484255+00:00"
+    },
+    {
+      "id": "73626e67",
+      "source_url": "https://en.m.wikipedia.org/wiki/Android_(operating_system)",
+      "title": "Android (operating system) - Wikipedia",
+      "summary": "* Android 10 was released on September 3, 2019, to Google Pixel phones first.\n* Android XR is a new operating system for virtual reality and augmented reality devices.\n* Android's default user interface is based on direct manipulation using touch inputs.\n* The platform supports game controllers and physical keyboards via Bluetooth or USB.\n* Haptic feedback is provided through vibration capabilities of the device.\n* Internal hardware such as accelerometers, gyroscopes, and proximity sensors are used by applications.\n* Android devices boot to the home screen, the primary navigation and information hub.\n* Home screens are made up of app icons and widgets, with live auto-updating content.\n* Third-party apps can re-theme the home screen and mimic other looks.\n* Android development will be consolidated to internal sources, with public contributions no longer allowed.",
+      "tags": [
+        "android",
+        "bluetooth",
+        "virtual reality",
+        "augmented reality",
+        "haptic feedback",
+        "accelerometers"
+      ],
+      "added_at": "2026-05-28T18:39:18.393793+00:00"
+    },
+    {
+      "id": "fea5a5f4",
+      "source_url": "https://www.google.com/chrome/",
+      "title": "Google Chrome - The Fast & Secure Web Browser Built to be Yours",
+      "summary": "* Chrome has a built-in Energy Saver and Memory Saver for performance optimization\n* Chrome updates every four weeks for new features and security\n* Gemini is a built-in AI browsing assistant in Chrome\n* AI Mode is a powerful AI search built into Chrome\n* Chrome has a built-in Google Password Manager for password security\n* Enhanced Safe Browsing warns users about malware or phishing attacks\n* Chrome supports cross-platform compatibility\n* Auto browse is available for Google AI Pro and Ultra subscribers in the U.S.\n* Chrome has tools for tab management, including grouping and labeling\n* Safety Check is a feature for scanning browser settings and passwords for security risks",
+      "tags": [
+        "ai",
+        "password manager",
+        "energy saver",
+        "memory saver",
+        "malware protection",
+        "browser security"
+      ],
+      "added_at": "2026-05-28T18:45:11.726008+00:00"
+    },
+    {
+      "id": "4106abe0",
+      "source_url": "https://www.google.com/intl/pt-BR/chrome/",
+      "title": "Navegador da web Google Chrome",
+      "summary": "* Chrome pode ser definido como navegador padrão em Windows, Mac, iPhone, iPad e dispositivos Android.\n* Definir Chrome como padrão abre links automaticamente no navegador.\n* Chrome tem recursos de segurança como Confirmação de segurança e Navegação segura.\n* Confirmação de segurança verifica senhas comprometidas e atualizações disponíveis.\n* Navegação segura é um recurso de segurança do Chrome.\n* Chrome pode ser sincronizado em vários dispositivos via conta.\n* Disponível para download em smartphones e tablets.\n* Chrome oferece atualizações de segurança regulares.\n* Suporte a múltiplos dispositivos e plataformas.\n* Recursos de segurança e proteção podem ser configurados no navegador.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-28T18:53:18.929008+00:00"
+    },
+    {
+      "id": "bf8f7c93",
+      "source_url": "https://www.google.com/intl/fr/chrome/",
+      "title": "Téléchargez Google Chrome, le navigateur plus sécurisé et encore plus ...",
+      "summary": "* Chrome is compatible with Windows and Mac systems.\n* Minimum system requirements are necessary for Chrome installation.\n* Chrome can be set as default browser on Windows, Mac, iPhone, iPad, and Android devices.\n* Chrome has advanced security features, including password breach detection.\n* Chrome allows secure browsing and provides updates for security patches.\n* Chrome can be installed on mobile devices and tablets.\n* Google account synchronization allows for a unified browsing experience across devices.\n* Chrome installation requires downloading and running an installation file.\n* The installation file can be deleted after Chrome is installed.\n* Chrome supports offline access to Google Drive.",
+      "tags": [
+        "chrome",
+        "windows",
+        "android",
+        "iphone",
+        "mac",
+        "browser"
+      ],
+      "added_at": "2026-05-28T19:05:29.486775+00:00"
     }
   ],
-  "last_updated": "2026-05-28T15:00:07.484264+00:00"
+  "last_updated": "2026-05-28T19:05:29.486791+00:00"
 }
