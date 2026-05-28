@@ -600,7 +600,21 @@
         "automation"
       ],
       "added_at": "2026-05-27T16:32:03.881719+00:00"
+    },
+    {
+      "id": "a5aabb71",
+      "source_url": "https://realpython.com/cheatsheets/python/",
+      "title": "Python Cheat Sheet",
+      "summary": "* Swap variables: `a, b = b, a`\n* Flatten a list of lists: `flat = [item for sublist in matrix for item in sublist]`\n* Remove duplicates (unordered): `unique_unordered = list(set(my_list))`\n* Remove duplicates (preserve order): `unique = list(dict.fromkeys(my_list))`\n* Count occurrences: `counts = Counter(my_list)`\n* Import Counter: `from collections import Counter`\n* Use list comprehension for iteration\n* Utilize `set` for removing duplicates\n* Leverage `dict.fromkeys` for ordered unique elements\n* Apply `Counter` for frequency counting",
+      "tags": [
+        "python",
+        "lists",
+        "counter",
+        "sets",
+        "dictionaries"
+      ],
+      "added_at": "2026-05-28T03:51:37.634843+00:00"
     }
   ],
-  "last_updated": "2026-05-27T16:32:03.881774+00:00"
+  "last_updated": "2026-05-28T03:51:37.634859+00:00"
 }
