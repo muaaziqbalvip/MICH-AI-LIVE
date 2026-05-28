@@ -439,7 +439,22 @@
         "automation"
       ],
       "added_at": "2026-05-28T17:38:49.587322+00:00"
+    },
+    {
+      "id": "05fbedca",
+      "source_url": "https://www.geeksforgeeks.org/python/python-operators/",
+      "title": "Python Operators - GeeksforGeeks",
+      "summary": "* Python frameworks mentioned: Flask, Django\n* Django topics: Django ORM, Django Templates\n* Templating engine: Jinja2\n* API development: REST API, Build API with DRF\n* Machine learning frameworks: TensorFlow, PyTorch\n* Practice resources: Quiz, Practice Problems, Interview Q & A\n* Courses: Python Programming, Data Analytics with AI, Tech Interview 101\n* Topics: Web Development, Model Building, Python Practice",
+      "tags": [
+        "python",
+        "django",
+        "flask",
+        "tensorflow",
+        "pytorch",
+        "rest"
+      ],
+      "added_at": "2026-05-28T17:54:54.621488+00:00"
     }
   ],
-  "last_updated": "2026-05-28T17:38:49.587333+00:00"
+  "last_updated": "2026-05-28T17:54:54.621498+00:00"
 }
