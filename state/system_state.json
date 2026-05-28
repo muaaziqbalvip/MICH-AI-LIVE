@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 536,
+  "cycle_count": 541,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-28T04:51:46.692797+00:00",
+  "last_checkpoint": "2026-05-28T05:04:27.565488+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -459,7 +459,10 @@
       "https://polybuzz.cc/",
       "https://play.google.com/store/apps/details?id=ai.socialapps.speakmaster&hl=en-US",
       "https://now.gg/apps/cloud-whale-interactive-technology-llc/10386/polybuzz.html",
-      "https://apps.apple.com/us/app/polybuzz-chat-with-characters/id6449190344"
+      "https://apps.apple.com/us/app/polybuzz-chat-with-characters/id6449190344",
+      "https://react.docschina.org/",
+      "https://www.runoob.com/react/react-tutorial.html",
+      "https://zhuanlan.zhihu.com/p/18764028654"
     ],
     "automation": [
       "https://www.selenium.dev/",
