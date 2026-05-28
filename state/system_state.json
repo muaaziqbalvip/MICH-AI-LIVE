@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 486,
+  "cycle_count": 491,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-28T01:58:10.049048+00:00",
+  "last_checkpoint": "2026-05-28T02:08:47.244395+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -432,7 +432,10 @@
       "https://www.next.co.uk/?msockid=1b78f772923969c207cbe015931168ab",
       "https://next.right.com/",
       "https://www.nextinsurance.com/",
-      "https://www.nordstrom.com/brands/next--25801?msockid=1b78f772923969c207cbe015931168ab"
+      "https://www.nordstrom.com/brands/next--25801?msockid=1b78f772923969c207cbe015931168ab",
+      "https://prisma.org.cn/docs/getting-started",
+      "https://juejin.cn/post/7231152303583100988",
+      "https://zhuanlan.zhihu.com/p/1957096680940889346"
     ],
     "automation": [
       "https://www.selenium.dev/",
