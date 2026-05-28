@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 516,
+  "cycle_count": 521,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-28T03:17:40.565060+00:00",
+  "last_checkpoint": "2026-05-28T03:34:24.254123+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -327,7 +327,11 @@
       "https://ktor.io/docs/client-create-multiplatform-application.html",
       "https://medium.com/@mr.abdulrehman.ar/understanding-riverpod-the-future-of-state-management-in-flutter-81b0743ae787",
       "https://codezup.com/flutter-state-management-riverpod-guide/",
-      "https://www.thefreedictionary.com/compose"
+      "https://www.thefreedictionary.com/compose",
+      "https://book.kotlincn.net/text/getting-started.html",
+      "https://www.runoob.com/kotlin/kotlin-tutorial.html",
+      "https://developer.android.google.cn/kotlin/learn?hl=zh-cn",
+      "https://baike.baidu.com/item/Kotlin/1133714"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
