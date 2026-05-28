@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 581,
+  "cycle_count": 586,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-28T13:35:56.915626+00:00",
+  "last_checkpoint": "2026-05-28T13:51:45.374753+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -252,7 +252,8 @@
       "http://www.gmail.com/mail/help/intl/en-US/about.html?__shortid__=1wZ9",
       "https://www.forbes.com/sites/kristenbousquet/article/how-to-become-an-influencer/",
       "https://www.britannica.com/topic/influencer",
-      "https://neilpatel.com/blog/guide-to-influencer-targeting/"
+      "https://neilpatel.com/blog/guide-to-influencer-targeting/",
+      "https://www.dashsocial.com/blog/influencer-analytics-tools"
     ],
     "android_core": [
       "https://www.android.com/",
