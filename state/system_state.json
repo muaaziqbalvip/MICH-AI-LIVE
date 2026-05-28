@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 531,
+  "cycle_count": 536,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-28T04:00:16.317799+00:00",
+  "last_checkpoint": "2026-05-28T04:51:46.692797+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -454,7 +454,12 @@
       "https://www.next.co.uk/?msockid=35fa604ac08463c8259c772dc1b062ba",
       "https://www.nordstrom.com/brands/next--25801?msockid=35fa604ac08463c8259c772dc1b062ba",
       "https://www.next.de/en",
-      "https://www.next.ie/en/shop/womens"
+      "https://www.next.ie/en/shop/womens",
+      "https://www.polybuzz.ai/",
+      "https://polybuzz.cc/",
+      "https://play.google.com/store/apps/details?id=ai.socialapps.speakmaster&hl=en-US",
+      "https://now.gg/apps/cloud-whale-interactive-technology-llc/10386/polybuzz.html",
+      "https://apps.apple.com/us/app/polybuzz-chat-with-characters/id6449190344"
     ],
     "automation": [
       "https://www.selenium.dev/",
