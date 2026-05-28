@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 496,
+  "cycle_count": 501,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-28T02:34:31.290116+00:00",
+  "last_checkpoint": "2026-05-28T02:43:18.229960+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -441,7 +441,11 @@
       "https://www.nordstrom.com/brands/next--25801?msockid=1b78f772923969c207cbe015931168ab",
       "https://prisma.org.cn/docs/getting-started",
       "https://juejin.cn/post/7231152303583100988",
-      "https://zhuanlan.zhihu.com/p/1957096680940889346"
+      "https://zhuanlan.zhihu.com/p/1957096680940889346",
+      "https://www.next.co.uk/?msockid=35fa604ac08463c8259c772dc1b062ba",
+      "https://www.nordstrom.com/brands/next--25801?msockid=35fa604ac08463c8259c772dc1b062ba",
+      "https://www.next.de/en",
+      "https://www.next.ie/en/shop/womens"
     ],
     "automation": [
       "https://www.selenium.dev/",
