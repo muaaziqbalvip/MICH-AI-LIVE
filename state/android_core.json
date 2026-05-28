@@ -556,7 +556,20 @@
         "security"
       ],
       "added_at": "2026-05-28T14:26:54.514321+00:00"
+    },
+    {
+      "id": "76ba6d6c",
+      "source_url": "https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies/composeinlineenabled",
+      "title": "Microsoft Edge Browser Policy Documentation ComposeInlineEnabled",
+      "summary": "* ComposeInlineEnabled is a Microsoft Edge browser policy.\n* It controls whether to allow or block inline composition.\n* Policy value can be set to Enabled or Disabled.\n* Default value is Enabled.\n* Applies to Microsoft Edge version 98 or later.\n* Policy can be set using Group Policy or Microsoft Intune.\n* Registry key: Computer\\HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge.\n* Policy name: ComposeInlineEnabled.\n* Data type: Boolean.",
+      "tags": [
+        "microsoft edge",
+        "group policy",
+        "intune",
+        "registry"
+      ],
+      "added_at": "2026-05-28T15:00:07.484255+00:00"
     }
   ],
-  "last_updated": "2026-05-28T14:26:54.514331+00:00"
+  "last_updated": "2026-05-28T15:00:07.484264+00:00"
 }

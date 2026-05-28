@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 591,
+  "cycle_count": 596,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-28T14:35:05.565234+00:00",
+  "last_checkpoint": "2026-05-28T15:00:09.486270+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -253,7 +253,8 @@
       "https://www.forbes.com/sites/kristenbousquet/article/how-to-become-an-influencer/",
       "https://www.britannica.com/topic/influencer",
       "https://neilpatel.com/blog/guide-to-influencer-targeting/",
-      "https://www.dashsocial.com/blog/influencer-analytics-tools"
+      "https://www.dashsocial.com/blog/influencer-analytics-tools",
+      "https://www.socialpilot.co/social-media-automation-tools"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -348,7 +349,12 @@
       "https://getstream.io/blog/compose-tutorials/",
       "https://www.androidauthority.com/speed-up-android-861845/",
       "https://www.techtimes.com/articles/313913/20260206/how-speed-any-android-phone-without-installing-apps-proven-built-tweaks.htm",
-      "https://www.talkandroid.com/444687-android-performance-tips/"
+      "https://www.talkandroid.com/444687-android-performance-tips/",
+      "https://learn.microsoft.com/en-us/answers/questions/5826388/how-do-i-compose-a-document-and-save-for-printing",
+      "https://int.support.office.com/f1/article/147208af-ca8e-4cdf-b71f-77ba81a54069?authtype=unknown&isentrypoint=false&locale=en-us&ns=NULL",
+      "https://learn.microsoft.com/en-us/power-automate/data-operations",
+      "https://learn.microsoft.com/en-us/training/modules/compose-send-mail-new-outlook-windows/",
+      "https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies/composeinlineenabled"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
