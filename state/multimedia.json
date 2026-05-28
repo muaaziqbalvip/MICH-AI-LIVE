@@ -409,7 +409,37 @@
         "technical resource"
       ],
       "added_at": "2026-05-28T02:28:57.027010+00:00"
+    },
+    {
+      "id": "aa48c4af",
+      "source_url": "https://github.com/Theoscarpolo/YouTube",
+      "title": "GitHub - Theoscarpolo/YouTube: Fully automated YouTube conte…",
+      "summary": "* Key metrics for YouTube content optimization: views, watch time, engagement, click-through rate, revenue\n* Optimization strategies: content analysis, format optimization, timing optimization, thumbnail testing, title optimization\n* Daily automation schedule: topic research, script generation, voice synthesis, video assembly, thumbnail generation, upload and scheduling\n* Automation workflow tools: AI for topic idea generation, script optimization, voice synthesis\n* Video assembly process: creating video using templates and assets, synchronizing audio with visuals, applying branding and graphics\n* Thumbnail generation process: generating compelling thumbnails, creating multiple variations for testing, applying text overlays and branding\n* Weekly optimization cycle: content planning, content production, performance analysis, system maintenance\n* Monthly strategic review: content performance analysis, system optimization, strategic planning\n* Analytics review process: collecting performance data, generating optimization reports, updating strategy based on insights\n* System maintenance tasks: updating software and dependencies, backing up data and configurations, testing system components\n* API usage patterns are crucial for automated YouTube content generation\n* Poor script quality can lead to low engagement and negative feedback\n* AI model parameters need to be adjusted for better content generation\n* Prompt engineering is essential for improving content quality\n* Human review",
+      "tags": [
+        "ai",
+        "automation",
+        "video",
+        "voice synthesis",
+        "thumbnail generation",
+        "script generation"
+      ],
+      "added_at": "2026-05-28T17:18:11.083605+00:00"
+    },
+    {
+      "id": "61163806",
+      "source_url": "https://dev.to/flexonze/i-automated-a-youtube-channel-using-python-and-ai-4mp5",
+      "title": "I automated a YouTube channel using Python and AI",
+      "summary": "* Python used as the primary programming language for automation.\n* OpenAPI's API utilized for generating video scripts.\n* Microsoft Azure's text-to-speech AI API used for voice-over generation.\n* yt_dlp library employed for downloading gameplay footage.\n* MoviePy library used for video editing and merging.\n* Royalty-free music added to the videos.\n* Videos are vertical, less than a minute long, and uploaded to YouTube and TikTok.\n* Script generation and video creation process takes approximately 30 minutes.\n* Uploading process to YouTube and TikTok takes around 5 minutes and is not yet automated.\n* Future development objective is to automate the uploading process.\n* Project involved automating a YouTube channel using Python and AI.\n* Author learned a lot from working on the project.\n* Project used AI for voice-over, resulting in high-quality output.\n* Voice-over quality was better than expected, not robotic.\n* Project was a fun challenge and learning opportunity.\n* Author used Python as the primary programming language.\n* Automation of video editing is a related area of interest.\n* AI can be used for video editing automation on YouTube.\n* Project outcome was a successful automation of a YouTube channel.\n* Author's experience can inspire others to work on similar projects.",
+      "tags": [
+        "python",
+        "openapi",
+        "azure",
+        "moviepy",
+        "ai",
+        "automation"
+      ],
+      "added_at": "2026-05-28T17:38:49.587322+00:00"
     }
   ],
-  "last_updated": "2026-05-28T02:28:57.027026+00:00"
+  "last_updated": "2026-05-28T17:38:49.587333+00:00"
 }

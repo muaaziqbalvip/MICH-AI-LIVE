@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 636,
+  "cycle_count": 641,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-28T16:59:55.269485+00:00",
+  "last_checkpoint": "2026-05-28T17:43:23.869728+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -101,7 +101,12 @@
       "https://www.sonora.gob.mx/gobierno/acciones/gobernador/continua-hospital-universitario-imss-bienestar-proceso-de-modernizacion",
       "https://oem.com.mx/elsoldehermosillo/local/hospital-universitario-del-imss-ya-opera-al-100-en-hermosillo-29948553",
       "https://pypi.org/project/opencv-python/",
-      "https://skillkit.io/skills/claude-code/ffmpeg-filter-complex-patterns"
+      "https://skillkit.io/skills/claude-code/ffmpeg-filter-complex-patterns",
+      "https://github.com/Theoscarpolo/YouTube",
+      "https://www.youtube.com/watch?v=43uEU2cogFI",
+      "https://medium.com/@nathan_149/making-a-fully-automated-youtube-channel-20f2fa57e469",
+      "https://www.geeksforgeeks.org/python/automate-youtube-with-python/",
+      "https://dev.to/flexonze/i-automated-a-youtube-channel-using-python-and-ai-4mp5"
     ],
     "marketing": [
       "https://mail.google.com/mail",
