@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 566,
+  "cycle_count": 571,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-28T06:44:33.409261+00:00",
+  "last_checkpoint": "2026-05-28T07:09:32.396071+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -99,7 +99,8 @@
       "https://www.elimparcial.com/son/hermosillo/2025/01/21/colocan-las-siglas-en-lo-que-sera-el-nuevo-hospital-universitario-y-hospital-general-de-zona-15-dr-ernesto-ramos-bours/",
       "https://www.jornada.com.mx/noticia/2026/05/13/estados/sonora-hospital-universitario-del-imss-ya-funciona-a-toda-capacidad-contara-con-28-especialidades",
       "https://www.sonora.gob.mx/gobierno/acciones/gobernador/continua-hospital-universitario-imss-bienestar-proceso-de-modernizacion",
-      "https://oem.com.mx/elsoldehermosillo/local/hospital-universitario-del-imss-ya-opera-al-100-en-hermosillo-29948553"
+      "https://oem.com.mx/elsoldehermosillo/local/hospital-universitario-del-imss-ya-opera-al-100-en-hermosillo-29948553",
+      "https://pypi.org/project/opencv-python/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -595,7 +596,10 @@
       "https://view.awsapps.com/start/",
       "https://cronguru.com/",
       "https://realpython.com/cheatsheets/python/",
-      "https://www.awsacademy.com/vforcesite/LMS_Login"
+      "https://www.awsacademy.com/vforcesite/LMS_Login",
+      "https://www.runoob.com/playwright/playwright-intro.html",
+      "https://playwright.nodejs.cn/",
+      "https://blog.csdn.net/2603_95532426/article/details/159681542"
     ]
   },
   "software_factory_jobs": [],

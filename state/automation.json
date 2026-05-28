@@ -624,7 +624,22 @@
         "automation"
       ],
       "added_at": "2026-05-28T06:12:04.994917+00:00"
+    },
+    {
+      "id": "b2d4051b",
+      "source_url": "https://playwright.nodejs.cn/",
+      "title": "Playwright 中文网",
+      "summary": "* Playwright supports headless and headed modes.\n* Playwright can be used with Python.\n* Playwright can be used with .NET.\n* Playwright can be used with Java.\n* Playwright is a browser automation framework.\n* Supports multiple programming languages.\n* Can be used for web scraping and automation.\n* Provides a high-level API for browser interaction.\n* Supports Chromium, Firefox, and WebKit browsers.\n* Allows for cross-language and cross-browser testing.",
+      "tags": [
+        "browser automation",
+        "web scraping",
+        "headless mode",
+        "cross browser",
+        "browser interaction",
+        "automation framework"
+      ],
+      "added_at": "2026-05-28T07:08:56.443436+00:00"
     }
   ],
-  "last_updated": "2026-05-28T06:12:04.994935+00:00"
+  "last_updated": "2026-05-28T07:08:56.443453+00:00"
 }
