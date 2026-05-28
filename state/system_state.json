@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 561,
+  "cycle_count": 566,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-28T06:13:37.468658+00:00",
+  "last_checkpoint": "2026-05-28T06:44:33.409261+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -248,7 +248,10 @@
       "https://www.facebook.com/�%/",
       "https://l.facebook.com/facebook/",
       "https://kotaku.com/download/google-chrome",
-      "http://www.gmail.com/mail/help/intl/en-US/about.html?__shortid__=1wZ9"
+      "http://www.gmail.com/mail/help/intl/en-US/about.html?__shortid__=1wZ9",
+      "https://www.forbes.com/sites/kristenbousquet/article/how-to-become-an-influencer/",
+      "https://www.britannica.com/topic/influencer",
+      "https://neilpatel.com/blog/guide-to-influencer-targeting/"
     ],
     "android_core": [
       "https://www.android.com/",
