@@ -614,7 +614,17 @@
         "dictionaries"
       ],
       "added_at": "2026-05-28T03:51:37.634843+00:00"
+    },
+    {
+      "id": "081977a1",
+      "source_url": "https://www.awsacademy.com/vforcesite/LMS_Login",
+      "title": "AWS Academy",
+      "summary": "* AWS Academy provides separate login portals for students and educators.\n* Students must be enrolled in a class to access the student login.\n* Educators require an AWS Academy Portal account to access the educator login.\n* The login portal supports multiple languages, including English, Japanese, and Chinese.\n* AWS Academy uses a membership-based portal for educators.\n* Student and educator logins are distinct and require different credentials.\n* The AWS Academy Portal is a centralized platform for educators.\n* Login access is restricted to authorized users with valid credentials.\n* The platform supports international users with multilingual support.\n* AWS Academy uses role-based access control for students and educators.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-28T06:12:04.994917+00:00"
     }
   ],
-  "last_updated": "2026-05-28T03:51:37.634859+00:00"
+  "last_updated": "2026-05-28T06:12:04.994935+00:00"
 }
