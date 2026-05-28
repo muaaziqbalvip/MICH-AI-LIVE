@@ -639,7 +639,17 @@
         "automation framework"
       ],
       "added_at": "2026-05-28T07:08:56.443436+00:00"
+    },
+    {
+      "id": "0d668b72",
+      "source_url": "https://www.selenium.dev/documentation/webdriver/getting_started/first_script/",
+      "title": "Write your first Selenium script",
+      "summary": "* Selenium uses WebDriver to interact with web browsers.\n* `driver.get()` is used to navigate to a webpage.\n* `driver.getTitle()` retrieves the title of the current webpage.\n* `driver.manage().timeouts().implicitlyWait()` sets the implicit wait time for element retrieval.\n* `driver.findElement()` is used to locate elements on a webpage using By.name, By.cssSelector, or By.id.\n* `element.sendKeys()` is used to enter text into a text box.\n* `element.click()` is used to click a button.\n* `element.getText()` retrieves the text of an element.\n* `driver.quit()` is used to close the browser window.\n* Implicit wait time can be set using `Duration.ofMillis()` in Java or `implicitly_wait()` in Python.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-28T14:20:15.266063+00:00"
     }
   ],
-  "last_updated": "2026-05-28T07:08:56.443453+00:00"
+  "last_updated": "2026-05-28T14:20:15.266080+00:00"
 }

@@ -541,7 +541,22 @@
         "libraries"
       ],
       "added_at": "2026-05-27T14:29:35.321670+00:00"
+    },
+    {
+      "id": "f49a04f1",
+      "source_url": "https://www.androidauthority.com/speed-up-android-861845/",
+      "title": "Speed up Android — 15 tips and tricks for better performance",
+      "summary": "* Check for pending software updates in Settings > System > Software updates.\n* Disable pre-installed applications in Settings > Apps > Installed apps.\n* Revoke unused permissions using Android's permission manager.\n* Limit app permissions to minimize resource consumption.\n* Disable unused system apps by toggling the \"Show system apps\" option.\n* Google Play Services receives separate updates via the Play Store.\n* Manufacturers optimize and fine-tune software over time through updates.\n* Android security patches and bug fixes improve overall experience.\n* Manually checking for updates can help ensure latest software is installed.\n* Disabling unused apps can help improve device performance and reduce resource usage.",
+      "tags": [
+        "android",
+        "software",
+        "updates",
+        "permissions",
+        "apps",
+        "security"
+      ],
+      "added_at": "2026-05-28T14:26:54.514321+00:00"
     }
   ],
-  "last_updated": "2026-05-27T14:29:35.321679+00:00"
+  "last_updated": "2026-05-28T14:26:54.514331+00:00"
 }
