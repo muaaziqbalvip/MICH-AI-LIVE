@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 696,
+  "cycle_count": 701,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-29T02:53:37.903026+00:00",
+  "last_checkpoint": "2026-05-29T03:10:23.121343+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -113,7 +113,8 @@
       "https://stackoverflow.com/questions/38333569/adding-nocache-1-to-every-url-including-the-assets-like-stylesheet-behind-the",
       "https://stackoverflow.com/questions/866822/why-both-no-cache-and-no-store-should-be-used-in-http-response",
       "https://stackoverflow.com/questions/10011780/prevent-caching-in-asp-net-mvc-for-specific-actions-using-an-attribute",
-      "https://stackoverflow.com/questions/20429592/no-cache-in-node-js-server"
+      "https://stackoverflow.com/questions/20429592/no-cache-in-node-js-server",
+      "https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -526,7 +527,9 @@
       "https://www.next.co.uk/?msockid=0550563150d06ee2193d415951e36f6b",
       "https://www.nordstrom.com/brands/next--25801?msockid=0550563150d06ee2193d415951e36f6b",
       "https://blog.postman.com/how-do-websockets-work/",
-      "https://www.prismahealthurgentcare.org/locations/mauldin-sc?location=3023"
+      "https://www.prismahealthurgentcare.org/locations/mauldin-sc?location=3023",
+      "https://www.next.co.uk/?msockid=2b561b019ef46d221d9e0c699f006c13",
+      "https://www.nordstrom.com/brands/next--25801?msockid=2b561b019ef46d221d9e0c699f006c13"
     ],
     "automation": [
       "https://www.selenium.dev/",
