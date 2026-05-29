@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 856,
+  "cycle_count": 861,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-29T16:54:30.596657+00:00",
+  "last_checkpoint": "2026-05-29T17:03:33.630821+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -556,7 +556,9 @@
       "https://www.geeksforgeeks.org/system-design/websockets-in-microservices-architecture/",
       "https://www.geeksforgeeks.org/computer-networks/websockets-protocol-and-long-polling/",
       "https://www.geeksforgeeks.org/javascript/how-to-create-a-websocket-connection-in-javascript/",
-      "https://aiwikiproject.com/articles/react-server-components"
+      "https://aiwikiproject.com/articles/react-server-components",
+      "https://www.next.co.uk/?msockid=374d7c161b6961d308d36b7e1a376059",
+      "https://www.nordstrom.com/brands/next--25801?msockid=374d7c161b6961d308d36b7e1a376059"
     ],
     "automation": [
       "https://www.selenium.dev/",
