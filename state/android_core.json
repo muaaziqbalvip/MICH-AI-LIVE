@@ -624,7 +624,32 @@
         "browser"
       ],
       "added_at": "2026-05-28T19:05:29.486775+00:00"
+    },
+    {
+      "id": "8c86dfd3",
+      "source_url": "https://www.healthline.com/health/ct-scan-vs-mri",
+      "title": "CT Scans vs. MRIs: Differences, Benefits, and Risks - Healthline",
+      "summary": "* CT scans use ionizing radiation, while MRIs use a strong magnetic field.\n* CT scans are faster and better for imaging skeletal structure and general internal body structures.\n* MRIs provide more detailed images, especially for soft tissue, ligaments, and organs.\n* MRI risks include reactions to implanted metals and complications from dyes in people with kidney disease.\n* CT scan risks include harm to unborn babies and potential reactions to dyes.\n* MRIs are recommended for herniated disks, torn ligaments, and soft tissue issues.\n* CT scans are recommended for general images of internal organs, fractures, or head trauma.\n* Both CT scans and MRIs are relatively low risk.\n* Claustrophobia and anxiety are potential issues with MRIs.\n* People with implants (e.g. pacemakers, artificial joints) should consult a doctor before an MRI.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-29T03:47:45.463290+00:00"
+    },
+    {
+      "id": "89be2e27",
+      "source_url": "https://ipmcmed.com/ct-scan-vs-mri-difference/",
+      "title": "CT Scan vs. MRI: What's the Difference and Which One Is Right ...",
+      "summary": "* CT scans use X-rays and are faster, better for bones, bleeding, and trauma.\n* MRI scans use magnetic fields with no radiation and are better for soft tissue.\n* CT scans have low-moderate radiation, while MRI scans have no radiation.\n* CT scans are best for bone, lungs, bleeding, trauma, cancer staging, and emergency imaging.\n* MRI scans are best for soft tissue, including brain, spine, joints, muscles, organs, and blood vessels.\n* CT scans have excellent bone detail, while MRI scans have excellent soft tissue detail.\n* CT scans typically take 5-15 minutes, while MRI scans take 20-60 minutes.\n* MRI scans are generally safe in pregnancy, but CT scans are usually avoided.\n* CT scans do not have metal implant concerns, while MRI scans require screening for pacemakers and implants.\n* MRI scans are typically more expensive than CT scans.",
+      "tags": [
+        "ct scans",
+        "mri scans",
+        "x-rays",
+        "magnetic fields",
+        "radiation imaging",
+        "medical imaging"
+      ],
+      "added_at": "2026-05-29T03:58:57.325427+00:00"
     }
   ],
-  "last_updated": "2026-05-28T19:05:29.486791+00:00"
+  "last_updated": "2026-05-29T03:58:57.325444+00:00"
 }

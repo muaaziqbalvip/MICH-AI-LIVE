@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 706,
+  "cycle_count": 711,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-29T03:21:59.329718+00:00",
+  "last_checkpoint": "2026-05-29T03:58:59.875190+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -387,7 +387,12 @@
       "https://www.google.com/intl/en_uk/chrome/",
       "https://www.google.com/intl/fr/chrome/",
       "https://blog.google/products-and-platforms/platforms/android/",
-      "https://opensource.google/projects/flutter"
+      "https://opensource.google/projects/flutter",
+      "https://health.clevelandclinic.org/ct-scan-vs-mri",
+      "https://www.verywellhealth.com/ct-scan-vs-mri-6979395",
+      "https://www.healthline.com/health/ct-scan-vs-mri",
+      "https://ipmcmed.com/ct-scan-vs-mri-difference/",
+      "https://www.health.com/ct-scan-vs-mri-which-one-is-right-for-you-8770682"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
