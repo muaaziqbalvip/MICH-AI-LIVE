@@ -30191,6 +30191,206 @@
       "raw_notes": "Reflection failed: All Groq API keys exhausted and still cooling.",
       "next_priorities": [],
       "timestamp": "2026-05-29T05:16:40.345442+00:00"
+    },
+    {
+      "cycle": 746,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "android_core"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 48,
+          "last_updated": "2026-05-29T03:58:57.325444+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 46,
+          "last_updated": "2026-05-29T04:56:39.120685+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 37,
+          "last_updated": "2026-05-29T01:28:35.395732+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 54,
+          "last_updated": "2026-05-29T02:26:46.891907+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 52,
+          "last_updated": "2026-05-28T15:43:55.124373+00:00"
+        }
+      ],
+      "raw_notes": "**Self-Reflection (Cycle 746)**\n* Learned this cycle: \n  * 48 new entries in 'android_core'\n* No recurring error patterns\n* Top 3 domains to prioritise next cycle: \n  1. 'automation'\n  2. 'web_dev'\n  3. 'multimedia'\n* Improvement: Update 'automation' domain, which is 1 day outdated, to maintain knowledge consistency.",
+      "next_priorities": [],
+      "timestamp": "2026-05-29T05:18:12.115509+00:00"
+    },
+    {
+      "cycle": 747,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "web_dev"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 48,
+          "last_updated": "2026-05-29T03:58:57.325444+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 46,
+          "last_updated": "2026-05-29T04:56:39.120685+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 37,
+          "last_updated": "2026-05-29T01:28:35.395732+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 54,
+          "last_updated": "2026-05-29T02:26:46.891907+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 52,
+          "last_updated": "2026-05-28T15:43:55.124373+00:00"
+        }
+      ],
+      "raw_notes": "**Self-reflection (Cycle 747)**\n* Learned this cycle: \n  * Updated web_dev knowledge\n* No recurring error patterns\n* Top 3 domains to prioritise next: \n  1. automation\n  2. multimedia\n  3. android_core\n* Improvement: Increase task completion rate by integrating new web_dev knowledge into tasks.",
+      "next_priorities": [],
+      "timestamp": "2026-05-29T05:19:12.997691+00:00"
+    },
+    {
+      "cycle": 748,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "multimedia"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 48,
+          "last_updated": "2026-05-29T03:58:57.325444+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 46,
+          "last_updated": "2026-05-29T04:56:39.120685+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 37,
+          "last_updated": "2026-05-29T01:28:35.395732+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 54,
+          "last_updated": "2026-05-29T02:26:46.891907+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 52,
+          "last_updated": "2026-05-28T15:43:55.124373+00:00"
+        }
+      ],
+      "raw_notes": "Reflection failed: All Groq API keys exhausted and still cooling.",
+      "next_priorities": [],
+      "timestamp": "2026-05-29T05:21:46.198236+00:00"
+    },
+    {
+      "cycle": 749,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "marketing"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 48,
+          "last_updated": "2026-05-29T03:58:57.325444+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 46,
+          "last_updated": "2026-05-29T04:56:39.120685+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 37,
+          "last_updated": "2026-05-29T01:28:35.395732+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 54,
+          "last_updated": "2026-05-29T02:26:46.891907+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 52,
+          "last_updated": "2026-05-28T15:43:55.124373+00:00"
+        }
+      ],
+      "raw_notes": "Reflection failed: All Groq API keys exhausted and still cooling.",
+      "next_priorities": [],
+      "timestamp": "2026-05-29T05:23:16.442144+00:00"
+    },
+    {
+      "cycle": 750,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "automation"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 48,
+          "last_updated": "2026-05-29T03:58:57.325444+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 46,
+          "last_updated": "2026-05-29T04:56:39.120685+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 37,
+          "last_updated": "2026-05-29T01:28:35.395732+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 54,
+          "last_updated": "2026-05-29T02:26:46.891907+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 52,
+          "last_updated": "2026-05-28T15:43:55.124373+00:00"
+        }
+      ],
+      "raw_notes": "Reflection failed: All Groq API keys exhausted and still cooling.",
+      "next_priorities": [],
+      "timestamp": "2026-05-29T05:26:47.236603+00:00"
     }
   ]
 }
