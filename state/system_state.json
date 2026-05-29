@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 736,
+  "cycle_count": 741,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-29T04:52:37.347736+00:00",
+  "last_checkpoint": "2026-05-29T05:05:44.176880+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -538,7 +538,9 @@
       "https://blog.postman.com/how-do-websockets-work/",
       "https://www.prismahealthurgentcare.org/locations/mauldin-sc?location=3023",
       "https://www.next.co.uk/?msockid=2b561b019ef46d221d9e0c699f006c13",
-      "https://www.nordstrom.com/brands/next--25801?msockid=2b561b019ef46d221d9e0c699f006c13"
+      "https://www.nordstrom.com/brands/next--25801?msockid=2b561b019ef46d221d9e0c699f006c13",
+      "https://www.next.co.uk/?msockid=29b52ad5b97e694124383dbdb8d968c1",
+      "https://www.nordstrom.com/brands/next--25801?msockid=29b52ad5b97e694124383dbdb8d968c1"
     ],
     "automation": [
       "https://www.selenium.dev/",
