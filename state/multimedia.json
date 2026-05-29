@@ -454,7 +454,42 @@
         "rest"
       ],
       "added_at": "2026-05-28T17:54:54.621488+00:00"
+    },
+    {
+      "id": "f55b716e",
+      "source_url": "https://stackoverflow.com/questions/1341089/is-there-a-meta-tag-to-turn-off-caching-in-all-browsers",
+      "title": "Is there a  tag to turn off caching in all browsers?",
+      "summary": "* The `meta` tag to turn off caching in HTML is `<meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\">`.\n* The `meta` tag to turn off caching in HTML for older browsers is `<meta http-equiv=\"Pragma\" content=\"no-cache\">`.\n* The `Cache-Control` header can also be set on the server-side to control caching.\n* The `Expires` header can be set to a date in the past to force the browser to revalidate the page on each load.\n* The `no-cache` directive tells the browser to always revalidate the page.\n* The `no-store` directive tells the browser not to store the page in its cache.\n* The `must-revalidate` directive tells the browser to always revalidate the page on each load.\n* These tags and headers can be combined to achieve optimal caching control.\n* The `meta` tags should be placed in the `<head>` section of the HTML document.\n* The `Cache-Control` and `Expires` headers can be set using server-side programming languages like PHP or Python.",
+      "tags": [
+        "html",
+        "cache-control",
+        "meta",
+        "http",
+        "pragma",
+        "expires"
+      ],
+      "added_at": "2026-05-29T01:06:35.727003+00:00"
+    },
+    {
+      "id": "a08d7d70",
+      "source_url": "https://stackoverflow.com/questions/866822/why-both-no-cache-and-no-store-should-be-used-in-http-response",
+      "title": "Why both no-cache and no-store should be used in HTTP response?",
+      "summary": "* `Cache-Control: no-cache` doesn't prevent caching, but requires revalidation with the origin server.\n* `Cache-Control: no-store` prevents caching and storage of the response.\n* Using both `no-cache` and `no-store` ensures compatibility with older browsers like IE6.\n* IE6 may still cache files even with `Cache-Control: no-cache`.\n* Adding `no-store` stops IE6 from caching files.\n* `no-cache` without a field-name means a cache must revalidate with the origin server.\n* `no-store` is stronger than `no-cache` as it prevents storage of the response.\n* Browser history and HTTP caching have different behaviors.\n* Older browsers like IE before version 10 only use `no-cache` for Cache-Control header.\n* Using both `no-cache` and `no-store` ensures compatibility with older browsers and other browsers.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-29T01:19:51.594344+00:00"
+    },
+    {
+      "id": "6f988da0",
+      "source_url": "https://stackoverflow.com/questions/10011780/prevent-caching-in-asp-net-mvc-for-specific-actions-using-an-attribute",
+      "title": "c# - Prevent Caching in ASP.NET MVC for specific actions using an ...",
+      "summary": "* To prevent caching in ASP.NET MVC, use `[OutputCache(NoStore = true, Duration = 0, Location=\"None\", VaryByParam = \"*\")]`.\n* For ASP.NET MVC Core, use `[ResponseCache(Location = ResponseCacheLocation.None, NoStore = true)]`.\n* `NoStore = true` prevents caching, while `Duration = 0` sets the cache duration to zero.\n* `Location = \"None\"` specifies that the cache should not be stored.\n* `VaryByParam = \"*\"` ensures that the cache varies by all parameters.\n* `ResponseCacheLocation.None` is the correct attribute value for ASP.NET MVC Core.\n* This approach prevents browser caching, including Internet Explorer 11.\n* The `[OutputCache]` attribute can be applied to specific actions or controllers.\n* The `[ResponseCache]` attribute is used in ASP.NET MVC Core instead of `[OutputCache]`.\n* Microsoft documentation recommends using `NoStore` and `Location.None` for response caching in ASP.NET Core.\n* ASP.NET MVC actions can be decorated with the `[OutputCache]` attribute to control caching.\n* The `[OutputCache]` attribute can be used with `Duration = 0` to prevent caching for specific actions.\n* A custom attribute can be created to prevent caching for specific actions.\n* The `Response.Cache` object can be used to control caching in ASP.NET MVC.\n* The `CacheControl` property of the `Response` object can be set to `NoCache` to prevent caching.\n* The `Pragma` header can be set to `no-cache` to prevent caching.\n* The `Expires` header can be set to a date in the past to prevent caching.\n* A cu",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-29T01:28:35.395713+00:00"
     }
   ],
-  "last_updated": "2026-05-28T17:54:54.621498+00:00"
+  "last_updated": "2026-05-29T01:28:35.395732+00:00"
 }
