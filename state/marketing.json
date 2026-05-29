@@ -699,7 +699,51 @@
         "marketing"
       ],
       "added_at": "2026-05-29T13:50:30.464276+00:00"
+    },
+    {
+      "id": "0cd4e1e2",
+      "source_url": "https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/",
+      "title": "Azure Content Understanding documentation | Microsoft Learn",
+      "summary": "* Content Understanding analyzes media content (documents, images, audio, video) into structured data.\n* Two modes: standard and pro (preview) are available for Content Understanding.\n* Prebuilt analyzers and custom analyzers can be created using Content Understanding Studio.\n* Modalities supported: document, image, audio, video, face.\n* Content Understanding Studio is integrated with Microsoft Foundry.\n* REST API and SDKs (Python, .NET, JavaScript, Java) are available for Content Understanding.\n* Service limits, language, and region support are documented.\n* Secure communications and disaster recovery are supported.\n* Azure Content Understanding Samples are available in Python.\n* Pricing is explained with a dedicated pricing explainer page.",
+      "tags": [
+        "content understanding",
+        "rest api",
+        "sdks",
+        "azure",
+        "python",
+        "javascript"
+      ],
+      "added_at": "2026-05-29T15:16:01.566603+00:00"
+    },
+    {
+      "id": "9f544704",
+      "source_url": "https://learn.microsoft.com/en-us/microsoft-365/community/what-is-content-type",
+      "title": "What is a content type? | Microsoft Learn",
+      "summary": "* Content Types can be defined in an individual site, Content Type Hub, or using Site Scripts.\n* Scope determines where a Content Type is used, such as a single site or across the tenant.\n* Content Types can represent business objects, like contracts or benefits descriptions.\n* Custom Content Types can be created based on generic ones to fit specific organizational needs.\n* Metadata is collected with each instance of a Content Type to improve job efficiency.\n* Content Types can be used to store and manage content across different departments.\n* Site Scripts can be used to define Content Types.\n* Content Type Hub can be used to define Content Types with tenant-wide scope.\n* Custom Content Types enable organizations to represent their unique business objects and processes.\n* Metadata collection is a key feature of Content Types, enabling better content management and utilization.",
+      "tags": [
+        "content type",
+        "site scripts",
+        "metadata",
+        "custom content",
+        "content hub",
+        "tenant management"
+      ],
+      "added_at": "2026-05-29T15:31:16.699519+00:00"
+    },
+    {
+      "id": "11b9b52c",
+      "source_url": "https://support.microsoft.com/en-us/office/use-content-types-to-manage-content-consistently-on-a-site-48512bcb-6527-480b-b096-c03b7ec1d978",
+      "title": "Use content types to manage content consistently on a site",
+      "summary": "* Content types can be used to manage content consistently across a site.\n* Site content types can be defined to ensure consistent handling of document categories.\n* Content types can have required columns for metadata such as account number and project number.\n* Child list content types inherit attributes from parent site content types.\n* Changes to parent content types can overwrite attributes in child list types.\n* Content types enable consistent metadata across multiple document libraries.\n* Lists and libraries can contain multiple content types with unique metadata and behaviors.\n* Content types can be added to lists and libraries from a group of available site content types.\n* Content types support consistent application of capabilities and attributes across a site.\n* Inheriting content types can update child list content types with new columns and metadata.",
+      "tags": [
+        "content management",
+        "metadata",
+        "document libraries",
+        "site management",
+        "information architecture"
+      ],
+      "added_at": "2026-05-29T15:36:24.791099+00:00"
     }
   ],
-  "last_updated": "2026-05-29T13:50:30.464315+00:00"
+  "last_updated": "2026-05-29T15:36:24.791116+00:00"
 }

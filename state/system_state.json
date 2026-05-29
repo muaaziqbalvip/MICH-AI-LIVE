@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 811,
+  "cycle_count": 816,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-29T15:05:14.854028+00:00",
+  "last_checkpoint": "2026-05-29T15:39:43.078880+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -283,7 +283,12 @@
       "https://outlook.live.com/mail/",
       "https://en.m.wikipedia.org/wiki/Google",
       "https://www.thefreedictionary.com/content",
-      "https://www.grammarly.com/commonly-confused-words/content-vs-contents?msockid=08a73b03e46f6f0e10252c6be57e6ee7"
+      "https://www.grammarly.com/commonly-confused-words/content-vs-contents?msockid=08a73b03e46f6f0e10252c6be57e6ee7",
+      "https://support.microsoft.com/en-us/office/introduction-to-content-types-and-content-type-publishing-e1277a2e-a1e8-4473-9126-91a0647766e5",
+      "https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/",
+      "https://support.microsoft.com/en-us/office/create-and-edit-content-types-3d5d45af-608d-4183-8d51-073095fe0312",
+      "https://learn.microsoft.com/en-us/microsoft-365/community/what-is-content-type",
+      "https://support.microsoft.com/en-us/office/use-content-types-to-manage-content-consistently-on-a-site-48512bcb-6527-480b-b096-c03b7ec1d978"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -686,7 +691,8 @@
       "https://www.w3schools.com/whatis/whatis_github.asp",
       "https://www.golinuxcloud.com/aws-lambda-tutorial/",
       "https://www.dash0.com/guides/aws-lambda-python",
-      "https://www.udemy.com/course/automate-in-aws-using-lambda-python-boto3/"
+      "https://www.udemy.com/course/automate-in-aws-using-lambda-python-boto3/",
+      "https://widewiki.com/posts/python/geek-pie/gitpython-automating-git-in-python-20250716013756/"
     ]
   },
   "software_factory_jobs": [],
