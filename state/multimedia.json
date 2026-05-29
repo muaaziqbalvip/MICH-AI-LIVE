@@ -489,7 +489,36 @@
         "multimedia"
       ],
       "added_at": "2026-05-29T01:28:35.395713+00:00"
+    },
+    {
+      "id": "ce4f392e",
+      "source_url": "https://developer.microsoft.com/en-us/python",
+      "title": "Python | Microsoft Developer",
+      "summary": "* Microsoft offers a suite of tools and services for Python development, including Azure and Visual Studio Code.\n* Visual Studio Code is a lightweight, powerful, and extensible editor for modern web and cloud applications.\n* GitHub Copilot uses AI to suggest entire functions in real-time, right from the editor.\n* Azure is a cloud platform designed to help bring new solutions to life.\n* Windows Subsystem for Linux (WSL) allows access to both Windows and Linux on a Windows machine.\n* Microsoft Agent Framework is an open-source development kit for building AI agents and multi-agent workflows for .NET and Python.\n* Jupyter Notebooks are available in VS Code for data science development.\n* VS Code AI Toolkit simplifies generative AI app development with cutting-edge AI tools and models.\n* Azure ML for VS Code allows management of Azure Machine Learning resources without leaving the editor.\n* Azure Cosmos DB provides a code gallery for patterns and content related to the database service.\n* Azure Cosmos DB provides a code gallery for patterns and content.\n* Azure OpenAI Service enables building custom copilot and generative AI applications.\n* Azure Python SDK simplifies using Azure services with a collection of libraries.\n* Azure Data Factory simplifies hybrid data integration at enterprise scale.\n* Data Wrangler is a VS Code tool for data viewing and cleaning.\n* Playwright is a cross-browser, cross-platform framework for end-to-end testing.\n* Dev containers provide a full-featured",
+      "tags": [
+        "azure",
+        "visual studio",
+        "github",
+        "python",
+        "jupyter",
+        "ai"
+      ],
+      "added_at": "2026-05-29T17:23:53.938268+00:00"
+    },
+    {
+      "id": "05fed7f8",
+      "source_url": "https://www.coursera.org/learn/python-crash-course?msockid=0658ca261251667b0312dd4e137767f3",
+      "title": "Crash Course on Python | Coursera",
+      "summary": "* The course covers the basics of Python programming.\n* No prior programming experience is required.\n* The course consists of 5 modules and 18 assignments.\n* Key topics include: strings, lists, dictionaries, and creating Python objects.\n* Students will learn computational thinking, development environment, and scripting languages.\n* The course is part of the Google IT Automation with Python Professional Certificate.\n* Students will gain hands-on experience with programming concepts through interactive exercises.\n* The course covers basic Python syntax and data structures.\n* The course is designed for beginners and covers the foundations of Python programming.\n* Students will earn a shareable career certificate from Google upon completion.\n* Python syntax includes data types, variables, functions, and control structures.\n* Basic data types in Python include numbers, strings, and booleans.\n* Functions can be defined with parameters and return values.\n* Code reuse is achieved through functions and modular code.\n* Code style and comments are essential for readability and maintainability.\n* Comparison operators (e.g., ==, !=, <, >) are used for conditional statements.\n* Logical operators (e.g., and, or, not) are used for complex conditional statements.\n* If-else statements and elif statements are used for branching and decision-making.\n* Loops (e.g., while loops) are used for repetitive execution of code.\n* Variables can be annotated with types for clarity and readability.\n* The c",
+      "tags": [
+        "python programming",
+        "data structures",
+        "scripting languages",
+        "computational thinking",
+        "development environment"
+      ],
+      "added_at": "2026-05-29T18:02:14.549543+00:00"
     }
   ],
-  "last_updated": "2026-05-29T01:28:35.395732+00:00"
+  "last_updated": "2026-05-29T18:02:14.549558+00:00"
 }
