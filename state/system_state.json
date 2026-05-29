@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 791,
+  "cycle_count": 796,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-29T12:55:28.887556+00:00",
+  "last_checkpoint": "2026-05-29T13:54:33.375788+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -281,7 +281,9 @@
       "https://www.wordreference.com/definition/social",
       "https://help.id.me/hc/en-us/articles/4416182310039-Log-in-to-your-Social-Security-Administration-SSA-account-using-ID-me",
       "https://outlook.live.com/mail/",
-      "https://en.m.wikipedia.org/wiki/Google"
+      "https://en.m.wikipedia.org/wiki/Google",
+      "https://www.thefreedictionary.com/content",
+      "https://www.grammarly.com/commonly-confused-words/content-vs-contents?msockid=08a73b03e46f6f0e10252c6be57e6ee7"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -542,7 +544,11 @@
       "https://www.next.co.uk/?msockid=2b561b019ef46d221d9e0c699f006c13",
       "https://www.nordstrom.com/brands/next--25801?msockid=2b561b019ef46d221d9e0c699f006c13",
       "https://www.next.co.uk/?msockid=29b52ad5b97e694124383dbdb8d968c1",
-      "https://www.nordstrom.com/brands/next--25801?msockid=29b52ad5b97e694124383dbdb8d968c1"
+      "https://www.nordstrom.com/brands/next--25801?msockid=29b52ad5b97e694124383dbdb8d968c1",
+      "https://www.geeksforgeeks.org/system-design/websockets-for-real-time-distributed-systems/",
+      "https://www.geeksforgeeks.org/system-design/websockets-in-microservices-architecture/",
+      "https://www.geeksforgeeks.org/computer-networks/websockets-protocol-and-long-polling/",
+      "https://www.geeksforgeeks.org/javascript/how-to-create-a-websocket-connection-in-javascript/"
     ],
     "automation": [
       "https://www.selenium.dev/",

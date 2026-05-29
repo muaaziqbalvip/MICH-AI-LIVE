@@ -598,7 +598,67 @@
         "shopping bag"
       ],
       "added_at": "2026-05-29T04:56:39.120666+00:00"
+    },
+    {
+      "id": "1f49996f",
+      "source_url": "https://www.geeksforgeeks.org/system-design/websockets-for-real-time-distributed-systems/",
+      "title": "WebSockets for Real-Time Distributed Systems - GeeksforGeeks",
+      "summary": "* WebSockets enable real-time communication in distributed systems\n* WebSockets use bi-directional, full-duplex communication over TCP\n* HTTP is used for initial WebSocket connection establishment\n* WebSocket protocol uses ws:// or wss:// schemes\n* WebSockets support multiple messaging patterns (pub/sub, request/response)\n* Scalability and performance are key considerations in WebSocket design\n* Load balancing and connection pooling are used to optimize WebSocket performance\n* WebSockets can be used with various programming languages and frameworks\n* Security measures (e.g. authentication, authorization) are crucial in WebSocket implementation\n* WebSockets are suitable for real-time applications (e.g. live updates, gaming, chat)",
+      "tags": [
+        "websockets",
+        "real-time",
+        "tcp",
+        "http",
+        "scalability",
+        "performance"
+      ],
+      "added_at": "2026-05-29T13:09:50.355033+00:00"
+    },
+    {
+      "id": "19869902",
+      "source_url": "https://www.geeksforgeeks.org/system-design/websockets-in-microservices-architecture/",
+      "title": "Websockets in Microservices Architecture - GeeksforGeeks",
+      "summary": "* WebSockets provide full-duplex, bidirectional communication channels over a single TCP connection.\n* Key characteristics of WebSockets include full-duplex communication, persistent connection, low latency, and efficient data transfer.\n* WebSockets allow for real-time, two-way interaction between a client and a server.\n* WebSockets operate over a long-lived full-duplex communication channel developed over a single or set of TCP connections.\n* WebSockets connections are persistent and do not close until they are closed.\n* WebSockets use frames to exchange data, which can be text or binary.\n* WebSockets have low latency and low overhead due to a single connection setup.\n* WebSockets are suitable for real-time applications, gaming, chat, and live updates.\n* WebSockets offer advantages over traditional communication protocols like HTTP, REST APIs, and gRPC in terms of latency and overhead.\n* WebSockets support both text and binary message formats, making them versatile for different use cases.",
+      "tags": [
+        "websockets",
+        "tcp",
+        "real-time",
+        "latency",
+        "tcp connection",
+        "full-duplex"
+      ],
+      "added_at": "2026-05-29T13:20:02.169620+00:00"
+    },
+    {
+      "id": "939a781e",
+      "source_url": "https://www.geeksforgeeks.org/computer-networks/websockets-protocol-and-long-polling/",
+      "title": "WebSockets Protocol and Long Polling - GeeksforGeeks",
+      "summary": "* Computer networks consist of multiple layers, including Network, Transport, Session, Presentation, and Application layers.\n* IP Addressing includes IPv4 and IPv6, with IPv4 using 32-bit addresses and IPv6 using 128-bit addresses.\n* TCP and UDP are transport layer protocols, with TCP providing connection-oriented services and UDP providing connectionless services.\n* WebSockets protocol enables bidirectional, real-time communication between clients and servers.\n* Long polling is a technique used to simulate real-time communication by repeatedly sending requests to the server.\n* Subnetting is a process of dividing a large network into smaller sub-networks for better management and security.\n* Routing is the process of forwarding packets between networks using routing tables and protocols.\n* Secure Socket Layer (SSL) and Transport Layer Security (TLS) are used for secure communication over the internet.\n* MIME protocol is used for sending multimedia data over the internet.\n* QoS (Quality of Service) is used to ensure reliable and efficient communication over networks.",
+      "tags": [
+        "network",
+        "tcp",
+        "ipv6",
+        "websockets",
+        "subnetting",
+        "routing"
+      ],
+      "added_at": "2026-05-29T13:27:45.672068+00:00"
+    },
+    {
+      "id": "c41a5cfb",
+      "source_url": "https://www.geeksforgeeks.org/javascript/how-to-create-a-websocket-connection-in-javascript/",
+      "title": "How to Create a WebSocket Connection in JavaScript ?",
+      "summary": "* WebSocket connection in JavaScript is not mentioned in the provided text\n* The text appears to be a list of topics related to JavaScript and programming\n* Topics include: DOM, Custom Events, Addeventlistener, Closure, Hoisting, Scope, Higher Order Functions, Debugging\n* No specific code patterns or technical facts are mentioned\n* The provided text does not contain information about creating a WebSocket connection\n* JavaScript topics are listed, but no in-depth information is provided\n* No specific technical knowledge can be extracted from the given text\n* The text seems to be a table of contents or index for a programming resource\n* No actionable insights can be derived from the provided text",
+      "tags": [
+        "javascript",
+        "dom",
+        "debugging",
+        "closure",
+        "hoisting",
+        "scope"
+      ],
+      "added_at": "2026-05-29T13:31:11.573036+00:00"
     }
   ],
-  "last_updated": "2026-05-29T04:56:39.120685+00:00"
+  "last_updated": "2026-05-29T13:31:11.573053+00:00"
 }
