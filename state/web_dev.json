@@ -658,7 +658,21 @@
         "scope"
       ],
       "added_at": "2026-05-29T13:31:11.573036+00:00"
+    },
+    {
+      "id": "bb86f9d2",
+      "source_url": "https://aiwikiproject.com/articles/react-server-components",
+      "title": "React Server Components -- Architecture, Patterns, and Pitfalls",
+      "summary": "* JavaScript Promises are used for handling asynchronous operations\n* Async/Await syntax is used for writing asynchronous code that's easier to read and maintain\n* Promises can be chained together for handling complex asynchronous workflows\n* Async/Await is built on top of Promises, providing a more linear syntax\n* JavaScript is single-threaded, using asynchronous programming to avoid blocking\n* Async/Await uses try-catch blocks for error handling\n* Promises have three states: pending, fulfilled, and rejected\n* Async functions return Promises, allowing for asynchronous execution\n* JavaScript engines use an event loop to manage asynchronous tasks\n* Error handling in Async/Await is done using try-catch blocks or .catch() methods",
+      "tags": [
+        "javascript",
+        "promises",
+        "async/await",
+        "asynchronous",
+        "error handling"
+      ],
+      "added_at": "2026-05-29T14:05:13.681934+00:00"
     }
   ],
-  "last_updated": "2026-05-29T13:31:11.573053+00:00"
+  "last_updated": "2026-05-29T14:05:13.681950+00:00"
 }

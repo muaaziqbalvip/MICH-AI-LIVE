@@ -689,7 +689,27 @@
         "cloud computing"
       ],
       "added_at": "2026-05-28T15:43:55.124358+00:00"
+    },
+    {
+      "id": "e5bed95e",
+      "source_url": "https://www.golinuxcloud.com/aws-lambda-tutorial/",
+      "title": "AWS Lambda Tutorial: Getting Started with AWS Lambda",
+      "summary": "* Synchronous invocation: caller waits for Lambda function to finish processing and return a response.\n* Asynchronous invocation: caller sends event to Lambda and receives immediate response, Lambda processes event in background.\n* Event-driven architectures: Lambda functions execute automatically in response to events from AWS services.\n* Common event sources: Amazon S3, Amazon DynamoDB, Amazon SQS, EventBridge.\n* AWS Lambda integrations: Application Load Balancer, Amazon EventBridge, Amazon S3, Amazon SQS.\n* Application Load Balancer (ALB) can route HTTP requests directly to a Lambda function.\n* Amazon EventBridge can invoke Lambda functions based on events or scheduled rules.\n* Amazon S3 can trigger Lambda functions on events like file uploads, deletions, and updates.\n* Dead Letter Queue (DLQ) can be used to handle failed asynchronous invocations.\n* AWS Lambda supports serverless workflows with automated tasks and event-driven applications.\n* Amazon S3 can trigger Lambda functions for events like file uploads, deletions, and updates.\n* API Gateway is commonly used with Lambda to build serverless APIs.\n* Lambda functions can be monitored and logged using Amazon CloudWatch Logs and Metrics.\n* CloudWatch logs include function execution details, runtime errors, and output from print statements.\n* Common Lambda metrics include invocation count, duration, error count, and throttling events.\n* Lambda errors can occur due to execution timeouts, permission issues, code exceptions, ",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-29T14:25:00.774986+00:00"
+    },
+    {
+      "id": "06ea9a26",
+      "source_url": "https://www.udemy.com/course/automate-in-aws-using-lambda-python-boto3/",
+      "title": "Automate in AWS using Lambda - Python & Boto3 - Udemy",
+      "summary": "* AWS Lambda is a serverless computing platform that can be used for automation.\n* Boto3 is a Python SDK for AWS that allows for automation of AWS services.\n* AWS Lambda can be triggered by various event sources, including SQS, S3, and DynamoDB.\n* Boto3 has two types of resources: Service Resources and Client Resources.\n* AWS Lambda can be used for automating EC2 management tasks, such as stopping instances and backing up data.\n* DynamoDB is a serverless NoSQL database that can be used with AWS Lambda.\n* AWS Lambda can be used for image and audio processing tasks, such as facial recognition and transcription.\n* SQS can be used as an event source to trigger AWS Lambda functions.\n* AWS Lambda Layers can be used to reuse code and reduce duplication.\n* CloudWatch can be used to monitor and debug AWS Lambda functions.\n* AWS Lambda is used for automation and serverless architecture.\n* Boto3 is the AWS SDK for Python, used for interacting with AWS services.\n* The course covers integration with services like EC2, S3, SQS, DynamoDB, and CloudWatch.\n* Event-driven programming is a key concept in AWS Lambda.\n* Error handling, logging, and performance fine-tuning are important for reliability and responsiveness.\n* Security configurations, cost optimization, and monitoring with CloudWatch are crucial for efficient Lambda functions.\n* The course covers designing robust serverless architectures and mastering event-driven applications.\n* Python programming language is required for the course",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-29T14:44:31.884993+00:00"
     }
   ],
-  "last_updated": "2026-05-28T15:43:55.124373+00:00"
+  "last_updated": "2026-05-29T14:44:31.885010+00:00"
 }
