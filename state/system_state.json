@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 671,
+  "cycle_count": 676,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-29T01:57:33.230127+00:00",
+  "last_checkpoint": "2026-05-29T02:05:09.481826+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -375,7 +375,8 @@
       "https://www.google.com/chrome/",
       "https://www.google.com/intl/pt-BR/chrome/",
       "https://www.google.com/intl/en_uk/chrome/",
-      "https://www.google.com/intl/fr/chrome/"
+      "https://www.google.com/intl/fr/chrome/",
+      "https://blog.google/products-and-platforms/platforms/android/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
@@ -515,7 +516,8 @@
       "https://portal.goprisma.com/common/login",
       "https://www.nordstrom.com/brands/next--25801",
       "https://www.next.co.uk/?msockid=0550563150d06ee2193d415951e36f6b",
-      "https://www.nordstrom.com/brands/next--25801?msockid=0550563150d06ee2193d415951e36f6b"
+      "https://www.nordstrom.com/brands/next--25801?msockid=0550563150d06ee2193d415951e36f6b",
+      "https://blog.postman.com/how-do-websockets-work/"
     ],
     "automation": [
       "https://www.selenium.dev/",
