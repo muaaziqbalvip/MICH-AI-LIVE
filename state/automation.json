@@ -709,7 +709,22 @@
         "automation"
       ],
       "added_at": "2026-05-29T14:44:31.884993+00:00"
+    },
+    {
+      "id": "4dd6b3c1",
+      "source_url": "https://www.geeksforgeeks.org/python/selenium-python-tutorial/",
+      "title": "Selenium Python Tutorial - GeeksforGeeks",
+      "summary": "* Selenium is an open-source framework for automating web browsers.\n* Supports multiple browsers like Chrome, Firefox, Edge, and Safari.\n* Integrates with programming languages like Python, Java, C#, and JavaScript.\n* Selenium WebDriver is the main tool to control browsers via code.\n* Selenium IDE is a browser plugin for recording actions and generating test scripts.\n* Selenium Grid allows running tests on multiple browsers and systems simultaneously.\n* Supports multiple languages and integrates with frameworks like pytest, JUnit, and TestNG.\n* Selenium Python uses locator strategies to interact with web elements.\n* Explicit and implicit waits are used to handle delays in loading web elements.\n* Action Chains allow for advanced user interactions like drag-and-drop, hover, and double-click.\n* Selenium is used for browser automation and web scraping.\n* Python is the primary programming language used with Selenium.\n* Projects that can be built with Selenium include WhatsApp automation and Facebook login automation.\n* Selenium can handle popups and scrape dynamic data.\n* Python fundamentals required for Selenium include variables, operators, and data types.\n* Advanced Python concepts used with Selenium include OOP concepts and exception handling.\n* Selenium can be used for automated tasks such as birthday posts and SMS bombing.\n* Python libraries used with Selenium include NumPy, Pandas, and Matplotlib.\n* Web development frameworks used with Selenium include Flask and Django.\n* S",
+      "tags": [
+        "selenium",
+        "webdriver",
+        "automation",
+        "testing",
+        "python",
+        "javascript"
+      ],
+      "added_at": "2026-05-30T03:44:06.115274+00:00"
     }
   ],
-  "last_updated": "2026-05-29T14:44:31.885010+00:00"
+  "last_updated": "2026-05-30T03:44:06.115292+00:00"
 }
