@@ -672,7 +672,22 @@
         "error handling"
       ],
       "added_at": "2026-05-29T14:05:13.681934+00:00"
+    },
+    {
+      "id": "8d972331",
+      "source_url": "https://en.m.wikipedia.org/wiki/TypeScript",
+      "title": "TypeScript - Wikipedia",
+      "summary": "* TypeScript is a superset of JavaScript.\n* It was designed to support large-scale JavaScript development.\n* TypeScript is a strongly typed language.\n* It supports Intellisense, code completion, and refactoring.\n* Initially, these features were only available in Visual Studio Professional on Windows.\n* There was no support for Eclipse, MonoDevelop, or Emacs.\n* The language features can be used without Visual Studio, but only strong-typing is available.\n* TypeScript 1.0 was announced in April 2014.\n* The language is designed to work with existing JavaScript libraries and frameworks.\n* DefinitelyTyped is a GitHub repository that provides type definitions for popular JavaScript libraries.",
+      "tags": [
+        "typescript",
+        "javascript",
+        "intellisense",
+        "refactoring",
+        "visual studio",
+        "eclipse"
+      ],
+      "added_at": "2026-05-30T03:05:43.525218+00:00"
     }
   ],
-  "last_updated": "2026-05-29T14:05:13.681950+00:00"
+  "last_updated": "2026-05-30T03:05:43.525238+00:00"
 }

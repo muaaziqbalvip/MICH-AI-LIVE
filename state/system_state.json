@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 921,
+  "cycle_count": 926,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-30T02:47:00.916491+00:00",
+  "last_checkpoint": "2026-05-30T03:17:53.217523+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -124,7 +124,8 @@
       "https://www.datacamp.com/courses/intro-to-python-for-data-science",
       "https://www.coursera.org/learn/python-crash-course?msockid=0658ca261251667b0312dd4e137767f3",
       "https://python-ffmpeg.readthedocs.io/en/stable/api/",
-      "https://stackoverflow.com/questions/49028551/ffmpeg-multiple-commands-using-filter-complex"
+      "https://stackoverflow.com/questions/49028551/ffmpeg-multiple-commands-using-filter-complex",
+      "https://netalith.com/blogs/python-tutorial/getting-started-with-pillow-python-image-processing"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -572,7 +573,8 @@
       "https://www.next.co.uk/?msockid=374d7c161b6961d308d36b7e1a376059",
       "https://www.nordstrom.com/brands/next--25801?msockid=374d7c161b6961d308d36b7e1a376059",
       "https://code.visualstudio.com/docs/nodejs/reactjs-tutorial",
-      "https://en.m.wikipedia.org/wiki/React_(software)"
+      "https://en.m.wikipedia.org/wiki/React_(software)",
+      "https://en.m.wikipedia.org/wiki/TypeScript"
     ],
     "automation": [
       "https://www.selenium.dev/",
