@@ -518,7 +518,22 @@
         "development environment"
       ],
       "added_at": "2026-05-29T18:02:14.549543+00:00"
+    },
+    {
+      "id": "753d64f9",
+      "source_url": "https://stackoverflow.com/questions/49028551/ffmpeg-multiple-commands-using-filter-complex",
+      "title": "FFMPEG multiple commands using filter-complex - Stack Overflow",
+      "summary": "* FFMPEG can use `filter_complex` to chain multiple commands without temporary files.\n* The `filter_complex` filter can be used to apply multiple filters to an input stream.\n* `split` filter can be used to duplicate an input stream.\n* `geq` filter can be used to apply a mathematical expression to an input stream.\n* `alphamerge` filter can be used to merge an alpha channel with a video stream.\n* `overlay` filter can be used to overlay one video stream on top of another.\n* FFMPEG can use label names (e.g. `[img]`, `[sil]`) to reference intermediate filter outputs.\n* Chaining filters can reduce output file size compared to using temporary files.\n* `eq` filter can be used to adjust brightness and saturation of an input stream.\n* `hue` filter can be used to adjust the hue of an input stream.",
+      "tags": [
+        "ffmpeg",
+        "filter_complex",
+        "video_stream",
+        "alpha_channel",
+        "geq_filter",
+        "overlay_filter"
+      ],
+      "added_at": "2026-05-30T01:29:12.722697+00:00"
     }
   ],
-  "last_updated": "2026-05-29T18:02:14.549558+00:00"
+  "last_updated": "2026-05-30T01:29:12.722717+00:00"
 }

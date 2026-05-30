@@ -773,7 +773,22 @@
         "automation"
       ],
       "added_at": "2026-05-30T00:53:48.216324+00:00"
+    },
+    {
+      "id": "052870b6",
+      "source_url": "https://pypi.org/project/google-search-results/",
+      "title": "google-search-results · PyPI",
+      "summary": "* Python package: google-search-results\n* Version: 2.4.2\n* Installation: pip install google-search-results\n* Requires: Python >=3.5\n* Supported search engines: Google, Bing, Baidu, Yandex, Yahoo, eBay, Home Depot, YouTube\n* Uses SerpApi.com for scraping and searching\n* Provides Search API, Search Archive API, Account API, Location API\n* Example usage: from serpapi import GoogleSearch; search = GoogleSearch({\"q\": \"coffee\", \"location\": \"Austin,Texas\", \"api_key\": \"<your secret api key>\"})\n* Returns standardized JSON response\n* Supports multiple search classes: GoogleSearch, BingSearch, BaiduSearch, etc.\n* The `google-search-results` library uses the SerpApi to fetch Google search results.\n* The `params` dictionary is used to configure search queries, with keys such as `q`, `location`, `device`, and `api_key`.\n* The `GoogleSearch` class is used to perform searches, with methods like `get_html()`, `get_dict()`, and `get_json()`.\n* The `SERP_API_KEY` can be set globally or provided for each search.\n* The library supports searching Google Images, News, and Shopping using the `tbm` parameter.\n* The `location` parameter can be used to specify a location for the search.\n* The `async` parameter can be used to enable asynchronous requests.\n* The library provides a `get_location()` method to retrieve a list of locations matching a given query.\n* The library uses a temporary cache to store search results, which can be retrieved for free using the `search_id`.\n* The library is tested using ",
+      "tags": [
+        "python",
+        "search api",
+        "json",
+        "serpapi",
+        "googlesearch",
+        "bingsearch"
+      ],
+      "added_at": "2026-05-30T02:00:47.987955+00:00"
     }
   ],
-  "last_updated": "2026-05-30T00:53:48.216343+00:00"
+  "last_updated": "2026-05-30T02:00:47.987976+00:00"
 }

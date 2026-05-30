@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 896,
+  "cycle_count": 901,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-30T01:02:55.503321+00:00",
+  "last_checkpoint": "2026-05-30T02:03:34.950430+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -123,7 +123,8 @@
       "https://developer.microsoft.com/en-us/python",
       "https://www.datacamp.com/courses/intro-to-python-for-data-science",
       "https://www.coursera.org/learn/python-crash-course?msockid=0658ca261251667b0312dd4e137767f3",
-      "https://python-ffmpeg.readthedocs.io/en/stable/api/"
+      "https://python-ffmpeg.readthedocs.io/en/stable/api/",
+      "https://stackoverflow.com/questions/49028551/ffmpeg-multiple-commands-using-filter-complex"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -297,7 +298,9 @@
       "https://support.microsoft.com/en-us/office/use-content-types-to-manage-content-consistently-on-a-site-48512bcb-6527-480b-b096-c03b7ec1d978",
       "https://www.positioniseverything.net/scrape-google-search-results-with-python-and-scrapy/",
       "https://mlogin.gmx.com/",
-      "https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide"
+      "https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide",
+      "https://serpapi.com/blog/how-to-scrape-google-search-results-with-python/",
+      "https://pypi.org/project/google-search-results/"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -567,7 +570,8 @@
       "https://aiwikiproject.com/articles/react-server-components",
       "https://www.next.co.uk/?msockid=374d7c161b6961d308d36b7e1a376059",
       "https://www.nordstrom.com/brands/next--25801?msockid=374d7c161b6961d308d36b7e1a376059",
-      "https://code.visualstudio.com/docs/nodejs/reactjs-tutorial"
+      "https://code.visualstudio.com/docs/nodejs/reactjs-tutorial",
+      "https://en.m.wikipedia.org/wiki/React_(software)"
     ],
     "automation": [
       "https://www.selenium.dev/",
