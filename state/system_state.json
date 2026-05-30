@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 971,
+  "cycle_count": 976,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-30T11:48:12.017583+00:00",
+  "last_checkpoint": "2026-05-30T12:13:37.731246+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -578,7 +578,9 @@
       "https://www.nordstrom.com/brands/next--25801?msockid=374d7c161b6961d308d36b7e1a376059",
       "https://code.visualstudio.com/docs/nodejs/reactjs-tutorial",
       "https://en.m.wikipedia.org/wiki/React_(software)",
-      "https://en.m.wikipedia.org/wiki/TypeScript"
+      "https://en.m.wikipedia.org/wiki/TypeScript",
+      "https://docs.docker.com/engine/swarm/stack-deploy/",
+      "https://moldstud.com/articles/p-building-a-full-stack-application-with-docker-a-practical-tutorial-for-developers"
     ],
     "automation": [
       "https://www.selenium.dev/",

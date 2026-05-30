@@ -687,7 +687,17 @@
         "eclipse"
       ],
       "added_at": "2026-05-30T03:05:43.525218+00:00"
+    },
+    {
+      "id": "d9c227da",
+      "source_url": "https://moldstud.com/articles/p-building-a-full-stack-application-with-docker-a-practical-tutorial-for-developers",
+      "title": "Creating a Full Stack App with Docker Practical Guide | MoldStud",
+      "summary": "* Run `docker run hello-world` to verify Docker installation.\n* Install the \"Docker\" extension in Visual Studio Code (VSCode) for Docker support.\n* Use `Ctrl+Shift+P` to open the command palette and select \"Docker: Add Docker Files to Workspace\" in VSCode.\n* Create a `docker-compose.yml` file for managing multi-container applications.\n* Set up a `src` directory for application source code and a `.env` file for sensitive configuration.\n* Enable \"Docker\" from the \"Settings\" menu in JetBrains IDEs like IntelliJ or PyCharm.\n* Use the `/var/run/docker.sock` socket for Unix-based systems to establish Docker daemon settings.\n* Regularly update IDE and Docker extensions to maintain compatibility with the latest Docker functionalities.\n* Consider utilizing Docker Desktop's built-in Kubernetes support for project orchestration.\n* Use a `README.md` file to document usage and setup for the project.\n* Create a `package.json` file to track dependencies.\n* Install Express with `npm install express` for a lightweight web framework.\n* Set up a basic Express server in `app.js` with `const app = express()` and `app.listen(PORT)`.\n* Use `app.get` to define routes and `app.use` for middleware functionality.\n* Install Mongoose with `npm install mongoose` for MongoDB interaction.\n* Connect to MongoDB with `mongoose.connect('mongodb://localhost:27017/mydatabase')`.\n* Define data models using Mongoose schemas, e.g., `const userSchema = new mongoose.Schema({ username: String, password: String })`.\n* I",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-05-30T12:07:33.220295+00:00"
     }
   ],
-  "last_updated": "2026-05-30T03:05:43.525238+00:00"
+  "last_updated": "2026-05-30T12:07:33.220313+00:00"
 }
