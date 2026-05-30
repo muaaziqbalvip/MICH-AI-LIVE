@@ -758,7 +758,22 @@
         "mobile apps"
       ],
       "added_at": "2026-05-29T18:05:41.565309+00:00"
+    },
+    {
+      "id": "f77fe053",
+      "source_url": "https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide",
+      "title": "AI in Digital Marketing - The Ultimate Guide",
+      "summary": "* AI is transforming the digital marketing landscape\n* Key areas of AI application in digital marketing include data analysis and automation\n* AI can enhance customer journey mapping and personalization\n* Machine learning algorithms can improve predictive analytics and decision-making\n* Natural Language Processing (NLP) is used for chatbots and voice assistants\n* AI-powered tools can automate routine marketing tasks\n* Data quality and integration are crucial for effective AI implementation\n* AI poses challenges and risks, including data privacy and security concerns\n* Organizations must develop AI strategies and upskill marketing teams\n* AI-driven marketing requires continuous monitoring and evaluation",
+      "tags": [
+        "ai",
+        "machine learning",
+        "data analysis",
+        "natural language processing",
+        "predictive analytics",
+        "automation"
+      ],
+      "added_at": "2026-05-30T00:53:48.216324+00:00"
     }
   ],
-  "last_updated": "2026-05-29T18:05:41.565326+00:00"
+  "last_updated": "2026-05-30T00:53:48.216343+00:00"
 }
