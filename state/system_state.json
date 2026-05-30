@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 956,
+  "cycle_count": 961,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-30T05:21:56.183059+00:00",
+  "last_checkpoint": "2026-05-30T05:47:40.468839+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -303,7 +303,8 @@
       "https://serpapi.com/blog/how-to-scrape-google-search-results-with-python/",
       "https://pypi.org/project/google-search-results/",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=1f10c232dd9867f83e95d55bdcc46683",
-      "https://www.oed.com/dictionary/social_adj"
+      "https://www.oed.com/dictionary/social_adj",
+      "https://pypi.org/project/facebook-business/"
     ],
     "android_core": [
       "https://www.android.com/",
