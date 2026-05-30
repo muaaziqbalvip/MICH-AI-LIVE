@@ -649,7 +649,22 @@
         "medical imaging"
       ],
       "added_at": "2026-05-29T03:58:57.325427+00:00"
+    },
+    {
+      "id": "db89c6b2",
+      "source_url": "https://github.com/JetBrains/kotlin",
+      "title": "GitHub - JetBrains/kotlin: The Kotlin Programming Language.",
+      "summary": "* `verification-metadata.xml` file stores hashes for dependency verification.\n* Use `sed` command to delete `components` section from `verification-metadata.xml`.\n* Regenerate dependencies with `./gradlew --write-verification-metadata sha256 -Pkotlin.native.enabled=true resolveDependencies`.\n* `resolveDependencies` task resolves dependencies for all platforms.\n* Add OS-specific dependencies to `implicitDependencies` configuration.\n* `local.properties` file can override Gradle command options like `kotlin.native.enabled`.\n* Use Maven repository `https://redirector.kotlinlang.org/maven/bootstrap` for `-dev` versions.\n* Kotlin is distributed under Apache License (Version 2.0).\n* `./scripts/update-verification-metadata.sh` script updates verification metadata.\n* `kotlin.native.enabled=true` is required for native-only dependencies to be added to verification metadata.\n* The Kotlin repository has 292 releases.\n* Primary language used is Kotlin (90.5%).\n* Secondary languages used are Java (5.2%), C (2.0%), and C++ (1.9%).\n* Other languages used include Objective-C++, Python, and others (<1%).\n* The repository is maintained by JetBrains.\n* The repository has an error loading certain pages.\n* Kotlin is the primary programming language of the repository.\n* Java is used for approximately 5% of the codebase.\n* C and C++ are used for approximately 4% of the codebase combined.",
+      "tags": [
+        "gradle",
+        "maven",
+        "kotlin",
+        "verification",
+        "metadata",
+        "dependencies"
+      ],
+      "added_at": "2026-05-30T04:40:12.737277+00:00"
     }
   ],
-  "last_updated": "2026-05-29T03:58:57.325444+00:00"
+  "last_updated": "2026-05-30T04:40:12.737295+00:00"
 }
