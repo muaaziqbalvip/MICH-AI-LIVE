@@ -724,7 +724,22 @@
         "javascript"
       ],
       "added_at": "2026-05-30T03:44:06.115274+00:00"
+    },
+    {
+      "id": "d08545f7",
+      "source_url": "https://en.m.wikipedia.org/wiki/Amazon_Web_Services",
+      "title": "Amazon Web Services - Wikipedia",
+      "summary": "* AWS uses RAID protocol for network throughput between services.\n* Key AWS services include SimpleDB, Mechanical Turk, Elastic Beanstalk, Relational Database Service, DynamoDB, CloudWatch, and CloudFront.\n* AWS has Availability Zones for high availability and redundancy.\n* AWS revenue was estimated to be over $1.5 billion in 2012.\n* AWS hosts an annual conference called re:Invent with over 150 sessions.\n* AWS offers a certification program for computer engineers in cloud computing.\n* AWS launched Activate, a program for start-ups to leverage AWS credits and expertise.\n* AWS Partner Network (APN) helps AWS-based companies grow and scale their business.\n* AWS acquired Annapurna Labs, an Israel-based microelectronics company, for $350-370M.\n* AWS's 2015 Q4 revenue was $2.4 billion with a 28.5% operating margin and a $9.6 billion run rate.\n* Elastic Block Store service experienced outage due to stuck read/write requests.\n* Outage took at least 2 days to fully restore.\n* Severe storm in Northern Virginia caused AWS data center cluster outage.\n* AWS's largest data center cluster is located in Northern Virginia.\n* Outages can affect multiple websites relying on AWS.\n* AWS has experienced multiple outages in 2012.\n* Data center location can be a single point of failure.\n* Read/write request failures can cause service disruptions.\n* Weather events can impact cloud infrastructure reliability.",
+      "tags": [
+        "cloud computing",
+        "data storage",
+        "network protocol",
+        "cloud services",
+        "database management",
+        "microelectronics"
+      ],
+      "added_at": "2026-05-30T16:55:43.216970+00:00"
     }
   ],
-  "last_updated": "2026-05-30T03:44:06.115292+00:00"
+  "last_updated": "2026-05-30T16:55:43.216983+00:00"
 }
