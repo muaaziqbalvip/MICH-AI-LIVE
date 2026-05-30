@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 931,
+  "cycle_count": 936,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-30T03:48:39.303771+00:00",
+  "last_checkpoint": "2026-05-30T04:17:31.219209+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -302,7 +302,8 @@
       "https://digitalmarketinginstitute.com/blog/ai-in-digital-marketing-the-ultimate-guide",
       "https://serpapi.com/blog/how-to-scrape-google-search-results-with-python/",
       "https://pypi.org/project/google-search-results/",
-      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=1f10c232dd9867f83e95d55bdcc46683"
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=1f10c232dd9867f83e95d55bdcc46683",
+      "https://www.oed.com/dictionary/social_adj"
     ],
     "android_core": [
       "https://www.android.com/",
