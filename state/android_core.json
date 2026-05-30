@@ -664,7 +664,17 @@
         "dependencies"
       ],
       "added_at": "2026-05-30T04:40:12.737277+00:00"
+    },
+    {
+      "id": "187215bc",
+      "source_url": "https://medium.com/@harmanpreet.khera/advanced-coroutines-patterns-ffc1b1bf7b16",
+      "title": "Advanced Coroutines Patterns - Medium",
+      "summary": "* Channels in Kotlin coroutines enable asynchronous data exchange between coroutines.\n* Channel types: RendezvousChannel, ArrayChannel, UnlimitedChannel.\n* RendezvousChannel: synchronous, send and receive operations suspend until both are ready.\n* ArrayChannel: buffered, fixed capacity, send and receive operations suspend if buffer is full or empty.\n* UnlimitedChannel: unbounded, unlimited capacity, send operations never suspend.\n* Flows represent streams of asynchronous data that can be processed sequentially.\n* Flow builders: `flow { … }`, `flowOf(…)` , `asFlow()`.\n* Channels and flows are used for streaming data, producer-consumer relationships, and coordinating concurrent operations.\n* `channel.close()` signals the end of data production in a channel.\n* Use cases: streaming data from sensors or networks, task processing, coordinating concurrent operations.\n* `flow { … }` creates a flow from a sequence of values emitted using `emit()`.\n* `flowOf(…)` creates a flow from a fixed set of values.\n* `asFlow()` converts data structures into flows.\n* Flow operators: `map`, `filter`, `reduce`, `zip`, etc. for transforming data streams.\n* `actor { … }` builder creates an actor for concurrent state management.\n* Actors communicate via `send()` function and process messages in a separate coroutine.\n* Use cases: processing data streams, reactive UI updates, asynchronous events, concurrent state management.\n* Channels can connect flows, create data transformation pipelines, and manage a",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-05-30T23:51:30.219245+00:00"
     }
   ],
-  "last_updated": "2026-05-30T04:40:12.737295+00:00"
+  "last_updated": "2026-05-30T23:51:30.219268+00:00"
 }

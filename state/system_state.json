@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1136,
+  "cycle_count": 1141,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-30T23:46:46.066344+00:00",
+  "last_checkpoint": "2026-05-30T23:51:32.221638+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -425,7 +425,8 @@
       "https://www.health.com/ct-scan-vs-mri-which-one-is-right-for-you-8770682",
       "https://beefed.ai/en/modular-android-architecture-guide",
       "https://github.com/JetBrains/kotlin",
-      "https://dev.to/ianjasperrr/state-management-in-production-flutter-apps-what-actually-held-up-at-scale-5bdd"
+      "https://dev.to/ianjasperrr/state-management-in-production-flutter-apps-what-actually-held-up-at-scale-5bdd",
+      "https://medium.com/@harmanpreet.khera/advanced-coroutines-patterns-ffc1b1bf7b16"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
