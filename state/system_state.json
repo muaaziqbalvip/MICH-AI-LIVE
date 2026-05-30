@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 886,
+  "cycle_count": 891,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-30T00:31:46.695798+00:00",
+  "last_checkpoint": "2026-05-30T00:51:31.437427+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -122,7 +122,8 @@
       "https://www.codechef.com/python-online-compiler",
       "https://developer.microsoft.com/en-us/python",
       "https://www.datacamp.com/courses/intro-to-python-for-data-science",
-      "https://www.coursera.org/learn/python-crash-course?msockid=0658ca261251667b0312dd4e137767f3"
+      "https://www.coursera.org/learn/python-crash-course?msockid=0658ca261251667b0312dd4e137767f3",
+      "https://python-ffmpeg.readthedocs.io/en/stable/api/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
