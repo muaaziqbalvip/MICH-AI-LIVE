@@ -902,7 +902,27 @@
         "phone"
       ],
       "added_at": "2026-05-31T12:58:16.072503+00:00"
+    },
+    {
+      "id": "317ff057",
+      "source_url": "https://support.microsoft.com/en-us/account",
+      "title": "Account help - support.microsoft.com",
+      "summary": "* Microsoft accounts can be managed from a single dashboard.\n* Users can sign in with a Microsoft account, work or school account, or use passwordless sign-in.\n* Windows devices support Microsoft accounts, work or school accounts, and Windows Hello.\n* Account security features include two-factor authentication and passwordless sign-in.\n* Microsoft cloud storage includes OneDrive files, photos, and Outlook.com emails.\n* Exceeding cloud storage limits prevents sending or receiving email.\n* Microsoft 365 offers online security, innovative apps, and cloud storage.\n* Family groups can be created with parental controls like screen time limits and app filters.\n* Compromised accounts can be recovered using the Sign-in Helper tool.\n* Microsoft 365 subscriptions include access to cloud storage, security, and innovative apps.",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-05-31T14:49:31.951929+00:00"
+    },
+    {
+      "id": "4baa4173",
+      "source_url": "https://support.microsoft.com/en-us/accounts-billing/manage/how-to-sign-in-to-hotmail",
+      "title": "How to sign in to Hotmail | Microsoft Support",
+      "summary": "* Hotmail accounts are now accessed through Outlook.com.\n* Microsoft may block accounts due to unusual sign-in activity.\n* Accounts inactive for over 2 years may be deleted.\n* Starting in February 2025, Microsoft accounts will stay signed in automatically.\n* Private browsing can be used to prevent others from accessing account information.\n* To sign out of Outlook, select the profile picture and click \"Sign out\".\n* Closing all browser windows is recommended after signing out.\n* Supported browsers for Outlook on the web and Outlook.com are listed on the Microsoft support page.\n* The sign-in troubleshooter tool can be used to resolve sign-in issues.\n* Accounts can be unblocked by following the instructions on the \"Unblock my Outlook.com account\" page.",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-05-31T14:58:32.537275+00:00"
     }
   ],
-  "last_updated": "2026-05-31T12:58:16.072525+00:00"
+  "last_updated": "2026-05-31T14:58:32.537291+00:00"
 }
