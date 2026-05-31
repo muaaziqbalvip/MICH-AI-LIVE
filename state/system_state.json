@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1291,
+  "cycle_count": 1296,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-31T12:14:55.999893+00:00",
+  "last_checkpoint": "2026-05-31T13:05:15.030843+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -323,7 +323,12 @@
       "https://www.glassdoor.com/Job/seattle-data-analyst-jobs-SRCH_IL.0,7_IC1150505_KO8,20.htm",
       "https://www.ziprecruiter.com/Jobs/Data-Analyst/-in-Seattle,WA?lk=n5aaBivOA2jZeZxpQ4YJ3w",
       "https://www.monster.com/jobs/q-data-analyst-jobs-l-seattle-wa?msockid=0d43c74f19776dd831ecd02518ed6c9b",
-      "https://www.bbc.co.uk/bitesize/articles/zyf37v4"
+      "https://www.bbc.co.uk/bitesize/articles/zyf37v4",
+      "https://www.microsoft.com/en-us/about/office-locations",
+      "https://www.mapquest.com/us/washington/microsoft-corporation-12544878",
+      "https://www.waze.com/live-map/directions/us/wa/redmond/microsoft-headquarters?to=place.ChIJGxUEuHFtkFQRnokD7mkppQE",
+      "https://www.bing.com/maps/directions?rtop=0~1~0&style=r&rtp=pos.47.60322952270508_-122.33027648925781_Seattle%2C%20WA_Seattle%2C%20WA_~pos.47.6422377_-122.1364608_1%20Microsoft%20Way%2C%20Redmond%2C%20WA%2098052_1%20Microsoft%20Way%2C%20Redmond%2C%20WA%2098052_&mode=t&cp=47.611496~-122.235440&lvl=11.6",
+      "https://www.bizjournals.com/profile/company/org_ch_cb09f931b43ae64b3adc98eecbbb53ac"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -614,7 +619,12 @@
       "https://blog.csdn.net/leah126/article/details/131871717",
       "https://docker.github.net.cn/",
       "https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started",
-      "https://www.reactjs.cn/"
+      "https://www.reactjs.cn/",
+      "https://www.xe.com/currencyconverter/",
+      "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+      "https://wise.com/gb/currency-converter/eur-to-nzd-rate",
+      "https://www.exchange-rates.org/converter",
+      "https://exchangerates.com/currencies/eur/"
     ],
     "automation": [
       "https://www.selenium.dev/",

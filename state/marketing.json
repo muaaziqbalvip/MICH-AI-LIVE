@@ -874,7 +874,35 @@
         "spark"
       ],
       "added_at": "2026-05-31T03:39:15.254972+00:00"
+    },
+    {
+      "id": "7cc089ca",
+      "source_url": "https://www.microsoft.com/en-us/about/office-locations",
+      "title": "Microsoft Office Locations | About Microsoft",
+      "summary": "* Microsoft offers AI for education solutions\n* Dynamics 365 and Microsoft 365 are key productivity platforms\n* Microsoft Power Platform is a development environment\n* Microsoft Teams is a collaboration tool\n* Microsoft 365 Copilot is an AI-powered assistant\n* Azure is a cloud computing platform\n* Visual Studio is a development software\n* Microsoft Learn is an online learning platform\n* Microsoft Tech Community is a developer forum\n* Microsoft Marketplace is an app store for business solutions",
+      "tags": [
+        "ai",
+        "cloud",
+        "dynamics",
+        "microsoft",
+        "productivity",
+        "azure"
+      ],
+      "added_at": "2026-05-31T12:55:10.650028+00:00"
+    },
+    {
+      "id": "3ed55944",
+      "source_url": "https://www.waze.com/live-map/directions/us/wa/redmond/microsoft-headquarters?to=place.ChIJGxUEuHFtkFQRnokD7mkppQE",
+      "title": "Driving directions to Microsoft Headquarters, One Microsoft Way",
+      "summary": "* Address: One Microsoft Way, Redmond, WA 98052, USA\n* Phone number: (800) 642-7676\n* Website: microsoft.com\n* Operating hours: Monday to Friday, 09:00 - 19:00\n* Location type: Headquarters\n* City: Redmond\n* State: WA\n* Country: USA\n* Zip code: 98052\n* Business hours are closed on weekends",
+      "tags": [
+        "microsoft",
+        "headquarters",
+        "website",
+        "phone"
+      ],
+      "added_at": "2026-05-31T12:58:16.072503+00:00"
     }
   ],
-  "last_updated": "2026-05-31T03:39:15.254992+00:00"
+  "last_updated": "2026-05-31T12:58:16.072525+00:00"
 }
