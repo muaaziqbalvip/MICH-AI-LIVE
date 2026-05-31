@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1311,
+  "cycle_count": 1316,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-31T14:06:49.393840+00:00",
+  "last_checkpoint": "2026-05-31T14:19:13.454574+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -138,7 +138,12 @@
       "https://www.runoob.com/python/python-tutorial.html",
       "https://pythonlang.cn/",
       "https://zhuanlan.zhihu.com/p/1911015225127317823",
-      "https://www.liaoxuefeng.com/wiki/1016959663602400/1017063413904832"
+      "https://www.liaoxuefeng.com/wiki/1016959663602400/1017063413904832",
+      "https://florarestaurantgroup.com/restaurant/cafe-flora-seattle/",
+      "https://www.yelp.com/biz/florfe-cafe-salem",
+      "https://seattle.eater.com/venue/2991/cafe-flora",
+      "https://m.facebook.com/pages/Cafe-Flora/112894108732/",
+      "https://www.zmenu.com/cafe-flora-seattle-online-menu/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
