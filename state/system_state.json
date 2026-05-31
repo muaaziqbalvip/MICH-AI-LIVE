@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1331,
+  "cycle_count": 1336,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-31T15:01:35.861821+00:00",
+  "last_checkpoint": "2026-05-31T15:27:28.953232+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -346,7 +346,8 @@
       "https://support.microsoft.com/en-us/office/microsoft-365-customer-service-and-support-96162163-b3aa-498b-bbbb-5e757b0f31da",
       "https://support.microsoft.com/en-us/account",
       "https://techcommunity.microsoft.com/",
-      "https://support.microsoft.com/en-us/accounts-billing/manage/how-to-sign-in-to-hotmail"
+      "https://support.microsoft.com/en-us/accounts-billing/manage/how-to-sign-in-to-hotmail",
+      "https://www.usa.gov/agencies/social-security-administration"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -645,7 +646,12 @@
       "https://exchangerates.com/currencies/eur/",
       "https://www.200oksolutions.com/blog/react-server-components-future-2024/",
       "https://react.dev/reference/rsc/server-components",
-      "https://developersvoice.com/blog/frontend/react-server-components-architect-guide/"
+      "https://developersvoice.com/blog/frontend/react-server-components-architect-guide/",
+      "https://www.zhihu.com/tardis/zm/art/294283384",
+      "https://it.ccm.net/faq/29720-visualizza-le-storie-nascoste-di-instagram-in-anonimo-online",
+      "https://forums.commentcamarche.net/forum/affich-35360771-probleme-bouton-shopping-instagram",
+      "https://www.zhihu.com/topic/19550793/intro",
+      "https://it.ccm.net/download/scaricare-3393-instagram-per-pc"
     ],
     "automation": [
       "https://www.selenium.dev/",
