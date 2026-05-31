@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1216,
+  "cycle_count": 1221,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-31T02:07:08.614983+00:00",
+  "last_checkpoint": "2026-05-31T02:57:29.414929+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -126,7 +126,12 @@
       "https://python-ffmpeg.readthedocs.io/en/stable/api/",
       "https://stackoverflow.com/questions/49028551/ffmpeg-multiple-commands-using-filter-complex",
       "https://netalith.com/blogs/python-tutorial/getting-started-with-pillow-python-image-processing",
-      "https://ffmpeg.org/download.html"
+      "https://ffmpeg.org/download.html",
+      "https://www.apple.com/iphone/",
+      "https://www.apple.com/ca/iphone/",
+      "https://www.apple.com/",
+      "https://www.apple.com/shop/buy-iphone/iphone-16",
+      "https://www.apple.com/se/iphone/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -308,7 +313,8 @@
       "https://pypi.org/project/facebook-business/",
       "https://mail.aol.com/",
       "https://en.m.wikipedia.org/wiki/Influencer",
-      "https://www.facebook.com/r.php/"
+      "https://www.facebook.com/r.php/",
+      "https://about.fb.com/news/category/technologies/facebook-app/"
     ],
     "android_core": [
       "https://www.android.com/",

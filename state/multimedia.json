@@ -533,7 +533,32 @@
         "overlay_filter"
       ],
       "added_at": "2026-05-30T01:29:12.722697+00:00"
+    },
+    {
+      "id": "0497471d",
+      "source_url": "https://www.apple.com/ca/iphone/",
+      "title": "iPhone - Apple (CA)",
+      "summary": "* iPhone models: iPhone 17 Pro, iPhone Air, iPhone 17, iPhone 17e, iPhone 16\n* Colors: Cosmic Orange, Deep Blue, Silver, Sky Blue, Light Gold, Cloud White, Space Black, Lavender, Sage, Mist Blue, White, Black, Soft Pink, Ultramarine, Teal, Pink\n* Satellite connectivity for emergency services and messaging\n* Find My feature for secure location sharing\n* Check In feature for automatic safety updates\n* Apple Trade In program for device trade-ins and credit\n* Financing options: 0% APR monthly payments, Affirm interest-free monthly payments\n* Personal Setup for guided online sessions and feature discovery\n* Delivery and pickup options: two-hour delivery, free delivery, easy pickup\n* iPhone 17 Pro features a heat-forged aluminum unibody for durability.\n* Ceramic Shield 2 provides 3x better scratch resistance on latest iPhone models.\n* iPhone is protected against splashes from everyday liquids like water, coffee, and soda.\n* Advanced cameras in iPhone capture phenomenal photos with great detail and color.\n* iPhone 17 Pro has 8x optical-quality zoom, the longest zoom ever on an iPhone.\n* Latest Pro models support 4K 60 fps Dolby Vision and up to 4K 120 fps video recording.\n* A19 and A19 Pro chips deliver remarkable battery life and enable advanced camera features.\n* Center Stage front camera allows for flexible framing and Dual Capture recording.\n* Action mode steadies shaky scenes, and Audio Mix boosts voices in videos.\n* iPhone supports fast charging and has a long-lasting battery ",
+      "tags": [
+        "iphone",
+        "satellite",
+        "aluminum",
+        "ceramic",
+        "messaging",
+        "connectivity"
+      ],
+      "added_at": "2026-05-31T02:32:31.340004+00:00"
+    },
+    {
+      "id": "71ef85b3",
+      "source_url": "https://www.apple.com/se/iphone/",
+      "title": "iPhone – Apple (SE)",
+      "summary": "* iPhone has a crash detection feature that can detect severe car accidents and call emergency services.\n* The \"Hitta\" app allows users to share their location with family and friends.\n* Safari is a private web browser.\n* iPhone can be paired with Mac to copy and paste content, answer calls and messages, and access files through iCloud.\n* iPhone can be paired with Apple Watch to locate the device, take group photos, and answer calls.\n* AirPods can be set up on iPhone with a single tap and have adaptive noise cancellation.\n* iPhone models include iPhone 16, iPhone 17e, iPhone 17, iPhone Air, and iPhone 17 Pro.\n* iPhone has a feature called \"Avstämning\" in Meddelanden to automatically inform someone when you arrive safely.\n* AirTag has 50% stronger sound and up to 1.5x longer range for precision finding.\n* iPhone and Apple devices can be connected to share files, photos, and more through iCloud and other features.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-31T02:53:50.980900+00:00"
     }
   ],
-  "last_updated": "2026-05-30T01:29:12.722717+00:00"
+  "last_updated": "2026-05-31T02:53:50.980923+00:00"
 }
