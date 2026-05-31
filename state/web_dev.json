@@ -697,7 +697,20 @@
         "web_dev"
       ],
       "added_at": "2026-05-30T12:07:33.220295+00:00"
+    },
+    {
+      "id": "b42fae54",
+      "source_url": "https://www.abdulbasit.cloud/blog/tailwind-css-advanced",
+      "title": "Advanced Tailwind CSS Patterns and Components",
+      "summary": "* No technical content available due to blog post not being completed.\n* The page only contains a title, author, and table of contents.\n* No code patterns or Tailwind CSS components are provided.\n* The blog post is marked as \"being prepared\" with no technical information.\n* No release date for the completed content is specified.\n* The page includes a call for feedback, but no technical details.\n* Tailwind CSS is mentioned as the topic, but not explored.\n* The post is categorized under Web Development.\n* No specific Tailwind CSS patterns are discussed.\n* The post is currently a placeholder with no technical value.",
+      "tags": [
+        "tailwind css",
+        "web development",
+        "css",
+        "blog post"
+      ],
+      "added_at": "2026-05-31T01:04:09.348004+00:00"
     }
   ],
-  "last_updated": "2026-05-30T12:07:33.220313+00:00"
+  "last_updated": "2026-05-31T01:04:09.348024+00:00"
 }
