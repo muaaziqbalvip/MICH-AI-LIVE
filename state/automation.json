@@ -739,7 +739,17 @@
         "microelectronics"
       ],
       "added_at": "2026-05-30T16:55:43.216970+00:00"
+    },
+    {
+      "id": "64b3bf54",
+      "source_url": "https://www.browserstack.com/guide/playwright-python-tutorial",
+      "title": "The ultimate Playwright Python tutorial - BrowserStack",
+      "summary": "* Playwright for Python enables end-to-end browser automation with multiple browsers and parallel execution.\n* Browser contexts allow for efficient testing of different user sessions simultaneously.\n* Playwright supports multiple browsers, including WebKit, which can be installed using `playwright install`.\n* The official Playwright Pytest plugin provides context isolation and runs on various browser setups.\n* To install Playwright for Python, use `pip install pytest-playwright`.\n* Playwright Locators and Selectors are used to find elements on a page, with supported selectors including Text, XPath, and CSS.\n* Locators are used to perform operations on elements, such as `click()`, `fill()`, and `type()`.\n* The syntax for using locators is `page.locator(selector[, options])`.\n* Playwright's auto-waiting and retry-ability are primary components of its locators.\n* Playwright Python can be used with various test runners, including Pytest, to write testing infrastructure manually.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-05-31T04:02:34.182190+00:00"
     }
   ],
-  "last_updated": "2026-05-30T16:55:43.216983+00:00"
+  "last_updated": "2026-05-31T04:02:34.182209+00:00"
 }
