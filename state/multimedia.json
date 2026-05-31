@@ -572,7 +572,17 @@
         "digital signatures"
       ],
       "added_at": "2026-05-31T03:14:21.690393+00:00"
+    },
+    {
+      "id": "e1b8f422",
+      "source_url": "https://learnopencv.com/getting-started-with-opencv/",
+      "title": "Getting Started with OpenCV - LearnOpenCV",
+      "summary": "* OpenCV is a popular computer vision library with C++ and Python support.\n* OpenCV can be used for image processing, feature detection, and object recognition.\n* Key OpenCV functions include image reading, display, writing, resizing, cropping, and rotation.\n* OpenCV supports various color spaces and image filtering techniques.\n* Image thresholding, edge detection, and contour detection are also supported in OpenCV.\n* OpenCV has a DNN module for deep learning tasks and can be used with PyTorch and TensorFlow.\n* OpenCV provides GUI functionality with mouse and trackbar support.\n* Video processing is also supported in OpenCV, including reading, writing, and background estimation.\n* OpenCV tutorials and documentation are available on the official website for C++ and Python.\n* OpenCV can be used for tasks such as object detection, image classification, and image segmentation.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-05-31T23:21:27.005734+00:00"
     }
   ],
-  "last_updated": "2026-05-31T03:14:21.690415+00:00"
+  "last_updated": "2026-05-31T23:21:27.005815+00:00"
 }
