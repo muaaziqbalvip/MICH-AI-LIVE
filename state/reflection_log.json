@@ -49349,6 +49349,206 @@
       "raw_notes": "Reflection failed: All Groq API keys exhausted and still cooling.",
       "next_priorities": [],
       "timestamp": "2026-05-31T02:56:59.120522+00:00"
+    },
+    {
+      "cycle": 1221,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "android_core"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 50,
+          "last_updated": "2026-05-30T23:51:30.219268+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 54,
+          "last_updated": "2026-05-31T01:04:09.348024+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 42,
+          "last_updated": "2026-05-31T02:53:50.980923+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 66,
+          "last_updated": "2026-05-31T02:55:25.837074+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 56,
+          "last_updated": "2026-05-30T16:55:43.216983+00:00"
+        }
+      ],
+      "raw_notes": "Reflection failed: All Groq API keys exhausted and still cooling.",
+      "next_priorities": [],
+      "timestamp": "2026-05-31T02:59:30.671363+00:00"
+    },
+    {
+      "cycle": 1222,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "web_dev"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 50,
+          "last_updated": "2026-05-30T23:51:30.219268+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 54,
+          "last_updated": "2026-05-31T01:04:09.348024+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 42,
+          "last_updated": "2026-05-31T02:53:50.980923+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 66,
+          "last_updated": "2026-05-31T02:55:25.837074+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 56,
+          "last_updated": "2026-05-30T16:55:43.216983+00:00"
+        }
+      ],
+      "raw_notes": "**Self-Reflection (Cycle 1222)**\n* Learned this cycle: \n  + Updated web_dev knowledge (54 entries)\n* No recurring error patterns (0 errors)\n* Top 3 domains to prioritise next: web_dev, android_core, automation\n* Improvement: Increase task completion rate (currently 0 tasks completed)",
+      "next_priorities": [],
+      "timestamp": "2026-05-31T03:01:40.748853+00:00"
+    },
+    {
+      "cycle": 1223,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "multimedia"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 50,
+          "last_updated": "2026-05-30T23:51:30.219268+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 54,
+          "last_updated": "2026-05-31T01:04:09.348024+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 43,
+          "last_updated": "2026-05-31T03:14:21.690415+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 66,
+          "last_updated": "2026-05-31T02:55:25.837074+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 56,
+          "last_updated": "2026-05-30T16:55:43.216983+00:00"
+        }
+      ],
+      "raw_notes": "**Self-Reflection (Cycle 1223)**\n* Learned this cycle: \n  * Multimedia domain updates\n* No recurring error patterns\n* Top 3 knowledge domains to prioritise next cycle: \n  1. web_dev\n  2. automation\n  3. marketing\n* Improvement: Increase task completion rate by integrating crawled domain knowledge into tasks.",
+      "next_priorities": [],
+      "timestamp": "2026-05-31T03:22:30.921481+00:00"
+    },
+    {
+      "cycle": 1224,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "marketing"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 50,
+          "last_updated": "2026-05-30T23:51:30.219268+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 54,
+          "last_updated": "2026-05-31T01:04:09.348024+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 43,
+          "last_updated": "2026-05-31T03:14:21.690415+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 68,
+          "last_updated": "2026-05-31T03:39:15.254992+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 56,
+          "last_updated": "2026-05-30T16:55:43.216983+00:00"
+        }
+      ],
+      "raw_notes": "Reflection failed: All Groq API keys exhausted and still cooling.",
+      "next_priorities": [],
+      "timestamp": "2026-05-31T03:40:17.822972+00:00"
+    },
+    {
+      "cycle": 1225,
+      "run_id": "946af45b",
+      "tokens_this_cycle": 0,
+      "errors_this_cycle": 0,
+      "domains_crawled": [
+        "automation"
+      ],
+      "tasks_completed": [],
+      "domain_stats": [
+        {
+          "domain": "android_core",
+          "entry_count": 50,
+          "last_updated": "2026-05-30T23:51:30.219268+00:00"
+        },
+        {
+          "domain": "web_dev",
+          "entry_count": 54,
+          "last_updated": "2026-05-31T01:04:09.348024+00:00"
+        },
+        {
+          "domain": "multimedia",
+          "entry_count": 43,
+          "last_updated": "2026-05-31T03:14:21.690415+00:00"
+        },
+        {
+          "domain": "marketing",
+          "entry_count": 68,
+          "last_updated": "2026-05-31T03:39:15.254992+00:00"
+        },
+        {
+          "domain": "automation",
+          "entry_count": 56,
+          "last_updated": "2026-05-30T16:55:43.216983+00:00"
+        }
+      ],
+      "raw_notes": "**Self-Reflection (Cycle 1225)**\n* Learned this cycle: \n  * Automation domain updates\n* No recurring error patterns\n* Top 3 domains to prioritise next: \n  1. web_dev\n  2. marketing\n  3. multimedia\n* Improvement: Update 'automation' domain entries to reflect latest changes, as the last update was 2 days ago, while other domains were updated more recently.",
+      "next_priorities": [],
+      "timestamp": "2026-05-31T03:41:48.632014+00:00"
     }
   ]
 }

@@ -558,7 +558,21 @@
         "multimedia"
       ],
       "added_at": "2026-05-31T02:53:50.980900+00:00"
+    },
+    {
+      "id": "5328d894",
+      "source_url": "https://pypi.org/project/pillow/",
+      "title": "pillow · PyPI",
+      "summary": "* Latest Pillow version: 12.2.0\n* Package format: .tar.gz\n* Python package repository: PyPI\n* Package name: pillow\n* Repository: python-pillow/Pillow\n* Attestation protocol: in-toto.io/Statement/v1\n* Predicate type: https://docs.pypi.org/attestations/publish/v1\n* Subject digest algorithm: SHA-256 (implied by digest length)\n* Package integrity verification: uses digital signatures and hashes\n* Package distribution: uses wheels.yml for wheel distribution",
+      "tags": [
+        "python",
+        "pillow",
+        "pypi",
+        "sha-256",
+        "digital signatures"
+      ],
+      "added_at": "2026-05-31T03:14:21.690393+00:00"
     }
   ],
-  "last_updated": "2026-05-31T02:53:50.980923+00:00"
+  "last_updated": "2026-05-31T03:14:21.690415+00:00"
 }

@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1221,
+  "cycle_count": 1226,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-31T02:57:29.414929+00:00",
+  "last_checkpoint": "2026-05-31T03:42:19.149447+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -131,7 +131,10 @@
       "https://www.apple.com/ca/iphone/",
       "https://www.apple.com/",
       "https://www.apple.com/shop/buy-iphone/iphone-16",
-      "https://www.apple.com/se/iphone/"
+      "https://www.apple.com/se/iphone/",
+      "https://pypi.org/project/pillow/",
+      "https://github.com/python-pillow/Pillow",
+      "https://www.fluentcargo.com/carriers/scac/PCIU"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -314,7 +317,12 @@
       "https://mail.aol.com/",
       "https://en.m.wikipedia.org/wiki/Influencer",
       "https://www.facebook.com/r.php/",
-      "https://about.fb.com/news/category/technologies/facebook-app/"
+      "https://about.fb.com/news/category/technologies/facebook-app/",
+      "https://www.indeed.com/q-Data-Analyst-l-Seattle,-WA-jobs.html",
+      "https://www.linkedin.com/jobs/data-analyst-jobs-seattle-wa",
+      "https://www.glassdoor.com/Job/seattle-data-analyst-jobs-SRCH_IL.0,7_IC1150505_KO8,20.htm",
+      "https://www.ziprecruiter.com/Jobs/Data-Analyst/-in-Seattle,WA?lk=n5aaBivOA2jZeZxpQ4YJ3w",
+      "https://www.monster.com/jobs/q-data-analyst-jobs-l-seattle-wa?msockid=0d43c74f19776dd831ecd02518ed6c9b"
     ],
     "android_core": [
       "https://www.android.com/",

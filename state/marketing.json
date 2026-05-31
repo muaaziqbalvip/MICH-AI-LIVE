@@ -844,7 +844,37 @@
         "meta"
       ],
       "added_at": "2026-05-31T02:55:25.837054+00:00"
+    },
+    {
+      "id": "a48c7bbd",
+      "source_url": "https://www.linkedin.com/jobs/data-analyst-jobs-seattle-wa",
+      "title": "1,000+ Data Analyst jobs in Seattle - LinkedIn",
+      "summary": "* Statistical analysis is a key skill for various analyst roles.\n* Data processing and system analysis are required for Data System Analyst jobs.\n* Business intelligence and reporting are essential for Business Intelligence Consultant and Report Analyst jobs.\n* Data mining and web analysis are necessary for Data Mining Specialist and Web Analyst jobs.\n* Data consulting and associate roles require data analysis and interpretation skills.\n* Junior analyst roles involve data analysis and business operations.\n* Graduate analyst roles require statistical and data analysis skills.\n* Payroll tax analysis involves financial and tax data analysis.\n* Data specialist roles require data processing and management skills.\n* Business analysis involves data-driven decision making and problem-solving.",
+      "tags": [
+        "data analysis",
+        "business intelligence",
+        "data mining",
+        "statistical analysis",
+        "data processing",
+        "web analysis"
+      ],
+      "added_at": "2026-05-31T03:28:07.729843+00:00"
+    },
+    {
+      "id": "2c3b5155",
+      "source_url": "https://www.glassdoor.com/Job/seattle-data-analyst-jobs-SRCH_IL.0,7_IC1150505_KO8,20.htm",
+      "title": "168 data analyst Jobs in Seattle, WA, May 2026 | Glassdoor",
+      "summary": "* Technical skills required: SQL, R, Python, Jira, Crystal Reports, Data modeling, Visio, Spark, Git, Azure\n* Key tools: SQL, R, Spark, Git, Azure\n* Data analysis skills: Data modeling, Performance tuning, Analysis skills, Cost management\n* Business skills: Business consulting, Communication skills, Product development\n* Programming languages: Python, R, SQL\n* Data engineering skills: Performance tuning, Incident management, Triage\n* Cloud platforms: Azure\n* Version control: Git\n* Reporting tools: Crystal Reports, Clarity reports\n* Data modeling techniques are used to analyze data\n* Data quality issues, anomalies, and deviations are identified\n* Ad hoc reports and regular datasets are generated for end-users\n* System tools are used to query and report data\n* Database and data warehouse queries are utilized\n* Scripts are used to automate data tasks\n* Data integration from multiple sources is performed\n* Data analysis and querying are used to drive decision-making\n* Data warehouse and database management are key skills\n* SQL scripting is likely a required skill",
+      "tags": [
+        "sql",
+        "r",
+        "python",
+        "azure",
+        "git",
+        "spark"
+      ],
+      "added_at": "2026-05-31T03:39:15.254972+00:00"
     }
   ],
-  "last_updated": "2026-05-31T02:55:25.837074+00:00"
+  "last_updated": "2026-05-31T03:39:15.254992+00:00"
 }
