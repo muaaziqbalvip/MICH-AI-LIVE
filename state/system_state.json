@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1256,
+  "cycle_count": 1261,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-31T04:51:15.823932+00:00",
+  "last_checkpoint": "2026-05-31T05:03:46.339236+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -604,7 +604,9 @@
       "https://www.prisma.fi/",
       "https://github.com/prisma/prisma",
       "https://www.abdulbasit.cloud/blog/tailwind-css-advanced",
-      "https://dev.to/bhavyajain/websockets-in-python-a-deep-dive-for-real-time-applications-5na"
+      "https://dev.to/bhavyajain/websockets-in-python-a-deep-dive-for-real-time-applications-5na",
+      "https://www.next.co.uk/?msockid=0e2a8431521f6ad720ce935b53186bec",
+      "https://www.nordstrom.com/brands/next--25801?msockid=0e2a8431521f6ad720ce935b53186bec"
     ],
     "automation": [
       "https://www.selenium.dev/",
