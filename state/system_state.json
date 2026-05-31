@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1366,
+  "cycle_count": 1371,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-31T16:29:15.258103+00:00",
+  "last_checkpoint": "2026-05-31T16:46:57.454069+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -347,7 +347,8 @@
       "https://support.microsoft.com/en-us/account",
       "https://techcommunity.microsoft.com/",
       "https://support.microsoft.com/en-us/accounts-billing/manage/how-to-sign-in-to-hotmail",
-      "https://www.usa.gov/agencies/social-security-administration"
+      "https://www.usa.gov/agencies/social-security-administration",
+      "https://www.searchenginejournal.com/"
     ],
     "android_core": [
       "https://www.android.com/",
