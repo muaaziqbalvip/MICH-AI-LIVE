@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1276,
+  "cycle_count": 1281,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-05-31T11:33:51.264545+00:00",
+  "last_checkpoint": "2026-05-31T11:56:26.328846+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -612,7 +612,9 @@
       "https://www.runoob.com/docker/docker-tutorial.html",
       "https://zhuanlan.zhihu.com/p/1892960016316748037",
       "https://blog.csdn.net/leah126/article/details/131871717",
-      "https://docker.github.net.cn/"
+      "https://docker.github.net.cn/",
+      "https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started",
+      "https://www.reactjs.cn/"
     ],
     "automation": [
       "https://www.selenium.dev/",
