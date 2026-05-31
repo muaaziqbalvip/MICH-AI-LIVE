@@ -747,7 +747,22 @@
         "central bank"
       ],
       "added_at": "2026-05-31T12:43:49.009011+00:00"
+    },
+    {
+      "id": "e1fffdbb",
+      "source_url": "https://developersvoice.com/blog/frontend/react-server-components-architect-guide/",
+      "title": "React Server Components (RSC): The Architect’s Guide to Modern Hybrid ...",
+      "summary": "* Client-Side Rendering (CSR) has pros like near-instant navigation and cons like the \"JavaScript tax\" and limited SEO.\n* Server-Side Rendering (SSR) and Static Site Generation (SSG) address CSR's flaws but introduce the hydration bottleneck.\n* Hydration is resource-intensive and can undermine the gains of SSR and SSG.\n* API-layer tax includes chattiness, latency, and data duplication in data-fetching via REST, GraphQL, or tRPC.\n* Islands architecture and partial hydration can improve performance but still have limitations.\n* React Server Components (RSC) aim to address the flaws of CSR, SSR, and SSG.\n* RSC enables hybrid rendering, combining the benefits of server-side and client-side rendering.\n* To scale RSC, teams should adopt code patterns like modular component design and optimized data-fetching.\n* Pitfalls to avoid in RSC include over-fetching data and not optimizing component rendering.\n* A reference mental model for RSC includes understanding the trade-offs between server-side and client-side rendering.\n* Organize components by route segment, with each segment defining its own layout (Server or Client).\n* Use Server Components to share layouts at the server level and reduce duplicate code.\n* Introduce client-side logic only where necessary, and stream parts of the page independently.\n* React Server Components (RSC) reshape the data lifecycle, making data-fetching first-class and tightly coupled to the component tree.\n* Use top-level async/await in Server Components t",
+      "tags": [
+        "javascript",
+        "server-side",
+        "client-side",
+        "react",
+        "graphql",
+        "api"
+      ],
+      "added_at": "2026-05-31T13:31:59.810938+00:00"
     }
   ],
-  "last_updated": "2026-05-31T12:43:49.009021+00:00"
+  "last_updated": "2026-05-31T13:31:59.810949+00:00"
 }
