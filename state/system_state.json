@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1621,
+  "cycle_count": 1626,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-01T14:24:37.704591+00:00",
+  "last_checkpoint": "2026-06-01T14:33:45.113413+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -371,7 +371,8 @@
       "https://www.socialpilot.co/blog/top-social-media-influencers",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=16d79fdda3826a1b3a7c88b6a2926b65",
       "https://www.google.com/?hl=pcm",
-      "https://www.opentable.com/r/social-roost-kitchen-and-bar-st-petersburg"
+      "https://www.opentable.com/r/social-roost-kitchen-and-bar-st-petersburg",
+      "https://account.microsoft.com/account"
     ],
     "android_core": [
       "https://www.android.com/",
