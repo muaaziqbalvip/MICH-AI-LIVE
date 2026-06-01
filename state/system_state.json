@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1481,
+  "cycle_count": 1486,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-01T03:10:55.577031+00:00",
+  "last_checkpoint": "2026-06-01T03:31:12.448328+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -363,7 +363,8 @@
       "https://www.grammarly.com/commonly-confused-words/content-vs-contents",
       "https://www.grammarly.com/commonly-confused-words/content-vs-contents?msockid=38f0cc6f234760a82dccdb04229561d4",
       "https://prateeksha.com/blog/the-complete-guide-to-automating-promotional-campaigns-with-python-scripts",
-      "https://dev.to/halimsafi/the-role-of-automation-in-email-marketing-using-python-39hm"
+      "https://dev.to/halimsafi/the-role-of-automation-in-email-marketing-using-python-39hm",
+      "https://www.socialpilot.co/blog/top-social-media-influencers"
     ],
     "android_core": [
       "https://www.android.com/",
