@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1531,
+  "cycle_count": 1536,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-01T10:52:24.312237+00:00",
+  "last_checkpoint": "2026-06-01T11:03:17.847723+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -151,7 +151,8 @@
       "https://www.instagram.com/virginia/",
       "https://oglobo.globo.com/ela/noticia/2026/05/29/virginia-fonseca-fala-pela-primeira-vez-sobre-termino-com-vini-jr-e-revela-como-esta-a-vida-solteira.ghtml",
       "https://www.terra.com.br/esportes/futebol/copa-2026/virginia-fonseca-confirma-que-sera-reporter-da-globo-durante-a-copa-do-mundo,1fb5deefe43f9c2dd68a68ef71c3466bvlxt8dqk.html",
-      "https://www.py4u.org/blog/automate-youtube-with-python/"
+      "https://www.py4u.org/blog/automate-youtube-with-python/",
+      "https://codewithtj.blogspot.com/2025/03/automating-video-editing-workflows.html"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -367,7 +368,8 @@
       "https://dev.to/halimsafi/the-role-of-automation-in-email-marketing-using-python-39hm",
       "https://www.socialpilot.co/blog/top-social-media-influencers",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=16d79fdda3826a1b3a7c88b6a2926b65",
-      "https://www.google.com/?hl=pcm"
+      "https://www.google.com/?hl=pcm",
+      "https://www.opentable.com/r/social-roost-kitchen-and-bar-st-petersburg"
     ],
     "android_core": [
       "https://www.android.com/",
