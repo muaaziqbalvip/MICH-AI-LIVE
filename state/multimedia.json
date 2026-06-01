@@ -605,7 +605,17 @@
         "multimedia"
       ],
       "added_at": "2026-06-01T02:14:05.552468+00:00"
+    },
+    {
+      "id": "db47f0a9",
+      "source_url": "https://pillowpython.com/",
+      "title": "Python Pillow — The Python Imaging Library (PIL) Hub",
+      "summary": "* JPEG does not support transparency, use PNG or convert to RGB.\n* Use `img.convert(\"RGB\")` to drop alpha channel.\n* Large images can cause MemoryError, use draft mode or process in tiles.\n* Use `img.draft(\"RGB\", (width, height))` to load reduced image version.\n* Pillow supports 30+ image formats, including JPEG, PNG, and GIF.\n* Use `Image.registered_extensions()` to see available formats.\n* Pillow can convert to and from NumPy arrays using `numpy.array()` and `Image.fromarray()`.\n* Pillow can read and create animated GIFs using `img.seek()` and `img.save()`.\n* Pillow is implemented in C for performance, making it suitable for production use.\n* Install Pillow using `pip install Pillow` and import as `from PIL import Image`.\n* Pillow is implemented in C via libjpeg, zlib, and other native codecs for speed.\n* Use `img.draft()` for JPEG draft loading in high-throughput pipelines.\n* Utilize `concurrent.futures.ThreadPoolExecutor` for processing multiple images.\n* Prefer `img.thumbnail()` over `img.resize()` to avoid unnecessary upscaling.\n* Pillow supports reading, writing, and animated WEBP files.\n* AVIF support is available in Pillow 9.1.0 with `libavif` installed.\n* Check AVIF support with `PIL.features.check('avif')`.\n* Pillow uses the HPND (Historical Permission Notice and Disclaimer) license.\n* The HPND license is permissive and free for commercial use.\n* No attribution is required when using Pillow in commercial projects.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-01T13:38:19.039407+00:00"
     }
   ],
-  "last_updated": "2026-06-01T02:14:05.552493+00:00"
+  "last_updated": "2026-06-01T13:38:19.039427+00:00"
 }
