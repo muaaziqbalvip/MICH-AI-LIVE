@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1451,
+  "cycle_count": 1456,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-01T01:48:16.075525+00:00",
+  "last_checkpoint": "2026-06-01T02:24:44.887657+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -145,7 +145,12 @@
       "https://m.facebook.com/pages/Cafe-Flora/112894108732/",
       "https://www.zmenu.com/cafe-flora-seattle-online-menu/",
       "https://learnopencv.com/getting-started-with-opencv/",
-      "https://zulko.github.io/moviepy/reference/reference/moviepy.html"
+      "https://zulko.github.io/moviepy/reference/reference/moviepy.html",
+      "https://pt.wikipedia.org/wiki/Virginia_Fonseca",
+      "https://www.youtube.com/channel/UCsaB2VrLZrtGbum6Eo0ClbA",
+      "https://www.instagram.com/virginia/",
+      "https://oglobo.globo.com/ela/noticia/2026/05/29/virginia-fonseca-fala-pela-primeira-vez-sobre-termino-com-vini-jr-e-revela-como-esta-a-vida-solteira.ghtml",
+      "https://www.terra.com.br/esportes/futebol/copa-2026/virginia-fonseca-confirma-que-sera-reporter-da-globo-durante-a-copa-do-mundo,1fb5deefe43f9c2dd68a68ef71c3466bvlxt8dqk.html"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -816,7 +821,8 @@
       "https://answers.microsoft.com/es-es/outlook_com/forum/all/outlookcom-verificar-cuenta/72b53ac6-3c9f-4cc5-ae3b-ab31b97436b7",
       "https://answers.microsoft.com/es-es/outlook_com/forum/all/outlookcom-hace-meses-que-no-uso-el-correo-de/64d7b929-91a4-462f-b195-d7dbe05494a1",
       "https://answers.microsoft.com/es-es/windows/forum/all/windows-update-problemas-de-instalación-tras/20384075-46f1-40d6-a1ba-50017d7e0525",
-      "https://en.m.wikipedia.org/wiki/Selenium_(software)"
+      "https://en.m.wikipedia.org/wiki/Selenium_(software)",
+      "https://gitscripts.com/git-python-api"
     ]
   },
   "software_factory_jobs": [],
