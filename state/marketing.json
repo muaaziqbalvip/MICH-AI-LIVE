@@ -968,7 +968,22 @@
         "course creation"
       ],
       "added_at": "2026-06-01T04:17:10.400311+00:00"
+    },
+    {
+      "id": "fb2a7c2b",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=388c17c2e68b663d0ca600a9e7b467ef",
+      "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+      "summary": "* Microsoft 365 Family subscription costs $12.99/month\n* Each user can use on up to 5 devices simultaneously\n* Works on PC, Mac, iPhone, iPad, and Android devices\n* Includes up to 6 TB of secure cloud storage (1 TB per person)\n* Includes Word, Excel, PowerPoint, Outlook, and OneNote desktop apps\n* Microsoft Copilot AI companion available in select apps\n* Microsoft Defender provides advanced security for identity, data, and devices\n* OneDrive offers ransomware protection for photos and files\n* Microsoft Teams allows for calling, chatting, and collaboration\n* Subscription includes access to Designer and Microsoft Clipchamp apps\n* Annual subscription: $4.40/user/month\n* Auto-renewal for annual subscription\n* Core identity and access management for up to 300 users\n* Web and mobile versions of Outlook available\n* Includes access to Word, Excel, PowerPoint\n* Custom business email support\n* 1 TB of cloud storage per user\n* 10+ additional apps included (Bookings, Planner, Forms)\n* Secure AI chat powered by Microsoft technology\n* Free trial available with specific terms",
+      "tags": [
+        "cloud storage",
+        "microsoft 365",
+        "artificial intelligence",
+        "microsoft defender",
+        "onedrive",
+        "microsoft teams"
+      ],
+      "added_at": "2026-06-01T15:21:56.765468+00:00"
     }
   ],
-  "last_updated": "2026-06-01T04:17:10.400325+00:00"
+  "last_updated": "2026-06-01T15:21:56.765489+00:00"
 }
