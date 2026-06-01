@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1501,
+  "cycle_count": 1506,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-01T04:05:59.296191+00:00",
+  "last_checkpoint": "2026-06-01T04:26:20.562909+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -365,7 +365,8 @@
       "https://www.grammarly.com/commonly-confused-words/content-vs-contents?msockid=38f0cc6f234760a82dccdb04229561d4",
       "https://prateeksha.com/blog/the-complete-guide-to-automating-promotional-campaigns-with-python-scripts",
       "https://dev.to/halimsafi/the-role-of-automation-in-email-marketing-using-python-39hm",
-      "https://www.socialpilot.co/blog/top-social-media-influencers"
+      "https://www.socialpilot.co/blog/top-social-media-influencers",
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=16d79fdda3826a1b3a7c88b6a2926b65"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -828,7 +829,8 @@
       "https://answers.microsoft.com/es-es/outlook_com/forum/all/outlookcom-hace-meses-que-no-uso-el-correo-de/64d7b929-91a4-462f-b195-d7dbe05494a1",
       "https://answers.microsoft.com/es-es/windows/forum/all/windows-update-problemas-de-instalación-tras/20384075-46f1-40d6-a1ba-50017d7e0525",
       "https://en.m.wikipedia.org/wiki/Selenium_(software)",
-      "https://gitscripts.com/git-python-api"
+      "https://gitscripts.com/git-python-api",
+      "https://medium.com/@mertmengu/guide-to-github-actions-for-advanced-ci-cd-workflows-1e494271ac22"
     ]
   },
   "software_factory_jobs": [],
