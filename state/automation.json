@@ -749,7 +749,27 @@
         "automation"
       ],
       "added_at": "2026-05-31T04:02:34.182190+00:00"
+    },
+    {
+      "id": "9d63e364",
+      "source_url": "https://en.wikipedia.org/wiki/GitHub",
+      "title": "GitHub - Wikipedia",
+      "summary": "* GitHub provides a Student Developer Pack with free access to development tools and services from partners like DigitalOcean and Stripe.\n* GitHub Campus Experts program trains students to grow technology communities at their universities.\n* GitHub Marketplace offers SaaS integrations like Waffle.io, Rollbar, and Travis CI for project management and debugging.\n* GitHub provides continuous integration services through Travis CI.\n* GitHub Mobile offers native mobile applications for iOS and Android.\n* GitHub Sponsors allows users to make monthly donations to projects hosted on GitHub.\n* GitHub Sponsors has zero fees and offers incentives for early adopters, including payment processing cost coverage and sponsorship matching.\n* GitHub Copilot is an AI-powered coding assistant that provides suggestions and code completion.\n* GitHub Codespaces offers a cloud-based code editor and terminal for development.\n* GitHub integrates with various third-party services like Patreon and Open Collective for funding and community support.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-02T11:46:51.022249+00:00"
+    },
+    {
+      "id": "d45de8fb",
+      "source_url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/",
+      "title": "GitHub for Beginners: Getting started with GitHub Issues and Projects",
+      "summary": "* GitHub Issues can be customized with charts and layouts.\n* Workflows can be used to update item status based on events.\n* Status updates can be added to projects to track progress.\n* Issues can be linked to project boards for visualization.\n* Project boards can be used to organize issues into columns.\n* Issues and project boards are synchronized, updating in real-time.\n* New issues can be created directly from project boards.\n* Multiple issues can be moved between columns at once.\n* Workflows can be automated to set issue status to \"todo\", \"Done\", or closed.\n* GitHub provides built-in workflows for common tasks, such as closing issues.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-02T11:56:59.671670+00:00"
     }
   ],
-  "last_updated": "2026-05-31T04:02:34.182209+00:00"
+  "last_updated": "2026-06-02T11:56:59.671683+00:00"
 }
