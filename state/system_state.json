@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1866,
+  "cycle_count": 1871,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-02T14:36:49.855277+00:00",
+  "last_checkpoint": "2026-06-02T14:46:28.404520+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -167,7 +167,8 @@
       "https://achehoje.com/melhores-pilhas-recarregaveis/",
       "https://ferramentas10.com.br/melhores-pilhas-recarregaveis/",
       "https://www.w3schools.com/python/python_intro.asp",
-      "https://pypi.org/"
+      "https://pypi.org/",
+      "https://opencv.org/university/free-opencv-course/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
