@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1716,
+  "cycle_count": 1721,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-02T00:42:26.621015+00:00",
+  "last_checkpoint": "2026-06-02T00:52:04.240303+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -155,7 +155,12 @@
       "https://codewithtj.blogspot.com/2025/03/automating-video-editing-workflows.html",
       "https://opencv.org/releases/",
       "https://pillowpython.com/",
-      "https://www.ffmpeg.download/"
+      "https://www.ffmpeg.download/",
+      "https://devforum.zoom.us/c/meeting-sdk/56",
+      "https://www.zhihu.com/question/481108836",
+      "https://devforum.zoom.us/t/to-download-zoom-cloud-recording-in-bulk/125579",
+      "https://www.zhihu.com/question/380766432",
+      "https://devforum.zoom.us/t/getting-a-zoom-url-from-a-meeting-id-and-passcode/74696"
     ],
     "marketing": [
       "https://mail.google.com/mail",
