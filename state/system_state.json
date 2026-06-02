@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1911,
+  "cycle_count": 1916,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-02T22:10:26.348331+00:00",
+  "last_checkpoint": "2026-06-02T22:43:42.247878+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -168,7 +168,9 @@
       "https://ferramentas10.com.br/melhores-pilhas-recarregaveis/",
       "https://www.w3schools.com/python/python_intro.asp",
       "https://pypi.org/",
-      "https://opencv.org/university/free-opencv-course/"
+      "https://opencv.org/university/free-opencv-course/",
+      "https://cloudinary.com/guides/front-end-development/ffmpeg-python",
+      "https://www.clipcat.com/blog/a-beginners-guide-to-using-ffmpeg-in-python-for-video-processing/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -532,7 +534,12 @@
       "https://kotlinlang.org/docs/android-overview.html",
       "https://www.collinsdictionary.com/dictionary/english/compose",
       "https://developers.google.com/learn/pathways/intro-to-flutter",
-      "https://kotlinlang.org/docs/multiplatform/get-started.html"
+      "https://kotlinlang.org/docs/multiplatform/get-started.html",
+      "https://www.microsoft.com/ru-ru/bing?msockid=08fc127428df676b229f051829f466cb",
+      "https://www.apkmirror.com/apk/microsoft-corporation/bing/variant-{\"minapi_slug\":\"minapi-24\"}/",
+      "https://techyorker.com/how-to-see-all-bing-related-searches/",
+      "https://businessdailymedia.com/sme-business-news/23691-microsoft-announces-new-ai-powered-bing-search-engine",
+      "https://www.positioniseverything.net/how-to-see-all-bing-related-searches/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",

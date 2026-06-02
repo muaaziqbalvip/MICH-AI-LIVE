@@ -668,7 +668,37 @@
         "software distribution"
       ],
       "added_at": "2026-06-02T10:13:44.038227+00:00"
+    },
+    {
+      "id": "b587fc4f",
+      "source_url": "https://cloudinary.com/guides/front-end-development/ffmpeg-python",
+      "title": "A Beginner’s Guide to FFmpeg in Python | Cloudinary",
+      "summary": "* FFmpeg is used for video processing, delivery, and management.\n* Cloudinary provides an API for video transformation.\n* FFmpeg performs core processing tasks.\n* Most FFmpeg operations utilize the CPU.\n* GPU acceleration is not the primary mode of operation for FFmpeg.\n* Python can be used with FFmpeg for video processing.\n* FFmpeg has a command-line interface.\n* FFmpeg supports various video formats and codecs.\n* Cloudinary integrates with FFmpeg for video transformation.\n* FFmpeg is a powerful tool for streamlining video workflows.",
+      "tags": [
+        "ffmpeg",
+        "cloudinary",
+        "video processing",
+        "cpu",
+        "gpu",
+        "python"
+      ],
+      "added_at": "2026-06-02T22:24:35.579891+00:00"
+    },
+    {
+      "id": "132c42b1",
+      "source_url": "https://www.clipcat.com/blog/a-beginners-guide-to-using-ffmpeg-in-python-for-video-processing/",
+      "title": "A Beginner’s Guide to Using FFmpeg in Python for Video Processing",
+      "summary": "* `ffmpeg.input()` function is used to specify the input video file.\n* `vframes` parameter is used to specify the number of frames to extract from a video.\n* `fps` filter is used to change the frame rate of a video.\n* `ss` parameter is used to specify the start time for extracting frames.\n* `overlay` filter is used to add a watermark to a video.\n* `scale2ref` filter is used to adjust the size of an image.\n* `concat` filter is used to merge multiple videos into one.\n* `ffmpeg-python` library provides a structured and readable way to work with FFmpeg's video and audio processing features.\n* `MoviePy` is a Python library built on top of FFmpeg that provides a more user-friendly API.\n* `GStreamer` is a powerful multimedia framework that allows custom pipelines for media manipulation tasks.",
+      "tags": [
+        "ffmpeg",
+        "moviepy",
+        "gstreamer",
+        "ffmpeg-python",
+        "video processing",
+        "audio processing"
+      ],
+      "added_at": "2026-06-02T22:29:56.280088+00:00"
     }
   ],
-  "last_updated": "2026-06-02T10:13:44.038246+00:00"
+  "last_updated": "2026-06-02T22:29:56.280100+00:00"
 }
