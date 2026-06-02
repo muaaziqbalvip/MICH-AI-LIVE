@@ -799,7 +799,22 @@
         "system scripting"
       ],
       "added_at": "2026-06-02T13:45:19.737253+00:00"
+    },
+    {
+      "id": "7d4c9b4a",
+      "source_url": "https://testdino.com/blog/python-playwright-tutorial",
+      "title": "Python Playwright Tutorial: Pytest Testing Guide (2026)",
+      "summary": "* Pytest is used for testing with Playwright Python.\n* The pytest-playwright plugin adds flags to the standard pytest CLI.\n* `--slowmo` flag is used to slow down test execution, e.g., `pytest --slowmo 500`.\n* `--tracing` flag is used to enable tracing, e.g., `pytest --tracing on`.\n* Tracing can be used for debugging test failures.\n* CLI options can be used to customize test runs.\n* Pytest-playwright plugin provides options for running tests with custom settings.\n* `pytest` command is used to run tests with various flags and options.\n* Flags can be combined to customize test runs, e.g., `pytest --slowmo 500 --tracing on`.",
+      "tags": [
+        "pytest",
+        "playwright",
+        "python",
+        "cli",
+        "debugging",
+        "tracing"
+      ],
+      "added_at": "2026-06-02T22:08:53.914329+00:00"
     }
   ],
-  "last_updated": "2026-06-02T13:45:19.737267+00:00"
+  "last_updated": "2026-06-02T22:08:53.914343+00:00"
 }
