@@ -792,7 +792,17 @@
         "directory"
       ],
       "added_at": "2026-06-01T23:22:27.706443+00:00"
+    },
+    {
+      "id": "5b431872",
+      "source_url": "https://www.next.co.uk/?msockid=24df1e87a7e86be51fa809eba6016a42",
+      "title": "Next Official Site: Online Fashion, Kids Clothes & Homeware",
+      "summary": "* Website uses a favourites list to store user preferences\n* Users must sign in or register to save items permanently\n* Session-based favourites list has a maximum limit\n* Website uses a shopping bag to store items for purchase\n* Users can view recently viewed items\n* Website has a clear history feature for recently viewed items\n* Error handling is implemented for favourites list and other features\n* Website uses a confirmation prompt for country change\n* Session data is lost when navigating away from the site\n* Website has a maximum limit of 0 items for unregistered users",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-02T11:18:33.680882+00:00"
     }
   ],
-  "last_updated": "2026-06-01T23:22:27.706458+00:00"
+  "last_updated": "2026-06-02T11:18:33.680899+00:00"
 }

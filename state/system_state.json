@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1796,
+  "cycle_count": 1801,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-02T11:13:03.304543+00:00",
+  "last_checkpoint": "2026-06-02T11:25:39.333536+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -720,7 +720,10 @@
       "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/",
       "https://www.next.co.uk/?msockid=1f4425306ca664f8277b325b6dea6595",
       "https://www.nordstrom.com/brands/next--25801?msockid=1f4425306ca664f8277b325b6dea6595",
-      "https://en.wikipedia.org/wiki/Next_plc"
+      "https://en.wikipedia.org/wiki/Next_plc",
+      "https://www.next.co.uk/?msockid=24df1e87a7e86be51fa809eba6016a42",
+      "https://www.nordstrom.com/brands/next--25801?msockid=24df1e87a7e86be51fa809eba6016a42",
+      "https://www.facebook.com/nextofficial/"
     ],
     "automation": [
       "https://www.selenium.dev/",
