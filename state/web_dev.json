@@ -817,7 +817,17 @@
         "checkbox"
       ],
       "added_at": "2026-06-02T13:55:54.092720+00:00"
+    },
+    {
+      "id": "23dfb985",
+      "source_url": "https://prismahealthchildrens.org/locations/practices/pediatrics-mills-avenue",
+      "title": "Prisma Health Pediatrics–Mills Ave.",
+      "summary": "* Patients must arrive 15 minutes prior to appointment time to complete forms.\n* Required documents: insurance card, photo ID, and current medications.\n* 24-hour notice required for appointment cancellations.\n* Patients are responsible for verifying insurance coverage benefits.\n* Payment is due at time of service.\n* Accepted payment methods: cash, checks, debit, and credit cards.\n* Prisma Health is a not-for-profit health company.\n* Prisma Health is the largest healthcare system in South Carolina.\n* Goal: improve health through clinical quality, patient experience, and affordable care.\n* Prisma Health conducts clinical research and trains medical professionals.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-02T15:25:27.042461+00:00"
     }
   ],
-  "last_updated": "2026-06-02T13:55:54.092746+00:00"
+  "last_updated": "2026-06-02T15:25:27.042514+00:00"
 }
