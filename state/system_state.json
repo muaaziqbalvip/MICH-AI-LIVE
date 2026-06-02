@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1836,
+  "cycle_count": 1841,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-02T13:10:55.724042+00:00",
+  "last_checkpoint": "2026-06-02T13:23:36.472976+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -399,7 +399,8 @@
       "https://www.facebook.com/login/identify/",
       "https://www.usatoday.com/story/tech/2026/05/20/google-search-ai-mode-biggest-update/90180507007/",
       "https://www.reuters.com/legal/transactional/alphabet-raise-80-billion-equity-capital-ai-spending-2026-06-01/",
-      "https://thehill.com/policy/technology/5903579-google-mosquito-debugging-program/"
+      "https://thehill.com/policy/technology/5903579-google-mosquito-debugging-program/",
+      "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en-AU"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -726,7 +727,9 @@
       "https://www.next.co.uk/?msockid=24df1e87a7e86be51fa809eba6016a42",
       "https://www.nordstrom.com/brands/next--25801?msockid=24df1e87a7e86be51fa809eba6016a42",
       "https://www.facebook.com/nextofficial/",
-      "https://www.typescriptlang.org/docs/"
+      "https://www.typescriptlang.org/docs/",
+      "https://www.next.co.uk/?msockid=2df2c40fbe306c313ab4d363bff56d15",
+      "https://www.nordstrom.com/brands/next--25801?msockid=2df2c40fbe306c313ab4d363bff56d15"
     ],
     "automation": [
       "https://www.selenium.dev/",
