@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1841,
+  "cycle_count": 1846,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-02T13:23:36.472976+00:00",
+  "last_checkpoint": "2026-06-02T13:48:52.680880+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -890,7 +890,8 @@
       "https://www.selenium.dev/downloads/",
       "https://en.wikipedia.org/wiki/GitHub",
       "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/",
-      "https://en.m.wikipedia.org/wiki/GitHub"
+      "https://en.m.wikipedia.org/wiki/GitHub",
+      "https://www.w3schools.com/python/python_intro.asp"
     ]
   },
   "software_factory_jobs": [],

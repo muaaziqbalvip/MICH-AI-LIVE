@@ -784,7 +784,22 @@
         "tls"
       ],
       "added_at": "2026-06-02T12:48:48.843116+00:00"
+    },
+    {
+      "id": "c6208e44",
+      "source_url": "https://www.w3schools.com/python/python_intro.asp",
+      "title": "Introduction to Python - W3Schools",
+      "summary": "* Python was created by Guido van Rossum and released in 1991.\n* Python is used for web development, software development, mathematics, and system scripting.\n* Python can connect to database systems and read/modify files.\n* Python supports rapid prototyping and production-ready software development.\n* Python works on multiple platforms (Windows, Mac, Linux, Raspberry Pi, etc).\n* Python has a simple syntax and uses indentation to define scope.\n* Python code can be executed as soon as it is written using an interpreter system.\n* Python can be used in procedural, object-oriented, or functional programming styles.\n* The most recent major version of Python is Python 3.\n* Python uses new lines to complete a command, rather than semicolons or parentheses.\n* W3Schools provides tutorials, references, and examples for various programming languages\n* Supported languages include HTML, CSS, JavaScript, SQL, Python, PHP, Java, XML, and jQuery\n* W3Schools offers certification programs for different technologies\n* The website is optimized for learning and training with simplified examples\n* Content is regularly reviewed to minimize errors\n* W3Schools uses W3.CSS for its website\n* The website has terms of use, cookies, and privacy policy\n* Copyright dates back to 1999\n* W3Schools has a forum and academy for further learning\n* Certification programs are available for front-end development and specific programming languages",
+      "tags": [
+        "python",
+        "web development",
+        "software development",
+        "database systems",
+        "rapid prototyping",
+        "system scripting"
+      ],
+      "added_at": "2026-06-02T13:45:19.737253+00:00"
     }
   ],
-  "last_updated": "2026-06-02T12:48:48.843130+00:00"
+  "last_updated": "2026-06-02T13:45:19.737267+00:00"
 }
