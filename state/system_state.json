@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1746,
+  "cycle_count": 1751,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-02T01:50:28.684910+00:00",
+  "last_checkpoint": "2026-06-02T03:53:21.000026+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -160,7 +160,12 @@
       "https://www.zhihu.com/question/481108836",
       "https://devforum.zoom.us/t/to-download-zoom-cloud-recording-in-bulk/125579",
       "https://www.zhihu.com/question/380766432",
-      "https://devforum.zoom.us/t/getting-a-zoom-url-from-a-meeting-id-and-passcode/74696"
+      "https://devforum.zoom.us/t/getting-a-zoom-url-from-a-meeting-id-and-passcode/74696",
+      "https://br.my-best.com/17911",
+      "https://www.msn.com/pt-br/dinheiro/outro/pilha-recarregável-7-opções-com-melhor-custo-benefício-para-comprar-em-2025/ar-AA1HgLdn",
+      "https://topdezmelhores.com.br/melhores/as-10-melhores-pilhas-recarregaveis-de-2026-aa-aaa-e-muito-mais/",
+      "https://achehoje.com/melhores-pilhas-recarregaveis/",
+      "https://ferramentas10.com.br/melhores-pilhas-recarregaveis/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -512,7 +517,9 @@
       "https://www.youtube.com/watch?v=aH4bqF2m7c4",
       "https://www.androidcentral.com/apps-software/android-os/top-android-17-announcements-from-the-android-show-2026",
       "https://arceapps.com/blog/room-database-android-guide/",
-      "https://docs.flutter.dev/install"
+      "https://docs.flutter.dev/install",
+      "https://developer.android.com/courses/pathways/kotlin-multiplatform",
+      "https://getstream.io/blog/build-app-kotlin-multiplatform/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",

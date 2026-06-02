@@ -674,7 +674,32 @@
         "android_core"
       ],
       "added_at": "2026-05-30T23:51:30.219245+00:00"
+    },
+    {
+      "id": "44bb885a",
+      "source_url": "https://developer.android.com/courses/pathways/kotlin-multiplatform",
+      "title": "Basics of Kotlin Multiplatform | Android Developers",
+      "summary": "* Kotlin Multiplatform allows sharing code between Android and iOS.\n* Kotlin Multiplatform Projects (KMP) can be released as standalone Swift Packages.\n* Room Database can be migrated to Kotlin Multiplatform.\n* Migrating database layer can remove duplicated logic in codebase.\n* Kotlin Multiplatform can integrate with Swift Package Manager.\n* Business logic can be shared between platforms using KMP.\n* Kotlin Multiplatform supports cross-platform development.\n* Swift libraries can be used with Kotlin Multiplatform modules.\n* Kotlin Multiplatform can help reduce code duplication.\n* Kotlin Multiplatform modules can be used by iOS apps.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-02T03:34:15.344353+00:00"
+    },
+    {
+      "id": "1b07a9e2",
+      "source_url": "https://getstream.io/blog/build-app-kotlin-multiplatform/",
+      "title": "Build Your First Android and iOS Mobile App With Kotlin Multiplatform",
+      "summary": "* Kotlin Multiplatform (KMP) allows sharing business logic across platforms while retaining access to native APIs.\n* KMP does not include the UI layer, focusing on sharing business logic across platforms.\n* Compose Multiplatform enables sharing UI logic written in Jetpack Compose across platforms.\n* Compose Multiplatform uses a declarative Kotlin-based syntax for creating UIs on Android, iOS, desktop, and web.\n* Kotlin Multiplatform plugin is required to enable KMP support in Android Studio.\n* The plugin can be installed through the Settings > Plugins > Marketplace menu.\n* Restarting Android Studio is necessary after installing the Kotlin Multiplatform plugin.\n* A \"Kotlin Multiplatform App\" template is available in Android Studio for quick project setup.\n* KMP supports sharing logic across Android, JVM, iOS, macOS, JavaScript, and Linux platforms.\n* Jetpack Compose is used as the basis for Compose Multiplatform's UI functionality.\n* Kotlin Multiplatform allows building Android and iOS apps with shared code.\n* Jetpack Compose is used for designing UI components in Android apps.\n* runBlocking should be used with caution on Android to avoid blocking the main thread.\n* Composition patterns in Jetpack Compose require best practices for effective implementation.\n* Kotlin Multiplatform requires a learning roadmap to master its features.\n* Server-driven UI can be designed using Jetpack Compose and Firebase.\n* CLI and documentation integration are available for Stream projects.\n* Stre",
+      "tags": [
+        "kotlin",
+        "multiplatform",
+        "compose",
+        "jetpack",
+        "android",
+        "ios"
+      ],
+      "added_at": "2026-06-02T03:53:18.997413+00:00"
     }
   ],
-  "last_updated": "2026-05-30T23:51:30.219268+00:00"
+  "last_updated": "2026-06-02T03:53:18.997428+00:00"
 }
