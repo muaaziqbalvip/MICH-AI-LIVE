@@ -802,7 +802,22 @@
         "web_dev"
       ],
       "added_at": "2026-06-02T11:18:33.680882+00:00"
+    },
+    {
+      "id": "9a2eafad",
+      "source_url": "https://daisyui.com/components/",
+      "title": "Tailwind CSS Components - daisyUI",
+      "summary": "* Theme Controller uses a checked checkbox or radio input with `theme-controller` class to set the page theme.\n* Timeline component displays events in chronological order.\n* Toast is a wrapper for stacking elements, positioned on the page corner.\n* Toggle is a styled checkbox that resembles a switch button.\n* Tooltip displays a message on hover using an element.\n* Validator class changes form element colors based on input validation rules.\n* daisyUI is built on top of Tailwind CSS.\n* Components include Theme Controller, Timeline, Toast, Toggle, Tooltip, Validator.\n* Classes are used to style and control component behavior.\n* Validation rules are used to determine error or success state of form elements.",
+      "tags": [
+        "css",
+        "validator",
+        "timeline",
+        "toggle",
+        "tooltip",
+        "checkbox"
+      ],
+      "added_at": "2026-06-02T13:55:54.092720+00:00"
     }
   ],
-  "last_updated": "2026-06-02T11:18:33.680899+00:00"
+  "last_updated": "2026-06-02T13:55:54.092746+00:00"
 }
