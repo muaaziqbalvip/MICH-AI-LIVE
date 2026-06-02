@@ -769,7 +769,22 @@
         "automation"
       ],
       "added_at": "2026-06-02T11:56:59.671670+00:00"
+    },
+    {
+      "id": "9cca9e3e",
+      "source_url": "https://en.m.wikipedia.org/wiki/GitHub",
+      "title": "GitHub - Wikipedia",
+      "summary": "* GitHub Pages is a static web hosting service for blogs, project documentation, and books.\n* GitHub Pages content is stored in a Git repository and served in Markdown format or verbatim.\n* GitHub Pages is integrated with Jekyll and supports HTTPS encryption.\n* GitHub Actions is a continuous integration and deployment pipeline tool launched in 2019.\n* GitHub Actions allows building and automating workflows without third-party services.\n* GitHub Gist is a pastebin-style site for code snippets with version control and TLS encryption.\n* Gists are Git repositories that can be forked, starred, and commented on.\n* GitHub Actions provides hosted runners for Linux, Windows, and macOS that can dynamically scale.\n* GitHub Pages supports custom domains and subdomains of the github.io domain.\n* Gists have a revision history and can be edited, with changes recorded in a text difference view.",
+      "tags": [
+        "git",
+        "github",
+        "jekyll",
+        "markdown",
+        "https",
+        "tls"
+      ],
+      "added_at": "2026-06-02T12:48:48.843116+00:00"
     }
   ],
-  "last_updated": "2026-06-02T11:56:59.671683+00:00"
+  "last_updated": "2026-06-02T12:48:48.843130+00:00"
 }
