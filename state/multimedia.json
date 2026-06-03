@@ -708,7 +708,32 @@
         "multimedia"
       ],
       "added_at": "2026-06-03T09:56:25.198260+00:00"
+    },
+    {
+      "id": "6fa8b242",
+      "source_url": "https://stackoverflow.com/questions/8863917/importerror-no-module-named-pil",
+      "title": "python - ImportError: No module named PIL - Stack Overflow",
+      "summary": "* `pip install Pillow` is the correct command to install the PIL library.\n* The library is named Pillow, but the import statement is `from PIL import Image`.\n* `import PIL` may not work in all versions, use `import Image` instead.\n* `pip install image` installs a different module, not PIL.\n* Check the Python interpreter version with `pip -V` and `which python`.\n* Ensure the pip install location matches the Python command location.\n* Use `import Image` instead of `import PIL` to avoid import errors.\n* Pillow is case-insensitive when installing with pip.\n* The `Pillow` package is installed in the `site-packages` directory.\n* To resolve the `ImportError: No module named PIL` issue, uninstall PIL and install Pillow using `pip uninstall PIL` and `pip install Pillow`.\n* Use `python3 -m pip install --upgrade Pillow` to install Pillow on Windows.\n* Import the Image class from Pillow using `from PIL import Image`.\n* Use `conda install pillow` to install Pillow if using Anaconda.\n* Downgrade to Python 3.9 from 3.11 if necessary, as some packages may not be compatible with newer versions.\n* Use `easy_install Pillow` or `pip install Pillow` to install Pillow.\n* Uninstall and reinstall Pillow using `pip(3) uninstall Pillow`, `pip(3) uninstall PIL`, and `pip(3) install Pillow`.\n* On Ubuntu, use `pip install image` and import using `import image`.\n* The `Image` class is the most crucial class in the Python Imaging Library.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-03T13:54:32.966453+00:00"
+    },
+    {
+      "id": "107ac901",
+      "source_url": "https://inworld.ai/resources/python-tts-api-tutorial",
+      "title": "Python TTS API Tutorial: Text-to-Speech in 5 Lines (2026)",
+      "summary": "* Realtime TTS has no proprietary SDK requirement\n* No version conflicts are present in Realtime TTS integration\n* Realtime TTS can be integrated into any Python project\n* Realtime TTS supports various deployment environments\n* Integration requires only the Realtime TTS API (nt) \n* Realtime TTS is part of Inworld AI's product offerings\n* Inworld AI provides API Reference and Documentation\n* Realtime TTS can be used with other Inworld AI products like Realtime STT\n* Inworld AI offers a Playground for testing and development\n* Realtime TTS has a simple 5-line implementation in Python",
+      "tags": [
+        "tts",
+        "sdk",
+        "api",
+        "python",
+        "ai",
+        "stt"
+      ],
+      "added_at": "2026-06-03T14:10:50.699764+00:00"
     }
   ],
-  "last_updated": "2026-06-03T09:56:25.198281+00:00"
+  "last_updated": "2026-06-03T14:10:50.699782+00:00"
 }
