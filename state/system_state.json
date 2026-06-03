@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2061,
+  "cycle_count": 2066,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-03T11:15:43.396940+00:00",
+  "last_checkpoint": "2026-06-03T12:10:30.892570+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -418,7 +418,8 @@
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=33f983d492fd6af6019594b993b76b16",
       "https://sproutsocial.com/insights/influencer-marketing-tools/",
       "https://support.microsoft.com/en-us/office/format-or-customize-a-table-of-contents-in-word-9d85eb9c-0b55-4795-8abb-a49885b3a58d",
-      "https://de-de.facebook.com/"
+      "https://de-de.facebook.com/",
+      "https://sociallypowerful.com/influencer"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -947,7 +948,14 @@
       "https://github.com/SeleniumHQ/selenium/releases",
       "https://stackoverflow.com/questions/54459701/what-is-selenium-and-what-is-webdriver",
       "https://sourceforge.net/projects/seleniumhq.mirror/",
-      "https://www.amazon.com/Now-Selenium-200-mcg-Capsules/dp/B08Q3KPFGM"
+      "https://www.amazon.com/Now-Selenium-200-mcg-Capsules/dp/B08Q3KPFGM",
+      "https://docs.github.com/actions/using-workflows/about-workflows?learn=getting_started",
+      "https://dev.to/thesius_code_7a136ae718b7/github-actions-workflows-github-actions-patterns-best-practices-pge",
+      "https://stackoverflow.com/questions/17242828/python-subprocess-and-running-a-bash-script-with-multiple-arguments",
+      "https://www.delftstack.com/howto/python/run-bash-scripts-in-python/",
+      "https://www.py4u.org/blog/python-threading-multiple-bash-subprocesses/",
+      "https://www.geeksforgeeks.org/python/how-to-run-bash-script-in-python/",
+      "https://docs.python.org/3/library/subprocess.html"
     ]
   },
   "software_factory_jobs": [],

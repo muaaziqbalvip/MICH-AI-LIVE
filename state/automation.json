@@ -859,7 +859,64 @@
         "automation"
       ],
       "added_at": "2026-06-03T09:51:51.110368+00:00"
+    },
+    {
+      "id": "4b725b20",
+      "source_url": "https://docs.github.com/actions/using-workflows/about-workflows?learn=getting_started",
+      "title": "Workflows - GitHub Docs",
+      "summary": "* A workflow is a configurable automated process defined by a YAML file in the `.github/workflows` directory.\n* Workflows can be triggered by events, manually, or at a defined schedule.\n* A workflow must contain events, jobs, and steps, with each step running a script or an action.\n* Workflow triggers are defined with the `on` key and can include events, scheduled times, and manual triggers.\n* Events that trigger workflows can occur in the repository or outside of GitHub.\n* The `.github/workflows` directory can contain multiple workflow files.\n* Each workflow run uses the version of the workflow present in the associated commit SHA or Git ref.\n* GitHub sets `GITHUB_SHA` and `GITHUB_REF` environment variables in the runner environment.\n* Workflows can perform tasks such as building, testing, deploying, and labeling.\n* Workflow files must be present in the associated commit SHA or Git ref to trigger a workflow run.",
+      "tags": [
+        "yaml",
+        "github",
+        "git",
+        "automation",
+        "workflow",
+        "scripting"
+      ],
+      "added_at": "2026-06-03T11:34:03.764767+00:00"
+    },
+    {
+      "id": "d9a6e08b",
+      "source_url": "https://dev.to/thesius_code_7a136ae718b7/github-actions-workflows-github-actions-patterns-best-practices-pge",
+      "title": "Github Actions Workflows: GitHub Actions Patterns & Best Practices",
+      "summary": "* GitHub Actions is a CI/CD platform for automating build, test, and deployment workflows\n* Workflows are defined in YAML files in the .github/workflows directory\n* Each workflow consists of one or more jobs, which run in parallel or sequentially\n* Jobs are composed of steps, which can be shell commands or actions\n* Actions are reusable pieces of code that perform a specific task\n* GitHub Actions supports a wide range of languages, including Python, Java, and JavaScript\n* Environment variables can be used to customize workflow runs\n* Secrets can be stored and used in workflows to authenticate with external services\n* Dependencies can be cached to improve workflow performance\n* Workflows can be triggered by various events, such as push, pull request, or schedule",
+      "tags": [
+        "ci/cd",
+        "github",
+        "yaml",
+        "automation",
+        "workflows",
+        "deployment"
+      ],
+      "added_at": "2026-06-03T11:44:15.633307+00:00"
+    },
+    {
+      "id": "720f5db9",
+      "source_url": "https://stackoverflow.com/questions/17242828/python-subprocess-and-running-a-bash-script-with-multiple-arguments",
+      "title": "Python: subprocess and running a bash script with multiple arguments",
+      "summary": "* The provided text does not contain technical information related to the title.\n* The text appears to be a list of unrelated questions.\n* No Python or subprocess-related information is present.\n* No bash script or multiple argument information is available.\n* The text does not provide any code patterns or technical insights.\n* The content seems to be a collection of random questions.\n* No actionable technical advice is given.\n* The text lacks relevance to the title or topic.\n* No specific technical terms or concepts are discussed.\n* The content is not related to the original title or topic.",
+      "tags": [
+        "python",
+        "bash",
+        "subprocess"
+      ],
+      "added_at": "2026-06-03T11:49:18.941499+00:00"
+    },
+    {
+      "id": "f2c78910",
+      "source_url": "https://www.geeksforgeeks.org/python/how-to-run-bash-script-in-python/",
+      "title": "How to run bash script in Python? - GeeksforGeeks",
+      "summary": "* Python can be used for various tasks such as data structures, file handling, and database management.\n* Python has various libraries like Numpy, Pandas, and Matplotlib for data science tasks.\n* Python frameworks like Flask and Django are used for web development.\n* Python has GUI libraries like Tkinter for creating graphical user interfaces.\n* Python can be used for machine learning tasks with libraries like TensorFlow and PyTorch.\n* Python has various data structures like lists, tuples, dictionaries, and sets.\n* Python supports object-oriented programming (OOP) concepts.\n* Python has exception handling mechanisms for error handling.\n* Python can interact with databases like MySQL and MongoDB.\n* Python has various modules and packages for different tasks.",
+      "tags": [
+        "python",
+        "data science",
+        "machine learning",
+        "web development",
+        "gui",
+        "tensorflow"
+      ],
+      "added_at": "2026-06-03T11:59:47.752248+00:00"
     }
   ],
-  "last_updated": "2026-06-03T09:51:51.110412+00:00"
+  "last_updated": "2026-06-03T11:59:47.752265+00:00"
 }
