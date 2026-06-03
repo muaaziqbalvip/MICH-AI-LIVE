@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1996,
+  "cycle_count": 2001,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-03T02:18:28.029447+00:00",
+  "last_checkpoint": "2026-06-03T02:29:07.236281+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -759,7 +759,10 @@
       "https://www.next.us/en/about",
       "https://www.next.us/en/women",
       "https://react.dev/learn",
-      "https://fastapi.tiangolo.com/tutorial/first-steps/"
+      "https://fastapi.tiangolo.com/tutorial/first-steps/",
+      "https://www.next.co.uk/?msockid=3592bc4ba18c6a713b55ab26a0816b4f",
+      "https://www.next.us/en/New-In",
+      "https://www.nordstrom.com/brands/next--25801?msockid=3592bc4ba18c6a713b55ab26a0816b4f"
     ],
     "automation": [
       "https://www.selenium.dev/",
