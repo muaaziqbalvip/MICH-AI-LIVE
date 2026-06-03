@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2036,
+  "cycle_count": 2041,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-03T10:08:08.256161+00:00",
+  "last_checkpoint": "2026-06-03T10:23:57.702135+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -417,7 +417,8 @@
       "https://www.publix.com/savings/weekly-ad/view-all?msockid=2da0e9a2af9261ec3ffffecfae0a6099",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=33f983d492fd6af6019594b993b76b16",
       "https://sproutsocial.com/insights/influencer-marketing-tools/",
-      "https://support.microsoft.com/en-us/office/format-or-customize-a-table-of-contents-in-word-9d85eb9c-0b55-4795-8abb-a49885b3a58d"
+      "https://support.microsoft.com/en-us/office/format-or-customize-a-table-of-contents-in-word-9d85eb9c-0b55-4795-8abb-a49885b3a58d",
+      "https://de-de.facebook.com/"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -766,7 +767,9 @@
       "https://fastapi.tiangolo.com/tutorial/first-steps/",
       "https://www.next.co.uk/?msockid=3592bc4ba18c6a713b55ab26a0816b4f",
       "https://www.next.us/en/New-In",
-      "https://www.nordstrom.com/brands/next--25801?msockid=3592bc4ba18c6a713b55ab26a0816b4f"
+      "https://www.nordstrom.com/brands/next--25801?msockid=3592bc4ba18c6a713b55ab26a0816b4f",
+      "https://www.next.co.uk/?msockid=32b5167186696ea91ff8011c87f46fb8",
+      "https://www.nordstrom.com/brands/next--25801?msockid=32b5167186696ea91ff8011c87f46fb8"
     ],
     "automation": [
       "https://www.selenium.dev/",
