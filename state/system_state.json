@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1961,
+  "cycle_count": 1966,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-03T00:49:19.167852+00:00",
+  "last_checkpoint": "2026-06-03T01:05:59.639144+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -412,7 +412,8 @@
       "https://www.publix.com/locations?msockid=2da0e9a2af9261ec3ffffecfae0a6099",
       "https://www.publix.com/shop-online?msockid=2da0e9a2af9261ec3ffffecfae0a6099",
       "https://www.publix.com/pharmacy?msockid=2da0e9a2af9261ec3ffffecfae0a6099",
-      "https://www.publix.com/savings/weekly-ad/view-all?msockid=2da0e9a2af9261ec3ffffecfae0a6099"
+      "https://www.publix.com/savings/weekly-ad/view-all?msockid=2da0e9a2af9261ec3ffffecfae0a6099",
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=33f983d492fd6af6019594b993b76b16"
     ],
     "android_core": [
       "https://www.android.com/",
