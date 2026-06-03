@@ -829,7 +829,37 @@
         "terraform registry"
       ],
       "added_at": "2026-06-03T01:40:59.170537+00:00"
+    },
+    {
+      "id": "1d3f0a83",
+      "source_url": "https://www.toolsqa.com/selenium-webdriver/selenium-testing/",
+      "title": "Selenium Testing: An Analytical Guide - Tools QA",
+      "summary": "* Selenium is an open-source tool, free to download and use.\n* Supports various programming languages like Java, Python, JavaScript, C#, Ruby, Perl, Haskell, and Go.\n* Compatible with multiple browsers, including Chrome, Firefox, Edge, Internet Explorer, and Safari.\n* Supports multiple operating systems, including Linux, macOS, and Windows.\n* Integrates with frameworks like Maven, TestNG, PYTest, NUnit, Mocha, and Jasmine.\n* Supports CI tools like Jenkins, Circle CI, GOCD, Travis CI, and Gitlab.\n* Allows code reusability across different browsers and machines.\n* Has a large community support with resources available on GitHub, StackOverflow, etc.\n* Cannot automate native desktop-based applications, only web-based applications.\n* Requires a testing framework like JUnit, TestNG, or PyTest for assertions and validity checks.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-03T09:25:14.949792+00:00"
+    },
+    {
+      "id": "a5984f33",
+      "source_url": "https://stackoverflow.com/questions/54459701/what-is-selenium-and-what-is-webdriver",
+      "title": "What Is Selenium And What Is WebDriver? - Stack Overflow",
+      "summary": "* Selenium is a suite of tools for automating web browsers testing.\n* Selenium WebDriver is an interface for executing tests over browsers.\n* WebDriver overcomes Selenium RC's Single Host origin policy limitation.\n* WebDriver provides a platform and language-neutral wire protocol.\n* WebDriver supports multiple programming languages, including Java, C#, Ruby, Python, and NodeJS.\n* Implementing classes for WebDriver include ChromeDriver, FirefoxDriver, and SafariDriver.\n* Selenium RC was merged with WebDriver since Selenium 2.\n* WebDriver is a compact Object-Oriented API compared to Selenium 1.0.\n* WebDriver drives the browser more effectively, overcoming limitations like file upload/download and pop-ups.\n* Selenium tools include Selenium IDE, Selenium RC, WebDriver, and Selenium Grid.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-03T09:41:35.340044+00:00"
+    },
+    {
+      "id": "12997a47",
+      "source_url": "https://www.amazon.com/Now-Selenium-200-mcg-Capsules/dp/B08Q3KPFGM",
+      "title": "Amazon.com: Now Foods Selenium 200mcg Capsules, 300 Count - L ...",
+      "summary": "* Selenium content: 200mcg per capsule\n* Form: L-Selenomethionine\n* Non-GMO and Gluten Free\n* Vegetarian and Vegan friendly\n* Yeast-Free\n* Daily dosage: 1 capsule with a meal\n* Ingredients: Selenium, Rice Flour, Hypromellose, Microcrystalline Cellulose, Stearic Acid\n* Allergen warning: Produced in a GMP facility that processes other ingredients containing common allergens\n* Storage: Cool, dry place after opening\n* FDA disclaimer: Statements not evaluated by the FDA, not intended to diagnose, treat, cure or prevent any disease",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-03T09:51:51.110368+00:00"
     }
   ],
-  "last_updated": "2026-06-03T01:40:59.170551+00:00"
+  "last_updated": "2026-06-03T09:51:51.110412+00:00"
 }
