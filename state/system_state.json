@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1981,
+  "cycle_count": 1986,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-03T01:42:31.696008+00:00",
+  "last_checkpoint": "2026-06-03T01:59:15.665905+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -758,7 +758,8 @@
       "https://shiladityamajumder.medium.com/async-apis-with-fastapi-patterns-pitfalls-best-practices-2d72b2b66f25",
       "https://www.next.us/en/about",
       "https://www.next.us/en/women",
-      "https://react.dev/learn"
+      "https://react.dev/learn",
+      "https://fastapi.tiangolo.com/tutorial/first-steps/"
     ],
     "automation": [
       "https://www.selenium.dev/",

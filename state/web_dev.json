@@ -827,7 +827,22 @@
         "web_dev"
       ],
       "added_at": "2026-06-02T15:25:27.042461+00:00"
+    },
+    {
+      "id": "1d10d3d0",
+      "source_url": "https://fastapi.tiangolo.com/tutorial/first-steps/",
+      "title": "First Steps - FastAPI",
+      "summary": "* FastAPI is open source and based on standards.\n* FastAPI apps can be deployed to any cloud provider.\n* Import FastAPI to start a project.\n* Create an app instance with `app = FastAPI()`.\n* Use path operation decorators like `@app.get(\"/\")`.\n* Define a path operation function, e.g., `def root(): ...`.\n* Run the development server with `fastapi dev`.\n* Optionally deploy the app with `fastapi deploy`.\n* Follow cloud provider guides for deployment.\n* Use `fastapi` command-line tool for development and deployment.",
+      "tags": [
+        "fastapi",
+        "cloud",
+        "open source",
+        "deployment",
+        "development",
+        "server"
+      ],
+      "added_at": "2026-06-03T01:55:10.129087+00:00"
     }
   ],
-  "last_updated": "2026-06-02T15:25:27.042514+00:00"
+  "last_updated": "2026-06-03T01:55:10.129102+00:00"
 }
