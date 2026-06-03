@@ -814,7 +814,22 @@
         "tracing"
       ],
       "added_at": "2026-06-02T22:08:53.914329+00:00"
+    },
+    {
+      "id": "37249325",
+      "source_url": "https://developer.hashicorp.com/terraform/docs",
+      "title": "Terraform overview - HashiCorp Developer",
+      "summary": "* Terraform is an infrastructure management tool.\n* Terraform uses a configuration language to describe infrastructure on various providers.\n* Terraform CLI manages configuration, plugins, infrastructure, and state.\n* Terraform supports collaboration through HCP Terraform and Terraform Enterprise.\n* HCP Terraform provides version control, state sharing, and governance.\n* Terraform Enterprise is a self-hosted instance of HCP Terraform for strict security and compliance requirements.\n* Plugins allow Terraform to interact with external services.\n* Modules enable creation of reusable configurations.\n* Terraform Registry allows publishing of providers and modules.\n* Terraform supports design of workflows for scale and infrastructure management.",
+      "tags": [
+        "infrastructure management",
+        "configuration language",
+        "terraform cli",
+        "version control",
+        "cloud governance",
+        "terraform registry"
+      ],
+      "added_at": "2026-06-03T01:40:59.170537+00:00"
     }
   ],
-  "last_updated": "2026-06-02T22:08:53.914343+00:00"
+  "last_updated": "2026-06-03T01:40:59.170551+00:00"
 }
