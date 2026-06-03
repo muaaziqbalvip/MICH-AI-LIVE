@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 1986,
+  "cycle_count": 1991,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-03T01:59:15.665905+00:00",
+  "last_checkpoint": "2026-06-03T02:11:52.292508+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -926,7 +926,8 @@
       "https://www.selenium.dev/documentation/webdriver/getting_started/first_script/?language=python",
       "https://m.youtube.com/watch?v=ffnXbhmCfiQ",
       "https://testdino.com/blog/python-playwright-tutorial",
-      "https://developer.hashicorp.com/terraform/docs"
+      "https://developer.hashicorp.com/terraform/docs",
+      "https://playwright.dev/docs/intro"
     ]
   },
   "software_factory_jobs": [],
