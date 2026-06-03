@@ -1070,7 +1070,22 @@
         "outline levels"
       ],
       "added_at": "2026-06-03T10:05:04.126551+00:00"
+    },
+    {
+      "id": "2c1a840e",
+      "source_url": "https://accounts.google.com/servicelogin?service=mail",
+      "title": "Gmail",
+      "summary": "* Gmail uses a service login page hosted by Google accounts\n* The login process involves entering an email or phone number\n* Users can recover their email address if forgotten\n* Google provides a Guest mode for private sign-in\n* CAPTCHA is used for security (text to hear or see)\n* Users can create a new account from the login page\n* The login process is a multi-step process (e.g., \"Next\" button)\n* Google accounts are used for authentication\n* Gmail uses a web-based interface for sign-in\n* Authentication is required to access the Gmail service",
+      "tags": [
+        "captcha",
+        "authentication",
+        "google",
+        "login",
+        "security",
+        "accounts"
+      ],
+      "added_at": "2026-06-03T23:09:56.064023+00:00"
     }
   ],
-  "last_updated": "2026-06-03T10:05:04.126571+00:00"
+  "last_updated": "2026-06-03T23:09:56.064043+00:00"
 }

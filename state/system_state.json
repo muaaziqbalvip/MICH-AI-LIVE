@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2201,
+  "cycle_count": 2206,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-03T23:04:19.215424+00:00",
+  "last_checkpoint": "2026-06-03T23:13:00.027043+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -428,7 +428,8 @@
       "https://sociallypowerful.com/influencer",
       "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en_US",
       "https://www.icloud.com/",
-      "https://moz.com/beginners-guide-to-seo"
+      "https://moz.com/beginners-guide-to-seo",
+      "https://accounts.google.com/servicelogin?service=mail"
     ],
     "android_core": [
       "https://www.android.com/",
