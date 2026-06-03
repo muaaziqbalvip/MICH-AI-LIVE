@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2176,
+  "cycle_count": 2181,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-03T22:02:30.231770+00:00",
+  "last_checkpoint": "2026-06-03T22:13:13.067267+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -786,7 +786,10 @@
       "https://www.next.co.uk/?msockid=3cd5769188e9662d00d961fc89f4672a",
       "https://www.nordstrom.com/brands/next--25801?msockid=3cd5769188e9662d00d961fc89f4672a",
       "https://www.next.co.uk/?msockid=171915d823696821363002b522a269ec",
-      "https://www.nordstrom.com/brands/next--25801?msockid=171915d823696821363002b522a269ec"
+      "https://www.nordstrom.com/brands/next--25801?msockid=171915d823696821363002b522a269ec",
+      "https://www.next.co.uk/?msockid=12b562307bc467e62241755d7a6166d2",
+      "https://www.mynextfiber.com/",
+      "http://nextdirect.com/us/en/home"
     ],
     "automation": [
       "https://www.selenium.dev/",
