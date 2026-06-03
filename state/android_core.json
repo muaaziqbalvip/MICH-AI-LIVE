@@ -713,7 +713,22 @@
         "bing"
       ],
       "added_at": "2026-06-02T22:43:40.171167+00:00"
+    },
+    {
+      "id": "271b7107",
+      "source_url": "https://pt.wikipedia.org/wiki/Android",
+      "title": "Android – Wikipédia, a enciclopédia livre",
+      "summary": "* Android é um SO móvel desenvolvido pelo Google.\n* O desenvolvimento do Android era feito em segredo até 2014.\n* Desde 2014, o Google lança versões betas antes do lançamento oficial.\n* O código do Android é disponibilizado com antecedência para encontrar bugs.\n* O código do Android é lançado publicamente após a versão final.\n* Arquitetura do Android é um componente importante do sistema.\n* O Google é responsável pelo desenvolvimento e lançamento do Android.\n* Versões betas do Android são lançadas para testes antes da versão final.\n* O código do Android é revisado e testado antes do lançamento oficial.\n* O lançamento do Android envolve uma série de testes e revisões.",
+      "tags": [
+        "android",
+        "google",
+        "mobile",
+        "beta",
+        "sistema",
+        "arquitetura"
+      ],
+      "added_at": "2026-06-03T00:43:13.950880+00:00"
     }
   ],
-  "last_updated": "2026-06-02T22:43:40.171184+00:00"
+  "last_updated": "2026-06-03T00:43:13.950894+00:00"
 }
