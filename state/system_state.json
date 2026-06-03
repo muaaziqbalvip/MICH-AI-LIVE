@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2141,
+  "cycle_count": 2146,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-03T20:58:30.864902+00:00",
+  "last_checkpoint": "2026-06-03T21:10:10.119167+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -566,7 +566,8 @@
       "https://pt.wikipedia.org/wiki/Android",
       "https://app.composehq.com/auth/login",
       "https://www.vocabulary.com/dictionary/compose",
-      "https://www.jetbrains.com/opensource/kotlin/"
+      "https://www.jetbrains.com/opensource/kotlin/",
+      "https://www.android.com/why-android/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
