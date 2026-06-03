@@ -916,7 +916,20 @@
         "tensorflow"
       ],
       "added_at": "2026-06-03T11:59:47.752248+00:00"
+    },
+    {
+      "id": "3c348b7d",
+      "source_url": "https://www.skills.google/course_templates/636",
+      "title": "Build Infrastructure with Terraform on Google Cloud",
+      "summary": "* Course topic: Building Infrastructure with Terraform on Google Cloud\n* Skill level: Intermediate\n* Course duration: 1 hour 45 minutes\n* Key skills covered: Infrastructure as Code (IaC) principles, Terraform configurations\n* Terraform applications: Provisioning and managing Google Cloud resources\n* State management: Local and remote state management\n* Code organization: Modularizing Terraform code for reusability\n* Assessment methods: Hands-on labs and challenge assessments\n* Certification: Earn a skill badge to demonstrate proficiency\n* Platform: Google Cloud console",
+      "tags": [
+        "terraform",
+        "google cloud",
+        "infrastructure",
+        "cloud computing"
+      ],
+      "added_at": "2026-06-03T12:44:56.785674+00:00"
     }
   ],
-  "last_updated": "2026-06-03T11:59:47.752265+00:00"
+  "last_updated": "2026-06-03T12:44:56.785689+00:00"
 }

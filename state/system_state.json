@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2076,
+  "cycle_count": 2081,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-03T12:33:00.292529+00:00",
+  "last_checkpoint": "2026-06-03T12:45:29.881567+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -960,7 +960,10 @@
       "https://habr.com/ru/articles/933574/",
       "https://cron-job.org/en/",
       "https://git-scm.com/book/zh/v2/起步-安装-Git",
-      "https://blog.csdn.net/2301_80035882/article/details/155000175"
+      "https://blog.csdn.net/2301_80035882/article/details/155000175",
+      "https://www.rackspace.com/blog/building-terraform-ai-agent-automating-cloud-infrastructure-with-ai",
+      "https://www.devoteam.com/success-story/novatopo-aws-infrastructure-automation-case-study/",
+      "https://www.skills.google/course_templates/636"
     ]
   },
   "software_factory_jobs": [],
