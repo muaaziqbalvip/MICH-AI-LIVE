@@ -857,7 +857,21 @@
         "rds"
       ],
       "added_at": "2026-06-03T10:53:51.009838+00:00"
+    },
+    {
+      "id": "f57efa22",
+      "source_url": "https://www.next.co.uk/?msockid=110c49e007bd669932f55e8d06f86769",
+      "title": "Next Official Site: Online Fashion, Kids Clothes & Homeware",
+      "summary": "* Website uses a favourites list to store user preferences\n* Users must sign in or register to save favourites permanently\n* Session-based favourites list has a maximum limit of items\n* Website uses a shopping bag to store items for purchase\n* Users can view recently viewed items and clear history\n* Website has a country change confirmation prompt\n* Error handling is implemented with \"Oops' Something's gone wrong!\" message\n* Website uses a \"Manage Favourites\" feature to review and edit favourites list\n* Users can add and remove items from favourites list\n* Website has a \"Continue Shopping\" feature to resume browsing",
+      "tags": [
+        "session management",
+        "user registration",
+        "error handling",
+        "shopping cart",
+        "favourites list"
+      ],
+      "added_at": "2026-06-03T22:59:13.049953+00:00"
     }
   ],
-  "last_updated": "2026-06-03T10:53:51.009856+00:00"
+  "last_updated": "2026-06-03T22:59:13.049966+00:00"
 }
