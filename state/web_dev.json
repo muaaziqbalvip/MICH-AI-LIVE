@@ -842,7 +842,22 @@
         "server"
       ],
       "added_at": "2026-06-03T01:55:10.129087+00:00"
+    },
+    {
+      "id": "d08f180d",
+      "source_url": "https://dev.to/josidbobo/deploying-a-fullstack-application-to-the-cloud-using-docker-compose-part-1-259d",
+      "title": "Deploying a FullStack application to the cloud using Docker Compose ...",
+      "summary": "* Docker Compose is used for deploying a FullStack application.\n* Service communication and persistent data storage are key considerations.\n* AWS cloud infrastructure will be used for deployment.\n* Amazon RDS for MySQL will be used for database management.\n* Docker Compose simplifies configuration overhead.\n* MySQL is the chosen database management system.\n* The application is a FullStack application.\n* Cloud infrastructure is used for scalability and reliability.\n* Amazon RDS provides managed database services.\n* Part 2 will cover the deployment process on AWS.",
+      "tags": [
+        "docker",
+        "aws",
+        "mysql",
+        "cloud",
+        "fullstack",
+        "rds"
+      ],
+      "added_at": "2026-06-03T10:53:51.009838+00:00"
     }
   ],
-  "last_updated": "2026-06-03T01:55:10.129102+00:00"
+  "last_updated": "2026-06-03T10:53:51.009856+00:00"
 }
