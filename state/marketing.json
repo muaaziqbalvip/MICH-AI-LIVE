@@ -1055,7 +1055,22 @@
         "protected health"
       ],
       "added_at": "2026-06-03T00:23:57.209642+00:00"
+    },
+    {
+      "id": "d08dbd66",
+      "source_url": "https://support.microsoft.com/en-us/office/format-or-customize-a-table-of-contents-in-word-9d85eb9c-0b55-4795-8abb-a49885b3a58d",
+      "title": "Format or customize a table of contents in Word - Microsoft Support",
+      "summary": "* Microsoft Word supports customizing table of contents (TOC) styles and formatting.\n* TOC can be formatted using the \"Table of Contents\" dialog box or the \"Styles\" pane.\n* The \"TOC\" field code can be used to insert a table of contents.\n* The \\o switch is used to specify outline levels in a TOC.\n* The \\t switch is used to specify tab leaders in a TOC.\n* Word supports up to 9 levels of headings in a TOC.\n* The \"Heading 1\" through \"Heading 9\" styles are used to define TOC entries.\n* Custom TOC styles can be created using the \"Styles\" pane.\n* The \"Table of Contents\" dialog box allows for selection of TOC format and options.\n* TOC updates can be automated using the \"Update Table\" button or F9 key.",
+      "tags": [
+        "microsoft word",
+        "table formatting",
+        "dialog box",
+        "field code",
+        "tab leaders",
+        "outline levels"
+      ],
+      "added_at": "2026-06-03T10:05:04.126551+00:00"
     }
   ],
-  "last_updated": "2026-06-03T00:23:57.209655+00:00"
+  "last_updated": "2026-06-03T10:05:04.126571+00:00"
 }

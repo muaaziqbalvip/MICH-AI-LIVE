@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2031,
+  "cycle_count": 2036,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-03T09:53:24.698765+00:00",
+  "last_checkpoint": "2026-06-03T10:08:08.256161+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -170,7 +170,9 @@
       "https://pypi.org/",
       "https://opencv.org/university/free-opencv-course/",
       "https://cloudinary.com/guides/front-end-development/ffmpeg-python",
-      "https://www.clipcat.com/blog/a-beginners-guide-to-using-ffmpeg-in-python-for-video-processing/"
+      "https://www.clipcat.com/blog/a-beginners-guide-to-using-ffmpeg-in-python-for-video-processing/",
+      "https://github.com/Zulko/moviepy/tree/master/moviepy",
+      "https://zulko.github.io/moviepy/getting_started/install.html"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -414,7 +416,8 @@
       "https://www.publix.com/pharmacy?msockid=2da0e9a2af9261ec3ffffecfae0a6099",
       "https://www.publix.com/savings/weekly-ad/view-all?msockid=2da0e9a2af9261ec3ffffecfae0a6099",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=33f983d492fd6af6019594b993b76b16",
-      "https://sproutsocial.com/insights/influencer-marketing-tools/"
+      "https://sproutsocial.com/insights/influencer-marketing-tools/",
+      "https://support.microsoft.com/en-us/office/format-or-customize-a-table-of-contents-in-word-9d85eb9c-0b55-4795-8abb-a49885b3a58d"
     ],
     "android_core": [
       "https://www.android.com/",

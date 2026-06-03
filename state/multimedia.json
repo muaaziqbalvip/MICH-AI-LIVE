@@ -698,7 +698,17 @@
         "audio processing"
       ],
       "added_at": "2026-06-02T22:29:56.280088+00:00"
+    },
+    {
+      "id": "fc081247",
+      "source_url": "https://github.com/Zulko/moviepy/tree/master/moviepy",
+      "title": "moviepy/moviepy at master · Zulko/moviepy · GitHub",
+      "summary": "* Moviepy is a Python library for video editing.\n* The library is organized into subdirectories for audio and video processing.\n* Key files include Clip.py, Effect.py, and tools.py.\n* The library uses Python decorators (decorators.py).\n* Configuration settings are stored in config.py.\n* Version information is stored in version.py.\n* The library has an __init__.py file, indicating it is a Python package.\n* Moviepy is hosted on GitHub with 14.7k stars and 2.1k forks.\n* The library is written in Python and has a modular structure.\n* Moviepy has a range of tools and effects for video editing (tools.py, Effect.py).",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-03T09:56:25.198260+00:00"
     }
   ],
-  "last_updated": "2026-06-02T22:29:56.280100+00:00"
+  "last_updated": "2026-06-03T09:56:25.198281+00:00"
 }
