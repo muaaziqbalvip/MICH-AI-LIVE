@@ -741,7 +741,17 @@
         "language learning"
       ],
       "added_at": "2026-06-03T11:05:01.866707+00:00"
+    },
+    {
+      "id": "ba77a46e",
+      "source_url": "https://flutterfever.com/download-flutter-sdk/",
+      "title": "Download Flutter SDK (Windows) — Also for Mac & Linux",
+      "summary": "* To fix long path issues during Flutter installation on Windows, use a shorter SDK path like `C:\\Flutter`.\n* Avoid locations with spaces, special characters, or admin restrictions when extracting the Flutter SDK.\n* On Mac, install Xcode command-line tools before downloading Flutter.\n* On Linux, install required packages like `curl`, `git`, `unzip`, `xz-utils`, and `zip` before downloading Flutter.\n* Use `flutter doctor` to identify and resolve missing dependencies.\n* Run `flutter --version` to check the installed Flutter SDK version.\n* Run `flutter upgrade` to update to the latest Flutter SDK version.\n* Run `flutter doctor` to verify proper Flutter SDK setup.\n* Install Dart SDK separately if needed, but it's not required for Flutter SDK installation.\n* Use `flutter doctor` to troubleshoot and fix Flutter installation errors.\n* The website provides a guide to download Flutter SDK.\n* The guide is available for Windows, Mac, and Linux operating systems.\n* Cookies are used on the website to improve user experience.\n* Users can opt-out of using cookies if desired.\n* A sign-in feature is available on the website.\n* Password recovery is available through email.\n* The website has a multi-page guide, with this being page 1 of 3.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-03T22:32:45.622947+00:00"
     }
   ],
-  "last_updated": "2026-06-03T11:05:01.866723+00:00"
+  "last_updated": "2026-06-03T22:32:45.622959+00:00"
 }
