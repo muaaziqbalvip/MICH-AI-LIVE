@@ -1027,7 +1027,21 @@
         "programming"
       ],
       "added_at": "2026-06-02T00:36:22.889771+00:00"
+    },
+    {
+      "id": "4e461500",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=060fedfd497163f6218ffa9148bd62fc",
+      "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+      "summary": "* Microsoft Outlook offers 15 GB of mailbox storage for free accounts and up to 1 TB for Microsoft 365 Personal subscribers.\n* Outlook provides core security features like spam filters for free accounts and advanced security features for paid subscriptions.\n* Microsoft 365 subscriptions include access to OneDrive with 5 GB to 1 TB of cloud storage.\n* OneDrive offers ransomware protection for photos and files.\n* Microsoft Defender provides threat prevention and detection capabilities.\n* Microsoft 365 Personal subscribers get access to Word, Excel, PowerPoint, and Outlook desktop apps with Microsoft Copilot.\n* Microsoft Copilot offers AI-powered features for select apps, including higher usage for AI image creation and editing.\n* Microsoft Teams allows for calling, chatting, and collaboration with Copilot integration.\n* Microsoft 365 subscriptions automatically renew unless canceled in the Microsoft account.\n* Paid subscriptions offer ad-free Outlook email and calendar on web, mobile, and desktop apps.\n* Annual subscription: $4.40/user/month\n* Auto-renewal for annual subscription\n* Supports up to 300 users\n* Includes web and mobile versions\n* 1 TB of cloud storage per user\n* Custom business email available\n* Includes Word, Excel, PowerPoint, and Outlook\n* Secure AI chat powered by Microsoft technology\n* 10+ additional apps included (e.g. Bookings, Planner, Forms)",
+      "tags": [
+        "cloud storage",
+        "microsoft defender",
+        "ai technology",
+        "ransomware protection",
+        "microsoft teams"
+      ],
+      "added_at": "2026-06-02T23:54:25.051060+00:00"
     }
   ],
-  "last_updated": "2026-06-02T00:36:22.889794+00:00"
+  "last_updated": "2026-06-02T23:54:25.051076+00:00"
 }
