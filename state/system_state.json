@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2071,
+  "cycle_count": 2076,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-03T12:17:11.143223+00:00",
+  "last_checkpoint": "2026-06-03T12:33:00.292529+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -956,7 +956,11 @@
       "https://www.py4u.org/blog/python-threading-multiple-bash-subprocesses/",
       "https://www.geeksforgeeks.org/python/how-to-run-bash-script-in-python/",
       "https://docs.python.org/3/library/subprocess.html",
-      "https://www.selenium.dev/documentation/webdriver/getting_started/"
+      "https://www.selenium.dev/documentation/webdriver/getting_started/",
+      "https://habr.com/ru/articles/933574/",
+      "https://cron-job.org/en/",
+      "https://git-scm.com/book/zh/v2/起步-安装-Git",
+      "https://blog.csdn.net/2301_80035882/article/details/155000175"
     ]
   },
   "software_factory_jobs": [],
