@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2351,
+  "cycle_count": 2356,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T10:37:18.134343+00:00",
+  "last_checkpoint": "2026-06-04T11:06:35.911759+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -446,7 +446,11 @@
       "https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/content",
       "https://global.bing.com/dict/search?q=Content&FORM=BDVSP6&cc=cn",
       "https://baike.baidu.com/item/content/10445585",
-      "https://mail.google.com/"
+      "https://mail.google.com/",
+      "https://socialblade.com/",
+      "https://baike.baidu.com/item/Social/1385858",
+      "https://www.learnwithkak.com/social意思/",
+      "https://www.iciba.com/word?w=social"
     ],
     "android_core": [
       "https://www.android.com/",
