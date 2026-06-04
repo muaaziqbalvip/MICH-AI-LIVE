@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2376,
+  "cycle_count": 2381,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T12:30:16.867665+00:00",
+  "last_checkpoint": "2026-06-04T12:51:06.239018+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -456,7 +456,8 @@
       "https://socialblade.com/",
       "https://baike.baidu.com/item/Social/1385858",
       "https://www.learnwithkak.com/social意思/",
-      "https://www.iciba.com/word?w=social"
+      "https://www.iciba.com/word?w=social",
+      "https://www.python.org/downloads/"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -1040,7 +1041,8 @@
       "https://github.com/git",
       "https://git-scm.com/cheat-sheet",
       "https://github-cn.com/trends",
-      "https://www.automationtestinghub.com/playwright-automation-testing-tutorial/"
+      "https://www.automationtestinghub.com/playwright-automation-testing-tutorial/",
+      "https://learn.microsoft.com/en-us/azure/developer/terraform/overview"
     ]
   },
   "software_factory_jobs": [],
