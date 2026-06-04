@@ -772,7 +772,22 @@
         "multimedia"
       ],
       "added_at": "2026-06-04T12:23:43.079611+00:00"
+    },
+    {
+      "id": "42afb6fb",
+      "source_url": "https://www.python.org/downloads/",
+      "title": "Download Python | Python.org",
+      "summary": "* Python source code can be compiled for various platforms, including Windows and Mac.\n* CPython is the traditional implementation of Python, with alternative implementations available.\n* Python was created by Guido van Rossum in the early 1990s as a successor to the ABC language.\n* Release schedules are available for Python 3.x versions, including 3.9 to 3.15.\n* Python releases are signed with Sigstore (starting from 3.11.0) or OpenPGP (before 3.14).\n* Windows installers are signed with an Authenticode certificate issued to the Python Software Foundation.\n* macOS installer packages are signed with an Apple Developer ID Installer certificate.\n* Python 3.14 and later versions use Sigstore verification, while earlier versions use OpenPGP verification.\n* PEP 761 explains why OpenPGP key verification was dropped in Python 3.14.\n* Release artifacts can be verified using Sigstore or OpenPGP verification methods.",
+      "tags": [
+        "python",
+        "cpython",
+        "openpgp",
+        "sigstore",
+        "authenticode",
+        "macos"
+      ],
+      "added_at": "2026-06-04T13:04:00.106926+00:00"
     }
   ],
-  "last_updated": "2026-06-04T12:23:43.079627+00:00"
+  "last_updated": "2026-06-04T13:04:00.106947+00:00"
 }
