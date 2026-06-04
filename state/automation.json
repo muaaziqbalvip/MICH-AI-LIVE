@@ -943,7 +943,37 @@
         "cross-browser"
       ],
       "added_at": "2026-06-04T10:36:45.438792+00:00"
+    },
+    {
+      "id": "b19e6349",
+      "source_url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "summary": "* GitHub Copilot is moving to usage-based billing\n* GitHub Copilot has thousands of organizations and millions of users\n* GitHub introduced a new Copilot app with an agent-native desktop experience\n* GitHub Universe conference is scheduled for October 28-29, 2026\n* Microsoft Build 2026 featured new GitHub tools and updates\n* GitHub has a biweekly newsletter for developers with tips and guides\n* GitHub Shop has a new collection called ESC for outdoor apparel\n* GitHub Copilot is part of Microsoft's product line\n* GitHub has expanded its product line across various organizations\n* GitHub focuses on education and community development through initiatives like charter schools",
+      "tags": [
+        "github",
+        "copilot",
+        "microsoft",
+        "billing",
+        "newsletter",
+        "universe"
+      ],
+      "added_at": "2026-06-04T21:56:40.331719+00:00"
+    },
+    {
+      "id": "e2ff6979",
+      "source_url": "https://www.geeksforgeeks.org/git/what-is-github-and-how-to-use-it/",
+      "title": "Introduction to GitHub and Its Workflow - GeeksforGeeks",
+      "summary": "* GitHub repository: a project folder on the web to store, organize, and manage project files and code.\n* Public repositories allow others to report issues or suggest fixes via pull requests.\n* Creating a repository: log in, click the \"+\" button, select \"New Repository\", and fill in description and necessary information.\n* README file: a Markdown (.md) file describing the project and how to use or install it.\n* Adding files: via Git Bash, GitHub web UI, or Git GUI client, including upload, create, and edit options.\n* Deleting a repository: navigate to repository settings, scroll to \"Danger Zone\", and click \"Delete Repository\".\n* Labels in GitHub: provide descriptive metadata to categorize and organize issues and pull requests.\n* Default and custom labels can be viewed and created in the Issues section.\n* Common GitHub operations: creating pull and merge requests, editing, and deleting files.\n* GitHub supports Markdown (.md) for formatting text and code in README files and other documents.\n* Git LFS is used for managing large files in Git repositories\n* Git has pre-receive hooks that can decline commits\n* Merge conflicts can occur in Git and need to be handled\n* Git logs can be used to track changes and commits\n* Git undo operations can be used to revert changes\n* SSH or GPG keys can be generated using Git commands\n* Git has a cheat sheet for common commands and operations\n* Large files can be removed from commit history in Git\n* Git has troubleshooting techniques for common p",
+      "tags": [
+        "github",
+        "git",
+        "markdown",
+        "repository",
+        "gui",
+        "metadata"
+      ],
+      "added_at": "2026-06-04T22:15:53.016817+00:00"
     }
   ],
-  "last_updated": "2026-06-04T10:36:45.438805+00:00"
+  "last_updated": "2026-06-04T22:15:53.016836+00:00"
 }
