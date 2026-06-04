@@ -871,7 +871,36 @@
         "favourites list"
       ],
       "added_at": "2026-06-03T22:59:13.049953+00:00"
+    },
+    {
+      "id": "860bfd04",
+      "source_url": "https://mpgbuddy.com/cars/nissan/versa/2015",
+      "title": "2015 Nissan Versa: MPG and fuel economy - MPG Buddy",
+      "summary": "* 2007 Nissan Versa: 28 combined MPG\n* 2025 Nissan Versa: 35 MPG\n* 2015 Nissan Versa: 31 city MPG, 39 highway MPG\n* 2015 Nissan Versa engine: 1.6-liter 4-cylinder\n* 2015 Nissan Versa transmission: automatic (variable gear ratios)\n* 2015 Nissan Versa drivetrain: front-wheel drive\n* 2015 Nissan Versa tailpipe CO₂ emissions: 261 g/mi\n* Annual CO₂ emissions: 3,915 kilograms (based on 15,000 miles driven)\n* Most efficient car in Compact Cars class (2015): Volkswagen e-Golf at 116 combined MPG\n* Fuel economy gap between 2015 Nissan Versa and class leader: 82 MPG",
+      "tags": [
+        "electric vehicle",
+        "fuel economy",
+        "automatic transmission",
+        "variable gear",
+        "front wheel",
+        "co₂ emissions"
+      ],
+      "added_at": "2026-06-04T01:50:34.161818+00:00"
+    },
+    {
+      "id": "827be504",
+      "source_url": "https://mpgcalculator.net/vehicles/2015-nissan-versa-mpg",
+      "title": "2015 Nissan Versa MPG - Fuel Efficiency Data",
+      "summary": "* 2015 Nissan Versa has an auto 4-spd transmission\n* Fuel efficiency rating: 34.0 MPG\n* Vehicle class: Compact Cars\n* Comparable vehicles: 2018 BMW 328d xDrive, 2015 Ford Focus SFE FWD, 2015 Honda Civic HF\n* Fuel efficiency rating of comparable vehicles: 34.0 MPG\n* Available tools: Fuel Savings Calculator, Vehicle MPG Comparison, Vehicle MPG Checker\n* Road Trip Cost Calculator is under development\n* Fuel economy data is available for different vehicle makes and models\n* Vehicle MPG Checker provides official fuel economy ratings\n* Fuel Savings Calculator compares vehicles and estimates potential savings",
+      "tags": [
+        "fuel efficiency",
+        "mpg checker",
+        "road trip calculator",
+        "fuel savings",
+        "vehicle comparison"
+      ],
+      "added_at": "2026-06-04T01:53:41.154812+00:00"
     }
   ],
-  "last_updated": "2026-06-03T22:59:13.049966+00:00"
+  "last_updated": "2026-06-04T01:53:41.154822+00:00"
 }
