@@ -751,7 +751,22 @@
         "android_core"
       ],
       "added_at": "2026-06-03T22:32:45.622947+00:00"
+    },
+    {
+      "id": "975451da",
+      "source_url": "https://www.android.com/new-features-on-android/",
+      "title": "Browse Android's Latest Features",
+      "summary": "* Digital car keys require Android 12+ devices and compatible vehicles.\n* Gemini is available on Google TV and select devices with Android TV OS 14+.\n* Gmail app sends large files by creating shareable Google Drive links for files over 25MB.\n* Google Maps Explore tab requires the Google Maps app.\n* Circle to Search provides continuous translations on select devices and compatible apps.\n* Gemini image creation feature availability varies by device, region, and account type.\n* Android devices require internet connection for certain features like Gemini and Circle to Search.\n* Google Drive storage space is required for sending large files via Gmail.\n* Android TV OS 14+ is required for Gemini on Google TV.\n* Circle to Search scam detection is available across any app on select devices.\n* Android features require Gemini Nano v2 or higher for writing tools.\n* Material 3 Expressive allows customization of app look and feel.\n* Personalization options include favorite icons and color palettes.\n* Google apps can be personalized with custom settings.\n* Silent looping video playback is supported.\n* Pause functionality is available for silent looping videos.\n* Material 3 Expressive enables new layout options.\n* Customization applies to Google apps and third-party apps.\n* Gemini Nano v2 is a minimum requirement for certain features.\n* Android offers expressive and customizable UI elements.",
+      "tags": [
+        "android",
+        "google",
+        "gemini",
+        "google drive",
+        "google maps",
+        "google tv"
+      ],
+      "added_at": "2026-06-04T23:34:11.056922+00:00"
     }
   ],
-  "last_updated": "2026-06-03T22:32:45.622959+00:00"
+  "last_updated": "2026-06-04T23:34:11.056940+00:00"
 }
