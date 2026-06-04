@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2236,
+  "cycle_count": 2241,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T00:00:36.408477+00:00",
+  "last_checkpoint": "2026-06-04T00:11:13.002222+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -795,7 +795,8 @@
       "https://www.mynextfiber.com/",
       "http://nextdirect.com/us/en/home",
       "https://www.next.co.uk/?msockid=110c49e007bd669932f55e8d06f86769",
-      "https://tailwindcss.com/docs"
+      "https://tailwindcss.com/docs",
+      "https://www.next.co.uk/?msockid=31445fcf31246ba60cf548a130db6adb"
     ],
     "automation": [
       "https://www.selenium.dev/",
