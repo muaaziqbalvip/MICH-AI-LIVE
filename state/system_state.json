@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2356,
+  "cycle_count": 2361,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T11:06:35.911759+00:00",
+  "last_checkpoint": "2026-06-04T11:20:25.891113+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -833,7 +833,10 @@
       "https://www.next.co.uk/women?msockid=211416759e8c691030d2011b9f6968b6",
       "https://en.m.wikipedia.org/wiki/FastAPI",
       "https://www.poweredbyprisma.com/prisma-tucson/",
-      "https://www.prisma.io/docs"
+      "https://www.prisma.io/docs",
+      "https://www.next.at/de",
+      "https://www.next.co.uk/?msockid=2cf2a558cd8568591d55b236cca869e3",
+      "https://www.nextdirect.com/ch/de"
     ],
     "automation": [
       "https://www.selenium.dev/",
