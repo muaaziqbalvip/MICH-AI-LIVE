@@ -929,7 +929,21 @@
         "cloud computing"
       ],
       "added_at": "2026-06-03T12:44:56.785674+00:00"
+    },
+    {
+      "id": "a65185a6",
+      "source_url": "https://www.automationtestinghub.com/playwright-automation-testing-tutorial/",
+      "title": "Playwright Automation Testing Tutorial - AutomationTestingHub",
+      "summary": "* Playwright is suitable for modern JavaScript-heavy applications requiring cross-browser testing.\n* Selenium is relevant for legacy systems or highly customized setups.\n* Cypress is suitable for simpler, single-browser workflows.\n* Playwright automatically waits for elements to be ready, reducing the need for manual waits.\n* Using `getByRole()` and other built-in locators results in more reliable tests.\n* Overloading a single test with too many assertions makes failures harder to debug.\n* `test.describe` is used to group tests in Playwright.\n* Playwright supports parallel execution, shared configuration, and modular test structures.\n* Playwright integrates well with modern CI environments and generates detailed HTML reports.\n* Playwright can replace Selenium in many cases due to its built-in features like auto-waiting and native cross-browser support.",
+      "tags": [
+        "javascript",
+        "selenium",
+        "cypress",
+        "playwright",
+        "cross-browser"
+      ],
+      "added_at": "2026-06-04T10:36:45.438792+00:00"
     }
   ],
-  "last_updated": "2026-06-03T12:44:56.785689+00:00"
+  "last_updated": "2026-06-04T10:36:45.438805+00:00"
 }

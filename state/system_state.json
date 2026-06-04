@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2346,
+  "cycle_count": 2351,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T10:11:41.096423+00:00",
+  "last_checkpoint": "2026-06-04T10:37:18.134343+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -445,7 +445,8 @@
       "https://www.w3schools.com/python/python_intro.asp",
       "https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/content",
       "https://global.bing.com/dict/search?q=Content&FORM=BDVSP6&cc=cn",
-      "https://baike.baidu.com/item/content/10445585"
+      "https://baike.baidu.com/item/content/10445585",
+      "https://mail.google.com/"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -1023,7 +1024,8 @@
       "https://github.com/microsoft/playwright/tree/main/packages/playwright-core",
       "https://github.com/git",
       "https://git-scm.com/cheat-sheet",
-      "https://github-cn.com/trends"
+      "https://github-cn.com/trends",
+      "https://www.automationtestinghub.com/playwright-automation-testing-tutorial/"
     ]
   },
   "software_factory_jobs": [],

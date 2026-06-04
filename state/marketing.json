@@ -1099,7 +1099,17 @@
         "information technology"
       ],
       "added_at": "2026-06-04T09:47:36.696813+00:00"
+    },
+    {
+      "id": "a0e1fbb4",
+      "source_url": "https://mail.google.com/",
+      "title": "google mail",
+      "summary": "* Gmail uses a sign-in system to authenticate users.\n* Users can sign in with their email or phone number.\n* Gmail has a \"Guest mode\" for private sign-in.\n* A CAPTCHA system is used for security (text you hear or see).\n* Users can recover their account with \"Forgot email?\" option.\n* A \"Create account\" option is available for new users.\n* Gmail has a loading screen during the sign-in process.\n* The sign-in process has a \"Next\" button to proceed.\n* Gmail uses a secure authentication process.\n* Users can access information about Guest mode with \"Learn more\" option.",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-06-04T10:18:17.796690+00:00"
     }
   ],
-  "last_updated": "2026-06-04T09:47:36.696832+00:00"
+  "last_updated": "2026-06-04T10:18:17.796710+00:00"
 }
