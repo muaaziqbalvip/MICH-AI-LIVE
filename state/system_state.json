@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2326,
+  "cycle_count": 2331,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T09:08:20.908755+00:00",
+  "last_checkpoint": "2026-06-04T09:26:42.042409+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -823,7 +823,9 @@
       "https://mpgcalculator.net/vehicles/2015-nissan-versa-mpg",
       "https://www.next.co.uk/?msockid=211416759e8c691030d2011b9f6968b6",
       "https://www.next.co.uk/women?msockid=211416759e8c691030d2011b9f6968b6",
-      "https://en.m.wikipedia.org/wiki/FastAPI"
+      "https://en.m.wikipedia.org/wiki/FastAPI",
+      "https://www.poweredbyprisma.com/prisma-tucson/",
+      "https://www.prisma.io/docs"
     ],
     "automation": [
       "https://www.selenium.dev/",

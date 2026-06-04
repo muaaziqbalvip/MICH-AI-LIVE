@@ -900,7 +900,17 @@
         "vehicle comparison"
       ],
       "added_at": "2026-06-04T01:53:41.154812+00:00"
+    },
+    {
+      "id": "0bebc371",
+      "source_url": "https://www.prisma.io/docs",
+      "title": "Get started with Prisma | Prisma Documentation",
+      "summary": "* Prisma ORM is an open-source Object-Relational Mapping (ORM) tool.\n* Prisma ORM supports Postgres, MySQL, SQLite, and other databases.\n* Prisma ORM is compatible with Node.js, Bun, and Deno.\n* Prisma Postgres is a fully managed PostgreSQL database.\n* Prisma Postgres includes a generous free tier and scales to zero.\n* Prisma ORM provides fast, type-safe access to databases.\n* Prisma ORM and Prisma Postgres integrate with Prisma Studio.\n* Prisma ORM supports automated migrations.\n* Prisma can be installed using npm, pnpm, yarn, bun, or npx.\n* Prisma provides a command `prisma init` to initialize a new project.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-04T09:17:58.333641+00:00"
     }
   ],
-  "last_updated": "2026-06-04T01:53:41.154822+00:00"
+  "last_updated": "2026-06-04T09:17:58.333655+00:00"
 }
