@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2246,
+  "cycle_count": 2251,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T00:23:20.166951+00:00",
+  "last_checkpoint": "2026-06-04T00:31:58.749473+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -797,7 +797,12 @@
       "http://nextdirect.com/us/en/home",
       "https://www.next.co.uk/?msockid=110c49e007bd669932f55e8d06f86769",
       "https://tailwindcss.com/docs",
-      "https://www.next.co.uk/?msockid=31445fcf31246ba60cf548a130db6adb"
+      "https://www.next.co.uk/?msockid=31445fcf31246ba60cf548a130db6adb",
+      "https://careers.walmart.com/us/en/home",
+      "https://www.indeed.com/q-Walmart-l-Lodi,-CA-jobs.html",
+      "https://storejobs.wal-mart.com/HiringCenter/SS/NTQzOTI1NzoxNDE2Og",
+      "https://www.indeed.com/q-walmart-jobs-l-lodi,-ca-jobs.html",
+      "https://storejobs.wal-mart.com/HiringCenter/SS/MzkxMDEwMDowNjkzOg"
     ],
     "automation": [
       "https://www.selenium.dev/",
