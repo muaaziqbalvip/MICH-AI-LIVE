@@ -747,7 +747,22 @@
         "locale-specific"
       ],
       "added_at": "2026-06-04T08:42:17.100258+00:00"
+    },
+    {
+      "id": "b91f2c9d",
+      "source_url": "https://www.tradlinx.com/bl-tracking/pil",
+      "title": "PIL B/L Tracking | Track Container B/L Online | Tradlinx",
+      "summary": "* Live updates on shipment location and estimated arrival time\n* Multi-container tracking for optimized logistics operations\n* Customizable alerts for departure, arrival, and delivery milestones\n* Unified dashboard for managing all shipments\n* Real-time data for optimizing shipping routes and reducing costs\n* Automated notifications for key updates\n* Support for tracking across leading shipping lines\n* Intuitive platform for managing PIL containers\n* Advanced tracking platform for PIL shipments\n* Data-driven insights for logistics optimization",
+      "tags": [
+        "logistics",
+        "shipping",
+        "tracking",
+        "real-time",
+        "automation",
+        "optimization"
+      ],
+      "added_at": "2026-06-04T11:28:50.772483+00:00"
     }
   ],
-  "last_updated": "2026-06-04T08:42:17.100279+00:00"
+  "last_updated": "2026-06-04T11:28:50.772497+00:00"
 }
