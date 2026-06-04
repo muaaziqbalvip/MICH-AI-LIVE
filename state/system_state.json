@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2316,
+  "cycle_count": 2321,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T08:44:51.434839+00:00",
+  "last_checkpoint": "2026-06-04T08:57:14.862152+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -441,7 +441,8 @@
       "https://www.icloud.com/",
       "https://moz.com/beginners-guide-to-seo",
       "https://accounts.google.com/servicelogin?service=mail",
-      "https://www.techspot.com/downloads/4718-google-chrome.html"
+      "https://www.techspot.com/downloads/4718-google-chrome.html",
+      "https://www.w3schools.com/python/python_intro.asp"
     ],
     "android_core": [
       "https://www.android.com/",
