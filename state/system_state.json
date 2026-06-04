@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2466,
+  "cycle_count": 2471,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T22:17:26.348096+00:00",
+  "last_checkpoint": "2026-06-04T22:31:39.854509+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -612,7 +612,8 @@
       "https://flutterfever.com/download-flutter-sdk/",
       "https://flutter-website-staging.firebaseapp.com/docs/",
       "https://www.techspot.com/downloads/6105-google-play-store.html",
-      "https://google-play.en.uptodown.com/android"
+      "https://google-play.en.uptodown.com/android",
+      "https://blog.jetbrains.com/kotlin/2026/06/kotlin-2-4-0-released/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
