@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2256,
+  "cycle_count": 2261,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T00:40:33.894837+00:00",
+  "last_checkpoint": "2026-06-04T00:53:13.266274+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -802,7 +802,8 @@
       "https://www.indeed.com/q-Walmart-l-Lodi,-CA-jobs.html",
       "https://storejobs.wal-mart.com/HiringCenter/SS/NTQzOTI1NzoxNDE2Og",
       "https://www.indeed.com/q-walmart-jobs-l-lodi,-ca-jobs.html",
-      "https://storejobs.wal-mart.com/HiringCenter/SS/MzkxMDEwMDowNjkzOg"
+      "https://storejobs.wal-mart.com/HiringCenter/SS/MzkxMDEwMDowNjkzOg",
+      "https://www.next.co.uk/?msockid=0a12fb6c5ff86daa270eec025e336c26"
     ],
     "automation": [
       "https://www.selenium.dev/",
