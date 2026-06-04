@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2386,
+  "cycle_count": 2391,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T13:08:34.698349+00:00",
+  "last_checkpoint": "2026-06-04T13:24:15.632792+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -458,7 +458,9 @@
       "https://baike.baidu.com/item/Social/1385858",
       "https://www.learnwithkak.com/social意思/",
       "https://www.iciba.com/word?w=social",
-      "https://www.python.org/downloads/"
+      "https://www.python.org/downloads/",
+      "https://rohitpatil.com/scripts/automate-keyword-research-google-ads-api.html",
+      "https://rollout.com/integration-guides/google-ads/sdk/step-by-step-guide-to-building-a-google-ads-api-integration-in-python"
     ],
     "android_core": [
       "https://www.android.com/",
