@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2281,
+  "cycle_count": 2286,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T01:27:30.726711+00:00",
+  "last_checkpoint": "2026-06-04T01:36:52.680995+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -178,7 +178,12 @@
       "https://pyquesthub.com/automating-text-to-speech-with-python-a-comprehensive-guide",
       "https://pytutorial.com/python-text-to-speech-convert-text-to-audio/",
       "https://inworld.ai/resources/python-tts-api-tutorial",
-      "https://www.pilship.com/digital-solutions/"
+      "https://www.pilship.com/digital-solutions/",
+      "https://www.reddit.com/r/Frugal/comments/18rkhai/is_walmart_worth_it_for_home_delivery/",
+      "https://www.northeastshooters.com/xen/threads/walmart-ruger-10-22-vs-gunshop-ruger-10-22.52707/",
+      "https://www.reddit.com/r/walmart/top/",
+      "https://www.northeastshooters.com/xen/threads/what-walmart-still-sells-guns.52528/",
+      "https://www.reddit.com/r/walmart/comments/n23hdb/walmart_customer_spark_community/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
