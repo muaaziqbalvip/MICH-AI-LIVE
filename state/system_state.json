@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2371,
+  "cycle_count": 2376,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-04T11:47:09.705801+00:00",
+  "last_checkpoint": "2026-06-04T12:30:16.867665+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -193,7 +193,9 @@
       "https://blog.csdn.net/qq_47452807/article/details/126972387",
       "https://trackings.in/pil/",
       "https://www.tradlinx.com/bl-tracking/pil",
-      "https://zhuanlan.zhihu.com/p/166442378"
+      "https://zhuanlan.zhihu.com/p/166442378",
+      "https://www.swiftorial.com/tutorials/programming_languages/python/audio_video/moviepy/",
+      "/rebates/welcome?url=https://www.udemy.com/course/automate-video-editing-with-python-and-moviepy/&murl=https://trk.udemy.com/c/2003851/3260104/39854?sharedid=bing&u=https%3a%2f%2fwww.udemy.com%2fcourse%2fautomate-video-editing-with-python-and-moviepy%2f&subId1=&id=udemy&name=udemy&ra=24%&hash=01c122e7ab2e94e3cc49856b9a1d201dbbffb33593614a8bbf12d15e0220f02a&network=ImpactRadius"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -840,7 +842,9 @@
       "https://www.prisma.io/docs",
       "https://www.next.at/de",
       "https://www.next.co.uk/?msockid=2cf2a558cd8568591d55b236cca869e3",
-      "https://www.nextdirect.com/ch/de"
+      "https://www.nextdirect.com/ch/de",
+      "https://www.linkedin.com/pulse/fullstack-app-deployment-docker-containers-using-amirul-maula-vlbtc",
+      "https://howpcrules.com/docker-compose-full-stack-tutorial/"
     ],
     "automation": [
       "https://www.selenium.dev/",

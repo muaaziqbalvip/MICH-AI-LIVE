@@ -762,7 +762,17 @@
         "optimization"
       ],
       "added_at": "2026-06-04T11:28:50.772483+00:00"
+    },
+    {
+      "id": "04e0c7e5",
+      "source_url": "https://www.swiftorial.com/tutorials/programming_languages/python/audio_video/moviepy/",
+      "title": "Moviepy | Audio Video | Python Tutorial - swiftorial.com",
+      "summary": "* MoviePy is a Python library for video editing.\n* Key components: VideoFileClip, AudioFileClip, CompositeVideoClip, TextClip, Effects.\n* Installation: `pip install moviepy`.\n* Basic usage: `VideoFileClip` for video manipulation, `AudioFileClip` for audio processing.\n* Adding audio: `video.set_audio(audio)`.\n* Adding text: `TextClip` and `CompositeVideoClip`.\n* Supported environments: local, Jupyter Notebooks, web applications, cloud platforms.\n* Real-world use cases: marketing, education, entertainment, data visualization.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-04T12:23:43.079611+00:00"
     }
   ],
-  "last_updated": "2026-06-04T11:28:50.772497+00:00"
+  "last_updated": "2026-06-04T12:23:43.079627+00:00"
 }

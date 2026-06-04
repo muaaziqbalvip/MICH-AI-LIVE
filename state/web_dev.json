@@ -910,7 +910,37 @@
         "web_dev"
       ],
       "added_at": "2026-06-04T09:17:58.333641+00:00"
+    },
+    {
+      "id": "e19f0735",
+      "source_url": "https://www.linkedin.com/pulse/fullstack-app-deployment-docker-containers-using-amirul-maula-vlbtc",
+      "title": "Fullstack App Deployment in Docker Containers - LinkedIn",
+      "summary": "* Docker-compose file format version is '3'\n* 'networks' section defines a docker network, e.g. 'docker-project-network'\n* 'driver' specifies the network driver, default is 'bridge'\n* 'ipam' configures IP address management for the network\n* 'services' section defines services in the docker-compose file\n* 'container_name' specifies the name of the container for a service\n* 'volumes' mounts a host directory to a container directory, e.g. './docker_project_volume:/var/lib/mysql'\n* 'ports' maps a host port to a container port, e.g. \"3306:3306\"\n* 'depends_on' specifies dependencies between services, defining the start/stop order\n* 'environment' variables are set using the '- variable=value' format, with values from a '.env' file, e.g. '- MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}'",
+      "tags": [
+        "docker",
+        "container",
+        "network",
+        "ipam",
+        "volumes",
+        "services"
+      ],
+      "added_at": "2026-06-04T12:03:51.459257+00:00"
+    },
+    {
+      "id": "b0db62ee",
+      "source_url": "https://howpcrules.com/docker-compose-full-stack-tutorial/",
+      "title": "Docker Compose: Build a Full-Stack Application from Scratch",
+      "summary": "* Docker Compose V2 is recommended, bundled with Docker, and verified with `docker compose version`.\n* Project structure includes `docker-compose.yml`, `nginx/`, `api/`, `.env`, and `init.sql` files.\n* `docker-compose.yml` defines services, including `db`, `redis`, and `api`, with their respective images, ports, and environment variables.\n* PostgreSQL and Redis services use `unless-stopped` restart policy and define health checks.\n* `api` service is built from a `Dockerfile` in the `api` directory and exposes port 3000.\n* Environment variables are set using `.env` file and referenced in `docker-compose.yml` with `${VARIABLE_NAME:-default_value}` syntax.\n* Docker Compose handles networking, volumes, and startup order for the services.\n* `nginx` service acts as a reverse proxy, routing traffic from port 80 to the `api` service on port 3000.\n* Docker Compose V2 uses `docker compose` command (no hyphen) instead of the deprecated `docker-compose` command.",
+      "tags": [
+        "docker",
+        "compose",
+        "redis",
+        "postgresql",
+        "nginx",
+        "api"
+      ],
+      "added_at": "2026-06-04T12:19:06.272175+00:00"
     }
   ],
-  "last_updated": "2026-06-04T09:17:58.333655+00:00"
+  "last_updated": "2026-06-04T12:19:06.272191+00:00"
 }
