@@ -988,7 +988,32 @@
         "automation"
       ],
       "added_at": "2026-06-05T09:23:11.004922+00:00"
+    },
+    {
+      "id": "5ef22d25",
+      "source_url": "https://webapps.stackexchange.com/questions/118988/how-can-i-turn-off-unwanted-labels-without-losing-street-names-in-satellite-view",
+      "title": "google maps - How can I turn off unwanted labels without losing street ...",
+      "summary": "* No relevant technical facts found related to the provided text and the initial request about Google Maps.\n* The text appears to be a list of unrelated questions from a Q&A platform.\n* No code patterns or technical knowledge related to Google Maps or the initial question are present.\n* The text does not provide any actionable insights related to the initial request.\n* The provided text is a collection of question titles from various fields, including mathematics, physics, and computer science.\n* No specific technical information can be extracted from the given text.\n* The text does not contain any programming code or technical specifications.\n* No relevant data or technical details are available in the provided text.\n* The text is a list of question titles without any accompanying descriptions or technical information.\n* No technical facts or insights can be extracted from the given text.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-05T23:37:29.671536+00:00"
+    },
+    {
+      "id": "a404fb03",
+      "source_url": "https://support.google.com/maps/answer/144339?hl=en&co=GENIE.Platform=Desktop",
+      "title": "Get directions & show routes in Google Maps",
+      "summary": "* Google Maps provides turn-by-turn voice navigation\n* Offline areas can be downloaded for offline use\n* Google Maps is available as a downloadable app\n* Voice navigation is a key feature of the Google Maps app\n* Offline mode allows for navigation without internet connection\n* Google Maps integrates with other Google apps\n* The app provides route showings and directions \n* Turn-by-turn navigation is a key technical feature",
+      "tags": [
+        "voice navigation",
+        "offline mode",
+        "turn-by-turn",
+        "google maps",
+        "route showings",
+        "navigation app"
+      ],
+      "added_at": "2026-06-05T23:40:36.214449+00:00"
     }
   ],
-  "last_updated": "2026-06-05T09:23:11.004939+00:00"
+  "last_updated": "2026-06-05T23:40:36.214466+00:00"
 }
