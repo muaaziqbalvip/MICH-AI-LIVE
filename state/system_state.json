@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2706,
+  "cycle_count": 2711,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-05T19:24:37.766016+00:00",
+  "last_checkpoint": "2026-06-05T19:50:06.542201+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -903,7 +903,12 @@
       "https://www.nordstrom.com/brands/next--25801?msockid=22fe916c21cb6eb42a52860320306fd6",
       "https://www.nextrestaurant.com/",
       "https://www.next.co.uk/?msockid=13145134993b6172073a465b988860a2",
-      "https://www.yelp.com/biz/next-chicago-2?msockid=13145134993b6172073a465b988860a2"
+      "https://www.yelp.com/biz/next-chicago-2?msockid=13145134993b6172073a465b988860a2",
+      "https://tailwindcss.com/docs/flex",
+      "https://www.tailwindapp.com/pinterest",
+      "https://tailadmin.com/",
+      "https://www.hyperui.dev/",
+      "https://www.peakframeworks.com/post/headwinds-vs-tailwinds"
     ],
     "automation": [
       "https://www.selenium.dev/",
