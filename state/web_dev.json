@@ -950,7 +950,42 @@
         "web_dev"
       ],
       "added_at": "2026-06-05T19:44:15.031575+00:00"
+    },
+    {
+      "id": "ba66b102",
+      "source_url": "https://teachmeidea.com/advanced-typescript-types-and-generics-utility-types-explained/",
+      "title": "Advanced TypeScript Utility Types and Generics Guide - TeachMeIDEA",
+      "summary": "* Use built-in utility types before creating custom ones.\n* Name type names descriptively to explain their transformation.\n* Document complex types with JSDoc comments for purpose and usage.\n* Test edge cases with unions, optionals, and nested objects.\n* Prefer composition of complex types from simpler pieces.\n* Use const assertions (`as const`) for better literal type inference.\n* Leverage TypeScript inference instead of explicit type annotations.\n* Avoid using `any` type and instead use proper generics for type safety.\n* Conditional types distribute over unions by default, unless wrapped in a tuple.\n* Mastering `Partial`, `Pick`, `Omit`, and other utility types is key to advanced TypeScript usage.\n* TypeScript is used for large-scale JavaScript applications\n* Utility types in TypeScript provide additional functionality for type manipulation\n* Generics in TypeScript enable reusable functions and classes\n* WebAssembly is used for performance-critical tasks in web applications\n* JavaScript is used for client-side scripting in web applications\n* TypeScript is a superset of JavaScript with additional type checking\n* Functional programming techniques are used in JavaScript for managing complexity\n* Type manipulation is crucial for advanced TypeScript applications\n* Reusable functions and classes are enabled through generics in TypeScript \n* JavaScript applications can handle complex workloads with WebAssembly and TypeScript",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-05T20:22:31.471837+00:00"
+    },
+    {
+      "id": "2d1b54e6",
+      "source_url": "https://learnwebcraft.com/learn/typescript/typescript-advanced-types-patterns",
+      "title": "Advanced TypeScript Patterns: Generics & Utility Types",
+      "summary": "* Use advanced TypeScript types when they prevent runtime errors, enable better autocomplete, or encode business logic at compile-time.\n* Avoid deeply nested conditionals, large unions, and recursive types to prevent compile time performance issues.\n* Use built-in utility types (Partial, Pick, Omit, ReturnType) whenever possible.\n* Document types with JSDoc comments and test type behavior with expectType from tsd.\n* Use type Check = Expect<Equal<ActualType, ExpectedType>> to test type behavior.\n* Profile compile time performance with tsc --extendedDiagnostics.\n* Use conditional types for generic type transformations and function overloads for different parameter combinations.\n* Use declaration files (.d.ts) to integrate advanced types with JavaScript libraries.\n* Start with high-impact areas when adopting advanced types in an existing codebase, such as API clients and form validation.\n* Function overloading allows different parameter combinations, e.g., `function parse(x: string): number; function parse(x: number): string;`\n* Advanced types can be used with JavaScript libraries via declaration files (.d.ts)\n* `declare module 'library-name'` is used to add types to a library\n* `@types/*` packages from DefinitelyTyped provide type definitions for libraries\n* Mapped types can generate types from runtime values\n* Declaration files (.d.ts) are used to add type information to JavaScript libraries\n* Type inference can be used to generate types for complex libraries\n* `type Routes = ",
+      "tags": [
+        "typescript",
+        "compile time",
+        "runtime errors",
+        "utility types",
+        "conditional types",
+        "declaration files"
+      ],
+      "added_at": "2026-06-05T20:45:55.904964+00:00"
+    },
+    {
+      "id": "2ea1857f",
+      "source_url": "https://www.w3schools.com/typescript/typescript_advanced_types.php",
+      "title": "TypeScript Advanced Types - W3Schools",
+      "summary": "* `Omit<A, keyof B>` type is used to get the type that is not in the second type.\n* `type Mutable<T> = { -readonly [K in keyof T]: T[K]; };` creates a type with all properties as mutable.\n* Recursive types are useful for modeling tree-like data structures where a type can reference itself.\n* `type BinaryTree<T> = { value: T; left?: BinaryTree<T>; right?: BinaryTree<T>; };` is an example of a recursive type for a binary tree.\n* `type JSONValue` is a recursive type for a JSON-like data structure.\n* `type LinkedList<T> = { value: T; next: LinkedList<T> | null; };` is an example of a recursive type for a linked list.\n* Deeply nested recursive types can slow down the TypeScript compiler.\n* Very large union types (100+ members) can cause performance issues.\n* Type aliases can be used to break down complex types.\n* Conditional types distribute over union types, which can be surprising and lead to type inference issues.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-05T20:54:06.328594+00:00"
     }
   ],
-  "last_updated": "2026-06-05T19:44:15.031594+00:00"
+  "last_updated": "2026-06-05T20:54:06.328616+00:00"
 }
