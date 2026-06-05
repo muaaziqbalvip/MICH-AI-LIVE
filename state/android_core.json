@@ -781,7 +781,22 @@
         "online"
       ],
       "added_at": "2026-06-05T08:14:59.070331+00:00"
+    },
+    {
+      "id": "31078f5c",
+      "source_url": "https://learn.microsoft.com/en-us/intune/fundamentals/platform-guide-android",
+      "title": "Deployment guide: Manage Android devices in Microsoft Intu…",
+      "summary": "* Create compliance policy for user and device groups in Microsoft Intune.\n* Add actions for noncompliance when configuring device compliance policy.\n* Create device-based or app-based Conditional Access policy to protect apps and services.\n* Block access to apps that don't use modern authentication (OAuth2).\n* Configure endpoint security features to manage device security and remediate issues.\n* Enable mobile threat defense (MTD) connector for enrolled devices.\n* Create MTD app protection policy to assess risks and limit device access.\n* Create MTD device compliance policy to assess risk and limit corporate access.\n* Configure device settings using device profiles in Microsoft Intune.\n* Assign device profiles to groups to enable or disable settings and features on devices.\n* Intune can remediate endpoint weaknesses identified by Defender's vulnerability management.\n* Intune can wipe corporate data from managed apps.\n* Intune allows selective removal of work-related data from a device.\n* Intune provides enrollment tutorials for top tasks.\n* Intune admin center is available for configuration.\n* Intune supports enterprise mobility management (EMM) and app configuration for Slack.\n* Intune has a separate deployment guide for iOS/iPadOS devices.\n* Intune is integrated with Defender for vulnerability management.\n* Intune provides a feedback mechanism for users to suggest fixes.\n* Intune resources are updated regularly, with the last update on 2026-04-16.",
+      "tags": [
+        "intune",
+        "conditional access",
+        "endpoint security",
+        "mobile threat",
+        "device compliance",
+        "app protection"
+      ],
+      "added_at": "2026-06-05T08:45:01.005297+00:00"
     }
   ],
-  "last_updated": "2026-06-05T08:14:59.070349+00:00"
+  "last_updated": "2026-06-05T08:45:01.005313+00:00"
 }
