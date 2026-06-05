@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2626,
+  "cycle_count": 2631,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-05T10:45:05.735436+00:00",
+  "last_checkpoint": "2026-06-05T10:55:30.077180+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -210,7 +210,12 @@
       "https://www.wellsfargo.com/",
       "https://oam.wellsfargo.com/oamo/identity/help/passwordhelp/",
       "/videos/riverview/relatedvideo?q=Python+automated+YouTube+video+creation&ru=/search?q=Python+automated+YouTube+video+creation&mmscn=vwrc&mid=983E55B36426A7DCCA4B983E55B36426A7DCCA4B&FORM=WRVORC&ntb=1&msockid=8920cca5607711f1a4a6e4e1afe99bca",
-      "https://www.codewords.ai/blog/automate-youtube-video-upload"
+      "https://www.codewords.ai/blog/automate-youtube-video-upload",
+      "https://in.bookmyshow.com/explore/movies",
+      "https://in.bookmyshow.com/explore/home/bengaluru",
+      "https://in.bookmyshow.com/explore/home/delhi",
+      "https://in.bookmyshow.com/cinemas-list/pvr/all-regions/pvr",
+      "https://in.bookmyshow.com/pune/cinemas"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -887,7 +892,8 @@
       "https://howpcrules.com/docker-compose-full-stack-tutorial/",
       "https://nextdoor.com/notifications/",
       "https://www.next.co.uk/?msockid=2241c902874b6e2a0909de6c86b46fbb",
-      "https://www.nordstrom.com/brands/next--25801?msockid=2241c902874b6e2a0909de6c86b46fbb"
+      "https://www.nordstrom.com/brands/next--25801?msockid=2241c902874b6e2a0909de6c86b46fbb",
+      "https://en.m.wikipedia.org/wiki/Tailwind_CSS"
     ],
     "automation": [
       "https://www.selenium.dev/",
