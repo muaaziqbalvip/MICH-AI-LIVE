@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2651,
+  "cycle_count": 2656,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-05T11:44:24.254562+00:00",
+  "last_checkpoint": "2026-06-05T11:56:06.054187+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -486,7 +486,8 @@
       "https://www.whatsapp.com/?lang=fr",
       "https://www.whatsapp.com/download?lang=es",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=27b129a569466c691ad03eca68e76d98",
-      "https://www.meetup.com/"
+      "https://www.meetup.com/",
+      "https://www.meetup.com/?msockid=0876ef1dcfcf603d101ef872cedd61e2"
     ],
     "android_core": [
       "https://www.android.com/",
