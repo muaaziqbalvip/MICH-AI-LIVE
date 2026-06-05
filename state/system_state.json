@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2691,
+  "cycle_count": 2695,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-05T13:06:11.159063+00:00",
+  "last_checkpoint": "2026-06-05T13:16:20.056104+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -215,7 +215,8 @@
       "https://in.bookmyshow.com/explore/home/bengaluru",
       "https://in.bookmyshow.com/explore/home/delhi",
       "https://in.bookmyshow.com/cinemas-list/pvr/all-regions/pvr",
-      "https://in.bookmyshow.com/pune/cinemas"
+      "https://in.bookmyshow.com/pune/cinemas",
+      "https://medium.com/@aleksej.gudkov/ffmpeg-python-example-a-guide-to-using-ffmpeg-with-python-020cdb7733e7"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -1109,5 +1110,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "running"
+  "status": "handoff"
 }
