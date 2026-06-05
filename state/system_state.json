@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2751,
+  "cycle_count": 2756,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-05T21:50:54.627144+00:00",
+  "last_checkpoint": "2026-06-05T21:59:32.072756+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -490,7 +490,8 @@
       "https://www.meetup.com/",
       "https://www.meetup.com/?msockid=0876ef1dcfcf603d101ef872cedd61e2",
       "https://en.m.wikipedia.org/wiki/Facebook",
-      "https://www.google.com/fbx?fbx=minesweeper"
+      "https://www.google.com/fbx?fbx=minesweeper",
+      "https://thecmo.com/tools/best-social-media-scheduling-tools/"
     ],
     "android_core": [
       "https://www.android.com/",
