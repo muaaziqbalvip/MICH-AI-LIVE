@@ -817,7 +817,22 @@
         "wire transfers"
       ],
       "added_at": "2026-06-05T00:25:43.983116+00:00"
+    },
+    {
+      "id": "be1be603",
+      "source_url": "https://www.codewords.ai/blog/automate-youtube-video-upload",
+      "title": "Automate YouTube video upload with Python and AI",
+      "summary": "* Automating YouTube video upload can save 200 hours per year.\n* CodeWords is a platform for building and deploying automated workflows.\n* Python can be used for automating YouTube video upload.\n* AI workflows can be used for automating API health checks.\n* Docker bind mounts can be used for mounting local directories.\n* IMAP password setup is required for Gmail API access.\n* CSV files can be imported into MySQL databases.\n* Base64 encoding and decoding can be done in Python.\n* EU date format (dd/mm/yyyy) can be handled and parsed in code.\n* Automated workflows can be deployed in minutes using CodeWords.",
+      "tags": [
+        "youtube",
+        "python",
+        "docker",
+        "ai",
+        "api",
+        "mysql"
+      ],
+      "added_at": "2026-06-05T00:48:20.599826+00:00"
     }
   ],
-  "last_updated": "2026-06-05T00:25:43.983133+00:00"
+  "last_updated": "2026-06-05T00:48:20.599846+00:00"
 }

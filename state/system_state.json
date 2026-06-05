@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2516,
+  "cycle_count": 2521,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-05T00:40:25.056032+00:00",
+  "last_checkpoint": "2026-06-05T00:55:55.372663+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -208,7 +208,9 @@
       "https://selfservice.wellsfargo.com/",
       "https://www.wellsfargo.com/help/online-banking/",
       "https://www.wellsfargo.com/",
-      "https://oam.wellsfargo.com/oamo/identity/help/passwordhelp/"
+      "https://oam.wellsfargo.com/oamo/identity/help/passwordhelp/",
+      "/videos/riverview/relatedvideo?q=Python+automated+YouTube+video+creation&ru=/search?q=Python+automated+YouTube+video+creation&mmscn=vwrc&mid=983E55B36426A7DCCA4B983E55B36426A7DCCA4B&FORM=WRVORC&ntb=1&msockid=8920cca5607711f1a4a6e4e1afe99bca",
+      "https://www.codewords.ai/blog/automate-youtube-video-upload"
     ],
     "marketing": [
       "https://mail.google.com/mail",
