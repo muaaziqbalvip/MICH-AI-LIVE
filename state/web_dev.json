@@ -985,7 +985,17 @@
         "web_dev"
       ],
       "added_at": "2026-06-05T20:54:06.328594+00:00"
+    },
+    {
+      "id": "61e1730e",
+      "source_url": "https://support.google.com/?hl=en",
+      "title": "Google Help",
+      "summary": "* Google Workspace Status Dashboard is used to check for outages and downtime.\n* The dashboard provides real-time information on Google product availability.\n* Temporary problems can occur when accessing Google products.\n* The Google Workspace Status Dashboard is a resource for troubleshooting.\n* Google apps can be affected by outages and downtime.\n* The Help Center provides support for Google products.\n* Search functionality is available in the Help Center.\n* Google products may experience intermittent issues.\n* The Status Dashboard is a tool for monitoring Google service health.\n* Real-time status updates are available for Google services.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-05T23:11:01.109638+00:00"
     }
   ],
-  "last_updated": "2026-06-05T20:54:06.328616+00:00"
+  "last_updated": "2026-06-05T23:11:01.109659+00:00"
 }

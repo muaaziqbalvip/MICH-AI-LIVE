@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2786,
+  "cycle_count": 2791,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-05T23:06:26.680811+00:00",
+  "last_checkpoint": "2026-06-05T23:24:15.973457+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -918,7 +918,12 @@
       "https://www.typescriptlang.org/docs/handbook/2/generics.html",
       "https://learnwebcraft.com/learn/typescript/typescript-advanced-types-patterns",
       "https://www.w3schools.com/typescript/typescript_advanced_types.php",
-      "https://www.xjavascript.com/blog/advanced-typescript-generics/"
+      "https://www.xjavascript.com/blog/advanced-typescript-generics/",
+      "https://support.google.com/?hl=en",
+      "https://support.google.com/docs/answer/3093343?hl=en",
+      "https://support.google.com/chrome/answer/95426?hl=en&co=GENIE.Platform=Desktop",
+      "https://support.google.com/docs/answer/3093343?hl=es-419",
+      "https://support.google.com/docs/answer/3093343?hl=ru"
     ],
     "automation": [
       "https://www.selenium.dev/",
