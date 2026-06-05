@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2741,
+  "cycle_count": 2746,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-05T21:25:26.121429+00:00",
+  "last_checkpoint": "2026-06-05T21:44:17.113011+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -649,7 +649,9 @@
       "https://support.microsoft.com/en-us/topic/phone-link-requirements-and-setup-cd2a1ee7-75a7-66a6-9d4e-bf22e735f9e3",
       "https://learn.microsoft.com/en-us/intune/device-enrollment/android/manage-device-administrator",
       "https://support.microsoft.com/en-us/windows/manage-mobile-devices-in-windows-c17157af-4e7c-4783-99b7-e2996640e546",
-      "https://kotlinlang.org/docs/home.html"
+      "https://kotlinlang.org/docs/home.html",
+      "https://medium.com/@anandgaur2207/multi-module-clean-architecture-for-android-86153e53fb4f",
+      "https://proandroiddev.com/approaches-for-multi-module-feature-architecture-on-android-13e5738474f3"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
@@ -1118,7 +1120,12 @@
       "https://www.cyberangles.org/blog/using-python-to-open-a-shell-environment-run-a-command-and-exit-environment/",
       "https://undercodetesting.com/infrastructure-management-and-automation-with-python-go-and-terraform/",
       "https://www.w3tutorials.net/python-tutorial/infrastructure-as-code-with-python-and-terraform/",
-      "https://geekflare.com/cloud/terraform-for-beginners/"
+      "https://geekflare.com/cloud/terraform-for-beginners/",
+      "https://www.amazon.com/",
+      "https://www.amazon.com/-/es/",
+      "https://www.amazon.com/amazonprime",
+      "https://www.amazon.com/gp/help/customer/display.html?nodeId=G6LDPN7YJHYKH2J6",
+      "https://www.amazon.com/your-account"
     ]
   },
   "software_factory_jobs": [],

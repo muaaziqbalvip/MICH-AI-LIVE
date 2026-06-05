@@ -796,7 +796,22 @@
         "app protection"
       ],
       "added_at": "2026-06-05T08:45:01.005297+00:00"
+    },
+    {
+      "id": "79e6157f",
+      "source_url": "https://medium.com/@anandgaur2207/multi-module-clean-architecture-for-android-86153e53fb4f",
+      "title": "Multi-Module Clean Architecture for Android - Medium",
+      "summary": "* Multi-module clean architecture is used for organizing Android app code.\n* MVVM (Model-View-ViewModel) pattern is applied for separating concerns.\n* Kotlin is the preferred programming language for Android app development.\n* Jetpack Compose is used for building user interfaces.\n* Modularization helps in reducing app complexity and improving maintainability.\n* Data, Domain, and Presentation are the main layers in clean architecture.\n* Each module has its own build.gradle file for independent compilation.\n* Dependency injection is used to manage dependencies between modules.\n* Repository pattern is used for data access and manipulation.\n* Use cases are defined in the Domain layer to encapsulate business logic.",
+      "tags": [
+        "android",
+        "kotlin",
+        "jetpack",
+        "mvvm",
+        "modularization",
+        "dependency"
+      ],
+      "added_at": "2026-06-05T21:41:10.243947+00:00"
     }
   ],
-  "last_updated": "2026-06-05T08:45:01.005313+00:00"
+  "last_updated": "2026-06-05T21:41:10.243967+00:00"
 }
