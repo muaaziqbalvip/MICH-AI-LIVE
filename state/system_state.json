@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2696,
+  "cycle_count": 2701,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-05T19:08:44.070892+00:00",
+  "last_checkpoint": "2026-06-05T19:18:01.312096+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -900,7 +900,10 @@
       "https://www.nordstrom.com/brands/next--25801?msockid=2241c902874b6e2a0909de6c86b46fbb",
       "https://en.m.wikipedia.org/wiki/Tailwind_CSS",
       "https://www.next.co.uk/?msockid=22fe916c21cb6eb42a52860320306fd6",
-      "https://www.nordstrom.com/brands/next--25801?msockid=22fe916c21cb6eb42a52860320306fd6"
+      "https://www.nordstrom.com/brands/next--25801?msockid=22fe916c21cb6eb42a52860320306fd6",
+      "https://www.nextrestaurant.com/",
+      "https://www.next.co.uk/?msockid=13145134993b6172073a465b988860a2",
+      "https://www.yelp.com/biz/next-chicago-2?msockid=13145134993b6172073a465b988860a2"
     ],
     "automation": [
       "https://www.selenium.dev/",
