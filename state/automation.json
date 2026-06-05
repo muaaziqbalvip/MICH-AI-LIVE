@@ -973,7 +973,22 @@
         "metadata"
       ],
       "added_at": "2026-06-04T22:15:53.016817+00:00"
+    },
+    {
+      "id": "e9509261",
+      "source_url": "https://geekflare.com/cloud/terraform-for-beginners/",
+      "title": "An Introduction to Terraform for Beginners - Terraform Tutorial",
+      "summary": "* Terraform creates AWS EC2 instances using the `aws_instance` resource.\n* The `terraform apply` command is used to create infrastructure.\n* The `terraform destroy` command is used to delete infrastructure.\n* Terraform generates an execution plan before applying changes.\n* The `aws_instance` resource has attributes such as `ami`, `instance_type`, and `availability_zone`.\n* The `root_block_device` attribute is used to configure the root block device of an EC2 instance.\n* The `metadata_options` attribute is used to configure metadata options for an EC2 instance.\n* The `credit_specification` attribute is used to configure credit specification for an EC2 instance.\n* Terraform outputs the ID of the created EC2 instance after applying changes.\n* The `terraform destroy` command removes all resources created by Terraform.\n* `p_put_response_hop_limit` and `http_tokens` are configurable properties that can be set to null.\n* `root_block_device` is a block that configures the root block device of an instance.\n* `delete_on_termination` is a property that determines whether the volume is deleted when the instance is terminated.\n* `device_name` specifies the device name of the root block device (e.g., `/dev/sda1`).\n* `encrypted` specifies whether the volume is encrypted (default: `false`).\n* `iops` specifies the number of I/O operations per second (e.g., `100`).\n* `volume_size` and `volume_type` configure the size and type of the volume (e.g., `8` and `gp2`).\n* Terraform plan output indicat",
+      "tags": [
+        "terraform",
+        "aws",
+        "ec2",
+        "cloud",
+        "infrastructure",
+        "automation"
+      ],
+      "added_at": "2026-06-05T09:23:11.004922+00:00"
     }
   ],
-  "last_updated": "2026-06-04T22:15:53.016836+00:00"
+  "last_updated": "2026-06-05T09:23:11.004939+00:00"
 }
