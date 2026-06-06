@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3021,
+  "cycle_count": 3026,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-06T20:01:35.663286+00:00",
+  "last_checkpoint": "2026-06-06T20:10:23.653168+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -513,7 +513,8 @@
       "https://obsproject.com/",
       "https://support.google.com/youtube/answer/171664?hl=en",
       "https://obsproject.com/forum/threads/youtube-need-to-setup-broadcast-before-you-can-stream.149849/",
-      "https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform=Desktop"
+      "https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform=Desktop",
+      "https://outlook.office365.com/mail/?wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline"
     ],
     "android_core": [
       "https://www.android.com/",
