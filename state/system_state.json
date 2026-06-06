@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3011,
+  "cycle_count": 3016,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-06T19:14:19.029819+00:00",
+  "last_checkpoint": "2026-06-06T19:24:56.204358+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -506,7 +506,9 @@
       "https://ai.google/",
       "https://support.microsoft.com/en-us",
       "https://m.me/www.facebook.com",
-      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=22215b5fbd9b6caf2c934c2fbc676d1a"
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=22215b5fbd9b6caf2c934c2fbc676d1a",
+      "https://dictionary.cambridge.org/dictionary/learner-english/content",
+      "https://www.collinsdictionary.com/english-language-learning/content"
     ],
     "android_core": [
       "https://www.android.com/",
