@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2836,
+  "cycle_count": 2841,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-06T07:04:27.467916+00:00",
+  "last_checkpoint": "2026-06-06T07:17:10.534535+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -216,7 +216,8 @@
       "https://in.bookmyshow.com/explore/home/delhi",
       "https://in.bookmyshow.com/cinemas-list/pvr/all-regions/pvr",
       "https://in.bookmyshow.com/pune/cinemas",
-      "https://medium.com/@aleksej.gudkov/ffmpeg-python-example-a-guide-to-using-ffmpeg-with-python-020cdb7733e7"
+      "https://medium.com/@aleksej.gudkov/ffmpeg-python-example-a-guide-to-using-ffmpeg-with-python-020cdb7733e7",
+      "https://stackoverflow.com/questions/69258504/using-the-result-of-a-concat-filter-in-a-complex-filter-in-ffmpeg"
     ],
     "marketing": [
       "https://mail.google.com/mail",

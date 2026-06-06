@@ -832,7 +832,21 @@
         "mysql"
       ],
       "added_at": "2026-06-05T00:48:20.599826+00:00"
+    },
+    {
+      "id": "1d8217b8",
+      "source_url": "https://stackoverflow.com/questions/69258504/using-the-result-of-a-concat-filter-in-a-complex-filter-in-ffmpeg",
+      "title": "Using the result of a concat filter in a complex filter in FFmpeg",
+      "summary": "* FFmpeg is a command-line tool for processing video and audio.\n* The concat filter in FFmpeg is used to concatenate multiple video or audio streams.\n* Complex filters in FFmpeg allow for more advanced processing and filtering of media streams.\n* The result of a concat filter can be used as input for a complex filter.\n* FFmpeg filters can be chained together to perform multiple operations in a single command.\n* The -filter_complex option is used to specify complex filters in FFmpeg.\n* The [filter_name] notation is used to label and reference filters in FFmpeg.\n* FFmpeg supports a wide range of filters, including video and audio filters.\n* The graph2dot filter can be used to visualize the filter graph in FFmpeg.\n* FFmpeg commands can be customized using various options and filters to achieve specific results.",
+      "tags": [
+        "ffmpeg",
+        "video processing",
+        "audio filters",
+        "command-line",
+        "media streams"
+      ],
+      "added_at": "2026-06-06T07:13:35.804715+00:00"
     }
   ],
-  "last_updated": "2026-06-05T00:48:20.599846+00:00"
+  "last_updated": "2026-06-06T07:13:35.804739+00:00"
 }
