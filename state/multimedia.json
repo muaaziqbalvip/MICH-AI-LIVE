@@ -846,7 +846,22 @@
         "media streams"
       ],
       "added_at": "2026-06-06T07:13:35.804715+00:00"
+    },
+    {
+      "id": "aaca4f08",
+      "source_url": "https://crexgroup.com/ja/marketing/tools-data/what-is-adobe-creative-cloud/",
+      "title": "Adobe Creative Cloudとは？料金プランと全アプリの解説",
+      "summary": "* Adobe Creative Cloudはサブスクリプションモデルで、利用している限り月々または年間の利用料金が継続的に発生します。\n* 買い切り版（永続ライセンス）がないため、契約を解除するとソフトウェアが利用できなくなります。\n* 7日間の無料体験版、Adobe Expressの無料プラン、モバイルアプリが無料で利用できます。\n* 支払い方法にはクレジットカード、PayPalが利用できます。\n* 1つのライセンスでインストールできるコンピューターの台数に制限はありませんが、同時にサインインして利用できるのは2台までです。\n* 解約方法はAdobeの公式サイトからオンラインで手続きできますが、契約プランによっては解約時に解約料が発生する場合があります。\n* 年間プラン（月々払い）を途中で解約すると、残りの契約期間の料金の50%が解約料として請求されます。\n* Adobe Creative Cloudには20種類以上の業界標準アプリ、クラウドストレージ、豊富なフォントや素材、ポートフォリオ作成ツール、クリエイター向けSNSが統合されています。",
+      "tags": [
+        "cloud computing",
+        "adobe creative",
+        "subscription model",
+        "mobile apps",
+        "online payment",
+        "cloud storage"
+      ],
+      "added_at": "2026-06-06T12:06:36.960187+00:00"
     }
   ],
-  "last_updated": "2026-06-06T07:13:35.804739+00:00"
+  "last_updated": "2026-06-06T12:06:36.960204+00:00"
 }
