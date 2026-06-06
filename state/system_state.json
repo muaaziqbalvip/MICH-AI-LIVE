@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3016,
+  "cycle_count": 3021,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-06T19:24:56.204358+00:00",
+  "last_checkpoint": "2026-06-06T20:01:35.663286+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -508,7 +508,12 @@
       "https://m.me/www.facebook.com",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=22215b5fbd9b6caf2c934c2fbc676d1a",
       "https://dictionary.cambridge.org/dictionary/learner-english/content",
-      "https://www.collinsdictionary.com/english-language-learning/content"
+      "https://www.collinsdictionary.com/english-language-learning/content",
+      "https://support.google.com/youtube/answer/161805?hl=en&co=GENIE.Platform=Desktop",
+      "https://obsproject.com/",
+      "https://support.google.com/youtube/answer/171664?hl=en",
+      "https://obsproject.com/forum/threads/youtube-need-to-setup-broadcast-before-you-can-stream.149849/",
+      "https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform=Desktop"
     ],
     "android_core": [
       "https://www.android.com/",

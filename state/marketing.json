@@ -1177,7 +1177,17 @@
         "ai technology"
       ],
       "added_at": "2026-06-06T18:40:57.769727+00:00"
+    },
+    {
+      "id": "5c04550f",
+      "source_url": "https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform=Desktop",
+      "title": "Upload YouTube videos - Computer - YouTube Help - Google Help",
+      "summary": "* Video resolution is converted to the highest available for playback on different devices and networks.\n* Processing time varies based on quality, video length, video format, and traffic.\n* 4K and HD videos take more time to process than SD videos.\n* Up to 15 videos can be uploaded at a time through YouTube Studio.\n* Video titles have a 100 character limit and cannot include invalid characters.\n* Video descriptions have a 5,000 character limit and cannot include invalid characters.\n* Description format for corrections: \"Correction:\" or \"Corrections:\" followed by timestamp and explanation.\n* Thumbnail image is required for each video upload.\n* Videos are saved as private if upload window is closed before choosing visibility settings.\n* Verifying a YouTube account can optimize video processing time.\n* Videos can be age-restricted for certain audiences.\n* Paid promotions in videos must be disclosed to viewers and YouTube.\n* Altered or synthetic content must be disclosed to comply with YouTube's policy.\n* Automatic chapters can be added to videos for easier navigation.\n* Featured places can be automatically generated based on video content.\n* Tags can help with search mistakes, especially for commonly misspelled content.\n* Videos can be licensed for embedding on other websites.\n* Shorts remixing allows others to create Shorts using the audio of a video.\n* Categories and education types can be selected to help viewers find videos.\n* Community Guidelines must be followed for all v",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-06-06T19:58:31.466900+00:00"
     }
   ],
-  "last_updated": "2026-06-06T18:40:57.769745+00:00"
+  "last_updated": "2026-06-06T19:58:31.466926+00:00"
 }
