@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3001,
+  "cycle_count": 3006,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-06T18:59:11.723998+00:00",
+  "last_checkpoint": "2026-06-06T19:06:46.099568+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -505,7 +505,8 @@
       "https://www.youtube.com/google",
       "https://ai.google/",
       "https://support.microsoft.com/en-us",
-      "https://m.me/www.facebook.com"
+      "https://m.me/www.facebook.com",
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=22215b5fbd9b6caf2c934c2fbc676d1a"
     ],
     "android_core": [
       "https://www.android.com/",
