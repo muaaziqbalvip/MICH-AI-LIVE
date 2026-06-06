@@ -1162,7 +1162,22 @@
         "performance tracking"
       ],
       "added_at": "2026-06-06T10:55:49.931023+00:00"
+    },
+    {
+      "id": "8a90616e",
+      "source_url": "https://ai.google/",
+      "title": "Google AI - How we're making AI helpful for everyone",
+      "summary": "* Gemini is a new AI model by Google that can transform video clips and create custom soundtracks.\n* Gemini can generate imaginative aerial landscapes and visualize photos as figurines.\n* It can create retro-style mall studio portraits with 1980s clothing and accessories.\n* Gemini can retouch headshots with professional studio lighting and editing.\n* It can generate modern murals and paint them on user-uploaded wall photos.\n* Gemini can play Pictionary-style games and guess what the user is drawing.\n* It can create 3D models of figurines and display them in realistic environments.\n* Gemini can minimize jet lag and provide workout routines.\n* It can turn everyday objects into playable games.\n* Gemini can generate text and images in various styles, including 90s R&B and high-quality collectible figures.\n* Project Genie transforms ideas into UI designs for mobile and web applications\n* Stitch is a tool for creating UI designs\n* Mixboard is an AI-powered concepting board for refining ideas\n* Project Astra is a universal AI assistant\n* Gemini is a frontier intelligence system with action capabilities\n* Gemini 3.5 is an updated version with enhanced intelligence\n* Gemini Omni is a new iteration of the Gemini app\n* The Gemini app provides proactive, 24/7 help\n* Agentic AI is a focus area for Google AI development\n* I/O 2026 conference highlights developer tools and resources for AI development",
+      "tags": [
+        "ai model",
+        "video editing",
+        "3d modeling",
+        "image generation",
+        "game development",
+        "ai technology"
+      ],
+      "added_at": "2026-06-06T18:40:57.769727+00:00"
     }
   ],
-  "last_updated": "2026-06-06T10:55:49.931041+00:00"
+  "last_updated": "2026-06-06T18:40:57.769745+00:00"
 }
