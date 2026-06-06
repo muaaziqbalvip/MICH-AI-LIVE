@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 2981,
+  "cycle_count": 2984,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-06T12:17:49.380071+00:00",
+  "last_checkpoint": "2026-06-06T12:26:26.489008+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -936,7 +936,8 @@
       "https://support.google.com/docs/answer/3093343?hl=ru",
       "https://docs.paloaltonetworks.com/prisma",
       "https://en.wikipedia.org/wiki/Preferred_reporting_items_for_systematic_reviews_and_meta-analyses",
-      "https://nextdoor.com/"
+      "https://nextdoor.com/",
+      "https://typescriptdocs.com/"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -1157,5 +1158,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "running"
+  "status": "handoff"
 }
