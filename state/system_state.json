@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3101,
+  "cycle_count": 3106,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-06T22:27:30.712672+00:00",
+  "last_checkpoint": "2026-06-06T22:49:39.955593+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -223,7 +223,8 @@
       "https://apps.microsoft.com/detail/xpdlpkwg9sw2wd?hl=ja-JP",
       "https://digima.cocoo.co.jp/media/adobe-cc",
       "https://www.kgem.co.jp/adobe/cc-shindan01/",
-      "https://crexgroup.com/ja/marketing/tools-data/what-is-adobe-creative-cloud/"
+      "https://crexgroup.com/ja/marketing/tools-data/what-is-adobe-creative-cloud/",
+      "https://www.pillogistics.com/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -679,7 +680,12 @@
       "https://expertbeacon.com/modularizing-navigation-with-hilt-and-jetpack-compose/",
       "https://webdevfundamentals.com/mastering-flutter-riverpod-the-ultimate-state-management-guide/",
       "https://blog.eterestudio.co/flutter-state-management-riverpod-bloc-provider-comparison/",
-      "https://kotlinlang.org/docs/getting-started.html"
+      "https://kotlinlang.org/docs/getting-started.html",
+      "https://www.resetera.com/threads/burger-king-introduces-better-version-of-the-whopper.1459195/",
+      "https://www.resetera.com/threads/star-wars-the-mandalorian-grogu-meal-items-coming-to-burger-king-may-4th-collectible-cups-bounty-whopper-grogu-garlic-more.1497781/",
+      "https://www.resetera.com/threads/burger-king-is-launching-an-ai-chatbot-that-will-live-in-employees’-headsets-to-check-if-they-say-“please”-and-“thank-you”-to-customers.1447018/",
+      "https://www.resetera.com/threads/burger-king-introduces-better-version-of-the-whopper.1459195/page-2",
+      "https://www.resetera.com/threads/burger-king-admits-they-suck-fire-the-king-promise-to-do-better.1464277/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
