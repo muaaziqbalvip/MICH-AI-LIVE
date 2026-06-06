@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3106,
+  "cycle_count": 3111,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-06T22:49:39.955593+00:00",
+  "last_checkpoint": "2026-06-06T23:25:23.537577+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -515,7 +515,12 @@
       "https://support.google.com/youtube/answer/171664?hl=en",
       "https://obsproject.com/forum/threads/youtube-need-to-setup-broadcast-before-you-can-stream.149849/",
       "https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform=Desktop",
-      "https://outlook.office365.com/mail/?wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline"
+      "https://outlook.office365.com/mail/?wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline",
+      "https://www.timebie.com/timezone/losangelesnewyork.php",
+      "https://24timezones.com/difference/new_york/los_angeles",
+      "https://www.timeanddate.com/worldclock/converter.html",
+      "https://timezig.com/time/new-york-to-los-angeles",
+      "https://converttime.com/en/converter/new-york-to-los-angeles"
     ],
     "android_core": [
       "https://www.android.com/",
