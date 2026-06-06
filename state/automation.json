@@ -1013,7 +1013,22 @@
         "navigation app"
       ],
       "added_at": "2026-06-05T23:40:36.214449+00:00"
+    },
+    {
+      "id": "e5b21f2c",
+      "source_url": "https://en.m.wikipedia.org/wiki/Git",
+      "title": "Git - Wikipedia",
+      "summary": "* Git objects are identified by a SHA-1 hash of their contents.\n* Git stores each revision of a file as a unique blob.\n* Objects are stored in a directory matching the first two characters of its hash.\n* Newly added objects are stored in their entirety using zlib compression.\n* Packs use delta compression to save space, storing blobs as their changes relative to other blobs.\n* Git stores labels called refs (references) to indicate the locations of various commits.\n* Common Git commands include: git init, git clone, git add, git commit.\n* A .gitignore file can be used to ignore files with keys or passwords, extraneous files, and large files.\n* Git references include: heads, remotes, stash, meta, and tags.\n* Git supports most major operating systems, including Linux, macOS, and Windows.\n* Git supports multiple operating systems, including BSDs, Solaris, macOS, and Windows.\n* Git has ports for Windows, initially using a Linux-emulation framework.\n* The Windows port of Git uses Mingw-w64.\n* Mingw-w64 is a port of the GNU Compiler Collection (GCC).\n* Git installation on Windows creates a Program Files directory.\n* The first Windows port of Git hosted the Linux version.\n* Git is compatible with DragonFly BSD, FreeBSD, NetBSD, and OpenBSD.\n* Git uses GNU Compiler C (GCC) on Windows through Mingw-w64.\n* Linux-emulation framework is used to host Linux version of Git on Windows.\n* Git installation on Windows includes a similarly named Program Files directory.",
+      "tags": [
+        "git",
+        "sha-1",
+        "zlib",
+        "delta",
+        "refs",
+        "blobs"
+      ],
+      "added_at": "2026-06-06T00:36:47.383027+00:00"
     }
   ],
-  "last_updated": "2026-06-05T23:40:36.214466+00:00"
+  "last_updated": "2026-06-06T00:36:47.383043+00:00"
 }
