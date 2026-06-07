@@ -1243,7 +1243,22 @@
         "podcast"
       ],
       "added_at": "2026-06-06T23:46:28.413091+00:00"
+    },
+    {
+      "id": "cf95d668",
+      "source_url": "https://www.meltwater.com/en/blog/influencer-analytics-tools",
+      "title": "4 Top Influencer Analytics Tools for Smarter Campaigns (2026)",
+      "summary": "* Influencer analytics tools should have features like audience verification and fraud detection.\n* Key features include influencer discovery, outreach automation, campaign management, and analytics.\n* Integration with e-commerce platforms like Shopify and WooCommerce is essential for sales tracking.\n* API access allows for integration with existing marketing stacks or custom dashboards.\n* Sentiment analysis and monitoring using LLM technologies improve accuracy and efficiency.\n* Fake follower detection and inflated engagement rate identification are crucial for campaign success.\n* Campaign management tools should include creator communications, approvals, payments, and deliverables.\n* Influencer databases with search filters for demographics, engagement metrics, and content categories are necessary.\n* Automated outreach and follow-ups streamline creator communications and partnership management.\n* Performance analytics should measure engagement rate, reach, and audience insights.",
+      "tags": [
+        "influencer analytics",
+        "campaign management",
+        "sentiment analysis",
+        "api access",
+        "fraud detection",
+        "outreach automation"
+      ],
+      "added_at": "2026-06-07T08:07:52.135963+00:00"
     }
   ],
-  "last_updated": "2026-06-06T23:46:28.413109+00:00"
+  "last_updated": "2026-06-07T08:07:52.135982+00:00"
 }
