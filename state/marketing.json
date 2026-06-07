@@ -1273,7 +1273,22 @@
         "microsoft copilot"
       ],
       "added_at": "2026-06-07T10:52:48.423756+00:00"
+    },
+    {
+      "id": "d97774ca",
+      "source_url": "https://python-ai-tools.com/ai-content-creation-marketing-automation/seo-keyword-research-with-python",
+      "title": "SEO Keyword Research with Python · Python + AI Tools",
+      "summary": "* Python 3.10+ is required for the workflow.\n* A virtual environment is recommended for dependency management.\n* Popular SERP APIs include DataForSEO, SerpAPI, and SEMrush.\n* The `requests` library is used for making GET requests to the SERP API.\n* The `tenacity` library is used for implementing retry logic with exponential backoff.\n* The `pandas` library is used for data manipulation and analysis.\n* Boolean filters are applied to raw SERP data for search volume, CPC, and keyword difficulty.\n* Regex is used to classify search intent based on query modifier patterns.\n* The `INTENT_MAP` dictionary maps regex patterns to intent labels (informational, commercial, transactional).\n* The `classify_intent` function assigns intent labels to keywords based on the `INTENT_MAP` dictionary.\n* Python is used for SEO keyword research and marketing automation.\n* API configurations are crucial for reproducible results in campaigns.\n* Competitor keyword analysis can be performed using a Python script.\n* AI copywriting workflows can be implemented using Python.\n* Python can be used for AI-powered image and video generation.\n* Automated social media posting can be achieved with Python and AI.\n* Python scripts can be used for exact execution in competitor keyword analysis.\n* AI tools can be integrated with Python for content creation and marketing.\n* Marketing automation can be achieved using Python and AI tools.\n* Python is used for content and marketing automation tasks.",
+      "tags": [
+        "python",
+        "serp",
+        "api",
+        "regex",
+        "pandas",
+        "requests"
+      ],
+      "added_at": "2026-06-07T20:07:48.004362+00:00"
     }
   ],
-  "last_updated": "2026-06-07T10:52:48.423779+00:00"
+  "last_updated": "2026-06-07T20:07:48.004380+00:00"
 }
