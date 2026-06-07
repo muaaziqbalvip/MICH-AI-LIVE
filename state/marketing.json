@@ -1258,7 +1258,22 @@
         "outreach automation"
       ],
       "added_at": "2026-06-07T08:07:52.135963+00:00"
+    },
+    {
+      "id": "7d006fac",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=34bcb8459afe6a5f1189af349b106b7f",
+      "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+      "summary": "* Microsoft 365 Family subscription costs $12.99/month\n* Each person can use on up to 5 devices simultaneously\n* Works on PC, Mac, iPhone, iPad, and Android phones and tablets\n* Up to 6 TB of secure cloud storage (1 TB per person)\n* Includes Word, Excel, PowerPoint, Outlook, and OneNote desktop apps\n* Microsoft Copilot AI companion available in select apps\n* Microsoft Defender provides advanced security for identity, data, and devices\n* OneDrive offers ransomware protection for photos and files\n* Microsoft Teams allows for calling, chatting, and collaboration\n* Subscription includes access to Designer and Microsoft Clipchamp for graphics and video editing\n* Microsoft 365 Business Premium costs $32.00/user/month (paid yearly)\n* Includes 1 TB of cloud storage per user\n* Supports up to 300 users with advanced identity and access management\n* Offers desktop, web, and mobile versions of apps\n* Includes custom business email and 10+ additional apps\n* Features AI-powered chat and Microsoft 365 Copilot for productivity\n* Includes enterprise-grade device, cyberthreat, and endpoint protection\n* Microsoft 365 Business Basic (no Teams) costs $4.40/user/month (paid yearly)\n* Offers core identity and access management and 1 TB of cloud storage per user\n* Includes web and mobile versions of Word, Excel, PowerPoint, and Outlook",
+      "tags": [
+        "cloud storage",
+        "microsoft defender",
+        "microsoft teams",
+        "onedrive",
+        "ai companion",
+        "microsoft copilot"
+      ],
+      "added_at": "2026-06-07T10:52:48.423756+00:00"
     }
   ],
-  "last_updated": "2026-06-07T08:07:52.135982+00:00"
+  "last_updated": "2026-06-07T10:52:48.423779+00:00"
 }
