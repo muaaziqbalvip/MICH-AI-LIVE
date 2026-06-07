@@ -840,7 +840,27 @@
         "type safety"
       ],
       "added_at": "2026-06-07T19:42:49.973689+00:00"
+    },
+    {
+      "id": "6c549cf2",
+      "source_url": "https://www.microsoft.com/en-us/windows/sync-across-your-devices?msockid=0257715a7f9e6b343eb9662b7edb6aed",
+      "title": "Use Phone Link to Sync Your Android or iPhone to Your Windows …",
+      "summary": "* Phone Link requires iPhone with iOS 14 or higher, Windows 11 device, and Bluetooth connection.\n* Phone Link is not compatible with iPad or MacOS.\n* Device pairing uses Bluetooth and a QR code scanned by the iPhone's default camera.\n* Alternative pairing method is available without a QR code, using a hyperlink on the iPhone.\n* Required iPhone permissions include access to content and notifications.\n* Compatible iPhone tasks include making calls, checking notifications, sending messages, and viewing contacts.\n* Phone Link requires the latest version of the Phone Link app.\n* Regional restrictions and device compatibility may vary.\n* The Link to Windows app is available in the Apple Store for iPhone.\n* Phone Link is available in the Microsoft Store for Windows PCs.\n* Phone Link requires Bluetooth pairing between iPhone and PC to work.\n* To unpair, remove device from Phone Link settings and \"Forget this device\" in Bluetooth settings.\n* Customization options are available in Phone Link settings, including app notification permissions.\n* iPhone must have iOS 14 or higher to use Phone Link.\n* Phone Link is preinstalled on Windows 11 devices.\n* Windows 11 is required to use Phone Link.\n* Phone Link app has limitations on iOS, including no image/video sharing and group messaging.\n* Messages are session-based and only come through when phone is connected to PC.\n* Device compatibility may vary, and regional restrictions may apply.\n* Phone Link is not available for iPad (iPadOS) or MacO",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-07T21:31:57.385652+00:00"
+    },
+    {
+      "id": "21207a07",
+      "source_url": "https://www.microsoft.com/en-us?msockid=0257715a7f9e6b343eb9662b7edb6aed",
+      "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
+      "summary": "* Microsoft 365 offers cloud storage, advanced security, and Microsoft Copilot.\n* Surface Laptop, Copilot+ PCs have built-in AI and all-day battery.\n* XBOX Series X is the fastest, most powerful XBOX console.\n* XBOX Game Pass Ultimate provides access to hundreds of high-quality games.\n* Azure is a platform for designing, fueling, and operationalizing adaptive systems.\n* Visual Studio 2026 is an IDE for professional developers.\n* Microsoft 365 Copilot uses AI to save time and increase productivity.\n* Surface for Business PCs feature Intel Core Ultra Series 3 processors.\n* Microsoft offers a 90-day guide to becoming AI-fluent.\n* Azure supports limitless innovation and system operationalization.\n* Microsoft offers a 90-day guide to become AI-fluent.\n* Microsoft Copilot reduces admin work for organizations.\n* Digital tools from Microsoft aid in medical supply delivery and poverty reduction.\n* Microsoft products include Surface Pro, Surface Laptop, and Surface RTX Spark Dev Box.\n* Microsoft 365 and Dynamics 365 are available for organizations.\n* Microsoft Power Platform and Microsoft Teams are offered for business use.\n* Azure is Microsoft's cloud computing platform.\n* Microsoft Learn provides developer resources and training.\n* Microsoft AI is integrated into various products, including Microsoft 365 Copilot.\n* Visual Studio is Microsoft's integrated development environment (IDE).",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-07T21:51:12.737851+00:00"
     }
   ],
-  "last_updated": "2026-06-07T19:42:49.973704+00:00"
+  "last_updated": "2026-06-07T21:51:12.737871+00:00"
 }
