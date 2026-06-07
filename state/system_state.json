@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3171,
+  "cycle_count": 3176,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-07T08:57:32.802936+00:00",
+  "last_checkpoint": "2026-06-07T09:31:57.458386+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -225,7 +225,12 @@
       "https://www.kgem.co.jp/adobe/cc-shindan01/",
       "https://crexgroup.com/ja/marketing/tools-data/what-is-adobe-creative-cloud/",
       "https://www.pillogistics.com/",
-      "https://www.techspot.com/downloads/6447-ffmpeg.html"
+      "https://www.techspot.com/downloads/6447-ffmpeg.html",
+      "https://support.microsoft.com/en-us/windows/how-to-get-help-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+      "https://www.elevenforum.com/t/enable-or-disable-widgets-feature-in-windows-11.1196/",
+      "https://support.microsoft.com/en-us/windows",
+      "https://www.elevenforum.com/t/troubleshooters-get-help-app-issues.43924/",
+      "https://support.microsoft.com/en-us/windows/file-explorer-in-windows-ef370130-1cca-9dc5-e0df-2f7416fe1cb1"
     ],
     "marketing": [
       "https://mail.google.com/mail",

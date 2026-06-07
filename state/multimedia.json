@@ -876,7 +876,47 @@
         "languages"
       ],
       "added_at": "2026-06-06T22:42:09.940132+00:00"
+    },
+    {
+      "id": "9cdbbacd",
+      "source_url": "https://support.microsoft.com/en-us/windows/how-to-get-help-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+      "title": "How to get help in Windows - Microsoft Support",
+      "summary": "* Windows versions supported: Windows 11, Windows 10\n* Search for help using the taskbar search box\n* Support website: support.microsoft.com/windows\n* Get help link available in Settings\n* Get help app available\n* Microsoft 365 subscription benefits include training and security\n* Accessibility center available for device security\n* Community support options: Microsoft Community, Microsoft Tech Community, Windows Insiders, Microsoft 365 Insiders\n* RSS feeds available for subscription\n* Support categories available on support.microsoft.com/windows",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-07T09:02:58.145659+00:00"
+    },
+    {
+      "id": "60ec9610",
+      "source_url": "https://support.microsoft.com/en-us/windows",
+      "title": "Windows help and learning",
+      "summary": "* Windows 11 provides centralized AI assistance through Copilot.\n* Windows 11 features include Live Captions, Studio Effects, and NPUs.\n* Windows Update allows users to keep their PC up to date.\n* Windows Security provides antivirus protection for PCs.\n* Windows 11 System Requirements are available for reference.\n* PC Health Check app helps with Windows 11 setup.\n* Quick Assist is a tool for remote assistance.\n* BitLocker recovery key can be backed up for security.\n* Windows Update troubleshooter helps resolve update issues.\n* Keyboard shortcuts are available in Windows for improved productivity.",
+      "tags": [
+        "ai",
+        "npus",
+        "windows",
+        "antivirus",
+        "bitlocker",
+        "pc"
+      ],
+      "added_at": "2026-06-07T09:16:11.409418+00:00"
+    },
+    {
+      "id": "bce79839",
+      "source_url": "https://support.microsoft.com/en-us/windows/file-explorer-in-windows-ef370130-1cca-9dc5-e0df-2f7416fe1cb1",
+      "title": "File Explorer in Windows - Microsoft Support",
+      "summary": "* Windows File Explorer is used to find, open, organize, and manage files and folders on PC and in the cloud.\n* To open File Explorer in Windows 11, press the Windows logo key + E or select it from the taskbar or Start menu.\n* Folders can be pinned to Quick access by right-clicking and selecting \"Pin to Quick access\".\n* Files can be shared by selecting them and clicking \"Share\" on the ribbon.\n* File locations can be changed by selecting \"Cut\" and then \"Paste\" in the new location.\n* File Explorer view can be changed by selecting \"View\" on the ribbon and choosing from various options.\n* Compact view can be enabled by selecting \"View\" > \"Compact view\" to reduce space between files.\n* Cloud search can be enabled by signing in to cloud accounts from Start > Settings > Accounts.\n* Known Windows folders are available by default in Quick access in Windows 11, version 22H2.\n* Unpinned known folders can be restored in Quick access by selecting Start > File Explorer and repinning them.",
+      "tags": [
+        "cloud computing",
+        "file explorer",
+        "windows",
+        "pc",
+        "quick access",
+        "ribbon"
+      ],
+      "added_at": "2026-06-07T09:26:22.690676+00:00"
     }
   ],
-  "last_updated": "2026-06-06T22:42:09.940152+00:00"
+  "last_updated": "2026-06-07T09:26:22.690693+00:00"
 }
