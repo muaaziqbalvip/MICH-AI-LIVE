@@ -1010,7 +1010,17 @@
         "memoize"
       ],
       "added_at": "2026-06-07T11:37:33.889816+00:00"
+    },
+    {
+      "id": "922044b2",
+      "source_url": "https://dev.to/niharikaa/top-10-advanced-typescript-concepts-that-every-developer-should-know-4kg4",
+      "title": "10 Advanced TypeScript Concepts Every Developer Shoul…",
+      "summary": "* TypeScript supports union types, e.g., `function func(param: number | boolean)`.\n* The `|` operator is used to define union types.\n* TypeScript checks the type of function arguments at compile-time.\n* The `console.log` function can be used to test TypeScript code.\n* TypeScript distinguishes between string and boolean values, e.g., `\"True\"` is a string, not a boolean.\n* Function parameters can be defined with specific types, e.g., `param: number | boolean`.\n* TypeScript throws an error if an incorrect type is passed to a function.\n* The `function` keyword is used to define functions in TypeScript.\n* TypeScript code can be tested and executed using the `console.log` function.\n* Type checking is a key feature of the TypeScript language.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-07T12:52:32.396547+00:00"
     }
   ],
-  "last_updated": "2026-06-07T11:37:33.889837+00:00"
+  "last_updated": "2026-06-07T12:52:32.396567+00:00"
 }
