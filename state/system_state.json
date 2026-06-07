@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3181,
+  "cycle_count": 3186,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-07T09:45:40.322108+00:00",
+  "last_checkpoint": "2026-06-07T10:02:24.993350+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1198,7 +1198,8 @@
       "https://git-scm.com/install/windows",
       "https://aws.amazon.com/free/",
       "https://aws.amazon.com/de/",
-      "https://aws.amazon.com/cn/"
+      "https://aws.amazon.com/cn/",
+      "https://www.python.org/downloads/"
     ]
   },
   "software_factory_jobs": [],

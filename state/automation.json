@@ -1042,7 +1042,22 @@
         "gui"
       ],
       "added_at": "2026-06-07T07:37:17.703242+00:00"
+    },
+    {
+      "id": "0c3dd68e",
+      "source_url": "https://www.python.org/downloads/",
+      "title": "Download Python | Python.org",
+      "summary": "* Python installer packages are signed with Apple Developer ID Installer certificates.\n* Certificates are issued to the Python Software Foundation (ID: BMM5U3QVKW) for Python 3.11.4 and later.\n* Previous releases were signed with certificates issued to Ned Deily (ID: DJ3H93M7VJ).\n* The Python Package Index hosts third-party Python modules.\n* Standard documentation is available online and for download in HTML, EPUB, and other formats.\n* Downloading the source code allows browsing of the standard library (Lib) and tools (Tools).\n* The source code is a valuable learning resource.\n* The Python Developer's Guide provides information on contributing to Python development.\n* Binary downloads are available for various platforms.\n* The Python Software Foundation manages Python development.",
+      "tags": [
+        "python",
+        "certificates",
+        "installer",
+        "developer",
+        "packages",
+        "modules"
+      ],
+      "added_at": "2026-06-07T10:00:52.413681+00:00"
     }
   ],
-  "last_updated": "2026-06-07T07:37:17.703260+00:00"
+  "last_updated": "2026-06-07T10:00:52.413703+00:00"
 }
