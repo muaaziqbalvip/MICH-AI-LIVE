@@ -811,7 +811,36 @@
         "dependency"
       ],
       "added_at": "2026-06-05T21:41:10.243947+00:00"
+    },
+    {
+      "id": "cab00fa4",
+      "source_url": "https://blog.basanta.is-a.dev/how-to-build-scalable-android-apps-using-multi-module-architecture/",
+      "title": "How to Build Scalable Android Apps Using Multi-Module Architecture",
+      "summary": "* Multi-module architecture is used for building scalable Android apps\n* Modularization helps reduce complexity and improve maintainability\n* Android apps can be divided into feature modules and core modules\n* Feature modules contain app-specific features and functionality\n* Core modules contain shared code and libraries used across the app\n* Gradle is used for building and managing multi-module Android projects\n* Each module has its own build.gradle file for configuration\n* Dependency injection is used to manage dependencies between modules\n* Modular architecture allows for parallel development and testing\n* Android Architecture Components can be used to implement multi-module architecture",
+      "tags": [
+        "android",
+        "modularization",
+        "gradle",
+        "dependency",
+        "multi-module",
+        "scalability"
+      ],
+      "added_at": "2026-06-07T19:31:57.042389+00:00"
+    },
+    {
+      "id": "1a28e865",
+      "source_url": "https://www.developer-yilmazer.com/blog/flutter-riverpod-state-management",
+      "title": "Mastering State Management in Flutter with Riverpod",
+      "summary": "* Riverpod uses `ProviderContainer` to manage state.\n* `addTearDown` is used to dispose of the container after testing.\n* `container.read` is used to access providers and notifiers.\n* Notifiers are used to update state, e.g., `addTodo` and `toggleTodo`.\n* Providers can be overridden for testing purposes.\n* Immutable state is recommended for use with Riverpod.\n* Notifiers should contain business logic.\n* Comprehensive testing is crucial for Riverpod state management.\n* Riverpod supports type safety and testability.",
+      "tags": [
+        "state management",
+        "riverpod",
+        "providers",
+        "notifiers",
+        "type safety"
+      ],
+      "added_at": "2026-06-07T19:42:49.973689+00:00"
     }
   ],
-  "last_updated": "2026-06-05T21:41:10.243967+00:00"
+  "last_updated": "2026-06-07T19:42:49.973704+00:00"
 }
