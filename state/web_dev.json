@@ -995,7 +995,22 @@
         "web_dev"
       ],
       "added_at": "2026-06-05T23:11:01.109638+00:00"
+    },
+    {
+      "id": "c869539b",
+      "source_url": "https://www.digitalapplied.com/blog/react-server-components-production-patterns-guide",
+      "title": "React Server Components: Production Pattern Guide",
+      "summary": "* Use Suspense boundaries with skeleton fallbacks to prevent layout shift (CLS) and improve the streaming experience.\n* Implement caching strategies with four distinct cache layers: Request Memoization, Data Cache, Full Route Cache, and Router Cache.\n* Configure each data source independently to avoid stale data bugs or unnecessary database load.\n* Use `cache: \"no-store\"` to opt out of caching for dynamic data.\n* Implement time-based revalidation with `next: { revalidate: 60 }` for fresh data.\n* Use tag-based revalidation with `next: { tags: [\"products\"] }` to revalidate when data changes.\n* Force dynamic rendering with `export const dynamic = \"force-dynamic\"` to disable Full Route Cache.\n* Use `router.refresh()` to invalidate Router Cache entries after mutations.\n* Implement on-demand revalidation with Server Actions using `revalidatePath` and `revalidateTag`.\n* Use `revalidateTag` and `revalidatePath` to invalidate specific tags or page paths after data mutations.\n* Use Server Components for data fetching, authentication, and server-side rendering, and Client Components for dynamic, interactive UI.\n* Pass data from Server Components to Client Components using props or React Context.\n* Server Actions in Next.js handle server-side logic, while API Routes handle external API requests.\n* Next.js App Router caches Server Components by default, but can be customized using cache headers.\n* Handle authentication in Server Components using NextAuth or custom authentication solutions",
+      "tags": [
+        "caching",
+        "memoization",
+        "revalidation",
+        "streaming",
+        "rendering",
+        "memoize"
+      ],
+      "added_at": "2026-06-07T11:37:33.889816+00:00"
     }
   ],
-  "last_updated": "2026-06-05T23:11:01.109659+00:00"
+  "last_updated": "2026-06-07T11:37:33.889837+00:00"
 }

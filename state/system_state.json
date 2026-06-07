@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3216,
+  "cycle_count": 3221,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-07T11:20:49.977655+00:00",
+  "last_checkpoint": "2026-06-07T11:54:48.017619+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -978,7 +978,9 @@
       "https://typescriptdocs.com/",
       "https://www.prismahealthurgentcare.org/",
       "https://prismahousebk.com/",
-      "https://fastapi.org/"
+      "https://fastapi.org/",
+      "https://www.digitalapplied.com/blog/react-server-components-production-patterns-guide",
+      "https://nextjs.org/docs/14/app/building-your-application/rendering/composition-patterns"
     ],
     "automation": [
       "https://www.selenium.dev/",
