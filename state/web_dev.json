@@ -1020,7 +1020,50 @@
         "web_dev"
       ],
       "added_at": "2026-06-07T12:52:32.396547+00:00"
+    },
+    {
+      "id": "7e7f34ae",
+      "source_url": "https://lispcookbook.github.io/cl-cookbook/websockets.html",
+      "title": "WebSockets - GitHub Pages",
+      "summary": "* The WebSocket connection is established with `new WebSocket(\"ws://localhost:12345/\")`.\n* The `receivedMessage` function handles incoming messages and appends them to the chat log.\n* The `ws.addEventListener('message', receivedMessage)` line sets up the event listener for incoming messages.\n* The `inputField.addEventListener(\"keyup\", ...)` line sets up the event listener for the Enter key press.\n* The `ws.send(evt.target.value)` line sends the user's input to the server when the Enter key is pressed.\n* The server is set up with `(clack:clackup #'chat-server :port 12345)`.\n* The client is set up with `(clack:clackup #'client-server :port 8080)`.\n* The `client-server` function returns an HTTP response with HTML content.\n* The `chat-server` function is not defined in the provided code snippet, but it's likely responsible for handling WebSocket connections.\n* The `clack` library is used for setting up the server.",
+      "tags": [
+        "websocket",
+        "clack",
+        "javascript",
+        "html",
+        "http",
+        "server"
+      ],
+      "added_at": "2026-06-07T22:33:31.200851+00:00"
+    },
+    {
+      "id": "30cf2aca",
+      "source_url": "https://lispcookbook.github.io/cl-cookbook/web.html",
+      "title": "Web development - GitHub Pages",
+      "summary": "* `easy-routes-acceptor` iterates over Hunchentoot's `*dispatch-table*` if no route is found by `easy-routes`.\n* Route signature is made up of two parts: path and parameters, e.g., `(\"/foo/:x\" :method :get) (y &get z)`.\n* `:x` captures the path parameter and binds it to the `x` variable.\n* `y` and `&get z` define URL parameters, with options `:init-form` and `:parameter-type`.\n* `easy-routes:genurl` generates a URL from its name, e.g., `(easy-routes:genurl 'my-route-name :id 3)`.\n* Decorators are functions that execute before the route body, e.g., `@auth`, `@html`, `@json`, `@db`.\n* `defroute` macro and `@route` annotation define routes in Caveman, e.g., `(defroute \"/welcome\" (&key (|name| \"Guest\")) ...)`.\n* `splat` key defines \"wildcards\" parameters, e.g., `(defroute \"/say/*/to/*\" (&key splat) ...)`.\n* `hunchentoot:parameter` accesses query parameters, with alternatives `get-parameter` and `post-parameter`.\n* `default-parameter-type` is an option for `define-easy-handler`, e.g., `(hunchentoot:define-easy-handler (say-yo :uri \"/yo\") (name) ...)`.\n* Djula compiles templates before rendering them.\n* Djula is a popular library, one of the most downloaded on Quicklisp.\n* Djula has a companion access library.\n* Djula filters modify variable display.\n* Djula comes with a set of built-in filters.\n* Filters are distinct from tags in Djula.\n* Filter syntax is `{% filter_name variable %}`.\n* Built-in filters are well-documented.\n* Djula uses existing filters, such as `lower`.\n* Filters",
+      "tags": [
+        "web development",
+        "url parameters",
+        "route mapping",
+        "api decorators",
+        "macro functions"
+      ],
+      "added_at": "2026-06-07T22:49:29.635808+00:00"
+    },
+    {
+      "id": "cca4ba6d",
+      "source_url": "https://lispcookbook.github.io/cl-cookbook/sockets.html",
+      "title": "TCP/UDP programming with sockets - GitHub Pages",
+      "summary": "* TCP/UDP programming uses sockets in Common Lisp.\n* `(create-client 12321 (make-array 8 :element-type '(unsigned-byte 8)))` creates a client socket.\n* `make-array` function is used to create a vector with a specified element type.\n* `:element-type` parameter specifies the type of elements in the array, e.g., `(unsigned-byte 8)`.\n* Sockets can send and receive data between different REPLs.\n* Data sent through sockets can be received in a different order.\n* Vectors are used to represent the data sent and received through sockets.\n* The `create-client` function takes a port number and an array as arguments.\n* Sockets can be used for network communication in Common Lisp.",
+      "tags": [
+        "network sockets",
+        "common lisp",
+        "tcp udp",
+        "socket programming",
+        "data vectors"
+      ],
+      "added_at": "2026-06-07T22:55:47.708670+00:00"
     }
   ],
-  "last_updated": "2026-06-07T12:52:32.396567+00:00"
+  "last_updated": "2026-06-07T22:55:47.708686+00:00"
 }

@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3311,
+  "cycle_count": 3316,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-07T22:17:49.833810+00:00",
+  "last_checkpoint": "2026-06-07T23:07:57.580369+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1002,7 +1002,12 @@
       "https://sourceforge.net/projects/tailwindcss.mirror/",
       "https://techoral.com/react/react-nextjs-guide.html",
       "https://nextjs.org/docs/14/app/building-your-application",
-      "https://github.com/tailwindlabs/tailwindcss"
+      "https://github.com/tailwindlabs/tailwindcss",
+      "https://lispcookbook.github.io/cl-cookbook/",
+      "https://lispcookbook.github.io/cl-cookbook/websockets.html",
+      "https://lispcookbook.github.io/cl-cookbook/web.html",
+      "https://lispcookbook.github.io/cl-cookbook/sockets.html",
+      "https://lispcookbook.github.io/cl-cookbook/io.html"
     ],
     "automation": [
       "https://www.selenium.dev/",
