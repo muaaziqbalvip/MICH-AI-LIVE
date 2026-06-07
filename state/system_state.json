@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3126,
+  "cycle_count": 3131,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-07T07:22:34.382757+00:00",
+  "last_checkpoint": "2026-06-07T07:31:11.091852+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -966,7 +966,8 @@
       "https://en.wikipedia.org/wiki/Preferred_reporting_items_for_systematic_reviews_and_meta-analyses",
       "https://nextdoor.com/",
       "https://typescriptdocs.com/",
-      "https://www.prismahealthurgentcare.org/"
+      "https://www.prismahealthurgentcare.org/",
+      "https://prismahousebk.com/"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -1182,7 +1183,8 @@
       "https://webapps.stackexchange.com/questions/4438/create-a-google-maps-link-to-a-specific-location",
       "https://support.google.com/maps/answer/3093484?hl=en&co=GENIE.Platform=Desktop",
       "https://en.m.wikipedia.org/wiki/Git",
-      "https://draxe.com/nutrition/selenium-benefits/"
+      "https://draxe.com/nutrition/selenium-benefits/",
+      "https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/"
     ]
   },
   "software_factory_jobs": [],
