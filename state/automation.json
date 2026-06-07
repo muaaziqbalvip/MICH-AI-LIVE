@@ -1028,7 +1028,21 @@
         "blobs"
       ],
       "added_at": "2026-06-06T00:36:47.383027+00:00"
+    },
+    {
+      "id": "53fd7709",
+      "source_url": "https://git-scm.com/install/windows",
+      "title": "Git - Install for Windows",
+      "summary": "* Latest Git version for Windows: 2.54.0\n* Release date: 2026-04-20\n* Available architectures: x64, ARM64\n* Installation methods: Standalone Installer, Portable, winget tool\n* winget installation command: `winget install --id Git.Git -e --source winget`\n* Current source code release: 2.54.0\n* Option to build from source code for newer versions\n* Available GUI tools: free and commercial options\n* Documentation: Pro Git book\n* Community support: available for questions and guidance",
+      "tags": [
+        "git",
+        "windows",
+        "arm64",
+        "winget",
+        "gui"
+      ],
+      "added_at": "2026-06-07T07:37:17.703242+00:00"
     }
   ],
-  "last_updated": "2026-06-06T00:36:47.383043+00:00"
+  "last_updated": "2026-06-07T07:37:17.703260+00:00"
 }
