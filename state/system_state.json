@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3486,
+  "cycle_count": 3491,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T18:15:50.649301+00:00",
+  "last_checkpoint": "2026-06-08T18:24:40.962325+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1047,7 +1047,8 @@
       "https://github.com/docker/docker-install",
       "https://dev.to/muhammad_usman_dev/nextjs-14-app-router-building-modern-full-stack-applications-52ej",
       "https://www.next.co.uk/?msockid=10824ba3380668c9282f5cd1391a69b2",
-      "https://next.mn/"
+      "https://next.mn/",
+      "https://pro.lightswind.com/blogs/mastering-tailwind-css-advanced-patterns"
     ],
     "automation": [
       "https://www.selenium.dev/",
