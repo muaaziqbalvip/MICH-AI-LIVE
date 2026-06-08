@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3343,
+  "cycle_count": 3346,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T00:40:14.052145+00:00",
+  "last_checkpoint": "2026-06-08T06:33:20.385102+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -541,7 +541,12 @@
       "https://github.com/HasData/python-for-seo",
       "https://python-ai-tools.com/ai-content-creation-marketing-automation/seo-keyword-research-with-python",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=07ebfaec08b8692725c8ed9d09d36845",
-      "https://www.wordreference.com/definition/content"
+      "https://www.wordreference.com/definition/content",
+      "https://www.tiktok.com/tag/influencers",
+      "https://www.tiktok.com/tag/influencer",
+      "https://www.tiktok.com/@bellyinfluencer",
+      "https://www.tiktok.com/@aliceisgratified",
+      "https://www.tiktok.com/@thesinfluencer"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -1243,5 +1248,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "stopped"
+  "status": "running"
 }
