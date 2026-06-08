@@ -1370,7 +1370,22 @@
         "software engineer"
       ],
       "added_at": "2026-06-08T10:40:35.385663+00:00"
+    },
+    {
+      "id": "9cf13bb8",
+      "source_url": "https://learn.microsoft.com/en-us/docs/",
+      "title": "Technical documentation | Microsoft Learn",
+      "summary": "* .NET and .NET MAUI are Microsoft developer tools.\n* ASP.NET Core is a Microsoft web framework.\n* Azure is a Microsoft cloud platform.\n* C# and C++ are programming languages supported by Microsoft.\n* Dynamics 365 is a Microsoft product suite with various modules (e.g., Sales, Finance, Customer Service).\n* Microsoft Graph is a RESTful API for accessing Microsoft services.\n* PowerShell is a task automation and configuration management framework.\n* Visual Studio is a Microsoft integrated development environment (IDE).\n* Microsoft Learn provides technical documentation and training resources.\n* Power Platform includes Power Apps, Power Automate, and Power BI.",
+      "tags": [
+        ".net",
+        "azure",
+        "asp.net",
+        "c#",
+        "powershell",
+        "dynamics"
+      ],
+      "added_at": "2026-06-08T18:43:30.509709+00:00"
     }
   ],
-  "last_updated": "2026-06-08T10:40:35.385674+00:00"
+  "last_updated": "2026-06-08T18:43:30.509723+00:00"
 }
