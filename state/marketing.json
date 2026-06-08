@@ -1355,7 +1355,22 @@
         "production modality"
       ],
       "added_at": "2026-06-08T07:38:18.094442+00:00"
+    },
+    {
+      "id": "114cb9f4",
+      "source_url": "https://weworkremotely.com/remote-jobs-seo-writing",
+      "title": "We Work Remotely | Remote SEO Writing Jobs",
+      "summary": "* Use Advanced Filters to narrow job search\n* Utilize Location Filter for country-specific searches\n* Use specific keywords (e.g. \"Rails\" instead of \"Ruby on Rails\")\n* Job search supports various categories (e.g. Full-stack Engineer, Customer Support)\n* Search by company name\n* Search by job title (e.g. Marketing Manager, Senior Software Engineer)\n* Search by salary range (e.g. $100,000 or more USD)\n* UI/UX Design is a supported job category\n* Search queries include job descriptions\n* Advanced Search supports multiple search parameters",
+      "tags": [
+        "advanced filters",
+        "location filter",
+        "job search",
+        "ui/ux design",
+        "full-stack engineer",
+        "software engineer"
+      ],
+      "added_at": "2026-06-08T10:40:35.385663+00:00"
     }
   ],
-  "last_updated": "2026-06-08T07:38:18.094456+00:00"
+  "last_updated": "2026-06-08T10:40:35.385674+00:00"
 }

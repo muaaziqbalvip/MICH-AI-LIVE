@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3446,
+  "cycle_count": 3451,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T10:29:55.898692+00:00",
+  "last_checkpoint": "2026-06-08T10:48:43.376608+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -555,7 +555,14 @@
       "https://es.vectormagic.com/",
       "https://www.telovectorizo.com/vectorizado-de-planos/",
       "https://play.google.com/store/apps/category/SOCIAL?hl=en",
-      "https://blog.onlyfans.com/oftv/"
+      "https://blog.onlyfans.com/oftv/",
+      "https://weworkremotely.com/remote-jobs-search-engine-optimization-seo",
+      "https://weworkremotely.com/remote-seo-jobs",
+      "https://weworkremotely.com/remote-jobs-seo-optimization",
+      "https://weworkremotely.com/remote-jobs-seo-writing",
+      "https://weworkremotely.com/remote-jobs-on-page-seo",
+      "https://news.google.com/",
+      "https://docs.google.com/"
     ],
     "android_core": [
       "https://www.android.com/",
