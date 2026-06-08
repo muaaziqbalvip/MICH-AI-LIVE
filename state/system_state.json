@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3581,
+  "cycle_count": 3586,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T23:02:49.270303+00:00",
+  "last_checkpoint": "2026-06-08T23:16:58.829860+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -580,7 +580,8 @@
       "https://support.microsoft.com/en-us/office/enterprise-content-management-in-sharepoint-930dd985-5bb9-447b-affd-86fcf690e994",
       "https://learn.microsoft.com/en-us/docs/",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=3af94a6543f86b313fcc5d17427f6a34",
-      "https://steerads.com/en/blog/automation-google-ads-api-python-debutant"
+      "https://steerads.com/en/blog/automation-google-ads-api-python-debutant",
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=2e4843a3fa04693d2d1254d1fb796858"
     ],
     "android_core": [
       "https://www.android.com/",
