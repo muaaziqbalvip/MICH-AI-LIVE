@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3361,
+  "cycle_count": 3366,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T07:00:15.522414+00:00",
+  "last_checkpoint": "2026-06-08T07:41:21.111512+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -547,7 +547,12 @@
       "https://www.tiktok.com/tag/influencer",
       "https://www.tiktok.com/@bellyinfluencer",
       "https://www.tiktok.com/@aliceisgratified",
-      "https://www.tiktok.com/@thesinfluencer"
+      "https://www.tiktok.com/@thesinfluencer",
+      "https://glima.ai/es/generador-de-imagenes/ai-dibujo-cad",
+      "https://es.vectorizer.ai/jpg-to-pdf-converter",
+      "https://vectorizer.ai/",
+      "https://es.vectormagic.com/",
+      "https://www.telovectorizo.com/vectorizado-de-planos/"
     ],
     "android_core": [
       "https://www.android.com/",

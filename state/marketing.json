@@ -1317,7 +1317,45 @@
         "reporting"
       ],
       "added_at": "2026-06-07T23:44:31.175855+00:00"
+    },
+    {
+      "id": "30923c39",
+      "source_url": "https://vectorizer.ai/",
+      "title": "Image to Vector Converter | Vectorize PNG, JPG & WebP to S…",
+      "summary": "* Supports various curve types: circular arcs, elliptical arcs, quadratic and cubic Bezier curves\n* Utilizes state-of-the-art GPUs for deep learning and multi-core CPUs for parallel algorithms\n* Detects and models mirror and rotational symmetries in images\n* Adaptive simplification of faint and indistinct boundaries\n* Sub-pixel precision for feature extraction and boundary placement\n* Supports full 32-bit color, including alpha channel for transparency\n* Export options: SVG, EPS, DXF, PDF, and PNG\n* Automatic detection of palette colors, with adjustable palette size\n* Pre-crop feature to maximize resolution and quality\n* Fully automatic, no user input required\n* Deep Learning AI is used for image vectorization, trained on a proprietary dataset.\n* Supported input file formats: PNG, JPG, GIF, BMP, WebP.\n* Supported output file formats: SVG, EPS, DXF, PDF, \"cleaned up\" PNG.\n* Maximum image pixel size: 3 megapixels.\n* Maximum image file size: 30 megabytes.\n* Supports full 32-bit ARGB input for transparency.\n* Vector images are composed of geometric shapes, scalable without loss of quality.\n* Vector graphics can be edited in a vector editor, unlike bitmap images.\n* Algorithm works on AI-generated images.\n* Results follow file format standards, compatible with standards-compliant readers.",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-06-08T07:20:57.894907+00:00"
+    },
+    {
+      "id": "b2da5e62",
+      "source_url": "https://es.vectormagic.com/",
+      "title": "Vector Magic: convierta imágenes JPG, PNG en vectores SVG, EPS, AI",
+      "summary": "* Vector Magic convierte imágenes JPG, PNG a vectores SVG, EPS, AI.\n* Edición de píxeles es necesaria para crear rutas despejadas en regiones de interés.\n* La herramienta \"Zap\" ayuda a dividir y combinar segmentos para mejorar la segmentación.\n* Mapa de bits es utilizado en el proceso de conversión.\n* Segmentación es un paso importante en la conversión de imágenes a vectores.\n* Suavizado puede generar sobrantes que necesitan ser eliminados.\n* La herramienta permite deshacer o restablecer cambios.\n* El resultado es un vector editable en formatos como SVG, EPS, AI.\n* La conversión de imágenes a vectores requiere técnicas de procesamiento de imagen.\n* La herramienta \"Zap\" ayuda a mejorar la precisión de la segmentación.",
+      "tags": [
+        "vector graphics",
+        "image processing",
+        "pixel editing",
+        "svg conversion",
+        "segmentación"
+      ],
+      "added_at": "2026-06-08T07:33:10.141535+00:00"
+    },
+    {
+      "id": "8d505b04",
+      "source_url": "https://www.telovectorizo.com/vectorizado-de-planos/",
+      "title": "Vectorizado de planos y mapas en ¡TIEMPO RECORD! 100%",
+      "summary": "* Vectorized plans and maps can be scaled up or down without losing quality.\n* Vector graphics can be adapted to any production modality.\n* Vectorization allows for 100% quality maintenance.\n* Clients without technical knowledge can send vectorized files to production companies.\n* Companies with technical knowledge can manipulate vectorized files as needed.\n* Vectorization is beneficial for architects, designers, and marketing professionals.\n* The cost of vectorization depends on the complexity of the image.\n* Vectorized files can be used in various formats and applications.\n* High-quality vectorization maintains its resolution and clarity.\n* Vectorization enables flexible and efficient editing and production.",
+      "tags": [
+        "vector graphics",
+        "image editing",
+        "file formats",
+        "technical knowledge",
+        "production modality"
+      ],
+      "added_at": "2026-06-08T07:38:18.094442+00:00"
     }
   ],
-  "last_updated": "2026-06-07T23:44:31.175873+00:00"
+  "last_updated": "2026-06-08T07:38:18.094456+00:00"
 }
