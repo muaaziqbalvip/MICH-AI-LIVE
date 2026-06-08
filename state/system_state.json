@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3521,
+  "cycle_count": 3526,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T19:46:45.347831+00:00",
+  "last_checkpoint": "2026-06-08T20:02:47.202793+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1290,7 +1290,8 @@
       "https://www.zhihu.com/question/39997143",
       "https://www.zhihu.com/question/37038050",
       "https://play.google.com/store/apps/details?id=com.github.android&hl=en-US",
-      "https://docs.aws.amazon.com/lambda/"
+      "https://docs.aws.amazon.com/lambda/",
+      "https://www.iditect.com/faq/python/how-to-run-bash-commands-inside-of-a-python-script.html"
     ]
   },
   "software_factory_jobs": [],
