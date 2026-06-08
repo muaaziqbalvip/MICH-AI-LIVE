@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3541,
+  "cycle_count": 3546,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T20:50:44.467355+00:00",
+  "last_checkpoint": "2026-06-08T21:06:43.173813+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -248,7 +248,10 @@
       "https://onlinecasinosco.com/states/michigan/",
       "https://www.youtube.com/playlist?list=PLIZNbXAvIxT9HnAZlwRwISSCxzjMKrD0Q",
       "https://codepal.ai/library-finder/query/h2iSrLYc/editing-videos-using-python",
-      "https://www.udemy.com/course/automate-video-editing-with-python-and-moviepy/"
+      "https://www.udemy.com/course/automate-video-editing-with-python-and-moviepy/",
+      "https://www.vitadentalhouston.com/dr-sang-pil-yu/",
+      "https://www.opencare.com/dentists/katy-tx/dr-sang-pil-yu-24631310494d/",
+      "https://timetocargo.com/shipping-lines/pil"
     ],
     "marketing": [
       "https://mail.google.com/mail",
