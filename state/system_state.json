@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3456,
+  "cycle_count": 3461,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T11:02:24.321390+00:00",
+  "last_checkpoint": "2026-06-08T11:19:11.076817+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -563,7 +563,8 @@
       "https://weworkremotely.com/remote-jobs-on-page-seo",
       "https://news.google.com/",
       "https://docs.google.com/",
-      "https://thesocialnorthcharles.com/"
+      "https://thesocialnorthcharles.com/",
+      "https://www.facebook.com/�%"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -1038,7 +1039,8 @@
       "https://lispcookbook.github.io/cl-cookbook/web.html",
       "https://lispcookbook.github.io/cl-cookbook/sockets.html",
       "https://lispcookbook.github.io/cl-cookbook/io.html",
-      "https://github.com/docker/docker-install"
+      "https://github.com/docker/docker-install",
+      "https://dev.to/muhammad_usman_dev/nextjs-14-app-router-building-modern-full-stack-applications-52ej"
     ],
     "automation": [
       "https://www.selenium.dev/",
