@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3351,
+  "cycle_count": 3356,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T06:40:57.251130+00:00",
+  "last_checkpoint": "2026-06-08T06:51:41.627327+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1019,7 +1019,8 @@
       "https://lispcookbook.github.io/cl-cookbook/websockets.html",
       "https://lispcookbook.github.io/cl-cookbook/web.html",
       "https://lispcookbook.github.io/cl-cookbook/sockets.html",
-      "https://lispcookbook.github.io/cl-cookbook/io.html"
+      "https://lispcookbook.github.io/cl-cookbook/io.html",
+      "https://github.com/docker/docker-install"
     ],
     "automation": [
       "https://www.selenium.dev/",
