@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3561,
+  "cycle_count": 3566,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T21:53:24.627761+00:00",
+  "last_checkpoint": "2026-06-08T22:20:18.967254+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -578,7 +578,8 @@
       "https://www.facebook.com/�%",
       "https://learn.microsoft.com/en-us/sharepoint/create-customize-content-type",
       "https://support.microsoft.com/en-us/office/enterprise-content-management-in-sharepoint-930dd985-5bb9-447b-affd-86fcf690e994",
-      "https://learn.microsoft.com/en-us/docs/"
+      "https://learn.microsoft.com/en-us/docs/",
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=3af94a6543f86b313fcc5d17427f6a34"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -1302,7 +1303,8 @@
       "https://www.zhihu.com/question/37038050",
       "https://play.google.com/store/apps/details?id=com.github.android&hl=en-US",
       "https://docs.aws.amazon.com/lambda/",
-      "https://www.iditect.com/faq/python/how-to-run-bash-commands-inside-of-a-python-script.html"
+      "https://www.iditect.com/faq/python/how-to-run-bash-commands-inside-of-a-python-script.html",
+      "https://www.wasilzafar.com/pages/series/software-engineering/deep-dive-github-actions-06-advanced-patterns.html"
     ]
   },
   "software_factory_jobs": [],

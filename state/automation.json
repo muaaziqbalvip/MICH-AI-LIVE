@@ -1070,7 +1070,22 @@
         "technical information"
       ],
       "added_at": "2026-06-08T20:01:14.255712+00:00"
+    },
+    {
+      "id": "9006b0e0",
+      "source_url": "https://www.wasilzafar.com/pages/series/software-engineering/deep-dive-github-actions-06-advanced-patterns.html",
+      "title": "GitHub Actions Bootcamp Module 6: Advanced Workflow Patterns",
+      "summary": "* `cancel-in-progress: true` allows re-running tests in CI workflows.\n* `runs-on: ubuntu-latest` specifies the environment for job execution.\n* `actions/checkout@v4` is used to check out the repository code.\n* `concurrency` controls job execution, allowing only one job to run at a time.\n* `group` attribute in `concurrency` specifies the concurrency group.\n* `cancel-in-progress: false` prevents canceling of in-progress deployments.\n* `needs` keyword specifies job dependencies, ensuring sequential execution.\n* `environment` keyword defines the environment for a job, e.g., `staging`.\n* `actions/checkout` and `npm` commands are used in workflow steps.\n* `npm ci && npm test` runs package installation and tests in a single step.",
+      "tags": [
+        "ci",
+        "ubuntu",
+        "concurrency",
+        "checkout",
+        "npm",
+        "github actions"
+      ],
+      "added_at": "2026-06-08T22:19:45.434613+00:00"
     }
   ],
-  "last_updated": "2026-06-08T20:01:14.255726+00:00"
+  "last_updated": "2026-06-08T22:19:45.434625+00:00"
 }
