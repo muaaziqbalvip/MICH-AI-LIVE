@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3406,
+  "cycle_count": 3411,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T09:13:47.147255+00:00",
+  "last_checkpoint": "2026-06-08T09:30:30.513144+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1254,7 +1254,12 @@
       "https://aws.amazon.com/cn/",
       "https://www.python.org/downloads/",
       "https://www.tutorialspoint.com/selenium/index.htm",
-      "https://github.com/github"
+      "https://github.com/github",
+      "https://www.zhihu.com/tardis/zm/art/712149050",
+      "https://www.zhihu.com/tardis/bd/art/714959968",
+      "https://www.zhihu.com/tardis/zm/art/716848921",
+      "https://www.zhihu.com/question/39997143",
+      "https://www.zhihu.com/question/37038050"
     ]
   },
   "software_factory_jobs": [],
