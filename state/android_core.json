@@ -890,7 +890,22 @@
         "android_core"
       ],
       "added_at": "2026-06-08T00:35:07.460368+00:00"
+    },
+    {
+      "id": "36a27d05",
+      "source_url": "https://developer.android.com/develop/ui/compose/documentation",
+      "title": "Get started with Jetpack Compose | Android Developers",
+      "summary": "* Jetpack Compose is a UI framework for Android development\n* CompositionLocal is used for locally scoped data\n* Themes in Compose have a specific anatomy\n* API guidelines and reference are available for Compose\n* Codelabs and sample apps provide hands-on learning experiences\n* Compose documentation includes code samples and videos\n* Content is licensed under the Content License\n* Java and OpenJDK are used in Android development\n* Jetpack Compose is part of the Android Developers platform\n* Compose documentation is regularly updated for new features and best practices",
+      "tags": [
+        "android",
+        "jetpack",
+        "compose",
+        "ui",
+        "api",
+        "java"
+      ],
+      "added_at": "2026-06-08T08:15:51.298516+00:00"
     }
   ],
-  "last_updated": "2026-06-08T00:35:07.460384+00:00"
+  "last_updated": "2026-06-08T08:15:51.298531+00:00"
 }
