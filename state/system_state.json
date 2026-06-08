@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3536,
+  "cycle_count": 3541,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T20:23:55.999897+00:00",
+  "last_checkpoint": "2026-06-08T20:50:44.467355+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1059,7 +1059,12 @@
       "https://zhuanlan.zhihu.com/p/160910342",
       "https://www.next.co.uk/?msockid=2958730fcca9670225ae647dcdea66b3",
       "https://www.nordstrom.com/brands/next--25801?msockid=2958730fcca9670225ae647dcdea66b3",
-      "https://techoral.com/python/python-fastapi-guide.html"
+      "https://techoral.com/python/python-fastapi-guide.html",
+      "https://www.gohammond.com/",
+      "https://www.gohammond.com/news/",
+      "https://www.gohammond.com/contact-us/",
+      "https://www.gohammond.com/events/",
+      "https://www.gohammond.com/calendar/"
     ],
     "automation": [
       "https://www.selenium.dev/",

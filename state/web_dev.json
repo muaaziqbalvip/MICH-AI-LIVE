@@ -1063,7 +1063,35 @@
         "data vectors"
       ],
       "added_at": "2026-06-07T22:55:47.708670+00:00"
+    },
+    {
+      "id": "af48c169",
+      "source_url": "https://www.gohammond.com/news/",
+      "title": "News | City of Hammond, Indiana",
+      "summary": "* Hammond city departments include Public Works, Parks Maintenance, and Sanitation\n* Departments are divided into divisions, such as Building Division and Code Enforcement Division\n* City planning involves Zoning Division, Community Development, and Economic Development\n* Hammond has a separate Police Department and Sanitary District\n* Utilities include Water Department and Sewer Maintenance Department\n* Hammond Redevelopment Commission is a separate entity\n* City has a Housing Authority and Human Relations department\n* Inspections Department handles building and code enforcement\n* Streets Department and Street Lighting Department manage infrastructure",
+      "tags": [
+        "building division",
+        "code enforcement",
+        "public works",
+        "urban planning",
+        "infrastructure management",
+        "community development"
+      ],
+      "added_at": "2026-06-08T20:37:40.827928+00:00"
+    },
+    {
+      "id": "41af1a40",
+      "source_url": "https://www.gohammond.com/events/",
+      "title": "Events | City of Hammond, Indiana",
+      "summary": "* Website has a Privacy Policy in place\n* Website adheres to ADA Compliance standards\n* Website follows Title VI Plan regulations\n* Employee Access is available through the website\n* The city has an Indiana Transparency Portal\n* The website is hosted for the City of Hammond, Indiana\n* The city has various departments listed, including City Clerk and City Engineer\n* The city has a Hammond Redevelopment Commission\n* The city has a Hammond Police Department\n* The website lists various city services, including Animal Control and Parks and Recreation",
+      "tags": [
+        "accessibility compliance",
+        "transparency portal",
+        "employee access",
+        "website hosting"
+      ],
+      "added_at": "2026-06-08T20:40:52.661497+00:00"
     }
   ],
-  "last_updated": "2026-06-07T22:55:47.708686+00:00"
+  "last_updated": "2026-06-08T20:40:52.661515+00:00"
 }
