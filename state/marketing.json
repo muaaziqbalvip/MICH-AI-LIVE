@@ -1385,7 +1385,22 @@
         "dynamics"
       ],
       "added_at": "2026-06-08T18:43:30.509709+00:00"
+    },
+    {
+      "id": "f850e59f",
+      "source_url": "https://steerads.com/en/blog/automation-google-ads-api-python-debutant",
+      "title": "Google Ads API Python automation: beginner's guide",
+      "summary": "* GAQL requires explicit declaration of each field to limit bandwidth and force advertisers to know what they consume.\n* Using `segments.date` introduces row-fanning, resulting in one row per campaign per day.\n* `ORDER BY` is mandatory for consistent pagination in GAQL queries.\n* The Google Ads API automatically paginates beyond 10,000 rows.\n* Mutations are used for write operations, such as creating, updating, or pausing a campaign.\n* The `operation > mutation > response` pattern is used for mutations.\n* The `CampaignService` is used to pause a campaign.\n* A `field mask` is required to specify what fields to update in a mutation.\n* The `google-ads.yaml` file is used to load client credentials for the Google Ads API.\n* The `GoogleAdsClient` class is used to interact with the Google Ads API in Python.\n* `resource_name` identifies the entity (e.g., `customers/{customer_id}/campaigns/{campaign_id}`)\n* `update_mask` specifies which fields are being modified\n* `protobuf_helpers.field_mask(None, campaign._pb)` generates the mask from modified fields\n* `GoogleAdsClient.load_from_storage(\"google-ads.yaml\")` loads the client from a YAML file\n* `create_campaign_budget` function creates a new campaign budget with a specified daily budget\n* `create_search_campaign` function creates a new search campaign with a specified name and budget\n* Campaigns should be created as `PAUSED` initially and activated manually after review\n* `try/except GoogleAdsException` should be used to handle API exc",
+      "tags": [
+        "gaql",
+        "google ads",
+        "api",
+        "mutations",
+        "pagination",
+        "yaml"
+      ],
+      "added_at": "2026-06-08T22:41:02.813913+00:00"
     }
   ],
-  "last_updated": "2026-06-08T18:43:30.509723+00:00"
+  "last_updated": "2026-06-08T22:41:02.813931+00:00"
 }
