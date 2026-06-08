@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3336,
+  "cycle_count": 3341,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-07T23:47:35.188802+00:00",
+  "last_checkpoint": "2026-06-08T00:35:09.664943+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -720,7 +720,11 @@
       "https://www.xbox.com/en-US/apps/xbox-app-on-mobile?msockid=0257715a7f9e6b343eb9662b7edb6aed",
       "https://www.microsoft.com/en-us/windows/learning-center/how-to-connect-your-phone-to-a-computer?msockid=0257715a7f9e6b343eb9662b7edb6aed",
       "https://support.xbox.com/en-US/help/games-apps/cloud-gaming/about-cloud-gaming",
-      "https://www.microsoft.com/en-us?msockid=0257715a7f9e6b343eb9662b7edb6aed"
+      "https://www.microsoft.com/en-us?msockid=0257715a7f9e6b343eb9662b7edb6aed",
+      "https://www.microsoft.com/en-us/windows/sync-across-your-devices?msockid=1bb2d0ac556d66743fdec7dd544f6755",
+      "https://www.xbox.com/en-US/apps/xbox-app-on-mobile?msockid=1bb2d0ac556d66743fdec7dd544f6755",
+      "https://www.microsoft.com/en-us/windows/learning-center/how-to-connect-your-phone-to-a-computer?msockid=1bb2d0ac556d66743fdec7dd544f6755",
+      "https://www.microsoft.com/en-us?msockid=1bb2d0ac556d66743fdec7dd544f6755"
     ],
     "web_dev": [
       "https://tailwindcss.com/",

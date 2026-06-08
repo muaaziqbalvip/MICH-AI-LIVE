@@ -860,7 +860,37 @@
         "android_core"
       ],
       "added_at": "2026-06-07T21:51:12.737851+00:00"
+    },
+    {
+      "id": "77638438",
+      "source_url": "https://www.microsoft.com/en-us/windows/sync-across-your-devices?msockid=1bb2d0ac556d66743fdec7dd544f6755",
+      "title": "Use Phone Link to Sync Your Android or iPhone to Your Windows …",
+      "summary": "* Phone Link requires iPhone with iOS 14 or higher, Windows 11 device, and Bluetooth connection.\n* Phone Link is not compatible with iPad or MacOS.\n* Device pairing is done using Bluetooth and a QR code scanned by the iPhone's camera.\n* Alternative pairing method is available without a QR code, using a hyperlink on the iPhone.\n* Required iPhone permissions are prompted after pairing to access content on the PC.\n* Compatible iPhone tasks include making calls, checking notifications, sending messages, and viewing contacts.\n* Phone Link requires the latest version of the Phone Link app.\n* Regional restrictions may apply to Phone Link usage.\n* iPhone device compatibility may vary.\n* Phone Link is available in the Microsoft Store as \"Microsoft Phone Link\" and in the Apple Store as \"Link to Windows\".\n* Phone Link requires Bluetooth pairing between iPhone and PC to work.\n* iPhone must have iOS 14 or higher to use Phone Link.\n* Phone Link comes preinstalled on Windows 11 devices.\n* To unpair iPhone from Phone Link, remove device from PC settings and \"Forget this device\" on iPhone.\n* Customization options are available in Phone Link PC settings under \"Features\".\n* iPhone users can check phone battery status using Phone Link without unlocking.\n* Messaging feature has limitations on iOS, including no image/video sharing or group messaging.\n* Phone Link requires the latest version of the app to function.\n* Device compatibility may vary, and regional restrictions may apply.\n* Phone Link i",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-08T00:14:08.320070+00:00"
+    },
+    {
+      "id": "0a4e6fb1",
+      "source_url": "https://www.xbox.com/en-US/apps/xbox-app-on-mobile?msockid=1bb2d0ac556d66743fdec7dd544f6755",
+      "title": "XBOX mobile app",
+      "summary": "* XBOX Game Pass games are sold separately and may be added to the service in the future.\n* Cloud gaming is available on supported devices, including XBOX consoles and mobile devices.\n* Game library varies by region, XBOX Game Pass plan, and platform.\n* Cloud gaming library can be accessed at xbox.com/play.\n* Supported devices for cloud gaming are listed at xbox.com/cloud-devices.\n* XBOX Game Pass plan, features, and availability vary over time and by region.\n* Current game library can be viewed at xbox.com/xbox-game-pass/games.\n* Supported regions for XBOX services are listed at xbox.com/regions.\n* XBOX app allows streaming on supported devices.\n* Microsoft account is required for XBOX services.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-08T00:23:57.811324+00:00"
+    },
+    {
+      "id": "77714d29",
+      "source_url": "https://www.microsoft.com/en-us?msockid=1bb2d0ac556d66743fdec7dd544f6755",
+      "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
+      "summary": "* Microsoft 365 offers cloud storage, advanced security, and Microsoft Copilot.\n* Surface Laptop, Copilot+ PCs have built-in AI and all-day battery.\n* XBOX Series X is the fastest, most powerful XBOX console.\n* XBOX Game Pass Ultimate provides access to hundreds of high-quality games.\n* Azure is a platform for designing, fueling, and operationalizing adaptive systems.\n* Visual Studio 2026 is a popular IDE for professional developers.\n* Microsoft Copilot is an AI-powered tool for business productivity.\n* Intel Core Ultra Series 3 processors power new Surface for Business PCs.\n* Microsoft 365 for business offers AI-powered features for increased productivity.\n* Azure supports limitless innovation with machine learning and AI capabilities.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-08T00:35:07.460368+00:00"
     }
   ],
-  "last_updated": "2026-06-07T21:51:12.737871+00:00"
+  "last_updated": "2026-06-08T00:35:07.460384+00:00"
 }
