@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3551,
+  "cycle_count": 3556,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-08T21:35:08.960121+00:00",
+  "last_checkpoint": "2026-06-08T21:43:47.525281+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1069,7 +1069,8 @@
       "https://www.gohammond.com/events/",
       "https://www.gohammond.com/calendar/",
       "https://www.linkedin.com/posts/thetechzeen_prisma-orm-database-activity-7466905428988387328-vnZv",
-      "https://www.prisma.io/docs/orm/core-concepts/supported-databases/postgresql"
+      "https://www.prisma.io/docs/orm/core-concepts/supported-databases/postgresql",
+      "https://docs.docker.com/compose/"
     ],
     "automation": [
       "https://www.selenium.dev/",
