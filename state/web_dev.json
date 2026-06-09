@@ -1176,7 +1176,17 @@
         "sse"
       ],
       "added_at": "2026-06-09T18:37:14.039210+00:00"
+    },
+    {
+      "id": "fa19bc92",
+      "source_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/",
+      "title": "Announcing TypeScript 7.0 Beta - devblogs.microsoft.com",
+      "summary": "* TypeScript 7.0 Beta is available with improved performance and features.\n* TypeScript 7.0 will not run natively in the browser.\n* The TypeScript compiler was ported to Go instead of Rust for pragmatic and high-speed reasons.\n* TypeScript 7.0 drops single output file support, which was available in TypeScript 5.\n* A fork of the TypeScript compiler adds back single output file support in 355 lines of code.\n* The `tsgo` compiler previously prevented namespace merges within the same file, but this issue has been fixed.\n* Retaining output file support does not impact per-file compilation performance.\n* The decision to drop output file support can be looked up in the TypeScript specification or mailing lists.\n* TypeScript's design is not based on formal systems and type theory like some other languages, such as Scala.\n* A programmatic API for TypeScript 7.1 or later is planned to improve real-world testing infrastructure.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-09T20:14:55.703845+00:00"
     }
   ],
-  "last_updated": "2026-06-09T18:37:14.039227+00:00"
+  "last_updated": "2026-06-09T20:14:55.703858+00:00"
 }
