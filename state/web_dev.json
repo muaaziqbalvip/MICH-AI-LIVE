@@ -1186,7 +1186,32 @@
         "web_dev"
       ],
       "added_at": "2026-06-09T20:14:55.703845+00:00"
+    },
+    {
+      "id": "9c726f2f",
+      "source_url": "https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en-US",
+      "title": "Microsoft Copilot - Apps on Google Play",
+      "summary": "* Microsoft Copilot uses GPT-5, a leading AI model, for its chat assistant.\n* The app combines OpenAI and Microsoft AI models for its functionality.\n* AI chat assistant can answer complex questions and provide straightforward answers.\n* AI photo generator can create images from text prompts.\n* AI writing assistant can write, edit, or research topics to create content.\n* AI technology can translate and proofread text across multiple languages.\n* AI chat assistant can compose and draft emails, cover letters, and resumes.\n* AI voice chat can compose stories or scripts and generate high-quality visuals.\n* AI helper can spark inspiration for new tasks and search by images.\n* AI technology can create artwork or designs from text prompts.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-09T20:43:19.548163+00:00"
+    },
+    {
+      "id": "20cf7ef1",
+      "source_url": "https://copilot.is/",
+      "title": "Sign in - Copilot",
+      "summary": "* Copilot is an open-source project.\n* GitHub is used for authentication.\n* Google is used as an alternative authentication method.\n* A privacy policy is in place for user data.\n* The project is hosted on GitHub.\n* Open-source nature implies community contributions are allowed.\n* Authentication is handled through third-party services.\n* No custom authentication system is used.\n* Project transparency is maintained through open-source code.\n* Community engagement is encouraged through GitHub hosting.",
+      "tags": [
+        "open-source",
+        "github",
+        "authentication",
+        "community",
+        "privacy",
+        "github hosting"
+      ],
+      "added_at": "2026-06-09T20:44:24.541677+00:00"
     }
   ],
-  "last_updated": "2026-06-09T20:14:55.703858+00:00"
+  "last_updated": "2026-06-09T20:44:24.541690+00:00"
 }

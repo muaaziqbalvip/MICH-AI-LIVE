@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3831,
+  "cycle_count": 3836,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-09T20:28:36.773863+00:00",
+  "last_checkpoint": "2026-06-09T21:14:45.191270+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -258,7 +258,12 @@
       "https://www.fandango.com/people/tom-cruise-146310/film-credits",
       "https://ew.com/best-tom-cruise-movies-ranked-11736987",
       "https://www.jetbrains.com/pycharm/",
-      "https://www.youtube.com/watch?v=Y8Tko2YC5hA"
+      "https://www.youtube.com/watch?v=Y8Tko2YC5hA",
+      "https://www.amazon.com/",
+      "https://www.amazon.com/your-account",
+      "https://www.amazon.com/gp/css/homepage.html",
+      "https://www.amazon.com/gp/css/your-account-access",
+      "https://www.amazon.com/Colombia/s?k=Colombia"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -1104,7 +1109,12 @@
       "https://www.joinprisma.com/program-middle-school",
       "https://hub.dockermirror.com/u/library",
       "https://ably.com/topic/websockets",
-      "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/"
+      "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/",
+      "https://copilot.microsoft.com/",
+      "https://copilot.cloud.microsoft/",
+      "https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en-US",
+      "https://teams.copilotai.com/",
+      "https://copilot.is/"
     ],
     "automation": [
       "https://www.selenium.dev/",

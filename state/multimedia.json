@@ -969,7 +969,27 @@
         "e-commerce"
       ],
       "added_at": "2026-06-09T19:11:54.813257+00:00"
+    },
+    {
+      "id": "80ca636d",
+      "source_url": "https://www.amazon.com/gp/css/your-account-access",
+      "title": "Amazon.com",
+      "summary": "* Amazon offers various services like Amazon Web Services, Amazon Ads, and Amazon Payment Products.\n* Amazon provides cloud computing services through Amazon Web Services.\n* Amazon has a range of payment products including Amazon Visa, Amazon Store Card, and Amazon Secured Card.\n* Amazon offers affiliate and advertising programs for businesses.\n* Amazon provides e-commerce solutions for businesses through Amazon Business and Amazon Global.\n* Amazon has a range of media services including Amazon Music, Audible, and Prime Video Direct.\n* Amazon offers smart home security systems through Ring and eero WiFi.\n* Amazon provides pharmacy services through PillPack.\n* Amazon has a range of digital publishing services including Kindle Direct Publishing and ACX.\n* Amazon offers various APIs and tools for developers and businesses to integrate with its services.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-09T20:57:56.873908+00:00"
+    },
+    {
+      "id": "946af416",
+      "source_url": "https://www.amazon.com/Colombia/s?k=Colombia",
+      "title": "Amazon.com: Colombia",
+      "summary": "* Rainforest Alliance certification ensures sustainable forestry practices.\n* Certified products follow climate-smart farming practices to protect natural resources.\n* Sustainable practices safeguard carbon-storing forests and help mitigate climate change.\n* Rainforest Alliance certification promotes worker well-being and protects workers' rights.\n* Products with sustainability features have trusted certifications.\n* Farming practices prioritize responsible management of land, water, and energy.\n* Biodiversity is protected through sustainable harvesting practices.\n* Rainforest Alliance certified products help farmers adapt to climate change.\n* Sustainable materials are harvested from responsibly managed farms and forests.\n* Certification ensures protection of animals, plants, and healthy ecosystems.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-09T21:10:09.948577+00:00"
     }
   ],
-  "last_updated": "2026-06-09T19:11:54.813270+00:00"
+  "last_updated": "2026-06-09T21:10:09.948590+00:00"
 }
