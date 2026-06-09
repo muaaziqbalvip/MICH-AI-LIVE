@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3786,
+  "cycle_count": 3791,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-09T18:13:50.248487+00:00",
+  "last_checkpoint": "2026-06-09T18:29:34.303494+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1336,7 +1336,8 @@
       "https://zh.wikipedia.org/wiki/GitHub",
       "https://github.tw.cn/",
       "https://www.jetbrains.com/pycharm/",
-      "https://www.youtube.com/watch?v=Y8Tko2YC5hA"
+      "https://www.youtube.com/watch?v=Y8Tko2YC5hA",
+      "https://www.browserstack.com/guide/playwright-architecture"
     ]
   },
   "software_factory_jobs": [],
