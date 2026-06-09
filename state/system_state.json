@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3681,
+  "cycle_count": 3686,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-09T08:32:12.211927+00:00",
+  "last_checkpoint": "2026-06-09T09:04:06.350270+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1076,7 +1076,12 @@
       "https://docs.docker.com/compose/",
       "https://www.next.co.uk/?msockid=39c015eda377621f1d5e029ea2da638e",
       "https://www.next.us/en/Offers",
-      "https://www.nordstrom.com/brands/next--25801?msockid=39c015eda377621f1d5e029ea2da638e"
+      "https://www.nordstrom.com/brands/next--25801?msockid=39c015eda377621f1d5e029ea2da638e",
+      "https://support.google.com/youtube/answer/171664?hl=en",
+      "https://obsproject.com/",
+      "https://support.google.com/youtube/answer/161805?hl=en&co=GENIE.Platform=Desktop",
+      "https://obsproject.com/forum/resources/amuse-spotify-youtube-music-now-playing-widget.1731/",
+      "https://support.google.com/youtube/answer/72857?hl=en"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -1315,7 +1320,8 @@
       "https://github.com/github.html",
       "https://coderivers.org/blog/aws-lambda-python-example/",
       "https://medium.com/@rahulsharan512/automating-aws-tasks-with-python-and-boto3-a-step-by-step-guide-1d4c7c93c773",
-      "https://developer.hashicorp.com/terraform/install"
+      "https://developer.hashicorp.com/terraform/install",
+      "https://www.baeldung.com/linux/python-run-bash-command"
     ]
   },
   "software_factory_jobs": [],
