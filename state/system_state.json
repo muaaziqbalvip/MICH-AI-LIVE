@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3716,
+  "cycle_count": 3721,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-09T10:24:08.637174+00:00",
+  "last_checkpoint": "2026-06-09T10:46:53.142084+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1085,7 +1085,9 @@
       "https://obsproject.com/forum/resources/amuse-spotify-youtube-music-now-playing-widget.1731/",
       "https://support.google.com/youtube/answer/72857?hl=en",
       "https://dev.to/interdata/how-to-install-docker-desktop-on-windows-11-step-by-step-guide-for-2026-1d26",
-      "https://tecadmin.net/installing-docker-on-windows/"
+      "https://tecadmin.net/installing-docker-on-windows/",
+      "https://nextjs.org/docs/14/app/building-your-application/routing",
+      "https://dev.to/ottoaria/nextjs-app-router-in-2026-the-complete-guide-for-full-stack-developers-5bjl"
     ],
     "automation": [
       "https://www.selenium.dev/",

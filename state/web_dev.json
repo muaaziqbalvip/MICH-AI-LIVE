@@ -1131,7 +1131,22 @@
         "virtualization"
       ],
       "added_at": "2026-06-09T10:09:51.072802+00:00"
+    },
+    {
+      "id": "258d488d",
+      "source_url": "https://nextjs.org/docs/14/app/building-your-application/routing",
+      "title": "Building Your Application: Routing | Next.js",
+      "summary": "* Next.js routing is built on top of React Suspense.\n* Loading UI allows creating fallbacks for specific route segments and automatic content streaming.\n* Error Handling uses React Error Boundary to wrap route segments and nested children.\n* Route Groups partition the application into different sections.\n* Dynamic Routes generate route segments from dynamic data programmatically.\n* Parallel Routes render multiple pages in the same view for navigation.\n* Intercepting Routes load new routes within the current layout without changing the browser URL.\n* Route Handlers create custom request handlers using the Web's Request and Response APIs.\n* Middleware runs code before a request is completed.\n* Internationalization supports multiple languages with localized routing and content.",
+      "tags": [
+        "react",
+        "next.js",
+        "routing",
+        "error handling",
+        "middleware",
+        "internationalization"
+      ],
+      "added_at": "2026-06-09T10:32:34.709008+00:00"
     }
   ],
-  "last_updated": "2026-06-09T10:09:51.072816+00:00"
+  "last_updated": "2026-06-09T10:32:34.709024+00:00"
 }
