@@ -905,7 +905,22 @@
         "java"
       ],
       "added_at": "2026-06-08T08:15:51.298516+00:00"
+    },
+    {
+      "id": "5e3aecce",
+      "source_url": "https://proandroiddev.com/android-interview-series-2024-part-7-jetpack-compose-ff7d2ecd9018",
+      "title": "Android Interview Series 2024 — Part 7 (Jetpack Compose)",
+      "summary": "* `mutableStateOf` function returns a `MutableState` instance to hold and update values.\n* Derived States in Compose create new states based on existing ones using `derivedStateOf`.\n* `derivedStateOf` function computes derived values and only recomposes when the result changes.\n* SideEffects in Jetpack Compose refer to state changes outside a composable function's scope.\n* `LaunchedEffect` runs suspend functions within a composable's lifecycle.\n* `DisposableEffect` manages resources that require setup and cleanup when a composable enters and exits composition.\n* `rememberCoroutineScope` provides a coroutine scope tied to a composable's lifecycle.\n* `rememberUpdatedState` keeps an updated reference to a value within long-lived composables.\n* `LaunchedEffect` uses a `key` parameter to prevent unnecessary recomposition.\n* `DisposableEffect` helps prevent memory leaks by cleaning up resources when no longer needed.\n* Jetpack Compose uses `remember` to cache values across recompositions.\n* `remember` prevents recalculation of unchanged values.\n* `rememberSaveable` extends `remember` to preserve values across configuration changes.\n* Configuration changes include screen rotations.\n* `rememberSaveable` is used to maintain state across configuration changes.\n* Optimisation techniques in Jetpack Compose include using `remember` and `rememberSaveable`.\n* `remember` and `rememberSaveable` help improve performance by reducing unnecessary calculations.\n* Values cached with `remember` are ",
+      "tags": [
+        "jetpack compose",
+        "mutable state",
+        "derived state",
+        "coroutine scope",
+        "launched effect",
+        "disposable effect"
+      ],
+      "added_at": "2026-06-09T17:42:53.329928+00:00"
     }
   ],
-  "last_updated": "2026-06-08T08:15:51.298531+00:00"
+  "last_updated": "2026-06-09T17:42:53.329942+00:00"
 }
