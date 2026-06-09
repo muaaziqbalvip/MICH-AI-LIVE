@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3791,
+  "cycle_count": 3796,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-09T18:29:34.303494+00:00",
+  "last_checkpoint": "2026-06-09T19:16:29.660578+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -251,7 +251,12 @@
       "https://www.udemy.com/course/automate-video-editing-with-python-and-moviepy/",
       "https://www.vitadentalhouston.com/dr-sang-pil-yu/",
       "https://www.opencare.com/dentists/katy-tx/dr-sang-pil-yu-24631310494d/",
-      "https://timetocargo.com/shipping-lines/pil"
+      "https://timetocargo.com/shipping-lines/pil",
+      "https://en.m.wikipedia.org/wiki/Tom_Cruise_filmography",
+      "https://www.imdb.com/list/ls005725795/",
+      "https://fictionhorizon.com/tom-cruise-movies-in-order-and-how-many-are-there/",
+      "https://www.fandango.com/people/tom-cruise-146310/film-credits",
+      "https://ew.com/best-tom-cruise-movies-ranked-11736987"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -1092,7 +1097,9 @@
       "https://nextjs.org/docs/14/app/building-your-application/routing",
       "https://dev.to/ottoaria/nextjs-app-router-in-2026-the-complete-guide-for-full-stack-developers-5bjl",
       "https://www.next.us/en/shop/f/feat-sale",
-      "https://www.joinprisma.com/program-middle-school"
+      "https://www.joinprisma.com/program-middle-school",
+      "https://hub.dockermirror.com/u/library",
+      "https://ably.com/topic/websockets"
     ],
     "automation": [
       "https://www.selenium.dev/",

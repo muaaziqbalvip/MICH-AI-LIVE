@@ -1161,7 +1161,22 @@
         "live meetups"
       ],
       "added_at": "2026-06-09T16:58:13.334286+00:00"
+    },
+    {
+      "id": "23768888",
+      "source_url": "https://ably.com/topic/websockets",
+      "title": "WebSockets explained: What they are and how they work",
+      "summary": "* WebSockets enable bidirectional, real-time communication between client and server.\n* WebSocket connection: `const ws = new WebSocket('wss://your-app-server.com/socket');`\n* Event handling: `ws.onmessage = (event) => console.log(event.data);`\n* Managed WebSocket platforms (e.g., Ably) provide global edge messaging infrastructure and client SDKs.\n* Ably example: `const ably = new Ably.Realtime('your-api-key');`\n* WebSocket performance depends on factors like geographic latency, connection scaling, and reliability considerations.\n* Alternative protocols: Server-Sent Events (SSE), gRPC, HTTP/2, MQTT, each with strengths and weaknesses.\n* WebSockets have no built-in fallback or ordering, unlike some alternative protocols.\n* Ably supports multiple realtime transport protocols, including WebSockets, SSE, and MQTT.",
+      "tags": [
+        "websockets",
+        "realtime",
+        "grpc",
+        "http/2",
+        "mqtt",
+        "sse"
+      ],
+      "added_at": "2026-06-09T18:37:14.039210+00:00"
     }
   ],
-  "last_updated": "2026-06-09T16:58:13.334307+00:00"
+  "last_updated": "2026-06-09T18:37:14.039227+00:00"
 }
