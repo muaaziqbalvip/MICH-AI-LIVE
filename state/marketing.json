@@ -1414,7 +1414,22 @@
         "book coaching"
       ],
       "added_at": "2026-06-08T23:14:29.923872+00:00"
+    },
+    {
+      "id": "3dbce3cc",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=151b56d9a61e60bf1e5741aaa7f061ac",
+      "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+      "summary": "* Microsoft Outlook available on desktop, mobile, and web\n* Supports multiple email accounts, calendars, and contacts in one place\n* Integrates with Word, Excel, and PowerPoint for file editing and sharing\n* Includes enterprise-grade security with attachment and link scanning\n* Encryption prevents forwarding of sensitive information\n* Features AI-powered email assistant (Copilot) for drafting and refining emails\n* Offers focused inbox and sweep features for clutter removal\n* Allows scheduling of events, tracking of packages and flights, and setting reminders\n* Supports intelligent spelling and grammar checks for email composition\n* Enables summarization of long email threads using Copilot\n* Copilot in Outlook uses AI to summarize long email threads and assist with email composition.\n* Copilot is included with Microsoft 365 Personal or Family subscription.\n* Supported email addresses for Copilot in Outlook: outlook.com, hotmail.com, live.com, and msn.com.\n* Microsoft 365 plans include Outlook, Word, Excel, PowerPoint, and OneDrive.\n* Free Outlook account includes 15 GB of mailbox storage and 5 GB of cloud storage.\n* Microsoft 365 Basic plan includes 100 GB of mailbox storage and 100 GB of cloud storage.\n* Advanced Outlook security features are available in Microsoft 365 Basic and Personal plans.\n* OneDrive ransomware protection is included in Microsoft 365 Personal plan.\n* Microsoft 365 Personal plan allows use on up to 5 devices simultaneously.\n* Outlook is available on web, ",
+      "tags": [
+        "ai",
+        "encryption",
+        "microsoft",
+        "email",
+        "security",
+        "outlook"
+      ],
+      "added_at": "2026-06-09T16:02:18.834034+00:00"
     }
   ],
-  "last_updated": "2026-06-08T23:14:29.923910+00:00"
+  "last_updated": "2026-06-09T16:02:18.834056+00:00"
 }
