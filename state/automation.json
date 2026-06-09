@@ -1085,7 +1085,36 @@
         "github actions"
       ],
       "added_at": "2026-06-08T22:19:45.434613+00:00"
+    },
+    {
+      "id": "8f1b258e",
+      "source_url": "https://coderivers.org/blog/aws-lambda-python-example/",
+      "title": "AWS Lambda with Python: A Comprehensive Guide - CodeRivers",
+      "summary": "* AWS Lambda supports Python as a runtime environment.\n* Python can be used for simple data processing tasks in AWS Lambda.\n* Python can be used for complex microservices in AWS Lambda.\n* AWS Lambda functions can be made efficient, secure, and scalable.\n* AWS provides documentation for using Python in AWS Lambda.\n* AWS Lambda has official documentation for development and deployment.\n* Python in AWS Lambda is a valuable tool for developers.\n* AWS Lambda can be used for building microservices.\n* AWS Lambda functions can process data.\n* AWS provides resources for learning AWS Lambda with Python.",
+      "tags": [
+        "aws lambda",
+        "python",
+        "microservices",
+        "data processing",
+        "cloud computing"
+      ],
+      "added_at": "2026-06-09T07:31:06.120718+00:00"
+    },
+    {
+      "id": "d16eb0d6",
+      "source_url": "https://medium.com/@rahulsharan512/automating-aws-tasks-with-python-and-boto3-a-step-by-step-guide-1d4c7c93c773",
+      "title": "Automating AWS Tasks with Python and Boto3: A Step-by-Step Guide",
+      "summary": "* Boto3 library is used to interact with AWS services from Python.\n* `boto3.client()` function is used to create a client for a specific AWS service, such as EC2 or SNS.\n* `aws_access_key_id` and `aws_secret_access_key` are required to authenticate with AWS.\n* `describe_snapshots()` method is used to retrieve a list of snapshots in a region.\n* `delete_snapshot()` method is used to delete a snapshot by its ID.\n* `create_topic()` method is used to create an SNS topic.\n* `send_email()` method is used to send an email through SES.\n* `publish()` method is used to publish a message to an SNS topic.\n* AWS services used include EC2, SNS, and SES.\n* AWS regions are specified using the `region_name` parameter when creating a Boto3 client.\n* Boto3 is a Python SDK for AWS services.\n* AWS services used: S3, Transcribe.\n* Python can be used to automate AWS tasks.\n* S3 buckets can be created and managed using Boto3.\n* Files (e.g. MP4) can be uploaded to S3 using Boto3.\n* AWS Transcribe can be used to transcribe audio/video files to text.\n* Transcription jobs can be created and managed using Boto3.\n* Transcribed text can be downloaded from S3 using Boto3.\n* Boto3 requires AWS credentials to authenticate and authorize requests.",
+      "tags": [
+        "aws",
+        "boto3",
+        "python",
+        "ec2",
+        "sns",
+        "ses"
+      ],
+      "added_at": "2026-06-09T07:46:58.982254+00:00"
     }
   ],
-  "last_updated": "2026-06-08T22:19:45.434625+00:00"
+  "last_updated": "2026-06-09T07:46:58.982273+00:00"
 }
