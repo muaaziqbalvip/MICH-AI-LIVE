@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3781,
+  "cycle_count": 3786,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-09T17:42:55.521927+00:00",
+  "last_checkpoint": "2026-06-09T18:13:50.248487+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1332,7 +1332,11 @@
       "https://coderivers.org/blog/aws-lambda-python-example/",
       "https://medium.com/@rahulsharan512/automating-aws-tasks-with-python-and-boto3-a-step-by-step-guide-1d4c7c93c773",
       "https://developer.hashicorp.com/terraform/install",
-      "https://www.baeldung.com/linux/python-run-bash-command"
+      "https://www.baeldung.com/linux/python-run-bash-command",
+      "https://zh.wikipedia.org/wiki/GitHub",
+      "https://github.tw.cn/",
+      "https://www.jetbrains.com/pycharm/",
+      "https://www.youtube.com/watch?v=Y8Tko2YC5hA"
     ]
   },
   "software_factory_jobs": [],
