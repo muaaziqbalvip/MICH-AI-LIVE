@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3796,
+  "cycle_count": 3801,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-09T19:16:29.660578+00:00",
+  "last_checkpoint": "2026-06-09T19:25:07.389437+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -256,7 +256,9 @@
       "https://www.imdb.com/list/ls005725795/",
       "https://fictionhorizon.com/tom-cruise-movies-in-order-and-how-many-are-there/",
       "https://www.fandango.com/people/tom-cruise-146310/film-credits",
-      "https://ew.com/best-tom-cruise-movies-ranked-11736987"
+      "https://ew.com/best-tom-cruise-movies-ranked-11736987",
+      "https://www.jetbrains.com/pycharm/",
+      "https://www.youtube.com/watch?v=Y8Tko2YC5hA"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -589,7 +591,9 @@
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=2e4843a3fa04693d2d1254d1fb796858",
       "https://scholar.google.com/",
       "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=151b56d9a61e60bf1e5741aaa7f061ac",
-      "https://outlook.office365.com/mail/view.html?bO=1"
+      "https://outlook.office365.com/mail/view.html?bO=1",
+      "https://www.jetbrains.com/pycharm/",
+      "https://www.youtube.com/watch?v=Y8Tko2YC5hA"
     ],
     "android_core": [
       "https://www.android.com/",
