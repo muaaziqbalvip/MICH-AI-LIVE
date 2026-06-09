@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3616,
+  "cycle_count": 3621,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-09T05:58:56.337042+00:00",
+  "last_checkpoint": "2026-06-09T06:08:52.661944+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1073,7 +1073,10 @@
       "https://www.gohammond.com/calendar/",
       "https://www.linkedin.com/posts/thetechzeen_prisma-orm-database-activity-7466905428988387328-vnZv",
       "https://www.prisma.io/docs/orm/core-concepts/supported-databases/postgresql",
-      "https://docs.docker.com/compose/"
+      "https://docs.docker.com/compose/",
+      "https://www.next.co.uk/?msockid=39c015eda377621f1d5e029ea2da638e",
+      "https://www.next.us/en/Offers",
+      "https://www.nordstrom.com/brands/next--25801?msockid=39c015eda377621f1d5e029ea2da638e"
     ],
     "automation": [
       "https://www.selenium.dev/",
