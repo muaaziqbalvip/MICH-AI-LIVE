@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3836,
+  "cycle_count": 3841,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-09T21:14:45.191270+00:00",
+  "last_checkpoint": "2026-06-09T21:41:43.646323+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1359,7 +1359,11 @@
       "https://github.tw.cn/",
       "https://www.jetbrains.com/pycharm/",
       "https://www.youtube.com/watch?v=Y8Tko2YC5hA",
-      "https://www.browserstack.com/guide/playwright-architecture"
+      "https://www.browserstack.com/guide/playwright-architecture",
+      "https://code.visualstudio.com/blogs/2022/04/04/increase-productivity-with-containers",
+      "https://tools.code.visualstudio.com/.auth/login/aad/callback",
+      "https://code.visualstudio.com/",
+      "https://code.visualstudio.com/docs/azure/deployment?WT_mc.id=ignite-genScottHA"
     ]
   },
   "software_factory_jobs": [],

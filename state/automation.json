@@ -1129,7 +1129,46 @@
         "microsoft"
       ],
       "added_at": "2026-06-09T18:08:11.667764+00:00"
+    },
+    {
+      "id": "e5366bc6",
+      "source_url": "https://code.visualstudio.com/blogs/2022/04/04/increase-productivity-with-containers",
+      "title": "Using Containers to move from Local to Remote Development",
+      "summary": "* VS Code powers GitHub Codespaces for cloud-based dev containers.\n* Dev containers can be created and configured in minutes for cloud-based development.\n* GitHub Codespaces uses the same dev containers as the Dev Containers extension.\n* Codespaces run on GitHub.com compute options for GitHub Team or Enterprise Cloud users.\n* Billing is per-user, with optional spending limits and 99.9% monthly uptime SLA.\n* GitHub Advanced Security is available for Codespaces.\n* Dev Containers extension can be used for local development and transition to cloud.\n* VS Code connects to dev containers via browser or desktop.\n* GitHub Codespaces alleviates cloud security and resource concerns.\n* Dev Containers and GitHub Codespaces enable seamless local to cloud development transition.",
+      "tags": [
+        "cloud computing",
+        "dev containers",
+        "github codespaces",
+        "vs code",
+        "advanced security"
+      ],
+      "added_at": "2026-06-09T21:28:55.235042+00:00"
+    },
+    {
+      "id": "1c2528d6",
+      "source_url": "https://code.visualstudio.com/",
+      "title": "Visual Studio Code - The open source AI code editor | Your home for ...",
+      "summary": "* Optimized for screen readers\n* High contrast themes available\n* Keyboard-only navigation supported\n* Web-based access for cross-device compatibility\n* Accessible on phones, tablets, and desktops\n* Editor customizable \n* Cross-platform support \n* Accessibility features for visually impaired users \n* Compatible with various input devices \n* Cloud-based access for remote code editing",
+      "tags": [
+        "accessibility",
+        "keyboard",
+        "screen readers",
+        "cross-platform",
+        "cloud-based",
+        "web-based"
+      ],
+      "added_at": "2026-06-09T21:39:06.983138+00:00"
+    },
+    {
+      "id": "d70a8d2d",
+      "source_url": "https://code.visualstudio.com/docs/azure/deployment?WT_mc.id=ignite-genScottHA",
+      "title": "Deploying Applications to Azure - Visual Studio Code",
+      "summary": "* Visual Studio Code supports deployment to Azure for various frameworks and languages.\n* Deployment options include static websites, web apps, containerized apps, and serverless code.\n* Supported languages and frameworks include Angular, Blazor, React, Vue, Node.js, Python, and Java.\n* Azure Container Apps allow for running microservices and containerized applications on a serverless platform.\n* The Azure Tools extension pack enables deployment to Azure within minutes.\n* Docker containers can be used for easy reuse and deployment of applications.\n* Language-specific deployment tutorials are available for JavaScript, Node.js, Python, Java, and .NET.\n* The Azure Developer Center provides additional tutorials and walkthroughs for deployment.\n* Visual Studio Code provides walkthroughs for full-stack, backend, API, and DevOps deployment scenarios.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-09T21:40:11.262327+00:00"
     }
   ],
-  "last_updated": "2026-06-09T18:08:11.667788+00:00"
+  "last_updated": "2026-06-09T21:40:11.262344+00:00"
 }
