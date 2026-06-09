@@ -1146,7 +1146,22 @@
         "internationalization"
       ],
       "added_at": "2026-06-09T10:32:34.709008+00:00"
+    },
+    {
+      "id": "ef605c16",
+      "source_url": "https://www.joinprisma.com/program-middle-school",
+      "title": "Middle School - Prisma",
+      "summary": "* Daily Standup for cohort bonding and goal-setting\n* Theme Workshops: Project, Literacy Lab, and Co-Lab\n* Math workshops 3 times a week with specialized coach\n* Literacy workshops: 60-minute, interactive, and skill-building\n* Flexible Fridays for Clubs, Enrichments, and special events\n* Live Daily Workshops and Family Meetups\n* Weeklong Getaways and Global Friendships through Endeavors\n* TedEd Student Talks for real-world communication skills\n* TechRise competition for hands-on tech experience",
+      "tags": [
+        "daily workshops",
+        "literacy lab",
+        "techrise",
+        "math workshops",
+        "interactive workshops",
+        "live meetups"
+      ],
+      "added_at": "2026-06-09T16:58:13.334286+00:00"
     }
   ],
-  "last_updated": "2026-06-09T10:32:34.709024+00:00"
+  "last_updated": "2026-06-09T16:58:13.334307+00:00"
 }
