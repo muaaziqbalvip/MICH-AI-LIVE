@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3711,
+  "cycle_count": 3716,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-09T09:52:07.561530+00:00",
+  "last_checkpoint": "2026-06-09T10:24:08.637174+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -767,7 +767,8 @@
       "https://www.microsoft.com/en-us/windows/learning-center/how-to-connect-your-phone-to-a-computer?msockid=1bb2d0ac556d66743fdec7dd544f6755",
       "https://www.microsoft.com/en-us?msockid=1bb2d0ac556d66743fdec7dd544f6755",
       "https://developer.android.com/develop/ui/compose/documentation",
-      "https://m.youtube.com/watch?v=aH4bqF2m7c4"
+      "https://m.youtube.com/watch?v=aH4bqF2m7c4",
+      "https://www.restaurantcompose.com/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
@@ -1082,7 +1083,9 @@
       "https://obsproject.com/",
       "https://support.google.com/youtube/answer/161805?hl=en&co=GENIE.Platform=Desktop",
       "https://obsproject.com/forum/resources/amuse-spotify-youtube-music-now-playing-widget.1731/",
-      "https://support.google.com/youtube/answer/72857?hl=en"
+      "https://support.google.com/youtube/answer/72857?hl=en",
+      "https://dev.to/interdata/how-to-install-docker-desktop-on-windows-11-step-by-step-guide-for-2026-1d26",
+      "https://tecadmin.net/installing-docker-on-windows/"
     ],
     "automation": [
       "https://www.selenium.dev/",

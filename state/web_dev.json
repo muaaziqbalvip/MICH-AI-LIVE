@@ -1116,7 +1116,22 @@
         "web_dev"
       ],
       "added_at": "2026-06-09T08:48:56.968537+00:00"
+    },
+    {
+      "id": "1952fe21",
+      "source_url": "https://dev.to/interdata/how-to-install-docker-desktop-on-windows-11-step-by-step-guide-for-2026-1d26",
+      "title": "How to Install Docker Desktop on Windows 11 (Step-by-Step Guide fo…",
+      "summary": "* Docker Desktop is free for personal use, education, and small businesses.\n* Docker Desktop can run on Windows 11 Home using WSL 2 backend.\n* Hyper-V is not required for Docker Desktop.\n* WSL 2 provides a Linux kernel for running containers natively.\n* Minimum 4 GB RAM is required, 8 GB recommended, and 16 GB ideal for heavy usage.\n* Kubernetes can be enabled in Docker Desktop settings.\n* Docker Desktop can be updated through the UI dashboard or by running the latest installer.\n* Docker Engine can be installed without Docker Desktop, but loses GUI and other features.\n* WSL 2 backend is recommended for better performance and lower resource usage.\n* Docker requires a 64-bit operating system and virtualization to be enabled.\n* Docker Desktop can be installed on Windows 11.\n* A step-by-step guide is available for installation.\n* InterData VPS can be used for production deployment.\n* Containers can be deployed with confidence using InterData VPS.\n* Docker Desktop requires Windows 11 as the operating system.\n* A user account is required to access the guide.\n* The guide is intended for coders and developers.\n* Deployment can be done using Docker containers.\n* InterData provides virtual private servers (VPS) for deployment.\n* Windows 11 is a supported platform for Docker Desktop installation.",
+      "tags": [
+        "docker",
+        "kubernetes",
+        "wsl",
+        "hyper-v",
+        "containers",
+        "virtualization"
+      ],
+      "added_at": "2026-06-09T10:09:51.072802+00:00"
     }
   ],
-  "last_updated": "2026-06-09T08:48:56.968555+00:00"
+  "last_updated": "2026-06-09T10:09:51.072816+00:00"
 }
