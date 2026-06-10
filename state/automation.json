@@ -1168,7 +1168,33 @@
         "automation"
       ],
       "added_at": "2026-06-09T21:40:11.262327+00:00"
+    },
+    {
+      "id": "a6423b4b",
+      "source_url": "https://girlswithgritcollective.com/meet-the-girls",
+      "title": "MEET THE GIRLS | Girls with Grit Collective | A collaborative approach ...",
+      "summary": "* Website: girlswithgritcollective.com\n* Contact email: hello@girlswithgrit.com\n* Physical address: 920 Durham St, Fuquay Varina, NC 27526\n* Copyright year: 2025\n* Pages: Privacy Policy, Terms & Conditions\n* Interactive elements: Join Us, Have a question for the girls\n* Target audience: Women\n* Community focus: Collaborative approach\n* Location: North Carolina, USA \n* Contact method: Email",
+      "tags": [
+        "website",
+        "email",
+        "privacy",
+        "interactive"
+      ],
+      "added_at": "2026-06-10T17:36:43.357828+00:00"
+    },
+    {
+      "id": "39b3a1f1",
+      "source_url": "https://girlswithgritcollective.com/book-us-to-speak",
+      "title": "BOOK US TO SPEAK | Girls with Grit Collective | A collaborative ...",
+      "summary": "* Website platform: Custom-built or WordPress\n* Contact form: Implemented using HTML and JavaScript\n* Email address: hello@girlswithgrit.com\n* Physical address: 920 Durham St Fuquay Varina, North Carolina 27526\n* Copyright year: 2025\n* Website sections: Home, Coaching, Resources, Meet the Girls, Book Us, Contact\n* Community features: Referral Network, Dashboard, Swag Shop, Free Community\n* Speaking engagement form: Implemented using HTML and JavaScript\n* Website design: Responsive design for mobile and desktop compatibility\n* Privacy policy and terms & conditions pages are present",
+      "tags": [
+        "wordpress",
+        "javascript",
+        "html",
+        "responsive design"
+      ],
+      "added_at": "2026-06-10T17:40:27.565156+00:00"
     }
   ],
-  "last_updated": "2026-06-09T21:40:11.262344+00:00"
+  "last_updated": "2026-06-10T17:40:27.565170+00:00"
 }
