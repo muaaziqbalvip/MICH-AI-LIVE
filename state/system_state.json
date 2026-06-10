@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3906,
+  "cycle_count": 3911,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-10T05:53:40.383124+00:00",
+  "last_checkpoint": "2026-06-10T06:04:18.932513+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -263,7 +263,8 @@
       "https://www.amazon.com/your-account",
       "https://www.amazon.com/gp/css/homepage.html",
       "https://www.amazon.com/gp/css/your-account-access",
-      "https://www.amazon.com/Colombia/s?k=Colombia"
+      "https://www.amazon.com/Colombia/s?k=Colombia",
+      "https://github.com/opencv/opencv/wiki"
     ],
     "marketing": [
       "https://mail.google.com/mail",
