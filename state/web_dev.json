@@ -1211,7 +1211,22 @@
         "github hosting"
       ],
       "added_at": "2026-06-09T20:44:24.541677+00:00"
+    },
+    {
+      "id": "74a2e3bc",
+      "source_url": "https://github.com/react/react",
+      "title": "GitHub - react/react: The library for web and native user interfaces.",
+      "summary": "* Repository: https://github.com/react/react\n* Language: JavaScript (implied, 0.2% script)\n* Secondary languages: Shell (0.1%)\n* Platform: Web and native user interfaces\n* Library type: Frontend/UI\n* Development environment: GitHub\n* Code composition: Mostly JavaScript\n* Secondary code composition: Shell scripts\n* Interface type: User interfaces\n* Compatibility: Web and native platforms",
+      "tags": [
+        "javascript",
+        "react",
+        "frontend",
+        "ui",
+        "web",
+        "github"
+      ],
+      "added_at": "2026-06-10T05:28:48.382901+00:00"
     }
   ],
-  "last_updated": "2026-06-09T20:44:24.541690+00:00"
+  "last_updated": "2026-06-10T05:28:48.382921+00:00"
 }
