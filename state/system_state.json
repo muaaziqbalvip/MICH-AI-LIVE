@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4126,
+  "cycle_count": 4131,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-10T18:43:22.028593+00:00",
+  "last_checkpoint": "2026-06-10T18:53:34.877604+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1137,7 +1137,8 @@
       "https://www.next.co.uk/?msockid=2685aea0f901655d0c7db9d4f82c64cc",
       "https://www.nordstrom.com/brands/next--25801?msockid=2685aea0f901655d0c7db9d4f82c64cc",
       "https://www.next.co.uk/?msockid=03add76f9e29600720bbc01b9f526162",
-      "https://www.nextlevelpinballmuseum.com/"
+      "https://www.nextlevelpinballmuseum.com/",
+      "https://prismacare.org/"
     ],
     "automation": [
       "https://www.selenium.dev/",
