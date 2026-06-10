@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4026,
+  "cycle_count": 4031,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-10T15:13:44.037372+00:00",
+  "last_checkpoint": "2026-06-10T15:23:21.003954+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -605,7 +605,8 @@
       "https://outlook.office.com/mail/login",
       "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=0d76fbe2d9db61d93044ec96d86a6022",
       "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=08b7fbd63b9b6ca10f8feca23a576daa",
-      "https://blog.hootsuite.com/influencer-marketing-tools/"
+      "https://blog.hootsuite.com/influencer-marketing-tools/",
+      "https://www.google.co.in/"
     ],
     "android_core": [
       "https://www.android.com/",
