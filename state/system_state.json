@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 3881,
+  "cycle_count": 3886,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-10T04:43:11.701934+00:00",
+  "last_checkpoint": "2026-06-10T05:04:00.698108+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -600,7 +600,8 @@
       "https://www.jetbrains.com/pycharm/",
       "https://www.youtube.com/watch?v=Y8Tko2YC5hA",
       "https://outlook.office.com/mail/login",
-      "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=0d76fbe2d9db61d93044ec96d86a6022"
+      "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=0d76fbe2d9db61d93044ec96d86a6022",
+      "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=08b7fbd63b9b6ca10f8feca23a576daa"
     ],
     "android_core": [
       "https://www.android.com/",

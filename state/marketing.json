@@ -1429,7 +1429,22 @@
         "outlook"
       ],
       "added_at": "2026-06-09T16:02:18.834034+00:00"
+    },
+    {
+      "id": "b71cd86f",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=08b7fbd63b9b6ca10f8feca23a576daa",
+      "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+      "summary": "* Microsoft 365 Business Premium costs $32.00/user/month (paid yearly) with a 25% discount from $43.00.\n* Includes 1 TB of cloud storage per user and custom business email.\n* Offers AI-powered chat, advanced identity and access management, and enterprise-grade device protection.\n* Includes access to Microsoft Teams, Word, Excel, PowerPoint, Outlook, and other apps.\n* Microsoft 365 Business Basic (no Teams) costs $4.40/user/month (paid yearly).\n* Core identity and access management supports up to 300 users.\n* Includes web and mobile versions of Word, Excel, PowerPoint, and Outlook.\n* Secure AI chat is powered by the latest large language models.\n* Microsoft 365 Copilot provides a secure AI assistant for work.\n* 10+ additional apps are included, such as Microsoft Loop, Clipchamp, Bookings, Planner, and Forms.\n* Microsoft Outlook integrates with Bookings, Planner, and Forms\n* Secure AI chat is powered by large language models\n* Word, Excel, and PowerPoint are available on web and mobile only\n* Built-in intelligent features improve writing in Word\n* Excel simplifies complex data and creates readable spreadsheets\n* PowerPoint creates polished presentations\n* OneNote is available on web and mobile\n* Microsoft 365 includes Outlook and other productivity tools\n* AI-powered features enhance user experience\n* Integration with other Microsoft tools enables seamless workflow",
+      "tags": [
+        "cloud storage",
+        "ai chat",
+        "device protection",
+        "microsoft teams",
+        "identity management",
+        "ai assistant"
+      ],
+      "added_at": "2026-06-10T05:00:57.296207+00:00"
     }
   ],
-  "last_updated": "2026-06-09T16:02:18.834056+00:00"
+  "last_updated": "2026-06-10T05:00:57.296227+00:00"
 }
