@@ -989,7 +989,17 @@
         "multimedia"
       ],
       "added_at": "2026-06-09T21:10:09.948577+00:00"
+    },
+    {
+      "id": "84e38dc8",
+      "source_url": "https://opencv.org/opencv-5/",
+      "title": "OpenCV 5 Deep Dive: A New Foundation for Computer Vision",
+      "summary": "* OpenCV 5 uses dedicated HALs for Intel, Arm, and Qualcomm architectures.\n* Universal Intrinsics 2.0 provides a single vector codebase for multiple architectures.\n* 3-4x speedups on common ARM operations like resizing and warping.\n* OpenCV 5 splits 3D capabilities into three modules: 3d, calib, and stereo.\n* Multi-camera calibration and registration are now supported.\n* Point cloud and mesh I/O are available through loadPointCloud, savePointCloud, loadMesh, and saveMesh.\n* Dense RGB-D fusion is supported with TSDF, HashTSDF, and ColorTSDF volumes.\n* Robust estimation is available through a modern USAC framework with MAGSAC.\n* OpenCV documentation now uses a Sphinx + Doxygen pipeline for improved navigation and readability.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-10T19:41:22.045764+00:00"
     }
   ],
-  "last_updated": "2026-06-09T21:10:09.948590+00:00"
+  "last_updated": "2026-06-10T19:41:22.045780+00:00"
 }

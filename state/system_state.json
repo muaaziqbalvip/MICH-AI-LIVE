@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4146,
+  "cycle_count": 4151,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-10T19:24:03.092282+00:00",
+  "last_checkpoint": "2026-06-10T19:57:07.912715+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -266,7 +266,8 @@
       "https://www.amazon.com/Colombia/s?k=Colombia",
       "https://github.com/opencv/opencv/wiki",
       "https://www.thewindowsclub.com/how-to-install-ffmpeg-on-windows-10",
-      "https://www.python.org/doc/"
+      "https://www.python.org/doc/",
+      "https://opencv.org/opencv-5/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -801,7 +802,8 @@
       "https://vpn.net/linux",
       "https://www.vpn.net/?clientTicket=027894es25gchvcvqqm9c86crmhd4vq7duk9tol5",
       "https://www.vpn.net/sysadtools",
-      "https://vpn.net/security"
+      "https://vpn.net/security",
+      "https://developer.android.com/studio"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
