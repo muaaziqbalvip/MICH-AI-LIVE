@@ -920,7 +920,37 @@
         "disposable effect"
       ],
       "added_at": "2026-06-09T17:42:53.329928+00:00"
+    },
+    {
+      "id": "7ac21a3d",
+      "source_url": "https://vpn.net/",
+      "title": "VPN.net – Hamachi by LogMeIn",
+      "summary": "* On-demand networking for creating and managing virtual networks\n* Centralized software deployment for provisioning virtual network client software\n* Unattended access for running Hamachi in the background\n* Gateway, hub-and-spoke, and mesh virtual networking options\n* AES 256-bit encryption for secure communications\n* Centralized access controls for network access and usage management\n* Network/client configuration management with support for full, restricted, and minimal client interface modes\n* Free for up to 5 computers in a network\n* Subscription packages available for 6-32, 33-256, and unlimited computers/networks\n* Support for Windows, Mac, and Linux operating systems",
+      "tags": [
+        "virtual networking",
+        "software deployment",
+        "encryption",
+        "access controls",
+        "network management",
+        "cloud computing"
+      ],
+      "added_at": "2026-06-10T15:44:05.975374+00:00"
+    },
+    {
+      "id": "888326a3",
+      "source_url": "https://vpn.net/linux",
+      "title": "VPN.net – Hamachi by LogMeIn",
+      "summary": "* LogMeIn Hamachi for Linux is a secure VPN client with command-line interface.\n* Available as DEB and RPM packages for x86/x64 architectures.\n* Compatible with Ubuntu (16.04LTS) and CentOS (7.2).\n* ARM support available in beta version, requiring ARMv4T or better processor and tun/tap driver.\n* Beta version not recommended for production environment.\n* Download options: 32-bit, 64-bit, ARM, and ARM HF versions.\n* Package names include logmein-hamachi with version and architecture suffixes.\n* Installation files have .rpm, .deb, and .tgz extensions.\n* Feedback for beta version can be sent to hamachi-feedback@logmein.com.",
+      "tags": [
+        "vpn",
+        "linux",
+        "arm",
+        "deb",
+        "rpm",
+        "centos"
+      ],
+      "added_at": "2026-06-10T15:44:55.334442+00:00"
     }
   ],
-  "last_updated": "2026-06-09T17:42:53.329942+00:00"
+  "last_updated": "2026-06-10T15:44:55.334461+00:00"
 }
