@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4441,
+  "cycle_count": 4446,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-11T18:37:58.908408+00:00",
+  "last_checkpoint": "2026-06-11T18:50:36.825831+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1433,7 +1433,8 @@
       "https://girlswithgritcollective.com/resources",
       "https://girlswithgritcollective.com/book-us-to-speak",
       "https://girlswithgritcollective.com/join-exp",
-      "https://realpython.com/"
+      "https://realpython.com/",
+      "https://thegithubshop.com/"
     ]
   },
   "software_factory_jobs": [],
