@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4251,
+  "cycle_count": 4256,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-11T04:44:24.584080+00:00",
+  "last_checkpoint": "2026-06-11T04:58:05.917932+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -810,7 +810,8 @@
       "https://www.vpn.net/?clientTicket=027894es25gchvcvqqm9c86crmhd4vq7duk9tol5",
       "https://www.vpn.net/sysadtools",
       "https://vpn.net/security",
-      "https://developer.android.com/studio"
+      "https://developer.android.com/studio",
+      "https://composio.dev/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
