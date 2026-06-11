@@ -1469,7 +1469,17 @@
         "marketing"
       ],
       "added_at": "2026-06-10T19:21:59.358420+00:00"
+    },
+    {
+      "id": "0d499ad9",
+      "source_url": "https://realpython.com/",
+      "title": "Python Tutorials – Real Python",
+      "summary": "* Python is a high-level, interpreted programming language\n* Python supports object-oriented, imperative, and functional programming paradigms\n* Popular Python libraries include NumPy, pandas, and requests\n* Python is widely used for web development, data analysis, and machine learning\n* Python 3.x is the current version of the language\n* Virtual environments can be created using venv or conda\n* pip is the package installer for Python\n* Python code is typically written in a .py file\n* Indentation is used to define code blocks in Python\n* PEP 8 provides the official style guide for Python code",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-06-11T03:08:49.532046+00:00"
     }
   ],
-  "last_updated": "2026-06-10T19:21:59.358446+00:00"
+  "last_updated": "2026-06-11T03:08:49.532064+00:00"
 }
