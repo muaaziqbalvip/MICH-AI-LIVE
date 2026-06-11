@@ -1029,7 +1029,44 @@
         "decimal coding"
       ],
       "added_at": "2026-06-11T05:21:33.795441+00:00"
+    },
+    {
+      "id": "5f9b7a4d",
+      "source_url": "https://stackoverflow.com/questions/44234374/what-does-0-0-0-0-0-and-0-mean",
+      "title": "What does 0.0.0.0/0 and ::/0 mean? - Stack Overflow",
+      "summary": "* 0.0.0.0/0 represents all IPv4 addresses\n* ::/0 represents all IPv6 addresses\n* 0.0.0.0 is a special IP address that means \"any\" or \"all\" IPv4 addresses\n* /0 is a subnet mask that means \"no subnetting\"\n* IPv4 address range is 0.0.0.0 to 255.255.255.255\n* IPv6 address range is :: to ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff\n* 0.0.0.0/0 is often used in routing tables to represent a default route\n* ::/0 is used in IPv6 routing tables to represent a default route\n* These addresses are used for routing and subnetting purposes\n* They are not assigned to specific devices or interfaces",
+      "tags": [
+        "ipv4",
+        "ipv6",
+        "subnetting",
+        "routing"
+      ],
+      "added_at": "2026-06-11T15:29:43.195644+00:00"
+    },
+    {
+      "id": "96c99ec1",
+      "source_url": "https://stackoverflow.com/questions/14183445/what-does-0-mean",
+      "title": "c++ - What does '\\0' mean? - Stack Overflow",
+      "summary": "* `\\0` denotes the null terminator in C-style strings.\n* Null terminator marks the end of a string in C.\n* C-style strings are arrays of characters with `\\0` at the end.\n* `\\0` is used to determine the end of a string.\n* `std::string` objects in C++ do not assign special meaning to `\\0`.\n* `\\0` is treated as the NULL character in C.\n* Strings in C are pointers pointing to arrays of characters with `\\0` at the end.\n* `\\0` is used to find the length of a string.\n* The value of `\\0` is null in characters, indicating the end of a string.\n* `\\0` is an escape sequence representing the null character.\n* '\\0' represents the null character in C++.\n* Null character is a special character with ASCII value 0.\n* '\\0' is used to terminate strings in C++.\n* Null character is not the same as the NULL pointer.\n* The value 0 has a special status in C++ as a null pointer constant.\n* '\\0' is an escape sequence in C++.\n* Null character is a single character, not a string of characters.\n* '\\0' is used to indicate the end of a string in memory.\n* ASCII value of '\\0' is 0, which is a non-printable character.\n* '\\0' is a character literal in C++, not an integer literal.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-11T15:46:02.696899+00:00"
+    },
+    {
+      "id": "e92dcc96",
+      "source_url": "https://stackoverflow.com/questions/4711449/what-does-the-symbol-0-mean-in-a-string-literal",
+      "title": "What does the symbol \\\\0 mean in a string-literal?",
+      "summary": "* `\\0` is the null character in C++.\n* It is used to terminate strings in C++.\n* String literals can contain `\\0` characters.\n* `\\0` is an escape sequence in C++.\n* It has an ASCII value of 0.\n* `\\0` is used to indicate the end of a string.\n* It can be used in char arrays to terminate the string.\n* `\\0` is not the same as an empty string `\"\"`.\n* Strings in C++ are usually null-terminated (`\\0`) by design.\n* The presence of `\\0` in a string literal does not affect its length.",
+      "tags": [
+        "c++",
+        "null character",
+        "escape sequence",
+        "ascii",
+        "string literals"
+      ],
+      "added_at": "2026-06-11T16:00:18.187514+00:00"
     }
   ],
-  "last_updated": "2026-06-11T05:21:33.795459+00:00"
+  "last_updated": "2026-06-11T16:00:18.187533+00:00"
 }
