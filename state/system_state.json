@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4231,
+  "cycle_count": 4236,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-11T04:08:28.176274+00:00",
+  "last_checkpoint": "2026-06-11T04:18:34.660711+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -267,7 +267,12 @@
       "https://github.com/opencv/opencv/wiki",
       "https://www.thewindowsclub.com/how-to-install-ffmpeg-on-windows-10",
       "https://www.python.org/doc/",
-      "https://opencv.org/opencv-5/"
+      "https://opencv.org/opencv-5/",
+      "https://www.zhihu.com/question/610256485",
+      "https://jingyan.baidu.com/article/c33e3f483b65d5ea15cbb516.html",
+      "https://www.zhihu.com/question/68113079",
+      "https://www.zhihu.com/question/555079885",
+      "https://www.zhihu.com/question/387607317"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -609,7 +614,8 @@
       "https://blog.hootsuite.com/influencer-marketing-tools/",
       "https://www.google.co.in/",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=3ea7dfbf5d266ba728c1c8cb5c2e6a8e",
-      "https://realpython.com/"
+      "https://realpython.com/",
+      "https://skylinesocialandgames.com/locations/apple-valley-mn/"
     ],
     "android_core": [
       "https://www.android.com/",
