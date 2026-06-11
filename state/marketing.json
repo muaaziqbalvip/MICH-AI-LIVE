@@ -1492,7 +1492,37 @@
         "seo strategy"
       ],
       "added_at": "2026-06-11T05:38:52.464433+00:00"
+    },
+    {
+      "id": "5ef6144d",
+      "source_url": "https://github.com/ScrapingBee/google-search-scraper/",
+      "title": "ScrapingBee/google-search-scraper - GitHub",
+      "summary": "* Google search results contain structured information: organic results, ads, featured snippets, people also ask blocks, local packs, knowledge panels, shopping results.\n* Understanding SERP structure is crucial for scraping Google search results.\n* Each block on a SERP has a different HTML structure and may be dynamically rendered.\n* Google uses IP rate limiting, CAPTCHA challenges, browser fingerprinting, JavaScript validation, and request header validation to protect its search results.\n* Scraping Google search results requires proper proxy routing, request rotation, and structured parsing.\n* Naive scraping methods (e.g., simple requests or BeautifulSoup alone) can lead to HTTP 429 errors, CAPTCHA pages, and temporary IP bans.\n* Python can be used for scraping Google search results.\n* Google Search API documentation provides complete API parameters and configuration options.\n* Geo-targeted responses and personalized result filtering can affect scraping results.\n* CAPTCHA challenges and JavaScript validation can make static CSS selector scraping unreliable.",
+      "tags": [
+        "serp",
+        "javascript",
+        "html",
+        "proxy",
+        "captcha",
+        "scraping"
+      ],
+      "added_at": "2026-06-11T06:21:51.822549+00:00"
+    },
+    {
+      "id": "4ccf738e",
+      "source_url": "https://apiserpent.com/blog/scrape-google-search-results-python-3-methods",
+      "title": "Scrape Google Search Results in Python (2026): 3 Methods Tested Side …",
+      "summary": "* Python can be used for scraping Google search results.\n* Three methods for scraping Google search results in Python exist.\n* Web scraping and SERP API are two approaches for retrieving search results.\n* SQLite can be used for storing rank tracking data.\n* AIO tracking can be used for asynchronous tracking of search results.\n* LangChain agents can be integrated with web search functionality.\n* Free Google Search API tiers have hard limits and hidden gotchas.\n* Google Search Central provides documentation on how Google Search works.\n* Reverse engineering and web scraping are discussed by the EFF.\n* TTL (time to live) is important for competitor position tracking.",
+      "tags": [
+        "web scraping",
+        "serp api",
+        "sqlite",
+        "aio",
+        "langchain",
+        "python"
+      ],
+      "added_at": "2026-06-11T06:29:01.674388+00:00"
     }
   ],
-  "last_updated": "2026-06-11T05:38:52.464453+00:00"
+  "last_updated": "2026-06-11T06:29:01.674404+00:00"
 }
