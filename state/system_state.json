@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4296,
+  "cycle_count": 4301,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-11T07:03:25.008218+00:00",
+  "last_checkpoint": "2026-06-11T07:35:28.688402+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -823,7 +823,12 @@
       "https://vpn.net/security",
       "https://developer.android.com/studio",
       "https://composio.dev/",
-      "https://www.maliknoman.dev/en/blog/flutter-state-management-comparison"
+      "https://www.maliknoman.dev/en/blog/flutter-state-management-comparison",
+      "https://www.espn.com/nba/team/_/name/nyk/new-york-knicks",
+      "https://www.si.com/nba/finals/knicks-spurs-nba-finals-game-4-live-updates-scores-stats-takeaways",
+      "https://www.365scores.com/en-us/basketball/team/new-york-knicks-1313",
+      "https://www.nba.com/news/live-nba-finals-game-4-spurs-knicks",
+      "https://www.nytimes.com/athletic/live-blogs/knicks-vs-spurs-live-updates-nba-finals-game-3-score-result/wmuNZ8WK2HM7/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
