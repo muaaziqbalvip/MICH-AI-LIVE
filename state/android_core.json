@@ -950,7 +950,17 @@
         "centos"
       ],
       "added_at": "2026-06-10T15:44:55.334442+00:00"
+    },
+    {
+      "id": "63a31799",
+      "source_url": "https://www.maliknoman.dev/en/blog/flutter-state-management-comparison",
+      "title": "Flutter State Management: Provider vs Riverpod vs Bloc",
+      "summary": "* No technical information is present in the provided text.\n* The text appears to be a personal introduction or contact page.\n* No mention of Flutter, Provider, Riverpod, or Bloc.\n* No code patterns or technical insights are available.\n* The provided text is not relevant to the title \"Flutter State Management: Provider vs Riverpod vs Bloc\".\n* The link provided may contain relevant technical information, but it is not present in the given text.\n* Email address is dev.nomantariq@gmail.com.\n* No technical facts can be extracted from the given text.\n* The text is not related to state management in Flutter.\n* No actionable insights are available in the provided text.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-11T05:44:05.227433+00:00"
     }
   ],
-  "last_updated": "2026-06-10T15:44:55.334461+00:00"
+  "last_updated": "2026-06-11T05:44:05.227452+00:00"
 }
