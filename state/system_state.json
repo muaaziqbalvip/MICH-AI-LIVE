@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4451,
+  "cycle_count": 4456,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-11T18:58:10.616381+00:00",
+  "last_checkpoint": "2026-06-11T19:07:49.556803+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -285,7 +285,12 @@
       "https://math.stackexchange.com/questions/283/is-0-a-natural-number",
       "https://stackoverflow.com/questions/14183445/what-does-0-mean",
       "https://math.stackexchange.com/questions/2207682/proof-of-0x-0",
-      "https://stackoverflow.com/questions/4711449/what-does-the-symbol-0-mean-in-a-string-literal"
+      "https://stackoverflow.com/questions/4711449/what-does-the-symbol-0-mean-in-a-string-literal",
+      "https://www.panerabread.com/en-us/home.html",
+      "https://catering.panerabread.com/",
+      "https://www.panerabread.com/en-us/start-an-order.html",
+      "https://www.panerabread.com/en-us/gift-cards/balance.html",
+      "https://www.panerabread.com/en-us/menu/categories/sandwiches.html"
     ],
     "marketing": [
       "https://mail.google.com/mail",
