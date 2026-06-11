@@ -1537,7 +1537,20 @@
         "phd"
       ],
       "added_at": "2026-06-11T07:47:52.415338+00:00"
+    },
+    {
+      "id": "688046b6",
+      "source_url": "https://support.google.com/mail/thread/214976549/how-do-i-install-the-gmail-app-on-my-windows-11-pc-laptop?hl=en",
+      "title": "How do I install the gmail app on my windows 11 pc laptop?",
+      "summary": "* The Gmail app is not a native Windows 11 application.\n* Gmail can be accessed through the web browser on Windows 11.\n* Microsoft Store does not have a native Gmail app for Windows 11.\n* Users can use the web version of Gmail on Windows 11.\n* The Gmail website is compatible with Windows 11 browsers.\n* No specific installation required for Gmail on Windows 11.\n* Users can bookmark the Gmail website for easy access.\n* Gmail can be pinned to the taskbar or start menu for convenience.\n* Windows 11 supports multiple web browsers to access Gmail.\n* Users can use the Gmail website on Windows 11 with any compatible browser.",
+      "tags": [
+        "windows 11",
+        "web browser",
+        "gmail app",
+        "microsoft store"
+      ],
+      "added_at": "2026-06-11T19:20:31.989317+00:00"
     }
   ],
-  "last_updated": "2026-06-11T07:47:52.415355+00:00"
+  "last_updated": "2026-06-11T19:20:31.989336+00:00"
 }
