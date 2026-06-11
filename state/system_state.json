@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4371,
+  "cycle_count": 4376,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-11T16:13:32.128467+00:00",
+  "last_checkpoint": "2026-06-11T16:24:11.508961+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -634,7 +634,8 @@
       "https://github.com/ScrapingBee/google-search-scraper/",
       "https://apiserpent.com/blog/scrape-google-search-results-python-3-methods",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=2bb886621dae695320d891171cb26834",
-      "https://myaccount.google.com/"
+      "https://myaccount.google.com/",
+      "https://www.usa.gov/social-security"
     ],
     "android_core": [
       "https://www.android.com/",
