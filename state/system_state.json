@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4561,
+  "cycle_count": 4566,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-12T04:03:32.745114+00:00",
+  "last_checkpoint": "2026-06-12T04:24:22.854991+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -646,7 +646,9 @@
       "https://www.tenforums.com/general-support/172922-windows-xp-2021-system-build-modern-pc.html",
       "https://support.google.com/mail/thread/214976549/how-do-i-install-the-gmail-app-on-my-windows-11-pc-laptop?hl=en",
       "https://www.tenforums.com/tutorials/6015-add-remove-folders-pc-windows-10-a.html",
-      "https://support.google.com/mail/answer/8494?hl=fr&co=GENIE.Platform=Desktop"
+      "https://support.google.com/mail/answer/8494?hl=fr&co=GENIE.Platform=Desktop",
+      "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=28db99f3fbff6cc82f438e85fa546d5e",
+      "https://outlook.office365.com/mail/login.html"
     ],
     "android_core": [
       "https://www.android.com/",
