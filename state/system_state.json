@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4526,
+  "cycle_count": 4531,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-12T02:53:23.437933+00:00",
+  "last_checkpoint": "2026-06-12T03:01:59.535909+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -290,7 +290,8 @@
       "https://catering.panerabread.com/",
       "https://www.panerabread.com/en-us/start-an-order.html",
       "https://www.panerabread.com/en-us/gift-cards/balance.html",
-      "https://www.panerabread.com/en-us/menu/categories/sandwiches.html"
+      "https://www.panerabread.com/en-us/menu/categories/sandwiches.html",
+      "https://ffmpeg.lav.io/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
