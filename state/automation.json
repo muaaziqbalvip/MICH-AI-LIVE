@@ -1219,7 +1219,21 @@
         "repositories"
       ],
       "added_at": "2026-06-12T05:55:31.587364+00:00"
+    },
+    {
+      "id": "49ec5875",
+      "source_url": "https://docs.aws.amazon.com/code-library/latest/ug/python_3_lambda_code_examples.html",
+      "title": "Lambda examples using SDK for Python (Boto3) - AWS SDK Code …",
+      "summary": "* The AWS Lambda function accepts an event and context as parameters.\n* The event dict contains parameters sent when the function is invoked.\n* The `ACTIONS` dictionary defines a list of Python lambda functions for arithmetic operations.\n* The `lambda_handler` function performs the specified action on numbers and returns the result.\n* The `LambdaWrapper` class wraps Lambda actions and provides methods for creating deployment packages and getting IAM roles.\n* The `create_deployment_package` method creates a Lambda deployment package in .zip format.\n* The `get_iam_role` method retrieves an AWS Identity and Access Management (IAM) role by name.\n* The `logger` object is used for logging events and errors in the Lambda function.\n* The `os.environ.get(\"LOG_LEVEL\", logging.INFO)` line sets the log level based on a variable configured in the Lambda environment.\n* The `try-except` block is used to handle exceptions, such as `ZeroDivisionError`, in the Lambda function.\n* The `create_function` method uses the `lambda_client.create_function` API to create a new Lambda function.\n* The `delete_function` method uses the `lambda_client.delete_function` API to delete a Lambda function.\n* The `invoke_function` method uses the `lambda_client.invoke` API to invoke a Lambda function.\n* The `update_function_code` method uses the `lambda_client.update_function_code` API to update the code for a Lambda function.\n* The `update_function_configuration` method uses the `lambda_client.update_function_con",
+      "tags": [
+        "aws lambda",
+        "python",
+        "iam",
+        "logging",
+        "deployment"
+      ],
+      "added_at": "2026-06-12T15:23:44.567665+00:00"
     }
   ],
-  "last_updated": "2026-06-12T05:55:31.587379+00:00"
+  "last_updated": "2026-06-12T15:23:44.567686+00:00"
 }

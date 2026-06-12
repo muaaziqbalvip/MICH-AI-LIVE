@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4676,
+  "cycle_count": 4681,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-12T14:44:59.617553+00:00",
+  "last_checkpoint": "2026-06-12T15:24:17.917849+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1465,7 +1465,8 @@
       "https://thegithubshop.com/",
       "https://git-scm.com/install",
       "https://skillbuilder.aws/",
-      "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/"
+      "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+      "https://docs.aws.amazon.com/code-library/latest/ug/python_3_lambda_code_examples.html"
     ]
   },
   "software_factory_jobs": [],
