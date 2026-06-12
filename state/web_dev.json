@@ -1226,7 +1226,22 @@
         "github"
       ],
       "added_at": "2026-06-10T05:28:48.382901+00:00"
+    },
+    {
+      "id": "19097b89",
+      "source_url": "https://quick-dev-tools.com/guides/typescript-generics-utility-types/",
+      "title": "TypeScript Generics and Utility Types: The Complete Guide",
+      "summary": "* `Partial<T>` makes all properties of `T` optional.\n* `Required<T>` makes all properties of `T` required.\n* `Readonly<T>` makes all properties of `T` readonly.\n* `Pick<T, K>` selects a subset of properties `K` from `T`.\n* `Omit<T, K>` removes specified properties `K` from `T`.\n* `Record<K, V>` creates an object type with key type `K` and value type `V`.\n* `ReturnType<T>` extracts the return type of a function `T`.\n* `Exclude<T, U>` removes types from `T` that are assignable to `U`.\n* `NonNullable<T>` removes `null` and `undefined` from `T`.\n* `Awaited<T>` unwraps `Promise` types recursively from `T`.\n* `ToArrayNonDist` type prevents tuple type distribution using a conditional type check.\n* `[T] extends [any]` checks if `T` is a single type, not a union.\n* `ToArrayNonDist<string | number>` returns `(string | number)[]`, a single array type.\n* Type distribution occurs when a union type is used in a tuple or array type.\n* Distribution can lead to unexpected behavior in custom utility types.\n* Conditional types can be used to control type distribution.\n* `never` type is used as a fallback when the condition is not met.\n* Type inference is crucial in understanding how types are distributed.\n* Utility types can help manage type distribution and prevent unexpected behavior.\n* Understanding type distribution is key to writing robust custom utility types.",
+      "tags": [
+        "typescript",
+        "generics",
+        "utilities",
+        "conditional",
+        "typing",
+        "utilities"
+      ],
+      "added_at": "2026-06-12T17:00:03.037941+00:00"
     }
   ],
-  "last_updated": "2026-06-10T05:28:48.382921+00:00"
+  "last_updated": "2026-06-12T17:00:03.037963+00:00"
 }
