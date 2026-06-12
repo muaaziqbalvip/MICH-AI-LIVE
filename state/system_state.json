@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4756,
+  "cycle_count": 4761,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-12T18:10:56.532172+00:00",
+  "last_checkpoint": "2026-06-12T18:36:40.773565+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -659,7 +659,12 @@
       "https://blog.hubspot.com/marketing/ai-content-generators",
       "https://www.socialinsider.io/blog/influencer-analytics-tools/",
       "https://github.com/salutethegenius/facebook-ads-automation",
-      "https://developers.facebook.com/v2/products/marketing-api/"
+      "https://developers.facebook.com/v2/products/marketing-api/",
+      "https://makecode.microbit.org/",
+      "https://makecode.microbit.org/offline-app",
+      "https://makecode.microbit.org/projects",
+      "https://makecode.microbit.org/reference/music/play",
+      "https://makecode.microbit.org/docs"
     ],
     "android_core": [
       "https://www.android.com/",

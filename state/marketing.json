@@ -1580,7 +1580,32 @@
         "roi"
       ],
       "added_at": "2026-06-12T14:21:48.235177+00:00"
+    },
+    {
+      "id": "c2aa7f7a",
+      "source_url": "https://makecode.microbit.org/reference/music/play",
+      "title": "play - Microsoft MakeCode for micro:bit",
+      "summary": "* `music.play()` function plays a song, melody, tone, or sound effect from a playable music source.\n* `music.tonePlayable()` creates a playable tone object with a specified frequency and duration.\n* `music.beat()` function specifies the duration of a tone or note.\n* `music.stringPlayable()` creates a playable melody object from a string of notes and a tempo.\n* `music.PlaybackMode` specifies how the music should be played (e.g. `UntilDone`, `UntilNext`).\n* The `play` block requires micro:bit V2 hardware, otherwise it returns error code 927.\n* `BeatFraction` enum specifies the duration of a note (e.g. `Whole`, `Half`, `Quarter`).\n* `music.play()` can take a playable object (tone, melody, or song) as an argument.\n* The `play` block can be used to create custom melodies or play built-in ones.\n* The tempo of a melody can be specified in beats per minute (BPM).",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-06-12T18:31:31.472276+00:00"
+    },
+    {
+      "id": "01fe3e49",
+      "source_url": "https://makecode.microbit.org/docs",
+      "title": "Documentation - Microsoft MakeCode for micro:bit",
+      "summary": "* Micro:bit supports Bluetooth, UART, and USB connectivity\n* UART baud rate can be set and used for serial communication\n* Micro:bit has various services: accelerometer, button, IO pin, LED, magnetometer, temperature, and UART\n* Events can be raised and handled with event timestamp and value\n* Extensions and custom blocks can be created and used in projects\n* Micro:bit supports JavaScript and Python programming languages\n* Blocks language is used for visual programming and can be converted to JavaScript\n* Data can be read and written using buffers and various data types: Number, String, Boolean, Array, and Buffer\n* Micro:bit has a simulator and supports offline project development and cloud syncing\n* Command Line Interface and Visual Studio Code support are available for developers",
+      "tags": [
+        "bluetooth",
+        "uart",
+        "usb",
+        "javascript",
+        "python",
+        "microbit"
+      ],
+      "added_at": "2026-06-12T18:33:37.082511+00:00"
     }
   ],
-  "last_updated": "2026-06-12T14:21:48.235195+00:00"
+  "last_updated": "2026-06-12T18:33:37.082530+00:00"
 }
