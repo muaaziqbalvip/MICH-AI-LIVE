@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4641,
+  "cycle_count": 4643,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-12T07:26:07.516372+00:00",
+  "last_checkpoint": "2026-06-12T07:29:10.741148+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -652,7 +652,9 @@
       "https://support.google.com/mail/answer/8494?hl=fr&co=GENIE.Platform=Desktop",
       "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=28db99f3fbff6cc82f438e85fa546d5e",
       "https://outlook.office365.com/mail/login.html",
-      "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=1c79dd35387969401d0fca43394e687e"
+      "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=1c79dd35387969401d0fca43394e687e",
+      "https://support.microsoft.com/en-us/outlook",
+      "https://support.microsoft.com/en-us/accounts-billing/manage/how-to-sign-in-to-outlook-com"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -1466,5 +1468,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "running"
+  "status": "handoff"
 }
