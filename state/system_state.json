@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4486,
+  "cycle_count": 4491,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-12T01:53:47.799119+00:00",
+  "last_checkpoint": "2026-06-12T02:03:24.317276+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1186,7 +1186,8 @@
       "https://www.next.co.uk/?msockid=03add76f9e29600720bbc01b9f526162",
       "https://www.nextlevelpinballmuseum.com/",
       "https://prismacare.org/",
-      "https://fastapi.tiangolo.com/features/"
+      "https://fastapi.tiangolo.com/features/",
+      "https://prismahealth.org/locations/hospitals/blount-memorial-hospital"
     ],
     "automation": [
       "https://www.selenium.dev/",
