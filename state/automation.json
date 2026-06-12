@@ -1204,7 +1204,22 @@
         "automation"
       ],
       "added_at": "2026-06-11T07:52:29.275157+00:00"
+    },
+    {
+      "id": "31c074d1",
+      "source_url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+      "title": "GitHub Copilot app: The agent-native desktop experience",
+      "summary": "* GitHub Copilot app is a control center for agent-native development.\n* The app provides a single \"My Work\" view to manage work across connected repositories.\n* Each agent runs in its own isolated environment, producing changes that can be inspected, redirected, tested, and merged.\n* The app supports multiple initiatives and agents from one location.\n* Sessions run in their own git worktree.\n* The app is built on GitHub and is available in technical preview for existing Copilot users.\n* GitHub is scaling its underlying systems to improve resilience and stability.\n* Commits on GitHub have nearly doubled year over year, with over 1.4 billion per month.\n* GitHub Actions minutes have exceeded 2 billion per week.\n* The app allows for easy access to plans and autopilots with interactive sessions and code stepping.\n* Each session runs in its own isolated git worktree for parallel agent sessions.\n* Agent Merge monitors CI, tracks required reviewers, and addresses failing checks.\n* Canvases are bidirectional work surfaces for humans and agents to visualize work.\n* Agents update canvases as they work, and developers can edit or redirect that work.\n* Cloud and local sandboxes provide a bounded place for agents to act, prioritizing security and policy enforcement.\n* Local sandboxing runs in an isolated environment with restricted access to filesystems and network connectivity.\n* Cloud sandboxes run in fully isolated, ephemeral Linux environments hosted by GitHub.\n* Organizations can def",
+      "tags": [
+        "github",
+        "copilot",
+        "git",
+        "agents",
+        "actions",
+        "repositories"
+      ],
+      "added_at": "2026-06-12T05:55:31.587364+00:00"
     }
   ],
-  "last_updated": "2026-06-11T07:52:29.275174+00:00"
+  "last_updated": "2026-06-12T05:55:31.587379+00:00"
 }

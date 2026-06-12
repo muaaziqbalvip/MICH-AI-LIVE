@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4601,
+  "cycle_count": 4606,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-12T05:30:08.144691+00:00",
+  "last_checkpoint": "2026-06-12T05:57:04.990631+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -648,7 +648,8 @@
       "https://www.tenforums.com/tutorials/6015-add-remove-folders-pc-windows-10-a.html",
       "https://support.google.com/mail/answer/8494?hl=fr&co=GENIE.Platform=Desktop",
       "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=28db99f3fbff6cc82f438e85fa546d5e",
-      "https://outlook.office365.com/mail/login.html"
+      "https://outlook.office365.com/mail/login.html",
+      "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=1c79dd35387969401d0fca43394e687e"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -1453,7 +1454,8 @@
       "https://realpython.com/",
       "https://thegithubshop.com/",
       "https://git-scm.com/install",
-      "https://skillbuilder.aws/"
+      "https://skillbuilder.aws/",
+      "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/"
     ]
   },
   "software_factory_jobs": [],
