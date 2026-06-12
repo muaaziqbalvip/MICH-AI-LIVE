@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4736,
+  "cycle_count": 4741,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-12T17:26:23.646027+00:00",
+  "last_checkpoint": "2026-06-12T17:38:03.752996+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -657,7 +657,9 @@
       "https://support.microsoft.com/en-us/accounts-billing/manage/how-to-sign-in-to-outlook-com",
       "https://python.plainenglish.io/building-a-scalable-email-automation-system-with-python-872e6c071819",
       "https://blog.hubspot.com/marketing/ai-content-generators",
-      "https://www.socialinsider.io/blog/influencer-analytics-tools/"
+      "https://www.socialinsider.io/blog/influencer-analytics-tools/",
+      "https://github.com/salutethegenius/facebook-ads-automation",
+      "https://developers.facebook.com/v2/products/marketing-api/"
     ],
     "android_core": [
       "https://www.android.com/",
