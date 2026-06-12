@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4716,
+  "cycle_count": 4721,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-12T16:34:39.599431+00:00",
+  "last_checkpoint": "2026-06-12T16:44:17.081770+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1204,7 +1204,8 @@
       "https://www.next.co.uk/?msockid=0dcd2f1a4e8468a22843386c4f8c69eb",
       "https://www.nordstrom.com/brands/next--25801?msockid=0dcd2f1a4e8468a22843386c4f8c69eb",
       "https://www.freecodecamp.org/news/fastapi-quickstart/",
-      "https://github.com/react/react/releases"
+      "https://github.com/react/react/releases",
+      "https://www.next.co.uk/?msockid=28f775080461619f36bf627e05ca603e"
     ],
     "automation": [
       "https://www.selenium.dev/",
