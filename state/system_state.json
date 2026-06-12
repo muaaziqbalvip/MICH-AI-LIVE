@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4606,
+  "cycle_count": 4611,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-12T05:57:04.990631+00:00",
+  "last_checkpoint": "2026-06-12T06:25:02.892160+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -291,7 +291,10 @@
       "https://www.panerabread.com/en-us/start-an-order.html",
       "https://www.panerabread.com/en-us/gift-cards/balance.html",
       "https://www.panerabread.com/en-us/menu/categories/sandwiches.html",
-      "https://ffmpeg.lav.io/"
+      "https://ffmpeg.lav.io/",
+      "https://www.linkedin.com/pulse/real-time-video-manipulation-using-python-opencv-vikas-chauhan",
+      "https://docs.opencv.org/master/d6/d00/tutorial_py_root.html",
+      "https://opencv.org/reading-and-writing-videos-using-opencv/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -851,7 +854,8 @@
       "https://www.si.com/nba/finals/knicks-spurs-nba-finals-game-4-live-updates-scores-stats-takeaways",
       "https://www.365scores.com/en-us/basketball/team/new-york-knicks-1313",
       "https://www.nba.com/news/live-nba-finals-game-4-spurs-knicks",
-      "https://www.nytimes.com/athletic/live-blogs/knicks-vs-spurs-live-updates-nba-finals-game-3-score-result/wmuNZ8WK2HM7/"
+      "https://www.nytimes.com/athletic/live-blogs/knicks-vs-spurs-live-updates-nba-finals-game-3-score-result/wmuNZ8WK2HM7/",
+      "https://developer.android.com/kotlin/multiplatform"
     ],
     "web_dev": [
       "https://tailwindcss.com/",

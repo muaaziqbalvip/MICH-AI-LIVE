@@ -1066,7 +1066,22 @@
         "string literals"
       ],
       "added_at": "2026-06-11T16:00:18.187514+00:00"
+    },
+    {
+      "id": "fe608dd1",
+      "source_url": "https://opencv.org/reading-and-writing-videos-using-opencv/",
+      "title": "Reading and Writing Videos using OpenCV",
+      "summary": "* Always check the `ret` variable to verify that a frame was successfully read.\n* Handle end-of-file conditions by breaking out of the loop when `ret` is `False`.\n* Ensure the webcam is not in use by another application before attempting to access it.\n* Verify the correct camera index is used (usually 0 for the default camera).\n* Use `cv2.VideoWriter` (Python) or `cv::VideoWriter` (C++) to write a video file.\n* `cv2.VideoWriter` accepts arguments: `filename`, `fourcc`, `fps`, `frame_size`, and `isColor`.\n* Common FourCC codecs include \"XVID\", \"MJPG\", \"MP4V\", and \"X264\".\n* Release all resources using `cap.release()`, `out.release()`, and `cv2.destroyAllWindows()` after use.\n* Check if a video file was opened successfully using `cap.isOpened()`.\n* `cv2.imshow()` is used to display a frame.\n* `cv2.waitKey(1)` introduces a delay to control frame rate.\n* `cap.release()` releases the video capture object.\n* `out.release()` releases the video writer object.\n* `cv2.destroyAllWindows()` closes all OpenCV windows.\n* `cv::VideoCapture` is used to open a video file in C++.\n* `cv::VideoCapture` object checks if the video file was opened successfully.\n* `ord('q')` is used to break the loop when 'q' key is pressed.\n* OpenCV requires manual memory management using `release()` and `destroyAllWindows()`.\n* Video file paths are specified as strings, e.g. `\"C:/Users/ssabb/Downloads/input.mp4\"`.",
+      "tags": [
+        "opencv",
+        "videowriter",
+        "fourcc",
+        "webcam",
+        "python",
+        "c++"
+      ],
+      "added_at": "2026-06-12T06:17:23.901076+00:00"
     }
   ],
-  "last_updated": "2026-06-11T16:00:18.187533+00:00"
+  "last_updated": "2026-06-12T06:17:23.901092+00:00"
 }
