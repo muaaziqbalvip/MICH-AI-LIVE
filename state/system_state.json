@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4746,
+  "cycle_count": 4751,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-12T17:43:39.643231+00:00",
+  "last_checkpoint": "2026-06-12T18:04:20.255839+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -862,7 +862,8 @@
       "https://www.365scores.com/en-us/basketball/team/new-york-knicks-1313",
       "https://www.nba.com/news/live-nba-finals-game-4-spurs-knicks",
       "https://www.nytimes.com/athletic/live-blogs/knicks-vs-spurs-live-updates-nba-finals-game-3-score-result/wmuNZ8WK2HM7/",
-      "https://developer.android.com/kotlin/multiplatform"
+      "https://developer.android.com/kotlin/multiplatform",
+      "https://android-developers.googleblog.com/2025/11/fully-optimized-wrapping-up-performance.html"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
@@ -1209,7 +1210,8 @@
       "https://github.com/react/react/releases",
       "https://www.next.co.uk/?msockid=28f775080461619f36bf627e05ca603e",
       "https://www.xjavascript.com/typescript-tutorials/typescript-advanced-generics-and-constraints/",
-      "https://quick-dev-tools.com/guides/typescript-generics-utility-types/"
+      "https://quick-dev-tools.com/guides/typescript-generics-utility-types/",
+      "https://tailgrids.com/blog/tailwind-css-advanced-techniques-and-tips"
     ],
     "automation": [
       "https://www.selenium.dev/",

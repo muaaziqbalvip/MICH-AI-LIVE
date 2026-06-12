@@ -1241,7 +1241,22 @@
         "utilities"
       ],
       "added_at": "2026-06-12T17:00:03.037941+00:00"
+    },
+    {
+      "id": "adece227",
+      "source_url": "https://tailgrids.com/blog/tailwind-css-advanced-techniques-and-tips",
+      "title": "Advanced Tailwind CSS Techniques & Tips for Developers",
+      "summary": "* Tailwind CSS provides pre-designed components and templates for UI development.\n* Forms Plugin (@tailwindcss/forms) simplifies styling of form elements like checkboxes and input fields.\n* Typography Plugin (@tailwindcss/typography) adds consistent typographic styles to a project.\n* Plugins can be used to extend Tailwind CSS functionality.\n* Custom CSS can be avoided using plugins like Forms and Typography.\n* Consistent text layouts can be achieved using Typography Plugin.\n* Pre-designed components can speed up UI development.\n* Tailwind CSS plugins are installed using @ notation (e.g. @tailwindcss/forms).\n* Plugins can be used to style specific HTML elements (e.g. checkboxes, radio buttons).\n* Tailwind CSS provides tools for creating consistent and beautiful UI layouts.",
+      "tags": [
+        "css",
+        "ui",
+        "plugins",
+        "typography",
+        "tailwind",
+        "html"
+      ],
+      "added_at": "2026-06-12T17:54:21.609636+00:00"
     }
   ],
-  "last_updated": "2026-06-12T17:00:03.037963+00:00"
+  "last_updated": "2026-06-12T17:54:21.609658+00:00"
 }
