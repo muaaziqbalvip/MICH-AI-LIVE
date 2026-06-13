@@ -1256,7 +1256,48 @@
         "html"
       ],
       "added_at": "2026-06-12T17:54:21.609636+00:00"
+    },
+    {
+      "id": "36924308",
+      "source_url": "https://www.cnbc.com/2026/03/23/novo-nordisk-cheap-weight-loss-drugs-india-generic-ozempic-wegovy-semaglutide.html?msockid=03678e25de8a6d56195b9952df4f6ca5",
+      "title": "India is launching cheap weight-loss drugs - CNBC",
+      "summary": "* Semaglutide is the key ingredient in weight-loss drugs.\n* Novo Nordisk is the market leader in semaglutide-based drugs.\n* Patent expiration is crucial for generic versions of semaglutide.\n* Generic versions of semaglutide can be sold in countries where the patent has expired.\n* India is launching cheap weight-loss drugs, including generic semaglutide.\n* Ozempic and Wegovy are examples of semaglutide-based drugs.\n* Patent laws can help Novo Nordisk maintain market dominance.\n* Generic competition can impact Novo Nordisk's market share.\n* Semaglutide-based drugs have the potential to remake the weight loss industry.",
+      "tags": [
+        "generic drugs",
+        "weight loss",
+        "patent laws",
+        "pharmaceutical technology"
+      ],
+      "added_at": "2026-06-13T12:55:12.974885+00:00"
+    },
+    {
+      "id": "2d9ff7e1",
+      "source_url": "https://inertiajs.com/docs/v3/advanced/typescript",
+      "title": "TypeScript - Inertia.js Documentation",
+      "summary": "* `Form` component from `@inertiajs/react` accepts a generic type parameter for type-safe form data.\n* `useFormContext` hook accepts a generic type parameter for type-safe access to form context.\n* `useHttp` hook accepts two generic type parameters: form data type and optional default response type.\n* `LayoutCallback` type provides type safety for layout callbacks, receiving page props and returning a layout definition.\n* `useRemember` hook accepts a generic type parameter for type-safe local state persistence.\n* `router.restore()` method accepts a generic type parameter for typing state restored from history.\n* Router methods (e.g. `post`, `get`) accept a generic type parameter for typing request data.\n* `router.flash()` method accepts a generic type parameter for typing page or section-specific flash data.\n* `useFormContext` and `useHttp` provide autocomplete and type checking for form fields and request data.\n* Inertia.js components and hooks support TypeScript generics for type-safe development.",
+      "tags": [
+        "react",
+        "inertiajs",
+        "typescript",
+        "hooks",
+        "router"
+      ],
+      "added_at": "2026-06-13T13:02:32.300574+00:00"
+    },
+    {
+      "id": "de78b1ad",
+      "source_url": "https://docs.oracle.com/javase/8/docs/technotes/guides/language/generics.html",
+      "title": "Generics - Oracle",
+      "summary": "* The `getAnnotation` method is a generic method that infers its type parameter `T` from its argument.\n* Generics are implemented by type erasure, where generic type information is present only at compile time.\n* Type erasure provides interoperability between generic code and legacy code, but loses parameter type information at runtime.\n* The `java.util.Collections` class provides wrapper classes for guaranteed runtime type safety.\n* `Collections.checkedSet` can be used to detect incorrect types at insertion time, rather than at read time.\n* Generics should be used everywhere possible for clarity and type safety.\n* Writing a generic library requires expertise, but using a generic library is straightforward.\n* Generics are not compatible with pre-5.0 virtual machines.\n* Java generics differ from C++ templates, not generating a new class for each specialization.\n* Java generics do not permit \"template metaprogramming\".\n* Java generics are related to the concept of \"template metaprogramming\"\n* Generics in Java are a complex topic with more to learn\n* The Java Tutorials have a dedicated lesson on Generics\n* Java 8 documentation covers generics\n* Oracle provides official documentation and resources on Java generics\n* Generics are a language feature in Java\n* Java generics are different from C++ templates \n* Oracle's Java documentation is regularly updated (latest 2026) \n* Java generics are a part of the Java language guides \n* Official Java documentation is available on the Oracle",
+      "tags": [
+        "java generics",
+        "type erasure",
+        "runtime safety",
+        "legacy code",
+        "virtual machines"
+      ],
+      "added_at": "2026-06-13T13:19:23.506152+00:00"
     }
   ],
-  "last_updated": "2026-06-12T17:54:21.609658+00:00"
+  "last_updated": "2026-06-13T13:19:23.506162+00:00"
 }
