@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5026,
+  "cycle_count": 5031,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-13T17:10:00.095621+00:00",
+  "last_checkpoint": "2026-06-13T17:19:37.371725+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -679,7 +679,8 @@
       "https://planable.io/blog/schedule-social-media-posts/",
       "https://www.meta.com/en-gb/facebook-app/",
       "https://gizmodo.com/download/facebook",
-      "https://sociallypowerful.com/influencer/marketing/analytics-tools"
+      "https://sociallypowerful.com/influencer/marketing/analytics-tools",
+      "https://seo.wyo.gov/"
     ],
     "android_core": [
       "https://www.android.com/",
