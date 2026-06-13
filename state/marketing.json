@@ -1648,7 +1648,22 @@
         "roi insights"
       ],
       "added_at": "2026-06-13T15:37:54.188723+00:00"
+    },
+    {
+      "id": "c9ab131f",
+      "source_url": "https://www.semrush.com/blog/what-is-seo/",
+      "title": "What Is SEO? Meaning, Examples & How to Optimize Your Site - Semr…",
+      "summary": "* On-Page SEO focuses on using keywords effectively in title tags, meta descriptions, H1 tags, subheading tags, alt text, and URL slugs.\n* Keyword stuffing is considered a spammy practice by Google and can lead to penalties.\n* Off-Page SEO involves link building, social media management, online reputation management, and email marketing to improve search visibility.\n* Technical SEO involves using meta robots tags, robots.txt, XML sitemaps, and internal links to enhance search visibility.\n* Ensuring proper crawling and indexing is crucial for technical SEO.\n* Page speed, website security, and mobile-friendliness are important user experience factors for technical SEO.\n* Image SEO involves resizing and compressing images, adding alt text, and ensuring images are visually appealing.\n* Alt text helps search engines and users with screen readers understand image content.\n* XML sitemaps help search engines understand site structure.\n* Internal links assist search bots and users in navigating a site.\n* Filter keywords by low Keyword Difficulty (KD%) score for easier ranking.\n* Use keyword metrics: Intent, Volume, Trend, and SF to identify opportunities.\n* Create quality, accurate, and original content that satisfies search intent.\n* Optimize content with keyword in title tag, H1 tag, body content, and URL slug.\n* Use internal links to point to relevant pages on the site.\n* Apply schema markup to help search engines understand the article.\n* Build backlinks from relevant, high-qualit",
+      "tags": [
+        "seo",
+        "link building",
+        "page speed",
+        "website security",
+        "email marketing",
+        "xml sitemaps"
+      ],
+      "added_at": "2026-06-13T18:11:48.596370+00:00"
     }
   ],
-  "last_updated": "2026-06-13T15:37:54.188740+00:00"
+  "last_updated": "2026-06-13T18:11:48.596389+00:00"
 }
