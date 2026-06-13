@@ -1233,7 +1233,17 @@
         "deployment"
       ],
       "added_at": "2026-06-12T15:23:44.567665+00:00"
+    },
+    {
+      "id": "afc113de",
+      "source_url": "https://stackoverflow.com/questions/17742789/running-multiple-bash-commands-with-subprocess",
+      "title": "python - running multiple bash commands with subprocess - Stack Overflow",
+      "summary": "* The `subprocess` module in Python can be used to run multiple bash commands.\n* The `shell=True` argument allows running multiple commands with a single `subprocess` call.\n* Commands can be separated by semicolons (`;`) or newlines (`\\n`) to run sequentially.\n* The `stdout` and `stderr` arguments can be used to capture output and error messages.\n* The `check_call` and `check_output` functions can be used to run commands and check their return codes.\n* The `Popen` class can be used to create a new process and run commands in it.\n* The `communicate` method can be used to send input to a process and capture its output.\n* The `wait` method can be used to wait for a process to finish and get its return code.\n* The `os` module can also be used to run commands, but it is less flexible than `subprocess`.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-13T04:27:26.805879+00:00"
     }
   ],
-  "last_updated": "2026-06-12T15:23:44.567686+00:00"
+  "last_updated": "2026-06-13T04:27:26.805898+00:00"
 }

@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4881,
+  "cycle_count": 4886,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-13T04:10:12.819536+00:00",
+  "last_checkpoint": "2026-06-13T04:41:37.402310+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -870,7 +870,9 @@
       "https://developer.android.com/kotlin/multiplatform",
       "https://android-developers.googleblog.com/2025/11/fully-optimized-wrapping-up-performance.html",
       "https://medium.com/@kvsivabharath/room-database-a-practical-guide-for-android-development-7ac8db912793",
-      "https://developer.android.com/training/data-storage/room/accessing-data"
+      "https://developer.android.com/training/data-storage/room/accessing-data",
+      "https://blogs.pavanrangani.com/flutter-riverpod-state-management-guide/",
+      "https://softwarepatternslexicon.com/dart/state-management-patterns-in-flutter/riverpod-state-management/"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
@@ -1485,7 +1487,9 @@
       "https://git-scm.com/install",
       "https://skillbuilder.aws/",
       "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
-      "https://docs.aws.amazon.com/code-library/latest/ug/python_3_lambda_code_examples.html"
+      "https://docs.aws.amazon.com/code-library/latest/ug/python_3_lambda_code_examples.html",
+      "https://openpython.org/articles/how-to-run-bash-script",
+      "https://stackoverflow.com/questions/17742789/running-multiple-bash-commands-with-subprocess"
     ]
   },
   "software_factory_jobs": [],

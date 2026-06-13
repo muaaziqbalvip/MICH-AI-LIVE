@@ -1000,7 +1000,21 @@
         "as"
       ],
       "added_at": "2026-06-13T03:28:18.918058+00:00"
+    },
+    {
+      "id": "9ac4a3f5",
+      "source_url": "https://blogs.pavanrangani.com/flutter-riverpod-state-management-guide/",
+      "title": "Flutter Riverpod state - Complete Guide",
+      "summary": "* `@riverpod` annotation generates provider boilerplate automatically.\n* `ref.watch` is used to watch state changes inside `build`, while `ref.read` is used to read the notifier inside a callback.\n* `AsyncValue` handles asynchronous operations with loading, error, and data states.\n* `ref.watch` rebuilds widgets only when relevant state changes.\n* `AsyncValue.when` method forces handling of all three states (loading, error, data) at the UI layer.\n* `ref.keepAlive()` or `@Riverpod(keepAlive: true)` keeps provider state alive even when no widget is listening.\n* `ref.invalidate()` is used to deliberately invalidate provider state.\n* `ProviderContainer` allows testing providers outside the widget tree.\n* `ref.read` and `ref.watch` should not be mixed up, as it can cause stale state issues.\n* Riverpod supports unit testing without Flutter framework dependencies by overriding providers.",
+      "tags": [
+        "riverpod",
+        "asyncvalue",
+        "providercontainer",
+        "state management",
+        "widget tree"
+      ],
+      "added_at": "2026-06-13T04:35:06.320890+00:00"
     }
   ],
-  "last_updated": "2026-06-13T03:28:18.918076+00:00"
+  "last_updated": "2026-06-13T04:35:06.320905+00:00"
 }
