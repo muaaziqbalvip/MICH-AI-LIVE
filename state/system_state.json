@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5016,
+  "cycle_count": 5021,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-13T16:53:59.319350+00:00",
+  "last_checkpoint": "2026-06-13T17:01:48.385754+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
