@@ -1605,7 +1605,20 @@
         "microbit"
       ],
       "added_at": "2026-06-12T18:33:37.082511+00:00"
+    },
+    {
+      "id": "4555df53",
+      "source_url": "https://www.thisoldhouse.com/heating-cooling/types-of-heating-systems",
+      "title": "Types of Home Heating Systems - This Old House",
+      "summary": "* Most homes have a forced-air furnace, boiler, or heat pump.\n* Furnaces are suitable for moderate climates, while boilers are more common in older homes and colder climates.\n* Geothermal heat pumps are the most energy-efficient heating system.\n* Heat pumps are gaining popularity in moderate climates.\n* Annual inspection and maintenance of heating systems is recommended.\n* Cost of annual tune-up: $75-$200.\n* High-efficiency gas furnaces may be cost-effective in colder climates.\n* Existing ductwork can influence the choice of heating system.\n* Climate, fuel availability, budget, and existing setup determine the best heating system for a house.\n* Geothermal systems have a higher upfront cost than other options.",
+      "tags": [
+        "heat pumps",
+        "geothermal",
+        "furnaces",
+        "boilers"
+      ],
+      "added_at": "2026-06-13T05:42:28.019481+00:00"
     }
   ],
-  "last_updated": "2026-06-12T18:33:37.082530+00:00"
+  "last_updated": "2026-06-13T05:42:28.019514+00:00"
 }

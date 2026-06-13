@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4896,
+  "cycle_count": 4901,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-13T05:25:17.082863+00:00",
+  "last_checkpoint": "2026-06-13T05:45:32.222246+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -669,7 +669,12 @@
       "https://makecode.microbit.org/offline-app",
       "https://makecode.microbit.org/projects",
       "https://makecode.microbit.org/reference/music/play",
-      "https://makecode.microbit.org/docs"
+      "https://makecode.microbit.org/docs",
+      "https://www.trane.com/residential/",
+      "https://www.thespruce.com/types-of-home-heating-systems-1824772",
+      "https://www.maincareenergy.com/",
+      "https://www.energy.gov/energysaver/home-heating-systems",
+      "https://www.thisoldhouse.com/heating-cooling/types-of-heating-systems"
     ],
     "android_core": [
       "https://www.android.com/",
