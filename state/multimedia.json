@@ -1081,7 +1081,20 @@
         "c++"
       ],
       "added_at": "2026-06-12T06:17:23.901076+00:00"
+    },
+    {
+      "id": "143ecb8d",
+      "source_url": "https://apps.apple.com/us/app/youtube/id544007664",
+      "title": "‎YouTube App - App Store",
+      "summary": "* No technical information is present in the provided text, it appears to be user reviews and personal stories.\n* No code patterns or technical facts are mentioned.\n* The text discusses personal experiences, accessibility issues, and ADA rights.\n* No specific technical knowledge or insights can be extracted from the text.\n* The text is not related to the YouTube app's technical aspects.\n* User reviews mention issues with accessibility and interpreter services.\n* No technical specifications or features of the YouTube app are discussed.\n* The text is focused on personal stories and social issues.\n* No programming languages or software development concepts are mentioned.\n* The text does not provide any technical information about the YouTube app or its development.\n* Data collected: Device ID, Usage Data, Advertising Data, Diagnostics, Crash Data, Performance Data\n* User data collected: Location, Precise Location, Contact Info, Email Address, Contacts\n* Personalization data: Product Personalization, Purchases, Purchase History\n* User-generated data: User Content, Search History\n* Identifiers used: User ID, Device ID\n* Data types: Usage Data, Product Interaction, Other Usage Data, Other Data\n* App collects: Crash Data, Performance Data, Other Diagnostic Data\n* User information: Email Address, Contacts, Search History\n* App tracking: Location, Precise Location, Advertising Data",
+      "tags": [
+        "accessibility",
+        "interpreter",
+        "device id",
+        "ada rights"
+      ],
+      "added_at": "2026-06-13T05:09:30.978977+00:00"
     }
   ],
-  "last_updated": "2026-06-12T06:17:23.901092+00:00"
+  "last_updated": "2026-06-13T05:09:30.978995+00:00"
 }
