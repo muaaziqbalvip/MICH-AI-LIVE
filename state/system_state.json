@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4851,
+  "cycle_count": 4856,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-13T02:58:22.728842+00:00",
+  "last_checkpoint": "2026-06-13T03:28:21.461367+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -868,7 +868,9 @@
       "https://www.nba.com/news/live-nba-finals-game-4-spurs-knicks",
       "https://www.nytimes.com/athletic/live-blogs/knicks-vs-spurs-live-updates-nba-finals-game-3-score-result/wmuNZ8WK2HM7/",
       "https://developer.android.com/kotlin/multiplatform",
-      "https://android-developers.googleblog.com/2025/11/fully-optimized-wrapping-up-performance.html"
+      "https://android-developers.googleblog.com/2025/11/fully-optimized-wrapping-up-performance.html",
+      "https://medium.com/@kvsivabharath/room-database-a-practical-guide-for-android-development-7ac8db912793",
+      "https://developer.android.com/training/data-storage/room/accessing-data"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
@@ -1220,7 +1222,8 @@
       "https://compitionpoint.com/build-rest-api-python-fastapi-tutorial/",
       "https://codezup.com/python-rest-api-fastapi-guide/",
       "https://www.next.co.uk/?msockid=3d80a516866061e51f97b26187186000",
-      "https://www.nordstrom.com/brands/next--25801?msockid=3d80a516866061e51f97b26187186000"
+      "https://www.nordstrom.com/brands/next--25801?msockid=3d80a516866061e51f97b26187186000",
+      "https://pyquesthub.com/building-a-real-time-chat-application-with-python-and-websockets"
     ],
     "automation": [
       "https://www.selenium.dev/",

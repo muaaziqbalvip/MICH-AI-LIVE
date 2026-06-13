@@ -975,7 +975,32 @@
         "offense"
       ],
       "added_at": "2026-06-11T07:35:26.680871+00:00"
+    },
+    {
+      "id": "7610e327",
+      "source_url": "https://medium.com/@kvsivabharath/room-database-a-practical-guide-for-android-development-7ac8db912793",
+      "title": "Room Database: A Practical Guide for Android Development",
+      "summary": "* Room Database is used for data persistence in Android applications.\n* Understanding core components of Room is essential for building scalable applications.\n* Key concepts in Room include relationships, migrations, and transactions.\n* Room supports Kotlin and Java programming languages.\n* Room is used for building maintainable and reliable Android applications.\n* Effective use of Room requires best practices and the right approach.\n* Room is a part of Android Jetpack libraries.\n* Room provides a simple and intuitive API for database operations.\n* Room supports offline data storage and caching.\n* Room is an alternative to traditional SQLite databases in Android.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-13T03:19:08.444687+00:00"
+    },
+    {
+      "id": "f18c971d",
+      "source_url": "https://developer.android.com/training/data-storage/room/accessing-data",
+      "title": "Accessing data using Room DAOs - Android Developers",
+      "summary": "* Room DAOs support referencing the same parameter multiple times in a query.\n* Use `:parameter` syntax to pass parameters to a query.\n* Room automatically expands collection parameters at runtime.\n* Use `IN` clause to pass a collection of parameters to a query.\n* `JOIN` clauses can be used to reference multiple tables in a query.\n* Simple objects can be defined to return a subset of columns from multiple joined tables.\n* Use `AS` keyword to alias columns in a query.\n* Room supports returning a subset of a table's columns.\n* Use `LiveData` to return observable data from a query.\n* Define a separate data class to hold the returned data, such as `UserBook`.",
+      "tags": [
+        "daos",
+        "room",
+        "livedata",
+        "join",
+        "in",
+        "as"
+      ],
+      "added_at": "2026-06-13T03:28:18.918058+00:00"
     }
   ],
-  "last_updated": "2026-06-11T07:35:26.680889+00:00"
+  "last_updated": "2026-06-13T03:28:18.918076+00:00"
 }
