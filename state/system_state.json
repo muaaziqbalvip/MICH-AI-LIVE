@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 4996,
+  "cycle_count": 5001,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-13T16:09:15.419129+00:00",
+  "last_checkpoint": "2026-06-13T16:25:08.579837+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -888,7 +888,9 @@
       "https://developer.android.com/training/data-storage/room/accessing-data",
       "https://blogs.pavanrangani.com/flutter-riverpod-state-management-guide/",
       "https://softwarepatternslexicon.com/dart/state-management-patterns-in-flutter/riverpod-state-management/",
-      "https://xml2compose.dev/blog/hilt-compose-dependency-injection"
+      "https://xml2compose.dev/blog/hilt-compose-dependency-injection",
+      "https://www.geeksforgeeks.org/videos/basics-of-jetpack-compose-in-android/",
+      "https://www.codingbihar.com/2024/05/android-jetpack-compose-tutorial.html"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
