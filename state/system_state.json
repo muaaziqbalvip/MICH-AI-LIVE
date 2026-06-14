@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5071,
+  "cycle_count": 5076,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-14T01:07:49.505995+00:00",
+  "last_checkpoint": "2026-06-14T01:31:16.903103+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -301,7 +301,12 @@
       "https://en.wikipedia.org/wiki/YouTube",
       "https://apps.microsoft.com/detail/9ndp7ktlk7w3?launch=true&hl=en-us&gl=us",
       "https://github.com/Zulko/moviepy/releases",
-      "https://ffmpeg.org/documentation.html"
+      "https://ffmpeg.org/documentation.html",
+      "https://www.typingtest.com/",
+      "https://www.typing.com/student/typing-test/1-minute",
+      "https://www.typewizz.com/typing-test",
+      "https://www.quicktypingtest.com/",
+      "https://typingtest.me/"
     ],
     "marketing": [
       "https://mail.google.com/mail",

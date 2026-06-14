@@ -1094,7 +1094,32 @@
         "ada rights"
       ],
       "added_at": "2026-06-13T05:09:30.978977+00:00"
+    },
+    {
+      "id": "c00bec4c",
+      "source_url": "https://www.typingtest.com/",
+      "title": "TypingTest.com - Complete a Typing Test in 60 Seconds!",
+      "summary": "* TypingTest.com offers a 60-second typing test to assess typing skills.\n* The website provides typing lessons and games to improve typing skills.\n* A typing trainer web application is available for fluency training.\n* Custom typing tests can be created and shared with the community.\n* Users can create a free account to track progress and save history.\n* Typing speed challenges and games are available, including a 1-100 number typing test.\n* The website features a dark mode for user interface customization.\n* Badges can be earned as users improve their typing skills.\n* Typing history can be saved across devices with a user account.\n* Community-created tests can be browsed and played instantly.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-14T01:16:10.978776+00:00"
+    },
+    {
+      "id": "6b3d6e31",
+      "source_url": "https://typingtest.me/",
+      "title": "Free Typing Test - Check Your Speed in 60 Seconds | TypingTest.me",
+      "summary": "* WPM calculation: correct characters / 5 / active time (pauses excluded)\n* Accuracy measurement: correct characters / total typed characters\n* KPS (Keypresses Per Second) measures typing pacing\n* Consistency rewards steady rhythm across the test\n* Error heat map tracks error rates for each key, including brackets, quotes, slashes, and numbers\n* Pausing the test: Ctrl + P, or auto-pause when tab isn't visible\n* Custom text mode allows up to 5000 characters, but pasting is disabled\n* Typing test modes: Common, Quotes, Code, and Numbers\n* Data storage: test runs in browser, no account required, and data is kept private\n* Mobile support: layout adapts for smaller screens, with simplified visuals",
+      "tags": [
+        "data storage",
+        "error tracking",
+        "mobile support",
+        "typing test",
+        "auto pause",
+        "key presses"
+      ],
+      "added_at": "2026-06-14T01:24:42.525941+00:00"
     }
   ],
-  "last_updated": "2026-06-13T05:09:30.978995+00:00"
+  "last_updated": "2026-06-14T01:24:42.525950+00:00"
 }
