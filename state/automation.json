@@ -1258,7 +1258,22 @@
         "ci"
       ],
       "added_at": "2026-06-14T00:55:12.899505+00:00"
+    },
+    {
+      "id": "99f4989a",
+      "source_url": "https://medium.com/@onlineproxypmm/mastering-selenium-advanced-techniques-for-browser-automation-f9c91a88ae33",
+      "title": "Mastering Selenium: Advanced Techniques for Browser Automat…",
+      "summary": "* Selenium is an open-source tool for browser automation\n* Supports multiple programming languages, including Java, Python, and C#\n* Can be used for web scraping, automated testing, and browser interaction\n* Uses a WebDriver API to interact with browsers\n* Supports various browsers, including Chrome, Firefox, and Edge\n* Can handle complex web pages with dynamic content and AJAX requests\n* Allows for customization of browser settings and user agents\n* Supports parallel testing and distributed testing\n* Can integrate with other tools, such as Jenkins and TestNG\n* Requires a strong understanding of HTML, CSS, and JavaScript for effective use",
+      "tags": [
+        "browser automation",
+        "web scraping",
+        "automated testing",
+        "webdriver",
+        "parallel testing",
+        "selenium"
+      ],
+      "added_at": "2026-06-14T02:10:41.321324+00:00"
     }
   ],
-  "last_updated": "2026-06-14T00:55:12.899520+00:00"
+  "last_updated": "2026-06-14T02:10:41.321344+00:00"
 }
