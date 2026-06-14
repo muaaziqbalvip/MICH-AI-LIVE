@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5326,
+  "cycle_count": 5331,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-14T16:23:56.335835+00:00",
+  "last_checkpoint": "2026-06-14T16:31:36.190919+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -708,7 +708,8 @@
       "https://www.hollywoodreporter.com/lists/most-powerful-influencers-2025/",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=34b0200243d66a501dbd377a422f6bc9",
       "https://login.esocial.gov.br/login.aspx",
-      "https://mightyscout.com/blog/the-14-best-influencer-analytics-tools-for-2024"
+      "https://mightyscout.com/blog/the-14-best-influencer-analytics-tools-for-2024",
+      "https://m.youtube.com/watch?v=cKODT6-u_bA"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -1293,7 +1294,8 @@
       "https://www.next.com.lv/en",
       "https://www.next.co.uk/?msockid=3292c8877b4463df212bdfff7a9c6296",
       "https://www.nordstrom.com/brands/next--25801?msockid=3292c8877b4463df212bdfff7a9c6296",
-      "https://fastapi.tiangolo.com/zh/"
+      "https://fastapi.tiangolo.com/zh/",
+      "https://uidrop.app/blog/tailwind-components-guide"
     ],
     "automation": [
       "https://www.selenium.dev/",
