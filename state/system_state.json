@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5301,
+  "cycle_count": 5306,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-14T14:58:33.987522+00:00",
+  "last_checkpoint": "2026-06-14T15:17:26.479058+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -701,7 +701,8 @@
       "https://myaccount.microsoft.com/login",
       "https://www.hollywoodreporter.com/lists/most-powerful-influencers-2025/",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=34b0200243d66a501dbd377a422f6bc9",
-      "https://login.esocial.gov.br/login.aspx"
+      "https://login.esocial.gov.br/login.aspx",
+      "https://mightyscout.com/blog/the-14-best-influencer-analytics-tools-for-2024"
     ],
     "android_core": [
       "https://www.android.com/",
