@@ -1243,7 +1243,22 @@
         "automation"
       ],
       "added_at": "2026-06-13T04:27:26.805879+00:00"
+    },
+    {
+      "id": "4fa21b9c",
+      "source_url": "https://www.geeksforgeeks.org/git/introduction-to-github/",
+      "title": "Introduction to Github - GeeksforGeeks",
+      "summary": "* Git commands: cherry-pick, git hooks, git lfs\n* Git workflows: Git Flow, Github Flow, Agile Development Teams\n* Git repository management: handling large repositories, optimizing for large binary files\n* Git troubleshooting: fixing pre-receive hook errors, resolving merge conflicts\n* Git logs and undo operations: generating public SSH or GPG keys\n* Git security: customizing git hooks for workflow automation\n* Git collaboration: open source collaboration, managing large files\n* Git error resolution: \"not something we can merge\" error, \"another git process seems to be running\"\n* Git version control: restoring deleted branches or commits, changing commit messages\n* Git automation: using GitHub Actions CI workflow setup",
+      "tags": [
+        "git",
+        "github",
+        "agile",
+        "ssh",
+        "gpg",
+        "ci"
+      ],
+      "added_at": "2026-06-14T00:55:12.899505+00:00"
     }
   ],
-  "last_updated": "2026-06-13T04:27:26.805898+00:00"
+  "last_updated": "2026-06-14T00:55:12.899520+00:00"
 }
