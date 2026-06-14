@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5091,
+  "cycle_count": 5096,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-14T02:12:14.121948+00:00",
+  "last_checkpoint": "2026-06-14T02:22:53.514123+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1262,7 +1262,8 @@
       "https://inertiajs.com/docs/v3/advanced/typescript",
       "https://github.com/abdullahalnoman003/TypeScript-Learning",
       "https://docs.oracle.com/javase/8/docs/technotes/guides/language/generics.html",
-      "https://go.prisma.mediaocean.com/prisma-media"
+      "https://go.prisma.mediaocean.com/prisma-media",
+      "https://learn.microsoft.com/en-us/visualstudio/docker/tutorials/docker-tutorial"
     ],
     "automation": [
       "https://www.selenium.dev/",
