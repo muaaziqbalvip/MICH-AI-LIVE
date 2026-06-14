@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5131,
+  "cycle_count": 5136,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-14T03:26:27.907376+00:00",
+  "last_checkpoint": "2026-06-14T03:40:07.128128+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -688,7 +688,8 @@
       "https://gizmodo.com/download/facebook",
       "https://sociallypowerful.com/influencer/marketing/analytics-tools",
       "https://seo.wyo.gov/",
-      "https://www.semrush.com/blog/what-is-seo/"
+      "https://www.semrush.com/blog/what-is-seo/",
+      "http://socialservices.alamedacountyca.gov/index.page"
     ],
     "android_core": [
       "https://www.android.com/",
