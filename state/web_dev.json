@@ -1297,7 +1297,21 @@
         "virtual machines"
       ],
       "added_at": "2026-06-13T13:19:23.506152+00:00"
+    },
+    {
+      "id": "d3aef3bc",
+      "source_url": "https://www.next.co.uk/?msockid=3292c8877b4463df212bdfff7a9c6296",
+      "title": "Next Official Site: Online Fashion, Kids Clothes & Homeware",
+      "summary": "* Website uses a favourites list with a max item limit\n* Users must sign in or register to save favourites permanently\n* Website has a shopping bag that can be lost if user navigates away\n* Recently viewed items are tracked and displayed\n* Error handling is implemented with \"Oops' Something's gone wrong!\" message\n* Website has a country change confirmation prompt\n* User authentication is required for certain features\n* Website uses a session-based shopping bag\n* Favourites list has add and remove functionality\n* Website has a clear history feature for recently viewed items",
+      "tags": [
+        "user authentication",
+        "session management",
+        "error handling",
+        "favourites list",
+        "shopping bag"
+      ],
+      "added_at": "2026-06-14T15:35:15.222948+00:00"
     }
   ],
-  "last_updated": "2026-06-13T13:19:23.506162+00:00"
+  "last_updated": "2026-06-14T15:35:15.222961+00:00"
 }
