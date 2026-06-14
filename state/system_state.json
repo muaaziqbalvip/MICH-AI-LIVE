@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5261,
+  "cycle_count": 5266,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-14T13:36:00.120752+00:00",
+  "last_checkpoint": "2026-06-14T13:42:35.714943+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -698,7 +698,8 @@
       "https://www.microsoft.com/en-us",
       "https://www.office.com/",
       "https://myaccount.microsoft.com/login",
-      "https://www.hollywoodreporter.com/lists/most-powerful-influencers-2025/"
+      "https://www.hollywoodreporter.com/lists/most-powerful-influencers-2025/",
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=34b0200243d66a501dbd377a422f6bc9"
     ],
     "android_core": [
       "https://www.android.com/",
