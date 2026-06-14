@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5276,
+  "cycle_count": 5281,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-14T13:55:47.111922+00:00",
+  "last_checkpoint": "2026-06-14T14:04:26.955043+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1277,7 +1277,10 @@
       "https://go.prisma.mediaocean.com/prisma-media",
       "https://learn.microsoft.com/en-us/visualstudio/docker/tutorials/docker-tutorial",
       "https://www.next.co.uk/?msockid=00aea8e4c532672b3129bf9cc4946699",
-      "https://www.nordstrom.com/brands/next--25801?msockid=00aea8e4c532672b3129bf9cc4946699"
+      "https://www.nordstrom.com/brands/next--25801?msockid=00aea8e4c532672b3129bf9cc4946699",
+      "https://www.next.co.uk/?msockid=2bc81e7b48d46ed33889090349726fa7",
+      "https://www.nordstrom.com/brands/next--25801?msockid=2bc81e7b48d46ed33889090349726fa7",
+      "https://www.next.com.lv/en"
     ],
     "automation": [
       "https://www.selenium.dev/",
