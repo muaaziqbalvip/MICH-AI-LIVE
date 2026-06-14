@@ -1273,7 +1273,17 @@
         "selenium"
       ],
       "added_at": "2026-06-14T02:10:41.321324+00:00"
+    },
+    {
+      "id": "a4e57fec",
+      "source_url": "https://realpython.com/python-first-steps/",
+      "title": "How to Use Python: Your First Steps – Real Python",
+      "summary": "* Python is a high-level, interpreted, interactive, and object-oriented programming language.\n* Python can be installed on Windows, macOS, and Linux using binaries, package managers, or distributions like Anaconda.\n* The Python REPL allows for interactive experimentation before writing full scripts.\n* Built-in data types include strings, lists, dictionaries, and sets.\n* Error handling in Python involves syntax checks, exceptions, and debugging practices.\n* Tools like editors, IDEs, and AI assistants can boost productivity when writing Python code.\n* Python syntax includes comments, variables, keywords, conditionals, loops, functions, and classes.\n* The Standard Library and Python Package Index (PyPI) provide extra features and libraries for Python.\n* Python coding style is recommended to be followed for effective and readable code.\n* Integrated development environments (IDEs) and code editors are available for writing and debugging Python code.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-14T14:29:52.010556+00:00"
     }
   ],
-  "last_updated": "2026-06-14T02:10:41.321344+00:00"
+  "last_updated": "2026-06-14T14:29:52.010572+00:00"
 }
