@@ -1026,7 +1026,17 @@
         "planning"
       ],
       "added_at": "2026-06-14T00:32:53.669869+00:00"
+    },
+    {
+      "id": "fa68fd4e",
+      "source_url": "https://www.northwest.bank/personal/checking/",
+      "title": "Affinity Checking Account Options | Northwest Bank",
+      "summary": "* No monthly service charges or minimum balance requirements for Affinity Checking.\n* Free ATMs at popular stores for Affinity Checking accounts.\n* Affinity Plus Checking offers special Money Market rates and personalized service.\n* Affinity Premier Checking offers highest interest and Money Market rates, free checks, and ATM fee reimbursement.\n* Valid identification options include driver's license, passport, military ID, or state-issued ID.\n* Average daily balance is calculated by adding principal in the account for each day and dividing by the number of days.\n* Deposit balance is calculated by adding current balances in all Northwest Bank deposit accounts.\n* Eligible accounts for deposit relationship balance calculation include checking, savings, money market, CD, and IRA accounts.\n* Investment balances must be held in an eligible personal LPL Financial account with Northwest Investment Services.\n* Online application requires personal details, account preferences, and funding source information.\n* Investment balances are calculated using LPL Financial month-end values.\n* Eligible LPL Financial accounts must have up-to-date paperwork and match the primary account holder's name and SSN/TIN.\n* Excluded investments include life insurance, TAMP accounts, and Alternative Investments.\n* Early Pay service grants access to direct deposits up to 2 days prior to the scheduled payment date.\n* Early Pay is based on the payer's payment instruction and subject to standard fraud preventio",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-14T23:34:18.708599+00:00"
     }
   ],
-  "last_updated": "2026-06-14T00:32:53.669889+00:00"
+  "last_updated": "2026-06-14T23:34:18.708616+00:00"
 }
