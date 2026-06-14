@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5051,
+  "cycle_count": 5056,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-13T18:16:52.767457+00:00",
+  "last_checkpoint": "2026-06-14T00:32:55.673324+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -300,7 +300,8 @@
       "https://apps.apple.com/us/app/youtube/id544007664",
       "https://en.wikipedia.org/wiki/YouTube",
       "https://apps.microsoft.com/detail/9ndp7ktlk7w3?launch=true&hl=en-us&gl=us",
-      "https://github.com/Zulko/moviepy/releases"
+      "https://github.com/Zulko/moviepy/releases",
+      "https://ffmpeg.org/documentation.html"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -893,7 +894,10 @@
       "https://xml2compose.dev/blog/hilt-compose-dependency-injection",
       "https://www.geeksforgeeks.org/videos/basics-of-jetpack-compose-in-android/",
       "https://www.codingbihar.com/2024/05/android-jetpack-compose-tutorial.html",
-      "https://developer.android.com/topic/performance/improving-overview"
+      "https://developer.android.com/topic/performance/improving-overview",
+      "https://developer.android.google.cn/develop/ui/compose/tutorial?hl=zh-cn",
+      "https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/compose",
+      "https://www.iciba.com/word?w=compose"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
@@ -1523,5 +1527,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "stopped"
+  "status": "running"
 }
