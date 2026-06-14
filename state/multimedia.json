@@ -1119,7 +1119,34 @@
         "key presses"
       ],
       "added_at": "2026-06-14T01:24:42.525941+00:00"
+    },
+    {
+      "id": "440616f8",
+      "source_url": "https://apnews.com/",
+      "title": "Associated Press News: Breaking News, Latest Headlines and ...",
+      "summary": "* Website: https://apnews.com/\n* Sections: World, U.S., Politics, Sports, Entertainment, Business\n* Topics: Artificial Intelligence, Social Media, Climate Change, Health\n* Newsletter options: The Morning Wire, The Afternoon Wire, Ground Game, AP Top 25 Poll Alerts\n* AP News Code of Conduct available\n* Search and account sign-in features available\n* News categories: Top Stories, Latest Headlines, Breaking News\n* Language options: English, Español\n* Website: apnews.com\n* Content type: News articles, photos, quizzes\n* Topics: Sports (NBA, World Cup), Entertainment (celebrities)\n* Article formats: Text, images, interactive (quiz)\n* Reading time indicators: Provided for each article\n* Navigation options: More coverage, match schedules, player profiles\n* Geographic locations mentioned: Vancouver, Britain, Australia, Turkey\n* Event coverage: NBA Finals, 2026 World Cup\n* Interactive elements: Quizzes, photo galleries",
+      "tags": [
+        "artificial intelligence",
+        "social media",
+        "climate change",
+        "breaking news",
+        "interactive quiz"
+      ],
+      "added_at": "2026-06-14T16:01:39.513403+00:00"
+    },
+    {
+      "id": "3cf0127e",
+      "source_url": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNSEJ6TlRNU0FuSjFLQUFQAQ?hl=en-US&ceid=US:en",
+      "title": "Google News - Reuters - Latest",
+      "summary": "* No technical information is available in the provided text\n* The text appears to be a navigation menu or error message\n* No code patterns or technical facts can be extracted\n* The text is not related to a specific technical topic\n* The link provided is to a Google News page with no specific article or content\n* The page may be empty or not found\n* No actionable insights can be derived from the text\n* The text does not contain any programming languages or technologies\n* No data structures or algorithms are mentioned\n* No technical keywords or terms are present",
+      "tags": [
+        "error message",
+        "navigation menu",
+        "technical information",
+        "google news"
+      ],
+      "added_at": "2026-06-14T16:15:55.620223+00:00"
     }
   ],
-  "last_updated": "2026-06-14T01:24:42.525950+00:00"
+  "last_updated": "2026-06-14T16:15:55.620236+00:00"
 }
