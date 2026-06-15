@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5496,
+  "cycle_count": 5497,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-15T04:59:36.895432+00:00",
+  "last_checkpoint": "2026-06-15T05:07:15.796148+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1317,7 +1317,8 @@
       "https://www.poweredbyprisma.com/",
       "https://docs.ollama.com/docker",
       "https://tailwindcss.com/docs/installation",
-      "https://en.m.wikipedia.org/wiki/Docker_(software)"
+      "https://en.m.wikipedia.org/wiki/Docker_(software)",
+      "https://www.darshansachaniya.com/blog/next-js-14-app-router-complete-guide"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -1593,5 +1594,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "running"
+  "status": "handoff"
 }
