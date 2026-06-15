@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5591,
+  "cycle_count": 5596,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-15T14:26:00.879712+00:00",
+  "last_checkpoint": "2026-06-15T14:41:39.449214+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -725,7 +725,8 @@
       "https://www.merriam-webster.com/dictionary/google",
       "https://support.microsoft.com/en-US/SharePoint/libraries/introduction-to-content-types-and-content-type-publishing",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=0ab03ba219836b983f0a2cdb18ad6a7d",
-      "https://about.fb.com/news/"
+      "https://about.fb.com/news/",
+      "https://www.yourdictionary.com/social"
     ],
     "android_core": [
       "https://www.android.com/",
