@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5391,
+  "cycle_count": 5396,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-15T01:26:31.825620+00:00",
+  "last_checkpoint": "2026-06-15T01:34:32.418893+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1311,7 +1311,8 @@
       "https://www.nordstrom.com/brands/next--25801?msockid=3292c8877b4463df212bdfff7a9c6296",
       "https://fastapi.tiangolo.com/zh/",
       "https://uidrop.app/blog/tailwind-components-guide",
-      "https://www.poweredbyprisma.com/"
+      "https://www.poweredbyprisma.com/",
+      "https://docs.ollama.com/docker"
     ],
     "automation": [
       "https://www.selenium.dev/",
