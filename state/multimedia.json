@@ -1146,7 +1146,22 @@
         "google news"
       ],
       "added_at": "2026-06-14T16:15:55.620223+00:00"
+    },
+    {
+      "id": "58eeff66",
+      "source_url": "https://weather.com/weather/tenday/l/Corpus+Christi+Texas?canonicalCityId=a176773b4fadf949f6500d8079225513",
+      "title": "10-Day Weather Forecast for Corpus Christi, Texas - The Weather …",
+      "summary": "* El Niño's development impacts weather patterns\n* Air quality data is being loaded for display\n* Weather forecasts are available for 10-day periods\n* Sun and moon data are available for reference\n* Heat-related health concerns are a safety issue\n* Sunscreen is a recommended product for hot weather\n* Video content is available for educational purposes\n* Product reviews and deals are available for related items\n* Live market odds are available for weather-related events\n* Space experiments are referenced as a related topic",
+      "tags": [
+        "air quality",
+        "weather forecasts",
+        "video content",
+        "space experiments",
+        "live market",
+        "product reviews"
+      ],
+      "added_at": "2026-06-15T13:10:13.194504+00:00"
     }
   ],
-  "last_updated": "2026-06-14T16:15:55.620236+00:00"
+  "last_updated": "2026-06-15T13:10:13.194519+00:00"
 }

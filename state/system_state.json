@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5551,
+  "cycle_count": 5556,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-15T13:02:28.968027+00:00",
+  "last_checkpoint": "2026-06-15T13:18:54.479984+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -321,7 +321,12 @@
       "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNSEJ6TlRNU0FuSjFLQUFQAQ?hl=en-US&ceid=US:en",
       "https://www.ap.org/news-highlights/type/breaking-news/",
       "https://dev.to/imrrobot/moviepy-video-editing-with-python-3pa9",
-      "https://www.youtube.com/watch?v=ylOCIP54PIQ"
+      "https://www.youtube.com/watch?v=ylOCIP54PIQ",
+      "https://weather.com/",
+      "https://weather.com/us/tennessee/city/nashville/tenday",
+      "https://weather.com/weather/tenday/l/Corpus+Christi+Texas?canonicalCityId=a176773b4fadf949f6500d8079225513",
+      "https://weather.com/us/pennsylvania/city/pittsburgh/hourbyhour",
+      "https://weather.com/us/georgia/city/atlanta/today"
     ],
     "marketing": [
       "https://mail.google.com/mail",
