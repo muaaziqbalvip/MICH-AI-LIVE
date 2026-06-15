@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5371,
+  "cycle_count": 5376,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-15T00:10:58.027687+00:00",
+  "last_checkpoint": "2026-06-15T01:01:33.251848+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -934,7 +934,12 @@
       "https://www.northwest.bank/personal/checking/online-and-mobile-banking/",
       "http://onlinebanking.northwest.bank/",
       "https://www.northwest.bank/personal/checking/",
-      "https://www.northwest.bank/loan-payment-options/"
+      "https://www.northwest.bank/loan-payment-options/",
+      "https://stackoverflow.com/questions/34978051/how-to-extract-the-direct-facebook-video-url",
+      "https://stackoverflow.com/questions/38805105/message-unsupported-post-request-object-with-id-does-not-exist-cannot-be-l",
+      "https://stackoverflow.com/questions/48843356/decoding-facebooks-blob-video-url",
+      "https://stackoverflow.com/questions/20301025/facebook-key-hash-does-not-match-any-stored-key-hashes",
+      "https://stackoverflow.com/questions/68932742/jssdk-unknown-host-domain"
     ],
     "web_dev": [
       "https://tailwindcss.com/",

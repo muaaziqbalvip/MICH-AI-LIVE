@@ -1036,7 +1036,42 @@
         "android_core"
       ],
       "added_at": "2026-06-14T23:34:18.708599+00:00"
+    },
+    {
+      "id": "214d1202",
+      "source_url": "https://stackoverflow.com/questions/34978051/how-to-extract-the-direct-facebook-video-url",
+      "title": "How to extract the direct facebook video url - Stack Overflow",
+      "summary": "* No technical facts related to extracting Facebook video URLs are present in the provided text.\n* The text appears to be a list of unrelated questions from a Q&A website.\n* No code patterns or technical insights are available.\n* The provided text does not contain any information about Facebook video URLs.\n* The original question about extracting Facebook video URLs is not addressed.\n* No relevant technical knowledge is present in the given text.\n* The text is a collection of question titles from various topics.\n* No specific programming languages or technologies are mentioned.\n* No actionable insights can be extracted from the provided text.\n* The text is not related to the original question about Facebook video URLs.",
+      "tags": [
+        "facebook",
+        "video",
+        "urls",
+        "q&a",
+        "programming",
+        "technologies"
+      ],
+      "added_at": "2026-06-15T00:26:54.616161+00:00"
+    },
+    {
+      "id": "d5d281d1",
+      "source_url": "https://stackoverflow.com/questions/48843356/decoding-facebooks-blob-video-url",
+      "title": "Decoding facebook's blob video url - Stack Overflow",
+      "summary": "* Facebook video URLs are in the format `https://scontent-waw1-1.xx.fbcdn.net/v/t66.18014-6/...`\n* Facebook downloads audio and video separately, which can result in audio-only or video-only links\n* To reduce the chance of getting an audio link, use the Network tab and filter by `larger-than: 50k` and click the `XHR` button\n* To merge video and audio, use `ffmpeg` with the command `ffmpeg -i video.mp4 -i audio.wav -c:v copy -c:a aac output.mp4`\n* Changing the page's URL from `www` to `m` can provide a direct link to the video\n* The video URL can be found in the `div` containing the video object, with an ID of `mobile_injected_video_feed_pagelet`\n* The `Bad URL timestamp` error can occur when pasting the mp4 URL, but a workaround can be found\n* Playing the video in fullscreen before grabbing the link can provide a high-quality video\n* Using the Inspector to navigate to the video object can provide a direct link to the video\n* Firefox can be used to download the video with audio using the Inspector and right-clicking to save the destination\n* Facebook video URLs are encoded as blob URLs\n* Blob URLs are used for streaming video content\n* Graph API can be used to get the video source URL\n* HTML5 Video supports blob URLs for video streaming\n* Direct Facebook video URLs can be extracted as MP4\n* Blob URLs can be used in HTML5 Video tags\n* Available video resolutions can be extracted from Facebook video URLs\n* Facebook video URLs can be decoded to get the direct video URL\n* Blob URL",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-15T00:43:44.405048+00:00"
+    },
+    {
+      "id": "6100edc6",
+      "source_url": "https://stackoverflow.com/questions/68932742/jssdk-unknown-host-domain",
+      "title": "facebook - JSSDK Unknown Host domain - Stack Overflow",
+      "summary": "* Facebook JSSDK requires a domain to be specified in the \"Allowed Domains for the JavaScript SDK\" section.\n* Port numbers can be added to the domain list, but may be removed after saving changes.\n* The \"Authorized domains for the JavaScript SDK\" field can be used to add a URL and port.\n* To access the settings page, go to the App Dashboard > Facebook Login > Settings.\n* The settings page can also be found under \"Use cases\" in the app dashboard.\n* The error \"JSSDK Unknown Host domain\" occurs when the hosting domain is not in the app's JavaScript SDK host domain list.\n* The domain list can be updated by adding the port number to the \"Allowed Domains for the JavaScript SDK\" section.\n* The Facebook Developer Dashboard has been updated to include a section for \"Allowed Domains for the JavaScript SDK\".\n* The changes were made on August 1, 2021, and affect the Facebook Login settings.\n* The app dashboard layout may have changed over time, with settings found under different sections such as \"Products\" or \"Use cases\".",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-15T01:01:31.248876+00:00"
     }
   ],
-  "last_updated": "2026-06-14T23:34:18.708616+00:00"
+  "last_updated": "2026-06-15T01:01:31.248894+00:00"
 }
