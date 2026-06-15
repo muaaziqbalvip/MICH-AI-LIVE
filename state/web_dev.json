@@ -1326,7 +1326,22 @@
         "linux"
       ],
       "added_at": "2026-06-15T03:45:10.655662+00:00"
+    },
+    {
+      "id": "5e32a51d",
+      "source_url": "https://wpward.com/a-comprehensive-guide-to-setting-up-prisma-orm-with-postgresql/",
+      "title": "A Comprehensive Guide to Setting Up Prisma ORM with PostgreSQL",
+      "summary": "* Use Prisma Client methods like `findMany`, `create`, and `update` for database operations.\n* Establish a singleton pattern for Prisma Client in serverless environments.\n* Initialize Prisma Client as a single instance at app startup in traditional servers.\n* Use `create` method to insert records with built-in validation against schema constraints.\n* Leverage `findUnique`, `findMany`, and `findFirst` to retrieve records with query filters, sorting, and pagination.\n* Use `update` and `delete` methods for record modification and removal, handling foreign key constraints and cascading operations.\n* Employ iterative data modeling, documenting relationships and constraints in `schema.prisma`.\n* Monitor and tune PostgreSQL connection settings, using connection pooling solutions like PgBouncer if necessary.\n* Store sensitive environment variables outside version control and use parameterized queries for injection safety.\n* Regularly audit schema and queries for unnecessary exposure of sensitive fields and apply proper access controls.\n* Integrate `npx prisma migrate deploy` into CI/CD pipeline for automated schema updates.\n* Use PostgreSQL's built-in logging and Prisma's query insights for performance monitoring.\n* Implement health checks for database and application layers with alerting for key metrics.\n* Use `prisma.$queryRaw` for direct SQL execution when Prisma's abstraction is not enough.\n* Define custom PostgreSQL types (e.g. `jsonb`, arrays, PostGIS) in schema with `@db` anno",
+      "tags": [
+        "prisma client",
+        "database operations",
+        "postgresql",
+        "serverless",
+        "data modeling",
+        "pgbouncer"
+      ],
+      "added_at": "2026-06-15T12:12:22.490639+00:00"
     }
   ],
-  "last_updated": "2026-06-15T03:45:10.655679+00:00"
+  "last_updated": "2026-06-15T12:12:22.490656+00:00"
 }

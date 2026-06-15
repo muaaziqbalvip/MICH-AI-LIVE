@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5526,
+  "cycle_count": 5531,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-15T11:47:02.879756+00:00",
+  "last_checkpoint": "2026-06-15T12:28:37.206807+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -716,7 +716,8 @@
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=18a8c2e7f64e66251ea4d59ff7fa67aa",
       "https://www.yahoo.com/",
       "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=311d96c1619e6e76332d81b8600e6faa",
-      "https://bentonow.com/integrations/python-sdk"
+      "https://bentonow.com/integrations/python-sdk",
+      "https://www.merriam-webster.com/dictionary/google"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -1320,7 +1321,8 @@
       "https://docs.ollama.com/docker",
       "https://tailwindcss.com/docs/installation",
       "https://en.m.wikipedia.org/wiki/Docker_(software)",
-      "https://www.darshansachaniya.com/blog/next-js-14-app-router-complete-guide"
+      "https://www.darshansachaniya.com/blog/next-js-14-app-router-complete-guide",
+      "https://wpward.com/a-comprehensive-guide-to-setting-up-prisma-orm-with-postgresql/"
     ],
     "automation": [
       "https://www.selenium.dev/",

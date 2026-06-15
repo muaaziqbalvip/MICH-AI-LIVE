@@ -1703,7 +1703,20 @@
         "microsoft defender"
       ],
       "added_at": "2026-06-15T03:18:09.231122+00:00"
+    },
+    {
+      "id": "15d41201",
+      "source_url": "https://www.merriam-webster.com/dictionary/google",
+      "title": "GOOGLE Definition & Meaning - Merriam-Webster",
+      "summary": "* No technical information is present in the given text\n* The text appears to be a snippet from a dictionary website\n* The provided text does not contain any code patterns\n* No actionable insights can be extracted from the given text\n* The text is not related to technical knowledge\n* The link provided is a dictionary definition of the word \"google\"\n* The text does not contain any technical facts\n* The quiz mentioned is likely a language-related quiz\n* The \"See All\" option is likely a link to more dictionary definitions\n* No technical data can be extracted from the given text",
+      "tags": [
+        "dictionary",
+        "language",
+        "technical",
+        "google"
+      ],
+      "added_at": "2026-06-15T12:23:33.752243+00:00"
     }
   ],
-  "last_updated": "2026-06-15T03:18:09.231141+00:00"
+  "last_updated": "2026-06-15T12:23:33.752258+00:00"
 }
