@@ -1161,7 +1161,17 @@
         "product reviews"
       ],
       "added_at": "2026-06-15T13:10:13.194504+00:00"
+    },
+    {
+      "id": "06fb7fbc",
+      "source_url": "https://thepythoncode.com/article/convert-text-to-speech-in-python",
+      "title": "How to Convert Text to Speech in Python",
+      "summary": "* gTTS (Google Text-to-Speech) is used for text-to-speech conversion.\n* pyttsx3 is a cross-platform text-to-speech library.\n* OpenAI Text to Speech is an alternative text-to-speech method.\n* SpeechT5 is a TTS task library.\n* Related libraries for audio processing include playsound, Pydub, and PyAudio.\n* Googletrans library is used for language translation.\n* Python libraries for text-to-speech and speech-to-text include gTTS, pyttsx3, and OpenAI.\n* PyAudio is used for recording and playing audio.\n* Natural Language Processing (NLP) is a relevant field for text-to-speech and speech-to-text tasks.\n* Python Standard Library and Application Programming Interfaces (APIs) are used for various tasks, including text-to-speech and speech-to-text.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-15T15:13:34.221546+00:00"
     }
   ],
-  "last_updated": "2026-06-15T13:10:13.194519+00:00"
+  "last_updated": "2026-06-15T15:13:34.221566+00:00"
 }
