@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5426,
+  "cycle_count": 5431,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-15T02:29:29.787280+00:00",
+  "last_checkpoint": "2026-06-15T02:39:09.000469+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1312,7 +1312,8 @@
       "https://fastapi.tiangolo.com/zh/",
       "https://uidrop.app/blog/tailwind-components-guide",
       "https://www.poweredbyprisma.com/",
-      "https://docs.ollama.com/docker"
+      "https://docs.ollama.com/docker",
+      "https://tailwindcss.com/docs/installation"
     ],
     "automation": [
       "https://www.selenium.dev/",
