@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5386,
+  "cycle_count": 5391,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-15T01:16:51.882211+00:00",
+  "last_checkpoint": "2026-06-15T01:26:31.825620+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1310,7 +1310,8 @@
       "https://www.next.co.uk/?msockid=3292c8877b4463df212bdfff7a9c6296",
       "https://www.nordstrom.com/brands/next--25801?msockid=3292c8877b4463df212bdfff7a9c6296",
       "https://fastapi.tiangolo.com/zh/",
-      "https://uidrop.app/blog/tailwind-components-guide"
+      "https://uidrop.app/blog/tailwind-components-guide",
+      "https://www.poweredbyprisma.com/"
     ],
     "automation": [
       "https://www.selenium.dev/",
