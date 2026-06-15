@@ -1311,7 +1311,22 @@
         "shopping bag"
       ],
       "added_at": "2026-06-14T15:35:15.222948+00:00"
+    },
+    {
+      "id": "12665ad6",
+      "source_url": "https://en.m.wikipedia.org/wiki/Docker_(software)",
+      "title": "Docker (software) - Wikipedia",
+      "summary": "* Docker uses libcontainer for containerization\n* Containers share the same kernel as the host system\n* Docker provides process isolation on Windows 10\n* Docker has a variety of storage drivers to choose from\n* Docker Compose is used for orchestrating containers\n* Dockerfile is used to define the build process for a Docker image\n* Docker Registry is used to store and manage Docker images\n* Docker provides resource limiting for containers\n* Docker has a command-line interface for managing containers and images\n* Docker supports installation on Raspberry Pi and other Linux systems\n* Docker is a containerization platform.\n* Docker Compose is used for orchestrating containers.\n* Docker Compose files use YAML format.\n* Compose file version 3 is a reference for Docker Compose.\n* Docker containers are used for development and deployment.\n* Docker, Inc. provides official Docker documentation.\n* Docker Compose was first released as version 0.0.1.\n* GitHub is used for Docker Compose version control.\n* YAML files are used to define services in Docker Compose.\n* Docker Compose simplifies container orchestration for development environments.",
+      "tags": [
+        "containerization",
+        "docker",
+        "libcontainer",
+        "orchestration",
+        "virtualization",
+        "linux"
+      ],
+      "added_at": "2026-06-15T03:45:10.655662+00:00"
     }
   ],
-  "last_updated": "2026-06-14T15:35:15.222961+00:00"
+  "last_updated": "2026-06-15T03:45:10.655679+00:00"
 }
