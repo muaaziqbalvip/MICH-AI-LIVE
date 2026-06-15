@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5381,
+  "cycle_count": 5386,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-15T01:08:11.881028+00:00",
+  "last_checkpoint": "2026-06-15T01:16:51.882211+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -712,7 +712,8 @@
       "https://mightyscout.com/blog/the-14-best-influencer-analytics-tools-for-2024",
       "https://m.youtube.com/watch?v=cKODT6-u_bA",
       "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=35f26b2e1c9960ae1cd67c561dd76101",
-      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=18a8c2e7f64e66251ea4d59ff7fa67aa"
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=18a8c2e7f64e66251ea4d59ff7fa67aa",
+      "https://www.yahoo.com/"
     ],
     "android_core": [
       "https://www.android.com/",
