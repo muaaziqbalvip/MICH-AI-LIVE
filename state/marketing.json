@@ -1673,7 +1673,22 @@
         "marketing"
       ],
       "added_at": "2026-06-14T11:55:18.204707+00:00"
+    },
+    {
+      "id": "4fc7f90d",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=35f26b2e1c9960ae1cd67c561dd76101",
+      "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+      "summary": "* Microsoft 365 includes AI-powered tools like Microsoft Copilot and Designer\n* OneDrive provides 1 TB of cloud storage per user and ransomware protection\n* Microsoft Defender offers advanced security for identity, personal data, and devices\n* Microsoft Teams enables chat, call, and collaboration features\n* Outlook manages email, calendar, tasks, and contacts in one place\n* Microsoft 365 Business plans include web and mobile versions of Word, Excel, PowerPoint, and Outlook\n* Custom business email (you@yourbusiness.com) is available with Microsoft 365 Business plans\n* Secure AI chat is powered by the latest large language models\n* Microsoft 365 Business plans include 10+ additional apps, including Bookings, Planner, and Forms\n* Exchange provides business-class email and calendaring features\n* Annual subscription: $22.00/user/month (auto-renews)\n* AI-powered chat with Work IQ\n* Identity and access management for up to 300 users\n* Available on desktop, web, and mobile platforms\n* Includes access to Word, Excel, PowerPoint, and Outlook\n* Custom business email (you@yourbusiness.com) available\n* 1 TB of cloud storage per user\n* Chat and call features included\n* Integrates with Reasoning AI for research and data analysis\n* Part of Microsoft 365 suite",
+      "tags": [
+        "cloud storage",
+        "ai tools",
+        "microsoft defender",
+        "ransomware protection",
+        "collaboration features",
+        "advanced security"
+      ],
+      "added_at": "2026-06-14T23:54:09.595532+00:00"
     }
   ],
-  "last_updated": "2026-06-14T11:55:18.204726+00:00"
+  "last_updated": "2026-06-14T23:54:09.595551+00:00"
 }
