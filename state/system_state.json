@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5616,
+  "cycle_count": 5621,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-15T15:36:12.513270+00:00",
+  "last_checkpoint": "2026-06-15T15:55:42.382029+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1333,7 +1333,14 @@
       "https://tailwindcss.com/docs/installation",
       "https://en.m.wikipedia.org/wiki/Docker_(software)",
       "https://www.darshansachaniya.com/blog/next-js-14-app-router-complete-guide",
-      "https://wpward.com/a-comprehensive-guide-to-setting-up-prisma-orm-with-postgresql/"
+      "https://wpward.com/a-comprehensive-guide-to-setting-up-prisma-orm-with-postgresql/",
+      "https://www.next.co.uk/?msockid=1c6a7317569d6caa0ac9646e57d06d1b",
+      "https://www.nordstrom.com/brands/next--25801?msockid=1c6a7317569d6caa0ac9646e57d06d1b",
+      "https://www.speedtest.net/",
+      "https://www.speedtest.net/es",
+      "https://www.speedtest.net/fr",
+      "https://www.speedtest.net/pt",
+      "https://www.speedtest.net/it"
     ],
     "automation": [
       "https://www.selenium.dev/",

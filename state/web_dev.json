@@ -1341,7 +1341,17 @@
         "pgbouncer"
       ],
       "added_at": "2026-06-15T12:12:22.490639+00:00"
+    },
+    {
+      "id": "9e68a792",
+      "source_url": "https://www.speedtest.net/fr",
+      "title": "Speedtest d’Ookla – le test de vitesse de connexion global",
+      "summary": "* Speedtest.net supports multiple languages (17) and platforms (Android, Apple TV, iOS, macOS, Windows)\n* Ookla Research provides data and insights on internet performance\n* Speedtest Global Index tracks global internet speeds\n* Speedtest Performance Directory evaluates internet service providers\n* Methodology page explains how Speedtest.net measures internet speed\n* Results can be saved in a history for later reference\n* Users can create an account to access additional features\n* Speedtest.net uses ads, with an option to remove them\n* Ookla provides guides, glossary, and FAQs for user education\n* Speedtest.net has a press page for media inquiries and announcements",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-15T15:46:33.628328+00:00"
     }
   ],
-  "last_updated": "2026-06-15T12:12:22.490656+00:00"
+  "last_updated": "2026-06-15T15:46:33.628347+00:00"
 }
