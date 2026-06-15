@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5441,
+  "cycle_count": 5446,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-15T02:55:26.285122+00:00",
+  "last_checkpoint": "2026-06-15T03:22:14.820605+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -713,7 +713,8 @@
       "https://m.youtube.com/watch?v=cKODT6-u_bA",
       "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=35f26b2e1c9960ae1cd67c561dd76101",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=18a8c2e7f64e66251ea4d59ff7fa67aa",
-      "https://www.yahoo.com/"
+      "https://www.yahoo.com/",
+      "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=311d96c1619e6e76332d81b8600e6faa"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -1581,7 +1582,8 @@
       "https://www.geeksforgeeks.org/git/introduction-to-github/",
       "https://medium.com/@onlineproxypmm/mastering-selenium-advanced-techniques-for-browser-automation-f9c91a88ae33",
       "https://www.runoob.com/playwright/playwright-tutorial.html",
-      "https://realpython.com/python-first-steps/"
+      "https://realpython.com/python-first-steps/",
+      "https://blog.csdn.net/weixin_43804496/article/details/131475204/"
     ]
   },
   "software_factory_jobs": [],

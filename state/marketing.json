@@ -1688,7 +1688,22 @@
         "advanced security"
       ],
       "added_at": "2026-06-14T23:54:09.595532+00:00"
+    },
+    {
+      "id": "4faa7938",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?msockid=311d96c1619e6e76332d81b8600e6faa",
+      "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+      "summary": "* Microsoft 365 Family subscription: $129.99/year, 1-6 people, 5 devices simultaneously\n* 6 TB secure cloud storage (1 TB per person)\n* Microsoft 365 apps: Word, Excel, PowerPoint, Outlook, OneNote, OneDrive\n* Outlook features: email, calendar, tasks, contacts, core security, spam filters\n* Free Outlook: 15 GB mailbox storage, 5 GB cloud storage\n* Microsoft 365 Basic: $1.99/month, ad-free Outlook, 100 GB mailbox storage, 100 GB cloud storage\n* Microsoft Defender: advanced security, threat prevention, detection\n* OneDrive: ransomware protection, file editing, sharing\n* Microsoft Teams: calling, chatting, collaboration\n* Microsoft Copilot: AI companion, intelligent features, work file security\n* Annual subscription: $22.00/user/month (auto-renews)\n* AI-powered chat with Work IQ\n* Identity and access management for up to 300 users\n* Available on desktop, web, and mobile\n* Includes access to Word, Excel, PowerPoint, and Outlook\n* Custom business email (you@yourbusiness.com)\n* 1 TB of cloud storage per user\n* Chat and call features included\n* Integrated with Microsoft 365 apps\n* Auto-renewal for annual subscription",
+      "tags": [
+        "cloud storage",
+        "microsoft 365",
+        "outlook",
+        "onedrive",
+        "microsoft teams",
+        "microsoft defender"
+      ],
+      "added_at": "2026-06-15T03:18:09.231122+00:00"
     }
   ],
-  "last_updated": "2026-06-14T23:54:09.595551+00:00"
+  "last_updated": "2026-06-15T03:18:09.231141+00:00"
 }
