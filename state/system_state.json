@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5966,
+  "cycle_count": 5971,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-16T21:45:10.200706+00:00",
+  "last_checkpoint": "2026-06-16T21:55:18.064666+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1376,7 +1376,12 @@
       "https://book.solasalonstudios.com/cary/location",
       "https://www.next.co.uk/?msockid=399d50b2700a6c9c183147c871016d59",
       "https://habr.com/ru/companies/netologyru/articles/967546/",
-      "https://www.alura.com.br/artigos/react-js"
+      "https://www.alura.com.br/artigos/react-js",
+      "https://exceleratorparts.com/dtna/es/categoria-de-producto/limpia-y-lavaparabrisas/motor-del-limpiaparabrisas/unidad-de-motor-limpiaparabrisas/wiper-motor-assembly/p/SPR+E008+161",
+      "https://www.ebay.com/itm/274537275463?msockid=00160fe3439a6f1c2ed4189942d06e21",
+      "https://bigrigworld.com/wiper-motor-assy-12-v-e008-161.html",
+      "https://www.ebay.com/itm/135896405702?msockid=00160fe3439a6f1c2ed4189942d06e21",
+      "https://sprague-devices.com/product-category/motors/"
     ],
     "automation": [
       "https://www.selenium.dev/",
