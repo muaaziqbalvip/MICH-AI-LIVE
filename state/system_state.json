@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5751,
+  "cycle_count": 5756,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-16T02:01:20.874318+00:00",
+  "last_checkpoint": "2026-06-16T02:17:15.544451+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1632,7 +1632,11 @@
       "https://blog.csdn.net/weixin_43804496/article/details/131475204/",
       "https://www.perfecto.io/blog/selenium-tutorial",
       "https://www.github.careers/",
-      "https://www.w3schools.com/python/python_operators.asp"
+      "https://www.w3schools.com/python/python_operators.asp",
+      "https://cron.ren/",
+      "https://cron.ciding.cc/",
+      "https://www.matools.com/cron/",
+      "https://pantools.cn/corn/"
     ]
   },
   "software_factory_jobs": [],
