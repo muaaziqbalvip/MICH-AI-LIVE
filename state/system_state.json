@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5811,
+  "cycle_count": 5816,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-16T10:16:54.351988+00:00",
+  "last_checkpoint": "2026-06-16T10:57:06.697847+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -336,7 +336,8 @@
       "https://mapgenie.io/sons-of-the-forest/guides/notes",
       "https://mapgenie.io/the-forest/maps/the-peninsula",
       "https://pypi.org/project/py3-tts/",
-      "http://www.freightower.com/carrier/pil"
+      "http://www.freightower.com/carrier/pil",
+      "https://pytutorial.com/install-moviepy-in-python/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -1364,7 +1365,8 @@
       "https://book.solasalonstudios.com/",
       "https://www.solasalonstudios.com/about",
       "https://book.solasalonstudios.com/cary/location",
-      "https://www.next.co.uk/?msockid=399d50b2700a6c9c183147c871016d59"
+      "https://www.next.co.uk/?msockid=399d50b2700a6c9c183147c871016d59",
+      "https://habr.com/ru/companies/netologyru/articles/967546/"
     ],
     "automation": [
       "https://www.selenium.dev/",
