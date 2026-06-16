@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5711,
+  "cycle_count": 5716,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-16T00:33:44.652569+00:00",
+  "last_checkpoint": "2026-06-16T00:58:38.621471+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -329,7 +329,12 @@
       "https://weather.com/us/georgia/city/atlanta/today",
       "https://www.facebook.com/pilofficial/",
       "https://thepythoncode.com/article/convert-text-to-speech-in-python",
-      "https://github.com/opencv/opencv/releases"
+      "https://github.com/opencv/opencv/releases",
+      "https://mapgenie.io/sons-of-the-forest/maps/world",
+      "https://mapgenie.io/the-forest",
+      "https://mapgenie.io/sons-of-the-forest/guides/artifact-pieces",
+      "https://mapgenie.io/sons-of-the-forest/guides/notes",
+      "https://mapgenie.io/the-forest/maps/the-peninsula"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -1350,7 +1355,12 @@
       "https://www.sfc-energy.ca/schneider-electric-realflo-flow-computer/",
       "https://exchange.se.com/develop/products/58552/realflo-flow-computer",
       "https://www.se.com/ca/en/product-range/61416-realflo/",
-      "https://www.next.co.uk/?msockid=266d5813bd8b66753c414f69bc1867f8"
+      "https://www.next.co.uk/?msockid=266d5813bd8b66753c414f69bc1867f8",
+      "https://www.solasalonstudios.com/",
+      "https://www.solasalonstudios.com/locations",
+      "https://book.solasalonstudios.com/",
+      "https://www.solasalonstudios.com/about",
+      "https://book.solasalonstudios.com/cary/location"
     ],
     "automation": [
       "https://www.selenium.dev/",
