@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5841,
+  "cycle_count": 5846,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-16T11:40:49.569871+00:00",
+  "last_checkpoint": "2026-06-16T11:55:22.738596+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -739,7 +739,8 @@
       "https://about.fb.com/news/",
       "https://www.yourdictionary.com/social",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=169baf0a9fa769492558b8739ee36867",
-      "https://www.bbc.co.uk/learningenglish/chinese/features/english-in-a-minute/ep-230210"
+      "https://www.bbc.co.uk/learningenglish/chinese/features/english-in-a-minute/ep-230210",
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=190d077b803a6e6b3d7e1001815f6fa1"
     ],
     "android_core": [
       "https://www.android.com/",
