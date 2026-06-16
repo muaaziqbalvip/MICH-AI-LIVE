@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5696,
+  "cycle_count": 5701,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-16T00:07:31.051120+00:00",
+  "last_checkpoint": "2026-06-16T00:16:31.853528+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1349,7 +1349,8 @@
       "https://tprojects.schneider-electric.com/geoscadahelp/geo+scada+2020/content/scadapackmodbusrealflodriverguide/ConfiguringSCADAPackModbusRealFLOControllers.htm",
       "https://www.sfc-energy.ca/schneider-electric-realflo-flow-computer/",
       "https://exchange.se.com/develop/products/58552/realflo-flow-computer",
-      "https://www.se.com/ca/en/product-range/61416-realflo/"
+      "https://www.se.com/ca/en/product-range/61416-realflo/",
+      "https://www.next.co.uk/?msockid=266d5813bd8b66753c414f69bc1867f8"
     ],
     "automation": [
       "https://www.selenium.dev/",
