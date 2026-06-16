@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5756,
+  "cycle_count": 5761,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-16T02:17:15.544451+00:00",
+  "last_checkpoint": "2026-06-16T02:30:00.604895+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1360,7 +1360,8 @@
       "https://www.solasalonstudios.com/locations",
       "https://book.solasalonstudios.com/",
       "https://www.solasalonstudios.com/about",
-      "https://book.solasalonstudios.com/cary/location"
+      "https://book.solasalonstudios.com/cary/location",
+      "https://www.next.co.uk/?msockid=399d50b2700a6c9c183147c871016d59"
     ],
     "automation": [
       "https://www.selenium.dev/",
@@ -1636,7 +1637,8 @@
       "https://cron.ren/",
       "https://cron.ciding.cc/",
       "https://www.matools.com/cron/",
-      "https://pantools.cn/corn/"
+      "https://pantools.cn/corn/",
+      "https://www.amazonaws.cn/"
     ]
   },
   "software_factory_jobs": [],
