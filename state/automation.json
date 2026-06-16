@@ -1283,7 +1283,17 @@
         "automation"
       ],
       "added_at": "2026-06-14T14:29:52.010556+00:00"
+    },
+    {
+      "id": "def2dfd6",
+      "source_url": "https://github.blog/latest/",
+      "title": "The latest blogs from GitHub",
+      "summary": "* GitHub Copilot CLI uses slash commands to control the terminal AI agent.\n* A new open dataset on GitHub helps researchers discover multilingual developer content.\n* GitHub Copilot CLI can be made more selective about delegation through better orchestration.\n* Context-aware LLM reasoning reduces false positives in secret scanning.\n* Language servers can be installed and configured for GitHub Copilot CLI for real code intelligence.\n* Custom agents in GitHub Copilot CLI enable repeatable and reviewable processes.\n* GitHub Copilot app provides an agent-native desktop experience.\n* GitHub recognized as a Leader in the Gartner Magic Quadrant for Enterprise AI Coding Agents.\n* VS Code can be used to interact with GitHub and maintain projects.\n* Open source tools are available for game development, including art, animation, and audio creation.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-16T03:39:30.945330+00:00"
     }
   ],
-  "last_updated": "2026-06-14T14:29:52.010572+00:00"
+  "last_updated": "2026-06-16T03:39:30.945349+00:00"
 }
