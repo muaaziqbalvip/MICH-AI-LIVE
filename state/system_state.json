@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 5906,
+  "cycle_count": 5911,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-16T13:39:55.529179+00:00",
+  "last_checkpoint": "2026-06-16T13:52:34.451293+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -741,7 +741,8 @@
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=169baf0a9fa769492558b8739ee36867",
       "https://www.bbc.co.uk/learningenglish/chinese/features/english-in-a-minute/ep-230210",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=190d077b803a6e6b3d7e1001815f6fa1",
-      "https://www.facebook.com/facebook/"
+      "https://www.facebook.com/facebook/",
+      "https://accounts.google.com/login?hl=en"
     ],
     "android_core": [
       "https://www.android.com/",
