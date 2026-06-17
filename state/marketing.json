@@ -1729,7 +1729,37 @@
         "course"
       ],
       "added_at": "2026-06-16T03:12:03.740594+00:00"
+    },
+    {
+      "id": "31d08f6c",
+      "source_url": "https://www.airchina.jp/JP/GB/Home",
+      "title": "Air China Limited | Flight Tickets Inquiry & Booking, Flights ...",
+      "summary": "* Air China's website and app allow for online check-in and seat reservation.\n* Pre-paid baggage service offers 10% discount on excess baggage charges for international flights.\n* Excess baggage pre-payment must be made at least 6 hours before scheduled departure time.\n* Ticket numbers for international flights are preceded by \"999\".\n* Advance seat reservation is available through website, app, or service hotline (95583-1-2).\n* Flight status can be checked by flight number or route.\n* Air China has a news section with updates on travel requirements and security measures.\n* EU Entry/Exit System (EES) requirements are outlined in Air China's news section.\n* Passwords for Air China accounts must be changed after initial login.\n* Air China's service hotline is 95583-1-2.",
+      "tags": [
+        "app",
+        "website",
+        "online check-in",
+        "flight status",
+        "service hotline",
+        "password security"
+      ],
+      "added_at": "2026-06-17T09:39:29.959652+00:00"
+    },
+    {
+      "id": "49deee72",
+      "source_url": "https://www.airchina.fr/FR/FR/Home",
+      "title": "Air China Limited | Flight Tickets Inquiry & Booking, Flights ...",
+      "summary": "* Air China's official website and mobile app allow advance seat reservation.\n* Advance seat reservation is available for international flights with ticket numbers starting with \"999\".\n* Seat reservation can be done via the website, mobile app, or by calling the customer service line (95583-1-2).\n* The website displays real-time flight information for the current day.\n* Flight information can be searched by flight number or itinerary.\n* Air China has a system for reporting news and updates, including travel requirements and security alerts.\n* The website has a password reset feature for user accounts.\n* Air China provides online tips for filling out entry cards for foreigners.\n* The airline has a system for preventing fraud and scams using its name.\n* Air China's website is available in multiple languages, including French.",
+      "tags": [
+        "mobile app",
+        "website",
+        "real-time",
+        "flight information",
+        "password reset",
+        "online tips"
+      ],
+      "added_at": "2026-06-17T09:45:39.203834+00:00"
     }
   ],
-  "last_updated": "2026-06-16T03:12:03.740608+00:00"
+  "last_updated": "2026-06-17T09:45:39.203848+00:00"
 }
