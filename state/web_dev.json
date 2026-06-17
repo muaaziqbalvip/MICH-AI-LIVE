@@ -1386,7 +1386,32 @@
         "pydantic"
       ],
       "added_at": "2026-06-17T12:56:31.598407+00:00"
+    },
+    {
+      "id": "00742b5d",
+      "source_url": "https://code.visualstudio.com/updates/v1_93",
+      "title": "August 2024 (version 1.93) - Visual Studio Code",
+      "summary": "* Language mode for SQL files renamed to \"MS SQL\" to reflect Microsoft SQL Server (T-SQL) syntax focus.\n* Package IntelliSense implemented for JavaScript and TypeScript on VS Code for the Web.\n* Automatic type acquisition offers IntelliSense for imported packages in JavaScript files.\n* Full project IntelliSense supported for JavaScript and TypeScript projects on vscode.dev.\n* Package typings and full project IntelliSense supported in Chrome, Microsoft Edge, and Firefox.\n* New Source Control Graph view introduced to reduce information overload and enable customization.\n* Support added for reftable format reference storage backend in Git 2.45.\n* New setting `scm.compactFolders` controls folder rendering in Source Control view.\n* Git 2.46 supports migrating existing repositories to reftable format using `git refs migrate` command.\n* Reftable reference storage backend is still considered experimental.\n* JavaScript debugger includes an experimental Network view with `debug.javascript.enableNetworkView` setting.\n* Network view works with Node.js 22.6.0+ when launched with `--experimental-network-inspection` argument.\n* Testing extensions can associate stack traces with test failures.\n* Debian package installer prompts for `packages.microsoft.com` repository confirmation.\n* Remote Development extensions support Dev Containers, SSH, Remote Tunnels, and WSL.\n* `git.openDiffOnClick` setting is honored on `https://vscode.dev` and with GitHub Repositories extension.\n* Python extension su",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-17T13:23:22.306383+00:00"
+    },
+    {
+      "id": "fd8b2aae",
+      "source_url": "https://code.visualstudio.com/Docs/languages/javascript",
+      "title": "JavaScript in Visual Studio Code",
+      "summary": "* VS Code provides IntelliSense for React/JSX and React Native with automatically downloaded type declaration files.\n* To enable ES6 import statements for React Native, set `allowSyntheticDefaultImports` to `true`.\n* React Native uses Babel to create run-time code with default members.\n* VS Code supports Dart and Flutter development with extensions.\n* Automatic Type Acquisition works for dependencies downloaded by npm, Bower, and common libraries.\n* To fix ES6 style imports issues, set `allowSyntheticDefaultImports` to `true` in TypeScript compiler options.\n* Debugging minified/uglified JavaScript is possible using JavaScript source maps.\n* To disable syntax validation, set `js/ts.validate.enable` to `false` and use a linter like ESLint.\n* VS Code's built-in JavaScript support can be disabled to use other tools like Flow.\n* TypeScript compiler options can be configured in a JSON file with `compilerOptions` and `exclude` properties.",
+      "tags": [
+        "react native",
+        "vs code",
+        "javascript",
+        "typescript",
+        "babel",
+        "eslint"
+      ],
+      "added_at": "2026-06-17T13:39:38.480597+00:00"
     }
   ],
-  "last_updated": "2026-06-17T12:56:31.598422+00:00"
+  "last_updated": "2026-06-17T13:39:38.480617+00:00"
 }
