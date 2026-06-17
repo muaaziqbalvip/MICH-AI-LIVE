@@ -1194,7 +1194,22 @@
         "news"
       ],
       "added_at": "2026-06-17T12:14:24.241033+00:00"
+    },
+    {
+      "id": "10197805",
+      "source_url": "https://grokipedia.com/page/Automated_YouTube_Video_Generation_Pipeline",
+      "title": "Automated YouTube Video Generation Pipeline — Grokipedia",
+      "summary": "* The Automated YouTube Video Generation Pipeline is a Python-based system.\n* It utilizes large language models (LLMs) for script and content generation.\n* Stable Diffusion is used for local image generation.\n* Coqui TTS is employed for neural text-to-speech audio synthesis.\n* MoviePy is used for video assembly and editing.\n* The pipeline can run on local hardware, ensuring data privacy.\n* It supports customizable output, including subtitles and background music.\n* The system can produce high-definition videos in 9:16 or 16:9 formats.\n* FFmpeg can be used as an alternative for video assembly.\n* The pipeline is designed for end-to-end automation, minimizing manual intervention.\n* Local operation reduces costs and dependencies on cloud-based services\n* Supports offline model downloads and subprocess integrations for data privacy\n* Requires standard hardware (4-core CPU, 4GB RAM) for local operation\n* Utilizes artificial intelligence (AI) for automated text generation and scripting\n* Leverages large language models (LLMs) like OpenAI's GPT series\n* Integrates generative models for automated video production\n* Complements text-to-image models like Stable Diffusion for image generation\n* Utilizes text-to-speech (TTS) tools like Piper TTS for audio narration\n* Built as a Python-based system for streamlined automation\n* Can be deployed via Docker or manual installation with API and web interfaces",
+      "tags": [
+        "python",
+        "language models",
+        "text-to-speech",
+        "video assembly",
+        "neural networks",
+        "ffmpeg"
+      ],
+      "added_at": "2026-06-17T22:38:14.204063+00:00"
     }
   ],
-  "last_updated": "2026-06-17T12:14:24.241054+00:00"
+  "last_updated": "2026-06-17T22:38:14.204076+00:00"
 }

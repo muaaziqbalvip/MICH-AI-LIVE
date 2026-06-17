@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 6256,
+  "cycle_count": 6261,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-17T22:06:18.003736+00:00",
+  "last_checkpoint": "2026-06-17T22:44:53.876657+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -351,7 +351,10 @@
       "https://www.formula1.com/en/racing/2026/united-states",
       "https://www.wrestlezone.com/news/1641106-56-year-old-wrestling-veteran-tragically-dies-during-match-jose-calzada-salazar",
       "https://www.physio-pedia.com/Spondylolisthesis",
-      "https://lawbhoomi.com/public-interest-litigation/"
+      "https://lawbhoomi.com/public-interest-litigation/",
+      "https://github.com/keremaygul/python-youtube-video-automation-bot",
+      "https://grokipedia.com/page/Automated_YouTube_Video_Generation_Pipeline",
+      "https://www.codewords.ai/blog/automatic-youtube-uploader"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -1420,7 +1423,8 @@
       "https://code.visualstudio.com/Docs/languages/typescript",
       "https://code.visualstudio.com/Docs/languages/javascript",
       "https://code.visualstudio.com/docs/typescript/typescript-debugging",
-      "https://www.typescriptlang.org/docs/handbook/advanced-types.html"
+      "https://www.typescriptlang.org/docs/handbook/advanced-types.html",
+      "https://www.next.co.uk/?msockid=3a3122aae6df66c7355f35d1e72067fe"
     ],
     "automation": [
       "https://www.selenium.dev/",
