@@ -1371,7 +1371,22 @@
         "web_dev"
       ],
       "added_at": "2026-06-16T10:47:01.786342+00:00"
+    },
+    {
+      "id": "5a02b6d0",
+      "source_url": "https://fastapi-tutorial.readthedocs.io/",
+      "title": "Home - FastAPI Tutorial",
+      "summary": "* FastAPI version: 0.54.1\n* Database library: asyncpg, databases, SQLAlchemy\n* Database URL stored in: DATABASE_URL environment variable\n* SQLAlchemy table definition: using MetaData, Table, Column\n* Database connection: established using Database(DATABASE_URL) from databases library\n* FastAPI event handlers: startup and shutdown for connecting and disconnecting from database\n* Pydantic model: NoteSchema with title and description fields for validating payloads\n* Docker-compose: used for building and running containers\n* PostgreSQL database: used with username hello_fastapi and database name hello_fastapi_dev\n* Required libraries: asyncpg, databases, fastapi, sqlalchemy, uvicorn, pytest, requests",
+      "tags": [
+        "fastapi",
+        "asyncpg",
+        "sqlalchemy",
+        "postgresql",
+        "docker",
+        "pydantic"
+      ],
+      "added_at": "2026-06-17T12:56:31.598407+00:00"
     }
   ],
-  "last_updated": "2026-06-16T10:47:01.786367+00:00"
+  "last_updated": "2026-06-17T12:56:31.598422+00:00"
 }
