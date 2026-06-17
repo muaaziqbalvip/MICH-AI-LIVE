@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 6131,
+  "cycle_count": 6136,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-17T09:58:41.800776+00:00",
+  "last_checkpoint": "2026-06-17T10:10:24.345750+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1396,7 +1396,8 @@
       "https://www.next.co.uk/?msockid=02e0721fe74663152ac56565e6a562ce",
       "https://www.next.co.uk/women?msockid=02e0721fe74663152ac56565e6a562ce",
       "https://www.prisma-statement.org/prisma-2020-flow-diagram",
-      "https://www.next.co.uk/women"
+      "https://www.next.co.uk/women",
+      "https://aws.amazon.com/docker/"
     ],
     "automation": [
       "https://www.selenium.dev/",
