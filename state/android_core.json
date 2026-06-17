@@ -1071,7 +1071,35 @@
         "android_core"
       ],
       "added_at": "2026-06-15T01:01:31.248876+00:00"
+    },
+    {
+      "id": "20b40005",
+      "source_url": "https://www.finanzen.net/realtimekurs/volkswagen",
+      "title": "Volkswagen (VW) St. Realtimekurs und Realtimechart",
+      "summary": "* Current stock price: 88.85 EUR\n* Change: -0.40 EUR (-0.45%)\n* Market capitalization: 44.07 billion EUR\n* Price-to-earnings ratio (P/E): 7.90\n* Dividend yield: 4.95%\n* WKN (German securities identification number): 766400\n* ISIN (International Securities Identification Number): DE0007664005\n* Symbol: VLKAF\n* Bid price: 89.05 EUR\n* Ask price: 88.80 EUR",
+      "tags": [
+        "stock",
+        "market",
+        "capitalization",
+        "securities",
+        "dividend",
+        "yield"
+      ],
+      "added_at": "2026-06-17T11:07:04.697088+00:00"
+    },
+    {
+      "id": "6746b715",
+      "source_url": "https://www.wallstreet-online.de/aktien/volkswagen-3-aktie",
+      "title": "Volkswagen (VW) Vz Aktie (VW6) | Aktienkurs » DE0007664039 ...",
+      "summary": "* Volkswagen (VW) has a chronic problem of having too many employees.\n* Ex-CEO Herbert Diess states that VW has too many jobs and this has been a recurring issue over the decades.\n* Diess mentions that the auto industry has changed significantly since the 2000s, with a major growth driver being the increased demand from China.\n* The company had 20 \"golden years\" of growth, but now faces new challenges.\n* Diess believes that the industry is no longer a secure work environment, but rather a \"hard-fought field\" where jobs are often relocated.\n* The current market presence of VW is over 30%, a \"historical high\".\n* The products developed in the past are still having an impact on the market.\n* The dividend yield of VW is still considered \"ok\" by some investors.\n* Some investors are waiting for the stock price to reach 77 before buying in.\n* The company's management structure and employee count are seen as major issues that need to be addressed.\n* Volkswagen (VW) Vz Aktie ISIN: DE0007664039\n* 61% vom 52 Wochen-Tief entfernt\n* Wettbewerber:\n  + BMW: DE0005190003\n  + Mercedes-Benz Group: DE0007100000\n  + Toyota: JP3633400001\n  + Tesla: US88160R1014\n  + Stellantis: NL00150001Q9\n* Aktuelles Kursziel nicht spezifiziert, nur Durchschnittswert erwähnt",
+      "tags": [
+        "auto industry",
+        "electric vehicles",
+        "automotive technology",
+        "china market"
+      ],
+      "added_at": "2026-06-17T11:18:19.567575+00:00"
     }
   ],
-  "last_updated": "2026-06-15T01:01:31.248894+00:00"
+  "last_updated": "2026-06-17T11:18:19.567595+00:00"
 }
