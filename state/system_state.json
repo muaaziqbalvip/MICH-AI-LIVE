@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 6261,
+  "cycle_count": 6266,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-17T22:44:53.876657+00:00",
+  "last_checkpoint": "2026-06-17T22:54:33.861838+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1709,7 +1709,9 @@
       "https://github.com/github/app",
       "https://git-scm.com/install/",
       "https://mastersoftwaretesting.com/automation-academy/ui-automation/selenium/selenium-webdriver-complete-guide",
-      "https://www.datacamp.com/tutorial/aws-lambda"
+      "https://www.datacamp.com/tutorial/aws-lambda",
+      "https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github",
+      "https://docs.github.com/en"
     ]
   },
   "software_factory_jobs": [],
