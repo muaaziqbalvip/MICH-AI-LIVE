@@ -1759,7 +1759,17 @@
         "online tips"
       ],
       "added_at": "2026-06-17T09:45:39.203834+00:00"
+    },
+    {
+      "id": "d0d85230",
+      "source_url": "https://accounts.google.com/Login",
+      "title": "Sign in - Google Accounts",
+      "summary": "* Google Accounts uses a simple sign-in form with email or phone input.\n* The form includes a \"Forgot email?\" feature for account recovery.\n* Google implements a CAPTCHA system with audio or visual options.\n* Guest mode is available for private sign-in on public computers.\n* The sign-in process uses a \"Next\" button to proceed.\n* Account creation is possible from the sign-in page.\n* Google Accounts supports multiple input methods (email or phone).\n* The system includes a feedback mechanism (\"Learn more\") for Guest mode.\n* The sign-in form is loaded dynamically (\"Loading\" indicator).\n* The system uses a secure connection (implied by the Google Accounts domain).",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-06-17T10:26:28.098495+00:00"
     }
   ],
-  "last_updated": "2026-06-17T09:45:39.203848+00:00"
+  "last_updated": "2026-06-17T10:26:28.098512+00:00"
 }
