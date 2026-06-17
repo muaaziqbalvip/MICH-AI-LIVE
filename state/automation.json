@@ -1303,7 +1303,21 @@
         "automation"
       ],
       "added_at": "2026-06-17T14:33:24.319029+00:00"
+    },
+    {
+      "id": "6c87f7f6",
+      "source_url": "https://www.datacamp.com/tutorial/aws-lambda",
+      "title": "Getting Started with AWS Lambda: A Step-by-Step Tutorial",
+      "summary": "* AWS Lambda is a serverless computing service on AWS.\n* AWS offers various courses and tutorials for learning cloud technology, security, and cost management.\n* AWS Step Functions can be used to orchestrate workflows and manage state machines.\n* AWS SageMaker is a service for building, training, and deploying machine learning models.\n* AWS EC2 (Elastic Compute Cloud) provides virtual servers for computing and data science tasks.\n* Lambda functions can be used to write small, event-driven code snippets.\n* AWS provides a range of services for data analysis and machine learning.\n* AWS security and governance are crucial for cloud computing and cost optimization.\n* AWS Cloud Practitioner certification is a valuable credential for cloud professionals.\n* DataCamp offers tutorials and courses for learning AWS services and technologies.",
+      "tags": [
+        "cloud computing",
+        "serverless",
+        "machine learning",
+        "data science",
+        "aws lambda"
+      ],
+      "added_at": "2026-06-17T14:57:29.076571+00:00"
     }
   ],
-  "last_updated": "2026-06-17T14:33:24.319046+00:00"
+  "last_updated": "2026-06-17T14:57:29.076589+00:00"
 }
