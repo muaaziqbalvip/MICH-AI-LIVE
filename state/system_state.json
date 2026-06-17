@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 6206,
+  "cycle_count": 6211,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-17T14:17:33.073506+00:00",
+  "last_checkpoint": "2026-06-17T14:34:57.105617+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1700,7 +1700,8 @@
       "https://www.geeksforgeeks.org/software-testing/components-of-selenium/",
       "https://github.com/signup?source=login",
       "https://github.com/github/app",
-      "https://git-scm.com/install/"
+      "https://git-scm.com/install/",
+      "https://mastersoftwaretesting.com/automation-academy/ui-automation/selenium/selenium-webdriver-complete-guide"
     ]
   },
   "software_factory_jobs": [],

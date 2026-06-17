@@ -1293,7 +1293,17 @@
         "automation"
       ],
       "added_at": "2026-06-16T03:39:30.945330+00:00"
+    },
+    {
+      "id": "1ca720ac",
+      "source_url": "https://mastersoftwaretesting.com/automation-academy/ui-automation/selenium/selenium-webdriver-complete-guide",
+      "title": "Selenium WebDriver Complete Guide: Master Web Automation",
+      "summary": "* Use `PageFactory.initElements` to initialize page objects.\n* Implement `@AfterMethod` to clean up resources, such as closing the browser.\n* Use meaningful locators like `By.id` and `By.cssSelector` instead of fragile ones like `By.xpath` and `By.className`.\n* Handle dynamic content using `wait.until` with `ExpectedConditions`.\n* Use `driver.quit()` to close the browser, even on test failure.\n* Browser drivers like ChromeDriver translate WebDriver commands into browser-specific actions.\n* `driver.close()` closes the browser window, while `driver.quit()` closes the entire browser process.\n* Use `WebDriverWait` to handle timing issues and synchronization.\n* CSS selectors are generally preferred over XPath for locating elements.\n* Use `WebDriverManager` to manage browser drivers and versions.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-17T14:33:24.319029+00:00"
     }
   ],
-  "last_updated": "2026-06-16T03:39:30.945349+00:00"
+  "last_updated": "2026-06-17T14:33:24.319046+00:00"
 }
