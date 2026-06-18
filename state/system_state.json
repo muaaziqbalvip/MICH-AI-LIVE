@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 6331,
+  "cycle_count": 6336,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-18T01:17:15.534252+00:00",
+  "last_checkpoint": "2026-06-18T01:42:16.186481+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -771,7 +771,9 @@
       "https://www.outlook.com/owa/gencat.cat",
       "https://outlook.com/owa/Office365.com",
       "https://www.outlook.com/newsletters",
-      "https://adaptify.ai/blog/automate-your-seo-efforts-using-python-a-practical-guide"
+      "https://adaptify.ai/blog/automate-your-seo-efforts-using-python-a-practical-guide",
+      "https://sproutsocial.com/insights/social-media-automation-tools/",
+      "https://bloggingwizard.com/social-media-automation-tools/"
     ],
     "android_core": [
       "https://www.android.com/",
