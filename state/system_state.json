@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 6421,
+  "cycle_count": 6426,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-18T10:16:48.333784+00:00",
+  "last_checkpoint": "2026-06-18T10:28:01.402355+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -775,7 +775,8 @@
       "https://sproutsocial.com/insights/social-media-automation-tools/",
       "https://bloggingwizard.com/social-media-automation-tools/",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=3b27716cc268669039376610c3986766",
-      "https://www.usa.gov/social-security-card"
+      "https://www.usa.gov/social-security-card",
+      "https://accounts.google.com/login?service=mail"
     ],
     "android_core": [
       "https://www.android.com/",
