@@ -1099,7 +1099,17 @@
         "china market"
       ],
       "added_at": "2026-06-17T11:18:19.567575+00:00"
+    },
+    {
+      "id": "922eafcc",
+      "source_url": "https://kotlinlang.org/docs/multiplatform/kmp-learning-resources.html",
+      "title": "Learning resources | Kotlin Multiplatform Documentation",
+      "summary": "* Kotlin Multiplatform (KMP) supports offline-first Compose Multiplatform clients for Android, iOS, desktop, and web.\n* KMP can be used with Spring Boot backend and WebSockets.\n* API design is crucial for maximizing code reuse and platform compatibility in KMP library building.\n* Dokka can be used to generate professional API documentation for KMP libraries.\n* KMP library projects can be bootstrapped using an official GitHub template.\n* Maven Central is a key distribution channel for KMP libraries.\n* CI/CD pipelines can be used to automate KMP library publishing.\n* KMP libraries require effective API design and code sharing strategies.\n* JetBrains provides official starter templates and tutorials for KMP library development.\n* KMP supports mixed Kotlin/Java projects.",
+      "tags": [
+        "android_core"
+      ],
+      "added_at": "2026-06-18T00:42:54.587741+00:00"
     }
   ],
-  "last_updated": "2026-06-17T11:18:19.567595+00:00"
+  "last_updated": "2026-06-18T00:42:54.587756+00:00"
 }
