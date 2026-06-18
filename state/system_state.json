@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 6466,
+  "cycle_count": 6471,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-18T12:04:07.960620+00:00",
+  "last_checkpoint": "2026-06-18T12:17:48.229754+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -777,7 +777,8 @@
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=3b27716cc268669039376610c3986766",
       "https://www.usa.gov/social-security-card",
       "https://accounts.google.com/login?service=mail",
-      "https://www.debugbar.com/leveraging-python-for-seo-automation-tools-and-tips/"
+      "https://www.debugbar.com/leveraging-python-for-seo-automation-tools-and-tips/",
+      "https://developers.google.com/google-ads/api/docs/developer-toolkit/ai-assistant"
     ],
     "android_core": [
       "https://www.android.com/",
