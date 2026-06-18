@@ -1804,7 +1804,22 @@
         "marketing"
       ],
       "added_at": "2026-06-18T08:44:57.130823+00:00"
+    },
+    {
+      "id": "b8b9283e",
+      "source_url": "https://www.debugbar.com/leveraging-python-for-seo-automation-tools-and-tips/",
+      "title": "Leveraging Python for SEO Automation: Tools and Tips",
+      "summary": "* Python can automate website audits by crawling sites and identifying technical SEO issues.\n* The Requests library can be used to check for broken links by making HTTP requests to each link.\n* BeautifulSoup can be used to check page content, title tags, meta descriptions, and H1 tags for optimization.\n* Scrapy can be used to extract content and compare keyword density between pages.\n* Python can evaluate content for SEO relevance and identify content gaps by checking keyword usage.\n* Python scripts can scrape sites to compare keyword targeting with competitor pages.\n* Automated reports can be generated in CSV, Excel, or uploaded to Google Drive for easy access.\n* Selenium automation tools can email reports to teams for easy access to SEO data.\n* Python can automate keyword research and provide consistent and reliable results.\n* Python scripts can be used to optimize content in real-time to keep sites competitive in search results.",
+      "tags": [
+        "python",
+        "scrapy",
+        "selenium",
+        "beautifulsoup",
+        "requests",
+        "automation"
+      ],
+      "added_at": "2026-06-18T10:46:04.117336+00:00"
     }
   ],
-  "last_updated": "2026-06-18T08:44:57.130842+00:00"
+  "last_updated": "2026-06-18T10:46:04.117355+00:00"
 }
