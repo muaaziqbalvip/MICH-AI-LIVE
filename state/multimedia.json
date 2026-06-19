@@ -1254,7 +1254,17 @@
         "python"
       ],
       "added_at": "2026-06-19T02:30:24.439634+00:00"
+    },
+    {
+      "id": "2482cb77",
+      "source_url": "https://github.com/CodersSampling/moviepy_videoediting",
+      "title": "GitHub - CodersSampling/moviepy_videoediti…",
+      "summary": "* The project uses Jupyter notebooks with the `widgetsnbextension` enabled.\n* The `proglog` library is used for logging, specifically with `proglog.notebook()`.\n* MoviePy is an open-source video editing library written in Python.\n* The project is hosted on GitHub under the MIT license.\n* The primary language used is Python (99.9%).\n* A small portion of the code is written in Dockerfile (0.1%).\n* The project has no releases published.\n* Contributing guidelines are available for those who want to contribute to the project.\n* Discussion platforms include Reddit and Gitter for usage questions and examples.\n* Key maintainers include Zulko, @tburrows13, @mgaitan, and others.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-19T07:22:38.084710+00:00"
     }
   ],
-  "last_updated": "2026-06-19T02:30:24.439649+00:00"
+  "last_updated": "2026-06-19T07:22:38.084733+00:00"
 }
