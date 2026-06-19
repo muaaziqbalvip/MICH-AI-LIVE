@@ -1872,7 +1872,22 @@
         "marketing"
       ],
       "added_at": "2026-06-19T02:35:20.329676+00:00"
+    },
+    {
+      "id": "57e22855",
+      "source_url": "https://geekflare.com/guides/how-to-scrape-serp-in-python/",
+      "title": "How to Scrape SERP in Python - Geekflare",
+      "summary": "* SERP scraping can be done using Python.\n* Geekflare API overcomes challenges and limitations in SERP scraping.\n* Anti-bot defenses are used by social platforms to block data collection.\n* Proxy servers can help bypass anti-bot defenses.\n* SERP APIs provide structured, real-time access to organic rankings.\n* Featured snippets and local metrics can be accessed through SERP APIs.\n* Social media scrapers can help collect data from social platforms.\n* Proxy services can be compared for speed, reliability, and security.\n* SERP API tools can be used for SEO rank tracking.\n* Python is a suitable language for building a SERP scraper.",
+      "tags": [
+        "serp scraping",
+        "proxy servers",
+        "api tools",
+        "python",
+        "seo",
+        "scraping"
+      ],
+      "added_at": "2026-06-19T04:57:40.339646+00:00"
     }
   ],
-  "last_updated": "2026-06-19T02:35:20.329695+00:00"
+  "last_updated": "2026-06-19T04:57:40.339658+00:00"
 }
