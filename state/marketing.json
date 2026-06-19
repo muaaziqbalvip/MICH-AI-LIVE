@@ -1819,7 +1819,20 @@
         "automation"
       ],
       "added_at": "2026-06-18T10:46:04.117336+00:00"
+    },
+    {
+      "id": "c6ca0610",
+      "source_url": "https://www.geeksforgeeks.org/python/getting-started-with-python-programming/",
+      "title": "Getting Started with Python Programming - GeeksforGeeks",
+      "summary": "* Python is an interpreted programming language known for simplicity and readability.\n* To verify Python installation, use the command `python --version` in the command line interface.\n* Download Python from the official website: https://www.python.org/\n* To install Python, select the recommended Python 3 version and enable \"Add Python to PATH\" (optional) on Windows.\n* Verify Python installation by running `python --version` in the command line interface.\n* Create a Python program by saving a file with a `.py` extension and running it in the terminal.\n* Use Python's interactive shell by launching it with `python` or `python3` and exiting with `exit()`.\n* Basic Python syntax includes `print()` function, such as `print('Hello World')`.\n* Google Colab provides a cloud-based interactive Python environment for running Python code.\n* Key next steps in learning Python include exploring variables, data types, loops, conditional statements, functions, and modules.\n* Google Colab provides an interactive Python environment for running Python code in the browser.\n* To run Python code in Google Colab, click the play button or press Shift + Enter.\n* Google Colab requires a Google account to access.\n* Python code can be written and executed in cells within Google Colab.\n* Alternative IDEs can be used for executing Python code.\n* Basic Python topics include Input & Output, Variables, Operators, and Data Types.\n* Advanced Python topics include OOP Concepts, Exception Handling, and File Handli",
+      "tags": [
+        "python",
+        "command line",
+        "cloud computing",
+        "programming language"
+      ],
+      "added_at": "2026-06-19T02:08:40.079576+00:00"
     }
   ],
-  "last_updated": "2026-06-18T10:46:04.117355+00:00"
+  "last_updated": "2026-06-19T02:08:40.079592+00:00"
 }

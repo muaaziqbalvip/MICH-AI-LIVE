@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 6536,
+  "cycle_count": 6541,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-19T02:06:59.526599+00:00",
+  "last_checkpoint": "2026-06-19T02:09:45.894927+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -778,7 +778,9 @@
       "https://www.usa.gov/social-security-card",
       "https://accounts.google.com/login?service=mail",
       "https://www.debugbar.com/leveraging-python-for-seo-automation-tools-and-tips/",
-      "https://developers.google.com/google-ads/api/docs/developer-toolkit/ai-assistant"
+      "https://developers.google.com/google-ads/api/docs/developer-toolkit/ai-assistant",
+      "https://openpython.org/learn-python",
+      "https://www.geeksforgeeks.org/python/getting-started-with-python-programming/"
     ],
     "android_core": [
       "https://www.android.com/",
