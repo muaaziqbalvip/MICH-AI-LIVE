@@ -1317,7 +1317,22 @@
         "aws lambda"
       ],
       "added_at": "2026-06-17T14:57:29.076571+00:00"
+    },
+    {
+      "id": "3673828d",
+      "source_url": "https://github.blog/changelog/",
+      "title": "GitHub Changelog",
+      "summary": "* GitHub Copilot app is available in technical preview\n* Copilot SDK is now generally available\n* Copilot CLI has improved UI, rubber duck, prompt scheduling, and voice input\n* Cloud and local sandboxes for GitHub Copilot are in public preview\n* GitHub Copilot code review is available for Azure Repos in technical preview\n* Copilot CLI and agentic capabilities are enhanced in JetBrains IDEs\n* Gemini models are available in Copilot CLI, cloud agent, and the Copilot app\n* Copilot cloud agent allows scheduling and automating tasks\n* Copilot Memory supports user preferences for Business and Enterprise\n* MAI-Code-1-Flash is available for GitHub Copilot",
+      "tags": [
+        "ai",
+        "cloud",
+        "cli",
+        "sdk",
+        "github",
+        "azure"
+      ],
+      "added_at": "2026-06-19T15:33:32.438637+00:00"
     }
   ],
-  "last_updated": "2026-06-17T14:57:29.076589+00:00"
+  "last_updated": "2026-06-19T15:33:32.438655+00:00"
 }
