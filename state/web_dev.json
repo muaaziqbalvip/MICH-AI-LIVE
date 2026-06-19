@@ -1411,7 +1411,17 @@
         "eslint"
       ],
       "added_at": "2026-06-17T13:39:38.480597+00:00"
+    },
+    {
+      "id": "d9c6da24",
+      "source_url": "https://github.com/nahidkishore/Three-Tier-Applications",
+      "title": "GitHub - nahidkishore/Three-Tier-Applications: Containerized ...",
+      "summary": "* Three-tier application consists of MySQL database, Node.js backend, and React.js frontend.\n* Docker and Docker Compose used for deployment and management.\n* Custom networks and volumes configured for container communication and data persistence.\n* MySQL databases managed within Docker containers using effective volume management.\n* Docker Compose configuration file (docker-compose.yml) defines application services.\n* Project structure includes frontend, backend, and database components.\n* Docker volumes ensure data persistence across container restarts and deletions.\n* Docker Compose command `docker-compose up -d` builds and runs containers in detached mode.\n* Application accessible at `http://localhost:80` after deployment.\n* MySQL database configured with `school` database and `student` and `teacher` tables.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-19T03:01:24.182223+00:00"
     }
   ],
-  "last_updated": "2026-06-17T13:39:38.480617+00:00"
+  "last_updated": "2026-06-19T03:01:24.182242+00:00"
 }
