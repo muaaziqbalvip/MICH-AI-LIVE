@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 6596,
+  "cycle_count": 6601,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-19T03:07:30.995140+00:00",
+  "last_checkpoint": "2026-06-19T03:16:11.713227+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1456,7 +1456,9 @@
       "https://forums.edmunds.com/discussion/11517/chevrolet/hhr/chevrolet-hhr-water-on-passenger-floorboard",
       "https://forums.edmunds.com/discussions/tagged/nissan/z/p1",
       "https://forums.edmunds.com/discussions/tagged/cadillac/escalade-iq/p1",
-      "https://github.com/nahidkishore/Three-Tier-Applications"
+      "https://github.com/nahidkishore/Three-Tier-Applications",
+      "https://www.next.co.uk/?msockid=31e82e14c0ec613831cf3969c19360e4",
+      "https://www.next.co.uk/men?msockid=31e82e14c0ec613831cf3969c19360e4"
     ],
     "automation": [
       "https://www.selenium.dev/",
