@@ -1264,7 +1264,32 @@
         "multimedia"
       ],
       "added_at": "2026-06-19T07:22:38.084710+00:00"
+    },
+    {
+      "id": "5494e6d8",
+      "source_url": "https://github.com/Alfinjohnson/Auto-YouTube",
+      "title": "GitHub - Alfinjohnson/Auto-YouTube: Fully automated python YouTube ...",
+      "summary": "* The repository is for a fully automated YouTube project.\n* The project is built using Python.\n* The repository has 1 watcher and 6 forks.\n* No releases have been published for the project.\n* The project does not have any packages.\n* The repository has an error loading contributors and other information.\n* The project is written entirely in Python (100%).\n* The repository is hosted on GitHub.\n* The project's automation capabilities are for YouTube.\n* The project uses Python as its sole programming language.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-19T14:19:07.356134+00:00"
+    },
+    {
+      "id": "6afff9cf",
+      "source_url": "https://github.com/topics/video-automation",
+      "title": "video-automation · GitHub Topics · GitHub",
+      "summary": "* Video automation involves using software to automate video processing tasks\n* Python and OpenCV are commonly used for video automation\n* FFmpeg is a popular tool for video encoding and decoding\n* Machine learning models can be used for video analysis and automation\n* Automation can be applied to tasks such as video editing and rendering\n* APIs like YouTube API and Vimeo API can be used for video automation\n* Video automation can be used for tasks like object detection and tracking\n* Automation scripts can be written in languages like Python and JavaScript\n* Video automation can be applied to various industries like film and media\n* Tools like MoviePy and PyAV can be used for video automation in Python",
+      "tags": [
+        "video automation",
+        "machine learning",
+        "opencv",
+        "ffmpeg",
+        "python",
+        "apis"
+      ],
+      "added_at": "2026-06-19T14:25:16.033171+00:00"
     }
   ],
-  "last_updated": "2026-06-19T07:22:38.084733+00:00"
+  "last_updated": "2026-06-19T14:25:16.033190+00:00"
 }
