@@ -1421,7 +1421,22 @@
         "web_dev"
       ],
       "added_at": "2026-06-19T03:01:24.182223+00:00"
+    },
+    {
+      "id": "efe9d372",
+      "source_url": "https://www.gemsalex.com/resources/blog/modern-react-patterns-2024",
+      "title": "Modern React Patterns You Should Know in 2024",
+      "summary": "* React can be made production-ready with Next.js.\n* Next.js provides features like Server Components, file-based routing, and automatic code splitting.\n* Web Components can be used to build core UI components for stability and reusability.\n* Web Components can be wrapped for use in Next.js using React.\n* `useRef` and `useEffect` can be used to add event listeners to Web Components in React.\n* Next.js provides a `notFound` function for handling 404 errors.\n* `fetch` API can be used to make asynchronous requests in Next.js.\n* Web Components are suitable for building design systems, long-lived applications, and embeddable widgets.\n* React and Web Components can be used together to get the best of both worlds.\n* `custom-elements` can be imported and used in React components.",
+      "tags": [
+        "react",
+        "next.js",
+        "web components",
+        "server components",
+        "code splitting",
+        "fetch api"
+      ],
+      "added_at": "2026-06-19T04:00:12.493169+00:00"
     }
   ],
-  "last_updated": "2026-06-19T03:01:24.182242+00:00"
+  "last_updated": "2026-06-19T04:00:12.493182+00:00"
 }
