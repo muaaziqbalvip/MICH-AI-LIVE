@@ -1224,7 +1224,37 @@
         "image library"
       ],
       "added_at": "2026-06-19T02:11:03.086870+00:00"
+    },
+    {
+      "id": "f033f071",
+      "source_url": "https://murf.ai/blog/build-ai-video-generator-for-youtube",
+      "title": "Automate YouTube Videos with AI: Full Guide",
+      "summary": "* AI Video Generator uses OpenAI's GPT for script generation, Stability AI for image and video generation, and Murf for text-to-speech conversion.\n* Backend is built using Python (Flask) and frontend uses React with Vite.\n* Requires Python 3.8+ and Node.js 16+ installed.\n* Needs API keys from OpenAI, Stability AI, and Murf AI.\n* Uses Python for backend development and JavaScript/React for frontend development.\n* Combines natural language processing, computer vision, and text-to-speech technologies.\n* Can generate complete YouTube videos with minimal human intervention.\n* Requires basic knowledge of Python and JavaScript to understand and customize the code.\n* Uses API integrations to assemble complete videos with synchronized audio and animated visuals.\n* Python and JavaScript are required for backend and frontend development\n* FFmpeg is used for audio/video processing and can be installed via package managers\n* MoviePy requires FFmpeg for video assembly\n* The AI Video Generator workflow includes user input, script generation, audio creation, visual generation, and video assembly\n* The project structure includes backend, frontend, and venv directories\n* Flask is used as the backend framework with CORS enabled for cross-origin requests\n* A temporary directory is created to store intermediate and final files during video creation\n* Murf AI is used for text-to-speech conversion with API key authentication\n* The backend API includes endpoints for generating Murf tokens and handli",
+      "tags": [
+        "ai",
+        "react",
+        "node.js",
+        "python",
+        "computer vision",
+        "natural language processing"
+      ],
+      "added_at": "2026-06-19T02:30:14.093927+00:00"
+    },
+    {
+      "id": "333ef41b",
+      "source_url": "https://github.com/topics/youtube-automation",
+      "title": "youtube-automation · GitHub Topics · GitHub",
+      "summary": "* YouTube automation tools use languages like Python, JavaScript, and TypeScript.\n* Popular libraries and APIs include YouTube API, OpenAI, and Gemini API.\n* AI-powered tools can create, optimize, and publish videos 24/7.\n* Automation tasks include content creation, video generation, and thumbnail creation.\n* Tools like MoviePy and FFmpeg are used for video editing and processing.\n* Text-to-speech and speech-to-speech technologies are used for dubbing and voiceovers.\n* Large Language Models (LLMs) like Gemini are used for content generation.\n* Automated YouTube channels can be managed using AI agents and bots.\n* Tools can integrate with social media platforms for cross-platform automation.\n* GitHub hosts a variety of open-source YouTube automation projects and repositories.\n* Python is a primary language used for YouTube automation.\n* FFmpeg is used for video editing and processing.\n* AI and machine learning are used for tasks like text analysis, lip sync, and animation cue extraction.\n* Gradio and n8n are used for workflow automation and content creation.\n* Docker and Docker Compose are used for self-hosted and containerized automation solutions.\n* Text-to-speech (TTS) and Whisper are used for audio and subtitle generation.\n* FastAPI and Celery are used for backend development and task queue management.\n* React and Tailwind CSS are used for frontend development and UI design.\n* Selenium and Python are used for automating YouTube interactions like subscribing and commenting.\n",
+      "tags": [
+        "ai",
+        "automation",
+        "youtube",
+        "apis",
+        "javascript",
+        "python"
+      ],
+      "added_at": "2026-06-19T02:30:24.439634+00:00"
     }
   ],
-  "last_updated": "2026-06-19T02:11:03.086887+00:00"
+  "last_updated": "2026-06-19T02:30:24.439649+00:00"
 }

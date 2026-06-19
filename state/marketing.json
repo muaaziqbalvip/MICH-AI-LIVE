@@ -1862,7 +1862,17 @@
         "nlp"
       ],
       "added_at": "2026-06-19T02:17:13.595413+00:00"
+    },
+    {
+      "id": "508b1942",
+      "source_url": "https://savemyleads.com/blog/other/meta-ads-api-python",
+      "title": "Meta Ads API Python - SaveMyLeads",
+      "summary": "* Python 3.6 or higher is required to use the Meta Ads API Python SDK.\n* Install the Meta Ads API Python SDK using `pip install facebook-business`.\n* Set up access token and app credentials from the Meta for Developers platform.\n* Create a Facebook App to obtain App ID and App Secret for authentication.\n* Use the Facebook SDK for Python or make HTTP requests to API endpoints for authentication.\n* Obtain necessary permissions and scopes to access required data.\n* Use `pip` to install dependencies for the Meta Ads API Python SDK.\n* Leverage services like SaveMyLeads for seamless integration and automation.\n* Refer to official documentation for detailed information on available endpoints and usage.\n* Use the Meta Ads API Python SDK to automate tasks, analyze data, and enhance ad performance.",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-06-19T02:35:20.329676+00:00"
     }
   ],
-  "last_updated": "2026-06-19T02:17:13.595424+00:00"
+  "last_updated": "2026-06-19T02:35:20.329695+00:00"
 }
