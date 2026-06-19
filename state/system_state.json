@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 6781,
+  "cycle_count": 6786,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-19T16:09:46.978621+00:00",
+  "last_checkpoint": "2026-06-19T16:21:26.642263+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -797,7 +797,8 @@
       "https://www.researchgate.net/profile/Prathap-Rudra-Boppuru/publication/385198776_Python_Driven_Keyword_Analysis_for_SEO_Optimization/links/677cd334fb9aff6eaa0c9ac7/Python-Driven-Keyword-Analysis-for-SEO-Optimization.pdf",
       "https://the7eagles.com/marketing-tools/best-social-media-automation-tools/",
       "https://geekflare.com/guides/how-to-scrape-serp-in-python/",
-      "https://www.microsoft.com/en-us/microsoft-365/outlook/log-in?msockid=36272d86b83866c809363afbb9c267c6"
+      "https://www.microsoft.com/en-us/microsoft-365/outlook/log-in?msockid=36272d86b83866c809363afbb9c267c6",
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=035a5f150c786cb82ccc48680da26d16"
     ],
     "android_core": [
       "https://www.android.com/",
