@@ -1887,7 +1887,22 @@
         "scraping"
       ],
       "added_at": "2026-06-19T04:57:40.339646+00:00"
+    },
+    {
+      "id": "190cfbbb",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/outlook/log-in?msockid=36272d86b83866c809363afbb9c267c6",
+      "title": "Outlook Log In | Microsoft 365",
+      "summary": "* Works on PC, Mac, iPhone, iPad, and Android devices\n* 1 TB of secure cloud storage (up to 6 TB for Microsoft 365 Family)\n* Includes Word, Excel, PowerPoint, Outlook, and OneNote desktop apps with Microsoft Copilot\n* Microsoft Defender provides advanced security for identity, personal data, and devices\n* OneDrive offers ransomware protection for photos and files\n* Microsoft Teams allows for calling, chatting, and collaboration\n* Microsoft Copilot enables AI-powered features in select apps\n* Subscription includes access to Microsoft Designer, Photos, and Clipchamp\n* Supports up to 5 devices simultaneously per user\n* Automatic subscription renewal unless canceled in Microsoft account\n* Outlook offers 15 GB of mailbox storage for free accounts and up to 1 TB for Microsoft 365 Personal subscribers.\n* Microsoft 365 subscriptions include advanced security features like spam filters, Microsoft Defender, and OneDrive ransomware protection.\n* OneDrive provides cloud storage, with 5 GB free and up to 1 TB with Microsoft 365 Personal.\n* Microsoft 365 apps include Word, Excel, PowerPoint, Outlook, and OneNote, with desktop and web versions available.\n* Microsoft Copilot is an AI companion available in select apps, including Word, Excel, and PowerPoint.\n* Microsoft Teams allows for meeting, chatting, calling, and collaboration, with Copilot integration.\n* Microsoft Defender provides threat prevention and detection for identity, personal data, and devices.\n* Outlook offers ad-free email a",
+      "tags": [
+        "cloud storage",
+        "microsoft 365",
+        "microsoft defender",
+        "microsoft teams",
+        "microsoft copilot",
+        "onedrive"
+      ],
+      "added_at": "2026-06-19T07:03:19.086780+00:00"
     }
   ],
-  "last_updated": "2026-06-19T04:57:40.339658+00:00"
+  "last_updated": "2026-06-19T07:03:19.086820+00:00"
 }
