@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 6546,
+  "cycle_count": 6551,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-19T02:12:39.775654+00:00",
+  "last_checkpoint": "2026-06-19T02:15:23.269185+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -781,7 +781,8 @@
       "https://www.debugbar.com/leveraging-python-for-seo-automation-tools-and-tips/",
       "https://developers.google.com/google-ads/api/docs/developer-toolkit/ai-assistant",
       "https://openpython.org/learn-python",
-      "https://www.geeksforgeeks.org/python/getting-started-with-python-programming/"
+      "https://www.geeksforgeeks.org/python/getting-started-with-python-programming/",
+      "https://developers.google.com/google-ads/api"
     ],
     "android_core": [
       "https://www.android.com/",

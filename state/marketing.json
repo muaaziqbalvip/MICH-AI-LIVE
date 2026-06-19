@@ -1832,7 +1832,22 @@
         "programming language"
       ],
       "added_at": "2026-06-19T02:08:40.079576+00:00"
+    },
+    {
+      "id": "09fbb094",
+      "source_url": "https://developers.google.com/google-ads/api",
+      "title": "Google Ads API | Google for Developers",
+      "summary": "* Google Ads API is used for managing Google Ads accounts\n* API has various campaign types: Performance Max, Demand Gen, Search, Shopping\n* API reference and guides are available for developers\n* Reporting features allow running reports and metrics\n* Authorization and authentication are required to manage Google Ads accounts\n* API is licensed under Creative Commons Attribution 4.0 License\n* Code samples are licensed under Apache 2.0 License\n* Java is used as a programming language for the API\n* API has a community server on Discord and YouTube for discussion and updates\n* Latest API version is v24.2 with new features added",
+      "tags": [
+        "google ads",
+        "api",
+        "java",
+        "reporting",
+        "authentication",
+        "authorization"
+      ],
+      "added_at": "2026-06-19T02:14:17.873319+00:00"
     }
   ],
-  "last_updated": "2026-06-19T02:08:40.079592+00:00"
+  "last_updated": "2026-06-19T02:14:17.873333+00:00"
 }
