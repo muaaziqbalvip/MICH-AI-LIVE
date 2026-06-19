@@ -1209,7 +1209,22 @@
         "ffmpeg"
       ],
       "added_at": "2026-06-17T22:38:14.204063+00:00"
+    },
+    {
+      "id": "ebc09c46",
+      "source_url": "https://pillow.readthedocs.io/en/stable/handbook/tutorial.html",
+      "title": "Tutorial - Pillow (PIL Fork) 12.2.0 documentation",
+      "summary": "* The `Image` class is the most important class in the Python Imaging Library.\n* The `open()` function in the `Image` module is used to load an image from a file.\n* The `format` attribute identifies the source of an image, `size` is a 2-tuple containing width and height, and `mode` defines the number and names of the bands in the image.\n* Common image modes are \"L\" (luminance), \"RGB\" (true color), and \"CMYK\" (pre-press).\n* The `show()` method is used to display an image, but it's not very efficient.\n* The `save()` method is used to save an image to a file, and it uses the filename extension to determine the file format.\n* The `save()` method can take a second argument to explicitly specify a file format.\n* The `Image.open()` function returns an `Image` object if successful, or raises an `OSError` exception if the file cannot be opened.\n* The library supports a wide variety of image file formats and can automatically determine the format based on the file contents.\n* The Pillow library doesn't decode or load raster data unless necessary, making file opening a fast operation.\n* The `Image.open()` method reads the file header to determine format, mode, size, and other properties.\n* The `thumbnail()` method creates a thumbnail of a specified size.\n* The `crop()` method extracts a sub-rectangle from an image, defined by a 4-tuple (left, upper, right, lower).\n* The `paste()` method pastes a region back into an image, requiring an exact size match.\n* The `transpose()` method applies",
+      "tags": [
+        "image processing",
+        "python imaging",
+        "file format",
+        "data modes",
+        "display method",
+        "image library"
+      ],
+      "added_at": "2026-06-19T02:11:03.086870+00:00"
     }
   ],
-  "last_updated": "2026-06-17T22:38:14.204076+00:00"
+  "last_updated": "2026-06-19T02:11:03.086887+00:00"
 }
