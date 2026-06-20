@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7106,
+  "cycle_count": 7111,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-20T14:18:45.157076+00:00",
+  "last_checkpoint": "2026-06-20T14:30:25.039172+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -806,7 +806,8 @@
       "https://www.canva.com/resources/ai-content-marketing/",
       "https://archonum.com/guides/how-to-scrape-google-search-results-python",
       "https://www.pinterest.com/pin/451134087699156090/",
-      "https://www.canva.com/resources/ai-content-marketing/?msockid=371d2010374260aa2bb1376e36976191"
+      "https://www.canva.com/resources/ai-content-marketing/?msockid=371d2010374260aa2bb1376e36976191",
+      "https://developers.google.com/google-ads/api/docs/get-started/introduction"
     ],
     "android_core": [
       "https://www.android.com/",
