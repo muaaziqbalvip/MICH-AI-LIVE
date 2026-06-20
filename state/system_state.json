@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7066,
+  "cycle_count": 7071,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-20T13:10:54.141043+00:00",
+  "last_checkpoint": "2026-06-20T13:20:59.893200+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1058,7 +1058,8 @@
       "https://godotengine.org/article/godotcon-2025-xr-android-recap/",
       "https://godotengine.org/article/android_godot_editor_play_store_beta_release/",
       "https://godotengine.org/article/announcing-android-xr-support/",
-      "https://www.androidcentral.com/apps-software/android-os/android-17-is-finally-here"
+      "https://www.androidcentral.com/apps-software/android-os/android-17-is-finally-here",
+      "https://hackmag.com/mobile/android-optimization-guide"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
