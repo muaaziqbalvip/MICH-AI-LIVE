@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7151,
+  "cycle_count": 7156,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-20T15:52:29.723484+00:00",
+  "last_checkpoint": "2026-06-20T16:03:24.115345+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1799,7 +1799,8 @@
       "https://gitpython.readthedocs.io/en/stable/",
       "https://www.webmd.com/vitamins-supplements/selenium",
       "https://timesofcloud.com/github-actions/advanced-patterns/",
-      "/videos/riverview/relatedvideo?q=GitHub+Actions+advanced+workflow+patterns&ru=/search?q=GitHub+Actions+advanced+workflow+patterns&mmscn=vwrc&mid=19A0BB9CFB834D7B512319A0BB9CFB834D7B5123&FORM=WRVORC&ntb=1&msockid=e844990d6cbe11f1a2924545a8954f3d"
+      "/videos/riverview/relatedvideo?q=GitHub+Actions+advanced+workflow+patterns&ru=/search?q=GitHub+Actions+advanced+workflow+patterns&mmscn=vwrc&mid=19A0BB9CFB834D7B512319A0BB9CFB834D7B5123&FORM=WRVORC&ntb=1&msockid=e844990d6cbe11f1a2924545a8954f3d",
+      "https://www.localhost.cn/dev/cron"
     ]
   },
   "software_factory_jobs": [],
