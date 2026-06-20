@@ -1122,7 +1122,21 @@
         "rollout plans"
       ],
       "added_at": "2026-06-19T15:18:19.267586+00:00"
+    },
+    {
+      "id": "43e4c82b",
+      "source_url": "https://developer.android.com/training/data-storage/room/defining-data",
+      "title": "Define data using Room entities - Android Developers",
+      "summary": "* Room entities can be defined using classes annotated with `@Entity`.\n* `@AutoValue` annotation can be used to generate entity classes.\n* `@CopyAnnotations` annotation is required when using `@AutoValue` with Room.\n* `@PrimaryKey` annotation defines the primary key of an entity.\n* `@ColumnInfo` and `@Embedded` annotations can be used to customize entity columns.\n* `@Relation` annotation defines relationships between entities.\n* Entity classes must be abstract and include a factory method to create objects.\n* Room uses the factory method to create entity objects, e.g., `User.create()`.\n* Entity methods can be annotated with `@PrimaryKey`, `@ColumnInfo`, `@Embedded`, and `@Relation`.\n* `@CopyAnnotations` ensures Room interprets auto-generated implementations correctly.",
+      "tags": [
+        "room persistence",
+        "entity framework",
+        "java annotations",
+        "android room",
+        "autovalue"
+      ],
+      "added_at": "2026-06-20T15:27:32.987074+00:00"
     }
   ],
-  "last_updated": "2026-06-19T15:18:19.267604+00:00"
+  "last_updated": "2026-06-20T15:27:32.987092+00:00"
 }
