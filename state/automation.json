@@ -1332,7 +1332,20 @@
         "azure"
       ],
       "added_at": "2026-06-19T15:33:32.438637+00:00"
+    },
+    {
+      "id": "c65b9e75",
+      "source_url": "https://www.webmd.com/vitamins-supplements/selenium",
+      "title": "Selenium: Overview, Uses, Side Effects, Precautions ... - WebMD",
+      "summary": "* Selenium is a mineral, not listed among the provided supplements\n* Related supplements may interact with selenium, such as Vitamin C, Vitamin E\n* No direct technical information about selenium is provided in the given text\n* The text appears to be a list of various vitamins and supplements\n* Selenium information is likely in the main article, not the provided snippet\n* The main article may discuss selenium's uses, side effects, and precautions\n* Selenium is an essential mineral for human health\n* Interactions with other supplements may be discussed in the main article\n* Dosage and toxicity information is not provided in the snippet\n* Further reading of the main article is required for technical details on selenium",
+      "tags": [
+        "vitamin c",
+        "vitamin e",
+        "human health",
+        "mineral supplements"
+      ],
+      "added_at": "2026-06-20T15:10:54.981554+00:00"
     }
   ],
-  "last_updated": "2026-06-19T15:33:32.438655+00:00"
+  "last_updated": "2026-06-20T15:10:54.981569+00:00"
 }
