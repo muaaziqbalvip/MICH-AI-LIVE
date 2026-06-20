@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7141,
+  "cycle_count": 7146,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-20T15:38:17.267176+00:00",
+  "last_checkpoint": "2026-06-20T15:45:53.946881+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1797,7 +1797,9 @@
       "https://python.plainenglish.io/how-to-schedule-python-scripts-with-cron-jobs-a-step-by-step-guide-7e79ef7212d3",
       "https://www.codecademy.com/article/python-subprocess-tutorial-master-run-and-popen-commands-with-examples",
       "https://gitpython.readthedocs.io/en/stable/",
-      "https://www.webmd.com/vitamins-supplements/selenium"
+      "https://www.webmd.com/vitamins-supplements/selenium",
+      "https://timesofcloud.com/github-actions/advanced-patterns/",
+      "/videos/riverview/relatedvideo?q=GitHub+Actions+advanced+workflow+patterns&ru=/search?q=GitHub+Actions+advanced+workflow+patterns&mmscn=vwrc&mid=19A0BB9CFB834D7B512319A0BB9CFB834D7B5123&FORM=WRVORC&ntb=1&msockid=e844990d6cbe11f1a2924545a8954f3d"
     ]
   },
   "software_factory_jobs": [],
