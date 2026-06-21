@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7436,
+  "cycle_count": 7441,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-21T14:44:47.285467+00:00",
+  "last_checkpoint": "2026-06-21T15:01:20.374659+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -367,7 +367,8 @@
       "https://www.gizmodo.com.br/baixar/ffmpeg",
       "https://www.pa.gov/agencies/education/programs-and-services/educators/continuing-education-and-professional-development/pa-inspired-leadership-pil-program/pil-itq-application-and-instructions",
       "https://automation.learnmodernpython.com/automate-text-to-speech-conversion-with-python/",
-      "https://dlab.berkeley.edu/news/processing-videos-python-opencv"
+      "https://dlab.berkeley.edu/news/processing-videos-python-opencv",
+      "https://www.codecademy.com/learn/learn-python"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -1823,7 +1824,8 @@
       "https://www.datalounge.com/thread/31154755-delta-burke-wears-suzanne-sugarbaker-shirt-with-artwork-by-glen-hanson",
       "https://www.datalounge.com/thread/35891440-i-applied-for-a-flight-attendant-job-for-grins-and-giggles.-now-i-ve-made-it-to-the-final-stage.-oh-shit.",
       "https://www.datalounge.com/thread/36368532-fat-whores-despair!-twelve-tons-of-kitkat-bars-stolen-in-chocolaty-heist-in-europe",
-      "https://www.datalounge.com/thread/36372480-why-i-ll-always-allow-ryan-gosling-to-visit-me-on-the-set-of-days-of-our-lives"
+      "https://www.datalounge.com/thread/36372480-why-i-ll-always-allow-ryan-gosling-to-visit-me-on-the-set-of-days-of-our-lives",
+      "https://www.datacamp.com/blog/what-is-aws"
     ]
   },
   "software_factory_jobs": [],
