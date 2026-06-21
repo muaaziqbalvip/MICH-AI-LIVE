@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7471,
+  "cycle_count": 7476,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-21T15:58:20.630364+00:00",
+  "last_checkpoint": "2026-06-21T16:35:20.694662+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -368,7 +368,12 @@
       "https://www.pa.gov/agencies/education/programs-and-services/educators/continuing-education-and-professional-development/pa-inspired-leadership-pil-program/pil-itq-application-and-instructions",
       "https://automation.learnmodernpython.com/automate-text-to-speech-conversion-with-python/",
       "https://dlab.berkeley.edu/news/processing-videos-python-opencv",
-      "https://www.codecademy.com/learn/learn-python"
+      "https://www.codecademy.com/learn/learn-python",
+      "https://www.msn.com/en-us/politics/government/doj-launches-probe-into-mlb-after-giants-pride-night-hat-debacle/ar-AA268zA5",
+      "https://thehill.com/homenews/5932463-mlb-pride-night-controversy/",
+      "https://www.usatoday.com/story/sports/mlb/giants/2026/06/19/giants-pride-night-controversy-doj-investigation/90619169007/",
+      "https://www.nytimes.com/athletic/7377101/2026/06/19/giants-pride-night-protest-doj-investigation-mlb/",
+      "https://nypost.com/2026/06/19/sports/san-francisco-giants-pride-night-drama-sparks-doj-probe-as-feds-rip-mlb-hypocrisy/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -822,7 +827,8 @@
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=145d02d5cb2368c80d7a15aaca5f6972",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=3b0f9c21e4a065d52be68b5ee51464df",
       "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=10ac0acd18d161c807f11db219b460de",
-      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=3ac68618223e69673779916723e7686c"
+      "https://www.coursera.org/articles/how-to-become-an-influencer?msockid=3ac68618223e69673779916723e7686c",
+      "https://www.merriam-webster.com/thesaurus/content"
     ],
     "android_core": [
       "https://www.android.com/",
@@ -1523,7 +1529,8 @@
       "https://apps.apple.com/us/app/next-shop-fashion-homeware/id348364305",
       "https://www.patterns.dev/",
       "https://viadreams.cc/en/blog/tailwind-component-patterns/",
-      "https://www.next.co.uk/?msockid=1d32c2a6874c6a7500e8d5d9863d6b1c"
+      "https://www.next.co.uk/?msockid=1d32c2a6874c6a7500e8d5d9863d6b1c",
+      "https://developer.mozilla.org/en-US/docs/Web/API/WebSocket"
     ],
     "automation": [
       "https://www.selenium.dev/",
