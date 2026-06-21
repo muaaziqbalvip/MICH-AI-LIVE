@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7386,
+  "cycle_count": 7391,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-21T12:31:03.248030+00:00",
+  "last_checkpoint": "2026-06-21T12:46:29.448149+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -366,7 +366,8 @@
       "https://github.com/andy-zhangtao/ffmpeg-examples/blob/master/docs/filter-complex.md",
       "https://www.gizmodo.com.br/baixar/ffmpeg",
       "https://www.pa.gov/agencies/education/programs-and-services/educators/continuing-education-and-professional-development/pa-inspired-leadership-pil-program/pil-itq-application-and-instructions",
-      "https://automation.learnmodernpython.com/automate-text-to-speech-conversion-with-python/"
+      "https://automation.learnmodernpython.com/automate-text-to-speech-conversion-with-python/",
+      "https://dlab.berkeley.edu/news/processing-videos-python-opencv"
     ],
     "marketing": [
       "https://mail.google.com/mail",

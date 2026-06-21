@@ -1289,7 +1289,17 @@
         "apis"
       ],
       "added_at": "2026-06-19T14:25:16.033171+00:00"
+    },
+    {
+      "id": "1792f6db",
+      "source_url": "https://dlab.berkeley.edu/news/processing-videos-python-opencv",
+      "title": "Processing Videos in Python with OpenCV | D-Lab",
+      "summary": "* OpenCV is a suitable library for computer vision projects in Python.\n* Object recognition can be applied to individual frames in a video.\n* The same method can be used for object tracking in videos from fixed cameras.\n* OpenCV can be used to mark the location of recognized objects in frames.\n* Video processing involves applying computer vision techniques to individual frames.\n* Python is a viable language for video processing tasks with OpenCV.\n* Object recognition and tracking can be achieved by iterating through video frames.\n* Fixed camera videos can be used for object recognition and tracking tasks.\n* OpenCV provides a wide range of functionalities for computer vision tasks.\n* Video processing with OpenCV can be used in various fields, including biology.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-21T12:40:53.762054+00:00"
     }
   ],
-  "last_updated": "2026-06-19T14:25:16.033190+00:00"
+  "last_updated": "2026-06-21T12:40:53.762066+00:00"
 }
