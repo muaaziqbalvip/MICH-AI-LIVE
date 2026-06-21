@@ -1462,7 +1462,17 @@
         "download"
       ],
       "added_at": "2026-06-19T14:14:30.606095+00:00"
+    },
+    {
+      "id": "5a2b1dd0",
+      "source_url": "https://www.patterns.dev/",
+      "title": "Patterns.dev",
+      "summary": "* Singleton Pattern: shares a single global instance throughout the application\n* Proxy Pattern: intercepts and controls interactions to target objects\n* JavaScript patterns include Prototype, Observer, Module, Mixin, Mediator, Flyweight, and Factory\n* Code splitting techniques include Static Import, Dynamic Import, and Import On Visibility\n* Optimizing loading sequence involves PRPL Pattern, Tree Shaking, Preload, and Prefetch\n* List Virtualization optimizes list performance\n* Compressing JavaScript reduces script transfer time over the network\n* React patterns include Container/Presentational, HOC, Render Props, and Hooks\n* Bundle splitting and route-based splitting improve application performance\n* View Transitions API and libraries animate page transitions\n* Hooks Pattern: Compose stateful and side-effect logic into reusable functions\n* Compound Pattern: Create multiple components for a single task\n* Client-side Rendering: Render UI on the client\n* Server-side Rendering: Generate HTML on the server\n* Static Rendering: Deliver pre-rendered HTML content\n* Incremental Static Generation: Update static content after build\n* Progressive Hydration: Delay loading JavaScript for non-essential parts\n* React Server Components: Render to an intermediate abstraction without adding to JavaScript bundle\n* Composables: Encapsulate and reuse stateful logic among components\n* Renderless components: Components that don't render their own markup",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-21T13:12:45.168140+00:00"
     }
   ],
-  "last_updated": "2026-06-19T14:14:30.606113+00:00"
+  "last_updated": "2026-06-21T13:12:45.168157+00:00"
 }
