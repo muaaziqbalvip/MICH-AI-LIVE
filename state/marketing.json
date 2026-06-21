@@ -1937,7 +1937,35 @@
         "marketing"
       ],
       "added_at": "2026-06-20T06:33:39.717359+00:00"
+    },
+    {
+      "id": "95844872",
+      "source_url": "https://support.google.com/paymentscenter/answer/9074244?hl=es-419",
+      "title": "Cómo denunciar cargos no autorizados",
+      "summary": "* Denuncia cargos no autorizados a Google si el cargo es de su plataforma.\n* Comunícate con tu banco si el cargo no proviene de Google.\n* Revisa el estado de la denuncia después de informar sobre el cargo.\n* Cambia tu contraseña si sospechas que alguien la conoce.\n* Restablece tu contraseña si la has olvidado o la han comprometido.\n* Protege tu dispositivo y cuenta al cambiar la contraseña regularmente.\n* Verifica el origen del cargo para determinar a quién informar.\n* La denuncia de cargos no autorizados se puede realizar a través del Centro de asistencia de Google.\n* Es importante revisar regularmente los cargos y transacciones para detectar actividad sospechosa.\n* La seguridad de la cuenta depende de la protección de la contraseña y el dispositivo.",
+      "tags": [
+        "google",
+        "contraseña",
+        "dispositivo",
+        "seguridad",
+        "centro de asistencia"
+      ],
+      "added_at": "2026-06-21T01:50:36.502095+00:00"
+    },
+    {
+      "id": "879f8c19",
+      "source_url": "https://support.google.com/voice/answer/1065667?hl=en",
+      "title": "Port your Google Voice number",
+      "summary": "* To port a Google Voice number, it must be unlocked first, which costs $3 USD unless it was originally ported from another carrier.\n* Unlocking is done through the Google Voice settings on a computer.\n* The carrier must be notified to port the number to their service.\n* A 10-digit Google Voice phone number and voicemail PIN are required for the porting process.\n* Some third-party services may not accept phone numbers that originated from Google Voice.\n* Do not delete the Google Voice number during the porting process.\n* If porting fails, troubleshooting steps include checking the number is unlocked, canceling and re-initiating the request, and verifying account information.\n* Common errors include \"Can't relock your number\", \"Couldn't transfer your number\", and \"Carrier info doesn't match\".\n* Accurate account information is required for a successful port, including correct billing address and PIN.\n* A \"Number unlocked\" or \"Number locked\" message is displayed after a successful unlock or lock operation.",
+      "tags": [
+        "google voice",
+        "phone number",
+        "voicemail",
+        "porting",
+        "carrier settings"
+      ],
+      "added_at": "2026-06-21T01:58:46.357618+00:00"
     }
   ],
-  "last_updated": "2026-06-20T06:33:39.717378+00:00"
+  "last_updated": "2026-06-21T01:58:46.357645+00:00"
 }
