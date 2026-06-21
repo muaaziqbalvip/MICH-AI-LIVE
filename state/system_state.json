@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7406,
+  "cycle_count": 7411,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-21T13:27:25.933535+00:00",
+  "last_checkpoint": "2026-06-21T13:39:08.762028+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1519,7 +1519,8 @@
       "https://docs.docker.com/",
       "https://www.next.co.uk/?msockid=3bca3442573061fd1cf4233d56f860d8",
       "https://apps.apple.com/us/app/next-shop-fashion-homeware/id348364305",
-      "https://www.patterns.dev/"
+      "https://www.patterns.dev/",
+      "https://viadreams.cc/en/blog/tailwind-component-patterns/"
     ],
     "automation": [
       "https://www.selenium.dev/",
