@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7286,
+  "cycle_count": 7291,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-21T02:28:06.976404+00:00",
+  "last_checkpoint": "2026-06-21T02:44:49.361635+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -363,7 +363,8 @@
       "https://github.com/Alfinjohnson/Auto-YouTube",
       "https://github.com/topics/video-automation",
       "https://github.com/Usama93450/FFMPG_AUTOMATION",
-      "https://github.com/andy-zhangtao/ffmpeg-examples/blob/master/docs/filter-complex.md"
+      "https://github.com/andy-zhangtao/ffmpeg-examples/blob/master/docs/filter-complex.md",
+      "https://www.gizmodo.com.br/baixar/ffmpeg"
     ],
     "marketing": [
       "https://mail.google.com/mail",
