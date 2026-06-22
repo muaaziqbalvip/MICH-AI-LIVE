@@ -1442,7 +1442,17 @@
         "biometrics"
       ],
       "added_at": "2026-06-22T12:56:06.891593+00:00"
+    },
+    {
+      "id": "3354a8c4",
+      "source_url": "https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax",
+      "title": "Workflow syntax for GitHub Actions",
+      "summary": "* `on` keyword is used to specify the event that triggers the workflow.\n* `branches` and `tags` filters accept glob patterns to match branch or tag names.\n* `branches-ignore` and `tags-ignore` filters exclude specific branch or tag names.\n* Glob patterns use characters like `*`, `**`, `+`, `?`, `!` to match multiple names.\n* Special characters in branch or tag names must be escaped with `\\` for literal match.\n* `branches` and `tags` patterns are evaluated against the Git ref's name.\n* Using both `branches` and `branches-ignore` or both `tags` and `tags-ignore` is not allowed for the same event.\n* If only `tags`/`tags-ignore` or only `branches`/`branches-ignore` is defined, the workflow won't run for events affecting the undefined Git ref.\n* `paths` and `paths-ignore` filters can be used in combination with `branches` and `tags` filters.\n* Wildcard characters can be used to match multiple path names in workflow syntax.\n* `paths` filter runs the workflow if at least one path matches a pattern.\n* `paths-ignore` filter skips the workflow if all path names match patterns.\n* `paths` and `paths-ignore` cannot be used together for the same event in a single workflow.\n* `!` character can be used to exclude paths in the `paths` filter.\n* Order of `paths` patterns matters, with negative patterns excluding paths after a positive match.\n* Git diff comparisons determine if a workflow should run by evaluating changed files.\n* Two-dot diffs are used for pushes, while three-dot diffs are used",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-22T13:48:10.695106+00:00"
     }
   ],
-  "last_updated": "2026-06-22T12:56:06.891614+00:00"
+  "last_updated": "2026-06-22T13:48:10.695125+00:00"
 }
