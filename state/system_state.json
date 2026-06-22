@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7831,
+  "cycle_count": 7836,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-22T23:24:20.314211+00:00",
+  "last_checkpoint": "2026-06-22T23:39:12.619103+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1560,7 +1560,12 @@
       "https://support.microsoft.com/en-gb/contactus",
       "https://support.microsoft.com/en-us/account",
       "https://techcommunity.microsoft.com/",
-      "https://amc.goprisma.com/"
+      "https://amc.goprisma.com/",
+      "https://www.camping-bellaitalia.it/nl/",
+      "https://www.camping-bellaitalia.it/de/",
+      "https://www.camping-bellaitalia.it/en/",
+      "https://www.camping-bellaitalia.it/",
+      "https://www.camping-bellaitalia.it/de/campingplatz.php"
     ],
     "automation": [
       "https://www.selenium.dev/",
