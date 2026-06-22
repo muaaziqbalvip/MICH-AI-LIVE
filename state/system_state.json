@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7711,
+  "cycle_count": 7716,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-22T12:26:00.043372+00:00",
+  "last_checkpoint": "2026-06-22T13:01:42.001889+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1854,7 +1854,12 @@
       "https://crontap.com/guides/python-cron-jobs",
       "https://cronitor.io/guides/python-cron-jobs",
       "https://www.cnblogs.com/Sunzz/p/18498915",
-      "https://developer.hashicorp.org.cn/terraform"
+      "https://developer.hashicorp.org.cn/terraform",
+      "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=215",
+      "https://www.shouselaw.com/ca/defense/penal-code/215/",
+      "https://codes.findlaw.com/ca/penal-code/pen-sect-215/",
+      "https://www.justia.com/criminal/docs/calcrim/1600/1650/",
+      "https://california.public.law/codes/penal_code_section_215"
     ]
   },
   "software_factory_jobs": [],

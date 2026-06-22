@@ -1414,7 +1414,35 @@
         "automation"
       ],
       "added_at": "2026-06-22T11:31:23.435304+00:00"
+    },
+    {
+      "id": "65d2698b",
+      "source_url": "https://www.shouselaw.com/ca/defense/penal-code/215/",
+      "title": "§ 215 PC – Carjacking – California Law & Penalties",
+      "summary": "* Carjacking is a crime against possession, not ownership, in California.\n* Using force or fear to regain a car from someone else is not allowed, even if you are the true owner.\n* Carjacking is a felony in California, carrying a base penalty of 3, 5, or 9 years in state prison and up to $10,000 in fines.\n* Penalties apply to each victim present in the car at the time of the carjacking.\n* Enhanced sentences can be applied for aggravating factors such as great bodily injury, gang-related activity, or use of a gun.\n* Carjacking with a gun can add 10-20 years to the base penalty.\n* Carjacking as a second or third strike can result in twice the base penalty or 25 years to life in prison, respectively.\n* California's felony-murder rule applies if a person dies as a result of a carjacking, making the perpetrator responsible for first-degree murder.\n* Carjacking is considered an \"aggravated felony\" for immigration purposes.\n* A \"claim of right\" defense is not applicable to carjacking charges in California.",
+      "tags": [
+        "none",
+        "state prison",
+        "gun control",
+        "felony murder",
+        "gang activity"
+      ],
+      "added_at": "2026-06-22T12:53:14.112944+00:00"
+    },
+    {
+      "id": "7cd3406b",
+      "source_url": "https://codes.findlaw.com/ca/penal-code/pen-sect-215/",
+      "title": "California Code, Penal Code - PEN § 215 - 215 | FindLaw",
+      "summary": "* Carjacking is defined as the felonious taking of a motor vehicle from another person against their will.\n* Carjacking must be accomplished by means of force or fear.\n* The intent of carjacking can be to permanently or temporarily deprive the person of their possession.\n* Carjacking is punishable by imprisonment in state prison for 3, 5, or 9 years.\n* Section 215 does not supersede or affect Section 211 of the Penal Code.\n* A person can be charged with both carjacking and robbery (Section 211) for the same act.\n* No defendant can be punished under both Section 215 and Section 211 for the same act.\n* Carjacking requires the motor vehicle to be in the possession of another person or a passenger.\n* The taking of the motor vehicle must be from the person or their immediate presence.\n* Carjacking is a felony offense in California.",
+      "tags": [
+        "none",
+        "surveillance",
+        "gps",
+        "forensics",
+        "biometrics"
+      ],
+      "added_at": "2026-06-22T12:56:06.891593+00:00"
     }
   ],
-  "last_updated": "2026-06-22T11:31:23.435334+00:00"
+  "last_updated": "2026-06-22T12:56:06.891614+00:00"
 }
