@@ -1136,7 +1136,21 @@
         "autovalue"
       ],
       "added_at": "2026-06-20T15:27:32.987074+00:00"
+    },
+    {
+      "id": "17578ff6",
+      "source_url": "https://medium.com/@fatiharslan2634/mastering-android-multi-module-architecture-with-convention-plugins-bfee89f3ec38",
+      "title": "Mastering Android Multi-Module Architecture with Convention …",
+      "summary": "* Android multi-module architecture uses Convention Plugins for consistency.\n* `register` function is used to define plugin configurations.\n* Plugin types include `androidLibraryCompose`, `androidLibrary`, `androidFeature`.\n* Each plugin has a unique `id` and `implementationClass`.\n* `implementationClass` specifies the plugin's implementation, e.g. `AndroidLibraryComposeConventionPlugin`.\n* Plugin registration is done using a Groovy-based DSL.\n* Convention Plugins simplify module configuration and reduce boilerplate code.\n* Plugins can be used to enforce architecture and coding standards.\n* `id` property uniquely identifies each plugin configuration.",
+      "tags": [
+        "android",
+        "convention plugins",
+        "groovy",
+        "dsl",
+        "architecture"
+      ],
+      "added_at": "2026-06-22T15:32:02.983154+00:00"
     }
   ],
-  "last_updated": "2026-06-20T15:27:32.987092+00:00"
+  "last_updated": "2026-06-22T15:32:02.983174+00:00"
 }
