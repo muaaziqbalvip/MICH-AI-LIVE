@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7751,
+  "cycle_count": 7756,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-22T14:44:16.799764+00:00",
+  "last_checkpoint": "2026-06-22T15:00:58.650952+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1550,7 +1550,12 @@
       "https://www.zhihu.com/question/417834961",
       "https://www.zhihu.com/question/308179915",
       "https://www.zhihu.com/question/459575950",
-      "https://www.zhihu.com/question/357115757"
+      "https://www.zhihu.com/question/357115757",
+      "https://support.microsoft.com/en-us",
+      "https://support.microsoft.com/en-us/office/microsoft-365-customer-service-and-support-96162163-b3aa-498b-bbbb-5e757b0f31da",
+      "https://support.microsoft.com/en-gb/contactus",
+      "https://support.microsoft.com/en-us/account",
+      "https://techcommunity.microsoft.com/"
     ],
     "automation": [
       "https://www.selenium.dev/",
