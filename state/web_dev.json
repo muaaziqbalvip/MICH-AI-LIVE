@@ -1472,7 +1472,31 @@
         "web_dev"
       ],
       "added_at": "2026-06-21T13:12:45.168140+00:00"
+    },
+    {
+      "id": "25f794c4",
+      "source_url": "https://meteoraweb.com/en/typescript-from-zero-to-advanced-typing-generics-and-patterns-for-code-that-wont-break",
+      "title": "TypeScript from Zero to Advanced — Typing, Generics, and Patterns for ...",
+      "summary": "* Utility Types in TypeScript include Partial, Pick, and Omit to save time and avoid duplicated code.\n* Functions and components reduce duplicated code in TypeScript.\n* TypeScript compilation errors prevent bugs from reaching production.\n* TypeScript increases code quality and reduces maintenance costs.\n* TypeScript is used with various stacks, including Laravel/Vue and custom React platforms.\n* Utility Types help avoid reinventing the wheel in coding.\n* TypeScript is a tool, not just a decoration, for coding.\n* Using TypeScript results in fewer bugs, more productive teams, and happier clients.\n* Official documentation and cheatsheets are available for deeper learning of TypeScript.\n* TypeScript supports advanced typing, generics, and patterns for robust code.",
+      "tags": [
+        "typescript",
+        "react",
+        "laravel",
+        "vue",
+        "javascript"
+      ],
+      "added_at": "2026-06-22T03:51:07.436755+00:00"
+    },
+    {
+      "id": "abf3b5c3",
+      "source_url": "https://jsinterview.dev/concepts/ts/ts-advanced-generics",
+      "title": "TypeScript Advanced Generics Explained — How Advanced Generic…",
+      "summary": "* TypeScript advanced generics allow for complex type manipulation and inference.\n* The builder pattern can accumulate type information through method chaining.\n* Generic constraints use `extends` keyword (e.g., `C extends string`).\n* Conditional types use `extends` and `infer` keywords for type-level ternary operations.\n* Mapped types transform object types property by property.\n* Variadic tuple types demonstrate advanced knowledge of function typing.\n* TypeScript has a recursion depth limit (~50 levels) for type evaluation.\n* DeepReadonly and DeepPartial types can be built from scratch using advanced generics.\n* The `as unknown as` syntax is used for type assertion in complex generic scenarios.\n* Advanced generics can be used to create reusable, type-safe code with type parameters.",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-22T03:54:12.808109+00:00"
     }
   ],
-  "last_updated": "2026-06-21T13:12:45.168157+00:00"
+  "last_updated": "2026-06-22T03:54:12.808122+00:00"
 }
