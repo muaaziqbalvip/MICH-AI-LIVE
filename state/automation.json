@@ -1389,7 +1389,22 @@
         "permissions"
       ],
       "added_at": "2026-06-21T14:21:30.563701+00:00"
+    },
+    {
+      "id": "e8cc5a36",
+      "source_url": "https://crontap.com/guides/python-cron-jobs",
+      "title": "Python cron jobs: every way to schedule Python in 2026 (with code)",
+      "summary": "* Cron jobs are used for scheduling tasks at specific intervals.\n* Python can be integrated with cron jobs for automated task execution.\n* Cron syntax is used to define the schedule pattern for jobs.\n* Common cron patterns include every 5 minutes, weekdays, and business hours.\n* Cron jobs can be used to send per-task failure alerts.\n* A cron syntax cheat sheet can help with understanding and implementing cron patterns.\n* Real-world examples and debuggers can aid in cron job development.\n* OpenAI's rate limits can be managed using scheduled HTTP-route patterns.\n* LLM batches can be drained at a sustainable rate using cron jobs.\n* Cron jobs can be used to automate tasks on a monthly basis (e.g., first of the month).",
+      "tags": [
+        "cron jobs",
+        "python",
+        "scheduling",
+        "automation",
+        "http",
+        "debuggers"
+      ],
+      "added_at": "2026-06-22T02:01:02.688860+00:00"
     }
   ],
-  "last_updated": "2026-06-21T14:21:30.563725+00:00"
+  "last_updated": "2026-06-22T02:01:02.688870+00:00"
 }

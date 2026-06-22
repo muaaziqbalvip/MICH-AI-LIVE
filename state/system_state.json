@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7571,
+  "cycle_count": 7576,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-22T01:46:51.618970+00:00",
+  "last_checkpoint": "2026-06-22T02:09:41.994344+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1842,7 +1842,9 @@
       "https://www.datalounge.com/thread/36368532-fat-whores-despair!-twelve-tons-of-kitkat-bars-stolen-in-chocolaty-heist-in-europe",
       "https://www.datalounge.com/thread/36372480-why-i-ll-always-allow-ryan-gosling-to-visit-me-on-the-set-of-days-of-our-lives",
       "https://www.datacamp.com/blog/what-is-aws",
-      "https://www.codecademy.com/learn/learn-python"
+      "https://www.codecademy.com/learn/learn-python",
+      "https://crontap.com/guides/python-cron-jobs",
+      "https://cronitor.io/guides/python-cron-jobs"
     ]
   },
   "software_factory_jobs": [],
