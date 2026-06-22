@@ -1404,7 +1404,17 @@
         "debuggers"
       ],
       "added_at": "2026-06-22T02:01:02.688860+00:00"
+    },
+    {
+      "id": "d5daf9cd",
+      "source_url": "https://www.cnblogs.com/Sunzz/p/18498915",
+      "title": "史上最全 Terraform 入门教程，助你无坑入门！ - Sunzz - 博客园",
+      "summary": "* Terraform uses the `terraform plan` command to generate an execution plan.\n* The `availability_zone` attribute specifies the availability zone for a subnet.\n* The `aws_subnet` resource is used to create a subnet in AWS.\n* The `cidr_block` attribute specifies the IP address range for a subnet.\n* The `vpc_id` attribute associates a subnet with a VPC.\n* The `aws_internet_gateway` resource is used to create an internet gateway.\n* The `vpc_id` attribute associates an internet gateway with a VPC.\n* The `tags` attribute is used to add labels to AWS resources.\n* Terraform uses the `terraform apply` command to execute the planned actions.\n* The `terraform plan -out=tf.plan` command saves the plan to a file named `tf.plan`.",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-22T11:31:23.435304+00:00"
     }
   ],
-  "last_updated": "2026-06-22T02:01:02.688870+00:00"
+  "last_updated": "2026-06-22T11:31:23.435334+00:00"
 }
