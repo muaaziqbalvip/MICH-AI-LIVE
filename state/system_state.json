@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7526,
+  "cycle_count": 7531,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-22T00:09:51.517447+00:00",
+  "last_checkpoint": "2026-06-22T00:25:38.082288+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1085,7 +1085,8 @@
       "https://hackmag.com/mobile/android-optimization-guide",
       "https://developer.android.com/training/data-storage/room/defining-data",
       "https://www.android.com/articles/android-16-features/",
-      "https://devdeejay.medium.com/android-jetpack-compose-tutorial-6bda8f5509a0"
+      "https://devdeejay.medium.com/android-jetpack-compose-tutorial-6bda8f5509a0",
+      "https://ru.wikipedia.org/wiki/Android"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
