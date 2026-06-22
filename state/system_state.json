@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7546,
+  "cycle_count": 7551,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-22T00:48:06.500894+00:00",
+  "last_checkpoint": "2026-06-22T01:00:23.140552+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1534,7 +1534,9 @@
       "https://www.patterns.dev/",
       "https://viadreams.cc/en/blog/tailwind-component-patterns/",
       "https://www.next.co.uk/?msockid=1d32c2a6874c6a7500e8d5d9863d6b1c",
-      "https://developer.mozilla.org/en-US/docs/Web/API/WebSocket"
+      "https://developer.mozilla.org/en-US/docs/Web/API/WebSocket",
+      "https://www.prismahealthurgentcare.org/locations/west-columbia-sc?location=3016",
+      "https://prismahealth.org/patients-and-guests/for-patients/mychart"
     ],
     "automation": [
       "https://www.selenium.dev/",
