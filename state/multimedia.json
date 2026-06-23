@@ -1324,7 +1324,62 @@
         "multimedia"
       ],
       "added_at": "2026-06-21T16:17:38.189718+00:00"
+    },
+    {
+      "id": "ae122fea",
+      "source_url": "https://code.visualstudio.com/docs/python/python-tutorial",
+      "title": "Getting Started with Python in VS Code",
+      "summary": "* Use Django, Flask, or FastAPI frameworks in VS Code for Python development\n* Create a Python profile template with curated extensions, settings, and snippets\n* Utilize autocomplete, IntelliSense, formatting, and refactoring for Python code editing\n* Enable and configure Python linters for code analysis\n* Debug Python code locally and remotely in VS Code\n* Configure test environments and run/debug tests in VS Code\n* Explore Python-related settings in VS Code for customization\n* Deploy Python applications to Azure App Service or Container Apps\n* Utilize VS Code settings reference for Python configuration\n* Leverage code snippets for efficient Python development in VS Code",
+      "tags": [
+        "django",
+        "flask",
+        "fastapi",
+        "vs code",
+        "python",
+        "intellisense"
+      ],
+      "added_at": "2026-06-23T13:33:53.689343+00:00"
+    },
+    {
+      "id": "20619388",
+      "source_url": "https://code.visualstudio.com/docs/languages/python",
+      "title": "Python in Visual Studio Code",
+      "summary": "* The Microsoft Python extension makes VS Code an excellent Python editor.\n* The extension supports auto-complete, IntelliSense, linting, debugging, and unit testing.\n* It allows easy switching between Python environments, including virtual and conda environments.\n* To get started, install a Python interpreter and the Python extension from the VS Code Marketplace.\n* Use the \"Python: Select Interpreter\" command to select the Python interpreter.\n* The Python extension can be configured through settings, see the Python Settings reference.\n* The Windows Subsystem for Linux (WSL) can be used for Python development on Windows.\n* To run Python code, use the \"Run Python File\" play button or the \"Python: Run Selection/Line in Python Terminal\" command (Shift+Enter).\n* The Python extension provides a terminal/REPL for running selections or lines of code.\n* The \"Python: Run Selection/Line in Python Terminal\" command sends the smallest runnable block of code to the Python Terminal on (Shift+Enter).",
+      "tags": [
+        "python",
+        "vs code",
+        "intellisense",
+        "debugging",
+        "linting",
+        "unit testing"
+      ],
+      "added_at": "2026-06-23T13:39:02.247767+00:00"
+    },
+    {
+      "id": "17039166",
+      "source_url": "https://code.visualstudio.com/",
+      "title": "Visual Studio Code - The open source AI code editor | Your home for ...",
+      "summary": "* Optimized for screen readers\n* High contrast themes available\n* Keyboard-only navigation supported\n* Web-based access for cross-device compatibility\n* Accessible on phones, tablets, and desktops\n* Editor customizable \n* Cross-platform support \n* Accessibility features for visually impaired users \n* Compatible with various input devices \n* Cloud-based access for remote code editing",
+      "tags": [
+        "accessibility",
+        "keyboard",
+        "screen readers",
+        "cross-platform",
+        "cloud-based",
+        "web-based"
+      ],
+      "added_at": "2026-06-23T13:54:25.055409+00:00"
+    },
+    {
+      "id": "9ec5daad",
+      "source_url": "https://code.visualstudio.com/docs/python/editing",
+      "title": "Editing Python in Visual Studio Code",
+      "summary": "* Visual Studio Code has a Python extension that provides editing features like autocomplete and IntelliSense.\n* Pylance is the default language server for Python in VS Code, providing IntelliSense features.\n* Pylance is based on Microsoft's Pyright static type checking tool, using type stubs (.pyi files) and lazy type inferencing.\n* IntelliSense is available for all files in the current working folder and installed Python packages.\n* The IntelliCode extension provides AI-assisted IntelliSense capabilities for Python.\n* Auto imports can be enabled by setting `python.analysis.autoImportCompletions` to `true` in settings.\n* IntelliSense for custom package locations can be enabled by adding locations to `python.analysis.extraPaths` in settings.json.\n* Type stubs (.pyi files) are used by Pylance to provide IntelliSense features.\n* The Python extension can be customized via user and workspace settings.\n* The `python.analysis.extraPaths` collection in settings.json can be used to specify non-standard package locations.",
+      "tags": [
+        "multimedia"
+      ],
+      "added_at": "2026-06-23T14:03:35.456901+00:00"
     }
   ],
-  "last_updated": "2026-06-21T16:17:38.189733+00:00"
+  "last_updated": "2026-06-23T14:03:35.456945+00:00"
 }

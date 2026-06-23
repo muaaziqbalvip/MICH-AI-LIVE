@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 8036,
+  "cycle_count": 8041,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-23T13:19:40.752464+00:00",
+  "last_checkpoint": "2026-06-23T14:16:21.141589+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -376,7 +376,12 @@
       "https://nypost.com/2026/06/19/sports/san-francisco-giants-pride-night-drama-sparks-doj-probe-as-feds-rip-mlb-hypocrisy/",
       "https://blog.csdn.net/2602_94958286/article/details/159333768",
       "https://www.cnblogs.com/ganhuo1/p/20470452",
-      "https://markaicode.com/automate-youtube-shorts-ai-video-generators/"
+      "https://markaicode.com/automate-youtube-shorts-ai-video-generators/",
+      "https://code.visualstudio.com/docs/python/python-tutorial",
+      "https://code.visualstudio.com/docs/languages/python",
+      "https://code.visualstudio.com/docs/python/python-quick-start",
+      "https://code.visualstudio.com/",
+      "https://code.visualstudio.com/docs/python/editing"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -1919,7 +1924,8 @@
       "https://support.microsoft.com/en-us",
       "https://support.xbox.com/en-US/help/hardware-network/console/manuals-specs",
       "https://support.xbox.com/en-US/help/hardware-network/controller/controller-calibration-tool",
-      "https://support.microsoft.com/pt-br/accounts-billing/manage/link-your-github-account-and-microsoft-account"
+      "https://support.microsoft.com/pt-br/accounts-billing/manage/link-your-github-account-and-microsoft-account",
+      "https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html"
     ]
   },
   "software_factory_jobs": [],
