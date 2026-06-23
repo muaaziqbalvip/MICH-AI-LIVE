@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 8136,
+  "cycle_count": 8141,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-23T15:41:38.669265+00:00",
+  "last_checkpoint": "2026-06-23T15:44:21.710035+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1612,7 +1612,8 @@
       "https://www.next.co.uk/?msockid=01ee2e909310684e2c92391192ca696d",
       "https://www.next.co.uk/women?msockid=01ee2e909310684e2c92391192ca696d",
       "https://robinbuilds.dev/blog/tailwind-css-v4-advanced-patterns-troubleshooting-2026",
-      "https://universopython.com/en/blog/python-websockets-real-time-applications"
+      "https://universopython.com/en/blog/python-websockets-real-time-applications",
+      "https://www.next.co.uk/?msockid=14af3d59b96b64c41bc22ad8b84e6524"
     ],
     "automation": [
       "https://www.selenium.dev/",

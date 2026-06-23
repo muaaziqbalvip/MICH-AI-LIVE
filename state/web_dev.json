@@ -1595,7 +1595,22 @@
         "python"
       ],
       "added_at": "2026-06-23T15:39:30.980406+00:00"
+    },
+    {
+      "id": "43863ecc",
+      "source_url": "https://www.next.co.uk/?msockid=14af3d59b96b64c41bc22ad8b84e6524",
+      "title": "Next Official Site: Online Fashion, Kids Clothes & Homeware",
+      "summary": "• The website uses a carousel or infinite scrolling feature to display trending products.\n• The website has a \"Favourites\" system that allows users to save items for later purchase.\n• The website has a \"Recently Viewed\" section that displays items the user has previously viewed.\n• The website uses a modal window to display the \"Favourites\" and \"Recently Viewed\" sections.\n• The website has a \"Sign in\" and \"Register\" feature to allow users to save their Favourites List permanently.\n• The website uses a \"Confirm Country Change\" feature to prevent users from navigating away from the site.\n• The website has a \"Manage Favourites\" feature to allow users to add or remove items from their Favourites List.\n• The website uses a \"Max Limit Reached\" feature to prevent users from adding more items to their shopping bag.\n• The website has a \"Clear History\" feature to allow users to remove items from their Recently Viewed list.\n• The website uses a \"Oops, Something's gone wrong!\" error message to handle unexpected errors.",
+      "tags": [
+        "modal window",
+        "sign in",
+        "register",
+        "favourites",
+        "recently viewed",
+        "confirm country change"
+      ],
+      "added_at": "2026-06-23T15:42:13.847825+00:00"
     }
   ],
-  "last_updated": "2026-06-23T15:39:30.980424+00:00"
+  "last_updated": "2026-06-23T15:42:13.847840+00:00"
 }
