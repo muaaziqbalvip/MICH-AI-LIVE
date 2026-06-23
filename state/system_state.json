@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 8011,
+  "cycle_count": 8016,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-23T12:02:17.133661+00:00",
+  "last_checkpoint": "2026-06-23T12:28:15.159406+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -843,7 +843,8 @@
       "https://www.opalcollection.com/lake-placid-lodge/",
       "https://maps.campendium.com/us/glenhaven-ca/accommodation/lake-place-resort",
       "https://www.canva.com/resources/ai-content-marketing/?msockid=3b17c84a040368951ad8dfcb056c69f4",
-      "https://www.impactplus.com/learn/ai-tools-for-content-creation"
+      "https://www.impactplus.com/learn/ai-tools-for-content-creation",
+      "https://www.canva.com/resources/ai-content-marketing/?msockid=26952748f8b965b4193830c9f987640c"
     ],
     "android_core": [
       "https://www.android.com/",
