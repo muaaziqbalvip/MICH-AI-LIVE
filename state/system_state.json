@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7951,
+  "cycle_count": 7956,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-23T04:07:50.222906+00:00",
+  "last_checkpoint": "2026-06-23T04:18:04.136032+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1582,7 +1582,12 @@
       "https://www.olivegarden.com/order-online",
       "https://www.olivegarden.com/gift-cards",
       "https://jobs.olivegarden.com/",
-      "https://www.olivegarden.com/menu/family-style-meals/family-bundles"
+      "https://www.olivegarden.com/menu/family-style-meals/family-bundles",
+      "https://fr.indeed.com/Emplois-autour-de-moi",
+      "https://www.randstad.fr/emploi-autour-moi/",
+      "https://candidat.francetravail.fr/rechercheoffre/emploi",
+      "https://www.francetravail.fr/accueil/",
+      "https://fr.indeed.com/"
     ],
     "automation": [
       "https://www.selenium.dev/",
