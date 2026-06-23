@@ -2031,7 +2031,22 @@
         "marketing"
       ],
       "added_at": "2026-06-22T01:19:25.719848+00:00"
+    },
+    {
+      "id": "e663a345",
+      "source_url": "https://www.lakeplaceresort.com/visit",
+      "title": "Visit — Lake Place Resort",
+      "summary": "* Address: 9515 Harbor Dr., Glenhaven, CA 95443\n* Hours of operation: Monday-Sunday, 10am-6pm\n* Phone number: (707) 998-3331\n* Travel time from San Francisco: 2 hours 20 minutes\n* Travel time from San Jose: 2 hours 50 minutes\n* Travel time from Napa: 1 hour 40 minutes\n* Travel time from Sacramento: 1 hour 40 minutes\n* Travel time from Tahoe: 4 hours 10 minutes\n* Location coordinates not provided, but city and state are given\n* No technical specifications or code patterns are present in the text",
+      "tags": [
+        "phone number",
+        "travel time",
+        "location coordinates",
+        "technical specifications",
+        "city state",
+        "coordinates"
+      ],
+      "added_at": "2026-06-23T04:00:41.956902+00:00"
     }
   ],
-  "last_updated": "2026-06-22T01:19:25.719861+00:00"
+  "last_updated": "2026-06-23T04:00:41.956918+00:00"
 }
