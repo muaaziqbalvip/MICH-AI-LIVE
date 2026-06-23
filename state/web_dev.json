@@ -1580,7 +1580,22 @@
         "next-themes"
       ],
       "added_at": "2026-06-23T15:36:42.467190+00:00"
+    },
+    {
+      "id": "72f0df96",
+      "source_url": "https://universopython.com/en/blog/python-websockets-real-time-applications",
+      "title": "Python WebSockets: Complete Real-Time Applications Guide",
+      "summary": "• WebSockets enable bidirectional communication between client and server over a single persistent TCP connection.\n• WebSockets eliminate the overhead of traditional HTTP requests, allowing the server to actively push information to the client.\n• The WebSocket protocol (RFC 6455) establishes a full-duplex connection over TCP after an initial HTTP handshake.\n• WebSockets offer reduced latency, true bidirectional communication, bandwidth efficiency, and real-time delivery.\n• FastAPI is a suitable framework for WebSocket support in Python, offering native protocol support and seamless integration with Python's type system.\n• ConnectionManager can be used to manage multiple WebSocket connections.\n• JWT (JSON Web Tokens) can be used for WebSocket authentication.\n• Redis Pub/Sub can be used for scalable broadcasting with WebSockets.\n• The MDN WebSockets API documentation provides a reference for the browser-side implementation of WebSockets.\n• WebSockets are ideal for applications that demand low latency and constant communication, such as live dashboards, real-time chat, and push notifications.\n• FastAPI is a Python framework for WebSocket support, built on top of the websockets library and the Starlette framework.\n• To install FastAPI with WebSocket support, use `pip install \"fastapi[standard]\" websockets`.\n• A basic WebSocket server example with FastAPI uses `@app.websocket(\"/ws\")` to establish a connection.\n• The `ConnectionManager` class is used to manage multiple connections,",
+      "tags": [
+        "websockets",
+        "tcp",
+        "http",
+        "jwt",
+        "redis",
+        "python"
+      ],
+      "added_at": "2026-06-23T15:39:30.980406+00:00"
     }
   ],
-  "last_updated": "2026-06-23T15:36:42.467207+00:00"
+  "last_updated": "2026-06-23T15:39:30.980424+00:00"
 }
