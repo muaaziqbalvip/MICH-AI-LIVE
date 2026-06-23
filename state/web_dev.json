@@ -1496,7 +1496,51 @@
         "web_dev"
       ],
       "added_at": "2026-06-22T03:54:12.808109+00:00"
+    },
+    {
+      "id": "c963cad4",
+      "source_url": "https://www.kino.de/kinoprogramm/stadt/berlin/",
+      "title": "Kinoprogramm in Berlin",
+      "summary": "* No technical information is present in the provided text.\n* The text appears to be a list of movie titles.\n* No code patterns or technical facts are available for extraction.\n* The source is a movie showtime webpage.\n* The webpage is in German.\n* No specific technologies or programming languages are mentioned.\n* No database or data storage information is provided.\n* No network or security details are available.\n* No software development or engineering concepts are discussed.\n* The text is primarily entertainment-related content.",
+      "tags": [
+        "webpage",
+        "movie",
+        "database",
+        "security",
+        "software",
+        "network"
+      ],
+      "added_at": "2026-06-23T01:32:45.761575+00:00"
+    },
+    {
+      "id": "e529ba2f",
+      "source_url": "https://www.kino.de/kinoprogramm/",
+      "title": "Kinoprogramm für alle Kinos und Städte",
+      "summary": "* Website: kino.de\n* Functionality: search for movie showtimes by city or cinema\n* Cities listed: 14 major German cities (e.g. Berlin, Hamburg, Munich)\n* Search bar: allows users to input city or cinema name\n* Movie listings: includes current and upcoming movies\n* Movie information: includes titles, but no technical details (e.g. genre, runtime)\n* Page structure: includes navigation, content, and advertisement sections\n* Content sections: Kinoprogramm, Kino-Highlights, Demnächst im Kino, Die neuesten Kino-Trailer\n* Alphabetical city index: lists all cities from A to Z\n* No apparent API or technical documentation available",
+      "tags": [
+        "search bar",
+        "movie listings",
+        "navigation",
+        "website",
+        "cinema listings",
+        "online search"
+      ],
+      "added_at": "2026-06-23T01:46:58.313981+00:00"
+    },
+    {
+      "id": "63eca0ea",
+      "source_url": "https://www.cinema.de/kino/kinoprogramm/berlin",
+      "title": "Kinoprogramm für Berlin - Alle Kinos in der Übersicht | cinema.de",
+      "summary": "* Multiple cinemas listed in Berlin, including UCI Kinowelt, CineStar, and independent theaters.\n* Cinemas are organized by Berlin district (e.g. Kreuzberg, Mitte, Neukölln).\n* Some cinemas have multiple locations (e.g. CineStar, UCI Kinowelt).\n* Various film formats mentioned, including IMAX.\n* Some cinemas have unique names (e.g. Babylon, Lichtblick-Kino).\n* Districts with most cinemas include Mitte, Neukölln, and Prenzlauer Berg.\n* Some cinemas are part of larger complexes (e.g. Sony Center).\n* Independent and art-house cinemas are present (e.g. Acud Kino, IL KINO).\n* Large cinema chains have multiple locations in Berlin (e.g. Cineplex, UCI Kinowelt).",
+      "tags": [
+        "imax",
+        "cinemas",
+        "film formats",
+        "cinema chains",
+        "art house"
+      ],
+      "added_at": "2026-06-23T01:53:06.159878+00:00"
     }
   ],
-  "last_updated": "2026-06-22T03:54:12.808122+00:00"
+  "last_updated": "2026-06-23T01:53:06.159891+00:00"
 }
