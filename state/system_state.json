@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7991,
+  "cycle_count": 7996,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-23T11:04:24.112896+00:00",
+  "last_checkpoint": "2026-06-23T11:37:20.394186+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -841,7 +841,9 @@
       "https://www.booking.com/hotel/us/lake-place-resort.html?msockid=1547972027e0672f3a0f80a12604668a",
       "https://www.lakeplaceresort.com/visit",
       "https://www.opalcollection.com/lake-placid-lodge/",
-      "https://maps.campendium.com/us/glenhaven-ca/accommodation/lake-place-resort"
+      "https://maps.campendium.com/us/glenhaven-ca/accommodation/lake-place-resort",
+      "https://www.canva.com/resources/ai-content-marketing/?msockid=3b17c84a040368951ad8dfcb056c69f4",
+      "https://www.impactplus.com/learn/ai-tools-for-content-creation"
     ],
     "android_core": [
       "https://www.android.com/",
