@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7856,
+  "cycle_count": 7861,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-23T00:17:01.266135+00:00",
+  "last_checkpoint": "2026-06-23T00:33:44.524938+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -375,7 +375,8 @@
       "https://www.nytimes.com/athletic/7377101/2026/06/19/giants-pride-night-protest-doj-investigation-mlb/",
       "https://nypost.com/2026/06/19/sports/san-francisco-giants-pride-night-drama-sparks-doj-probe-as-feds-rip-mlb-hypocrisy/",
       "https://blog.csdn.net/2602_94958286/article/details/159333768",
-      "https://www.cnblogs.com/ganhuo1/p/20470452"
+      "https://www.cnblogs.com/ganhuo1/p/20470452",
+      "https://markaicode.com/automate-youtube-shorts-ai-video-generators/"
     ],
     "marketing": [
       "https://mail.google.com/mail",
