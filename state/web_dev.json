@@ -1610,7 +1610,22 @@
         "confirm country change"
       ],
       "added_at": "2026-06-23T15:42:13.847825+00:00"
+    },
+    {
+      "id": "dc22767b",
+      "source_url": "https://tech-insider.org/fastapi-tutorial-python-rest-api-13-steps-2026/",
+      "title": "FastAPI Tutorial: Build REST API in 13 Steps [2026]",
+      "summary": "* FastAPI is used for building the REST API.\n* `@router.get()` and `@router.patch()` are used for defining GET and PATCH endpoints.\n* `response_model` parameter is used to define the response model for an endpoint.\n* `HTTPException` is used to handle errors, such as 404 \"Item not found\".\n* `async` and `await` are used for asynchronous programming.\n* `SessionDep` and `SessionD` are used for database session dependency injection.\n* `item_service.get_item()` and `item_service.create_item()` are used for encapsulating business logic.\n* `ItemRead` and `ItemUpdate` are used as Pydantic models for data validation.\n* Database operations are performed using a separate service layer (`item_service`).",
+      "tags": [
+        "fastapi",
+        "rest",
+        "api",
+        "pydantic",
+        "http",
+        "async"
+      ],
+      "added_at": "2026-06-23T22:05:12.294704+00:00"
     }
   ],
-  "last_updated": "2026-06-23T15:42:13.847840+00:00"
+  "last_updated": "2026-06-23T22:05:12.294722+00:00"
 }
