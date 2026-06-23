@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 8151,
+  "cycle_count": 8156,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-23T15:49:37.759372+00:00",
+  "last_checkpoint": "2026-06-23T15:52:21.412661+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1940,7 +1940,8 @@
       "https://support.xbox.com/en-US/help/hardware-network/console/manuals-specs",
       "https://support.xbox.com/en-US/help/hardware-network/controller/controller-calibration-tool",
       "https://support.microsoft.com/pt-br/accounts-billing/manage/link-your-github-account-and-microsoft-account",
-      "https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html"
+      "https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html",
+      "https://www.atlassian.com/git"
     ]
   },
   "software_factory_jobs": [],

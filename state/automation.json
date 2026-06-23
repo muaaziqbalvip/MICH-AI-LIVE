@@ -1467,7 +1467,22 @@
         "windows"
       ],
       "added_at": "2026-06-23T12:56:34.239593+00:00"
+    },
+    {
+      "id": "9c84f528",
+      "source_url": "https://www.atlassian.com/git",
+      "title": "How to Use Git? Tutorials, Workflows & Commands | Atlassian",
+      "summary": "Here are the key technical facts extracted from the text:\n\n* Git is a free and open-source version control system created by Linus Torvalds in 2005.\n* Git is a distributed version control system, where every developer has the full history of their code repository locally.\n* Git supports branching, merging, and rewriting repository history.\n* Pull requests allow teams to collaborate on Git branches and review each other's code.\n* Git commands include:\n  - `clone` (copy a repository to a local machine)\n  - `commit` (save changes)\n  - `push` (upload changes to a remote repository)\n  - `pull` (download changes from a remote repository)\n  - `branch` (create a new branch)\n  - `merge` (combine changes from two branches)\n* Git workflows include:\n  - Creating a repository\n  - Cloning a repository\n  - Committing changes\n  - Pushing changes\n  - Pulling changes\n  - Creating a branch\n  - Opening a pull request\n  - Merging a branch\n* Git can be installed on various platforms, including Mac OS/X, Windows, and Linux.\n• A Git branch represents an independent line of development.\n• Branches serve as an abstraction for the edit/stage/commit process.\n• A branch creates a new working directory, staging area, and project history.\n• New commits are recorded in the history for the current branch.\n• Branching results in a fork in the project's history.",
+      "tags": [
+        "git",
+        "version",
+        "control",
+        "branching",
+        "merging",
+        "pull"
+      ],
+      "added_at": "2026-06-23T15:51:48.234060+00:00"
     }
   ],
-  "last_updated": "2026-06-23T12:56:34.239609+00:00"
+  "last_updated": "2026-06-23T15:51:48.234079+00:00"
 }
