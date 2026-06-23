@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7871,
+  "cycle_count": 7876,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-23T00:49:35.484124+00:00",
+  "last_checkpoint": "2026-06-23T01:02:21.814179+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1566,7 +1566,8 @@
       "https://www.camping-bellaitalia.it/de/",
       "https://www.camping-bellaitalia.it/en/",
       "https://www.camping-bellaitalia.it/",
-      "https://www.camping-bellaitalia.it/de/campingplatz.php"
+      "https://www.camping-bellaitalia.it/de/campingplatz.php",
+      "https://www.howtogeek.com/3-more-docker-containers-i-cant-work-without/"
     ],
     "automation": [
       "https://www.selenium.dev/",
