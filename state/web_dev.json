@@ -1540,7 +1540,32 @@
         "art house"
       ],
       "added_at": "2026-06-23T01:53:06.159878+00:00"
+    },
+    {
+      "id": "73a830b9",
+      "source_url": "https://www.olivegarden.com/home",
+      "title": "Olive Garden Italian Restaurant | Family Style Dining | Italian Food",
+      "summary": "* Online ordering available for pickup, delivery, and catering\n* Minimum order for catering delivery: $100 before tax\n* Catering delivery fee: 10% up to $500, then 5% thereafter\n* Order cutoff for next-day catering delivery: 5pm\n* Same-day catering delivery available\n* Carside pickup option available\n* Online ordering system integrated with menu and specials\n* EClub sign-up for news and offers available\n* Gift card purchases available online\n* Catering orders can be placed for pickup or delivery",
+      "tags": [
+        "online ordering",
+        "delivery",
+        "catering",
+        "pickup",
+        "eclub",
+        "gift card"
+      ],
+      "added_at": "2026-06-23T03:30:49.722618+00:00"
+    },
+    {
+      "id": "21ebda9c",
+      "source_url": "https://www.olivegarden.com/order-online",
+      "title": "Start Your Online Order | ToGo | Olive Garden Italian Restaurant",
+      "summary": "* Online ordering available for To Go, Pickup, and Delivery\n* Order types: individual entrées, family-style meals, and catering\n* Catering orders have a $100 minimum before tax\n* 10% delivery fee for catering orders up to $500, then 5% thereafter\n* Catering delivery orders must be placed online by 5pm for next day delivery\n* Same day catering delivery available as an option\n* Carside Pickup available for convenience\n* Delivery times and availability vary by location\n* Online ordering system allows for selection of order type and delivery/pickup method\n* Minimum order requirements and delivery fees apply to catering orders",
+      "tags": [
+        "web_dev"
+      ],
+      "added_at": "2026-06-23T03:31:53.954547+00:00"
     }
   ],
-  "last_updated": "2026-06-23T01:53:06.159891+00:00"
+  "last_updated": "2026-06-23T03:31:53.954561+00:00"
 }

@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 7931,
+  "cycle_count": 7936,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-23T03:29:14.378240+00:00",
+  "last_checkpoint": "2026-06-23T03:39:50.770276+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1572,7 +1572,12 @@
       "https://www.tip-berlin.de/kinoprogramm/",
       "https://www.kino.de/kinoprogramm/",
       "https://www.cinema.de/kino/kinoprogramm/berlin",
-      "https://www.moviepilot.de/kino/kinoprogramm/demnaechst-im-kino"
+      "https://www.moviepilot.de/kino/kinoprogramm/demnaechst-im-kino",
+      "https://www.olivegarden.com/home",
+      "https://www.olivegarden.com/order-online",
+      "https://www.olivegarden.com/gift-cards",
+      "https://jobs.olivegarden.com/",
+      "https://www.olivegarden.com/menu/family-style-meals/family-bundles"
     ],
     "automation": [
       "https://www.selenium.dev/",
