@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 8180,
+  "cycle_count": 8181,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-23T16:05:03.741193+00:00",
+  "last_checkpoint": "2026-06-23T21:54:29.378447+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1947,5 +1947,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "stopped"
+  "status": "running"
 }
