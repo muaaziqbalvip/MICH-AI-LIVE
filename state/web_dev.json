@@ -1565,7 +1565,22 @@
         "web_dev"
       ],
       "added_at": "2026-06-23T03:31:53.954547+00:00"
+    },
+    {
+      "id": "6901aee5",
+      "source_url": "https://robinbuilds.dev/blog/tailwind-css-v4-advanced-patterns-troubleshooting-2026",
+      "title": "Tailwind CSS v4 Advanced Patterns & Troubleshooting Guid…",
+      "summary": "• Use `npx create-next-app@latest my-app --typescript --tailwind --eslint` to set up a new Next.js 16 project with Tailwind CSS v4.\n• In `tailwind.config.ts`, use `darkMode: 'class'` to enable dark mode and `plugins: [require('@tailwindcss/typography')]` to include typography plugin.\n• Use `cn` utility from `@/lib/utils` to conditionally apply classes in components.\n• Use `variant` prop to conditionally apply different styles in components, e.g., `variant === 'glass' ? 'backdrop-blur-xl bg-white/70' : 'bg-white'`.\n• To fix slow build times, use content optimization and purge strategies.\n• To fix dark mode flickering, add `suppressHydrationWarning` to `<html>` and use `next-themes`.\n• Use arbitrary variants wisely to avoid performance issues.\n• Extract repeated patterns into components to improve code reusability.\n• Combine `@apply` with custom utilities sparingly to avoid performance issues.",
+      "tags": [
+        "next.js",
+        "tailwind",
+        "typescript",
+        "eslint",
+        "tailwind css",
+        "next-themes"
+      ],
+      "added_at": "2026-06-23T15:36:42.467190+00:00"
     }
   ],
-  "last_updated": "2026-06-23T03:31:53.954561+00:00"
+  "last_updated": "2026-06-23T15:36:42.467207+00:00"
 }
