@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 8021,
+  "cycle_count": 8026,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-23T12:41:23.181019+00:00",
+  "last_checkpoint": "2026-06-23T13:01:10.251024+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1914,7 +1914,12 @@
       "https://tw.dictionary.search.yahoo.com/search?p=query",
       "https://global.bing.com/dict/search?q=query&FORM=BDVSP6&cc=cn",
       "https://baike.baidu.com/item/Query/63305502",
-      "https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/query"
+      "https://dictionary.cambridge.org/zhs/词典/英语-汉语-简体/query",
+      "https://support.microsoft.com/en-us/accounts-billing/manage/link-your-github-account-and-microsoft-account",
+      "https://support.microsoft.com/en-us",
+      "https://support.xbox.com/en-US/help/hardware-network/console/manuals-specs",
+      "https://support.xbox.com/en-US/help/hardware-network/controller/controller-calibration-tool",
+      "https://support.microsoft.com/pt-br/accounts-billing/manage/link-your-github-account-and-microsoft-account"
     ]
   },
   "software_factory_jobs": [],

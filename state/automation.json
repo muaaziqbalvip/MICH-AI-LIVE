@@ -1452,7 +1452,22 @@
         "automation"
       ],
       "added_at": "2026-06-22T13:48:10.695106+00:00"
+    },
+    {
+      "id": "893d0d91",
+      "source_url": "https://support.microsoft.com/en-us",
+      "title": "Microsoft Support",
+      "summary": "* Microsoft 365 offers AI-powered tools through Copilot.\n* Microsoft 365 Copilot app provides access to various Microsoft apps.\n* Microsoft Authenticator can back up Microsoft accounts.\n* Microsoft 365 requires sign-in for access.\n* Windows Security app provides protection against threats.\n* Two-step verification is available for Microsoft accounts.\n* Bluetooth issues in Windows can be fixed through troubleshooting.\n* Screen mirroring and projecting are supported in Windows.\n* Microsoft provides technical training for IT professionals.\n* LinkedIn Learning is available for additional technical resources.",
+      "tags": [
+        "ai",
+        "copilot",
+        "microsoft",
+        "authenticator",
+        "bluetooth",
+        "windows"
+      ],
+      "added_at": "2026-06-23T12:56:34.239593+00:00"
     }
   ],
-  "last_updated": "2026-06-22T13:48:10.695125+00:00"
+  "last_updated": "2026-06-23T12:56:34.239609+00:00"
 }
