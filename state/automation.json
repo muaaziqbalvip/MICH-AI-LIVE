@@ -1482,7 +1482,21 @@
         "pull"
       ],
       "added_at": "2026-06-23T15:51:48.234060+00:00"
+    },
+    {
+      "id": "4d37b462",
+      "source_url": "https://www.linkedin.com/company/github",
+      "title": "GitHub - LinkedIn",
+      "summary": "* GitHub has various job openings for technical roles\n* Job openings include:\n  * Platform Engineer\n  * Cyber Security Specialist\n  * Junior Developer\n  * Graduate Software Engineer\n  * C Developer\n  * iOS Developer\n* Other roles include:\n  * Senior Program Manager\n  * Associate Product Manager\n  * Senior Manager\n  * Customer Success Manager\n* Technical skills likely required for these roles include:\n  * Programming languages (e.g. C, iOS development)\n  * Cyber security knowledge\n  * Software development experience",
+      "tags": [
+        "cyber security",
+        "software development",
+        "ios development",
+        "programming languages",
+        "c programming"
+      ],
+      "added_at": "2026-06-23T22:57:26.238054+00:00"
     }
   ],
-  "last_updated": "2026-06-23T15:51:48.234079+00:00"
+  "last_updated": "2026-06-23T22:57:26.238069+00:00"
 }
