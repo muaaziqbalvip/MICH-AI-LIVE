@@ -2076,7 +2076,17 @@
         "roi tracking"
       ],
       "added_at": "2026-06-23T12:23:11.097407+00:00"
+    },
+    {
+      "id": "97662ee8",
+      "source_url": "https://rameshsingh.com/automate-seo-monitoring-with-python-and-google-search-console-api/",
+      "title": "How to Automate SEO Monitoring with Python and Google Search Console …",
+      "summary": "* The script uses the Google Search Console API to fetch data.\n* It utilizes the `build` function from the `googleapiclient.discovery` module to create a service object.\n* The `get_credentials` function is used to authenticate with the Google API.\n* The script fetches impressions data for the current month, last month, and last year using the `fetch_impressions_data` function.\n* It merges the impressions data using `pd.merge` and handles missing values by filling with 0.\n* The `calculate_7_day_average_for_position` function is used to calculate the 7-day average position.\n* The script uses the `date_ranges` dictionary to store date ranges for impressions and positions.\n* The `export_to_excel` function is used to export the final DataFrame to an Excel file.\n* The script uses the `rename` function to rename columns in the DataFrame.\n* The `fillna` function is used to replace missing values with 0.\n* Python is used for automating SEO monitoring.\n* Google Search Console API is utilized for data retrieval.\n* `calculate_7_day_average_for_position` function calculates the 7-day average position.\n* `position_date_ranges` dictionary stores date ranges for different time periods.\n* `last_week_position_date_range` variable stores the date range for the last week.\n* `df_last_week_avg` DataFrame stores the 7-day average position data for the last week.\n* `average_position` column is renamed to include the date range.\n* Data is filtered using specific date ranges (e.g., last week, last mon",
+      "tags": [
+        "marketing"
+      ],
+      "added_at": "2026-06-23T14:40:43.616505+00:00"
     }
   ],
-  "last_updated": "2026-06-23T12:23:11.097428+00:00"
+  "last_updated": "2026-06-23T14:40:43.616525+00:00"
 }

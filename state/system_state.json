@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 8046,
+  "cycle_count": 8051,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-23T14:24:54.570608+00:00",
+  "last_checkpoint": "2026-06-23T14:43:47.192231+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -851,7 +851,9 @@
       "https://www.impactplus.com/learn/ai-tools-for-content-creation",
       "https://www.canva.com/resources/ai-content-marketing/?msockid=26952748f8b965b4193830c9f987640c",
       "https://mail.google.com/mail/u/0/",
-      "https://outlook.office.com/mail?ui=en-US&rs=US"
+      "https://outlook.office.com/mail?ui=en-US&rs=US",
+      "https://www.linkedin.com/pulse/crafting-seo-script-python-comprehensive-guide-dhaivat-vyas-epcuf",
+      "https://rameshsingh.com/automate-seo-monitoring-with-python-and-google-search-console-api/"
     ],
     "android_core": [
       "https://www.android.com/",
