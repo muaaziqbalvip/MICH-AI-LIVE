@@ -1379,7 +1379,22 @@
         "multimedia"
       ],
       "added_at": "2026-06-23T14:03:35.456901+00:00"
+    },
+    {
+      "id": "4a378c9b",
+      "source_url": "https://pillow.readthedocs.io/",
+      "title": "Pillow (PIL Fork) 12.2.0 documentation",
+      "summary": "• Pillow is a friendly fork of the Python Imaging Library (PIL) by Jeffrey 'Alex' Clark and contributors.\n• Pillow provides extensive file format support, an efficient internal representation, and powerful image processing capabilities.\n• The library is designed for fast access to data stored in a few basic pixel formats.\n• Pillow supports various modules, including Image, ImageChops, ImageCms, ImageColor, ImageDraw, and more.\n• The library is available for Python 3.6 and later versions.\n• Pillow is compatible with Windows, macOS, and Linux platforms.\n• The library can be installed using pip, and building from source is also possible.\n• Pillow has a plugin reference and internal reference for developers.\n• The library uses a custom versioning system, with the current version being 12.2.0.\n• Pillow is licensed under the Apache License 2.0.\n• Pillow is a fork of the Python Imaging Library (PIL).\n• The latest version of Pillow is 12.2.0.\n• The library has undergone significant updates since its initial release in 2015.\n• Major version updates include 2.8.0 (2015-04-01), 3.0.0 (2015-10-01), and 3.1.1 (2016-02-04).\n• Deprecations and removals have been implemented to improve the library's stability and maintainability.\n• The library has deprecated and removed certain features to ensure compatibility and performance.\n• The documentation includes an index and module index for easy navigation.\n• The library has undergone several minor updates since its initial release in 2014.\n• Majo",
+      "tags": [
+        "python",
+        "imaging",
+        "library",
+        "pillow",
+        "plugin",
+        "reference"
+      ],
+      "added_at": "2026-06-23T15:34:30.941316+00:00"
     }
   ],
-  "last_updated": "2026-06-23T14:03:35.456945+00:00"
+  "last_updated": "2026-06-23T15:34:30.941333+00:00"
 }
