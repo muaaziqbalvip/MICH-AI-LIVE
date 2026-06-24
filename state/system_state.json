@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 8596,
+  "cycle_count": 8601,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-24T22:46:33.515762+00:00",
+  "last_checkpoint": "2026-06-24T22:59:33.260572+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1631,7 +1631,8 @@
       "https://mubaidr.js.org/blog/10-nextjs-14-app-router-guide/",
       "https://www.next.co.uk/?msockid=0ac160bf356565a103db773d34fd6441",
       "https://www.nordstrom.com/brands/next?msockid=0ac160bf356565a103db773d34fd6441",
-      "https://fastapi.tiangolo.com/learn/"
+      "https://fastapi.tiangolo.com/learn/",
+      "https://www.nordstrom.com/brands/next"
     ],
     "automation": [
       "https://www.selenium.dev/",
