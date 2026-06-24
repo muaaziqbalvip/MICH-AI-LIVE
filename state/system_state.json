@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 8351,
+  "cycle_count": 8356,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-24T03:18:37.846864+00:00",
+  "last_checkpoint": "2026-06-24T03:29:18.424748+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1952,7 +1952,8 @@
       "https://support.microsoft.com/pt-br/accounts-billing/manage/link-your-github-account-and-microsoft-account",
       "https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html",
       "https://www.atlassian.com/git",
-      "https://www.linkedin.com/company/github"
+      "https://www.linkedin.com/company/github",
+      "https://github.com/josepguardia/GitPython"
     ]
   },
   "software_factory_jobs": [],
