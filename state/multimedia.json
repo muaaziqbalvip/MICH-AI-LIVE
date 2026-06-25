@@ -1394,7 +1394,51 @@
         "reference"
       ],
       "added_at": "2026-06-23T15:34:30.941316+00:00"
+    },
+    {
+      "id": "3a8771b1",
+      "source_url": "https://www.amazon.com/gp/video/storefront/",
+      "title": "Prime Video: Watch movies, TV shows, sports, and live TV",
+      "summary": "* Amazon offers various services including Prime Video, Photos, and eero WiFi.\n* eero WiFi enables 4K video streaming in every room.\n* Ring and Blink provide smart home security systems.\n* Neighbors App offers real-time crime and safety alerts.\n* PillPack simplifies pharmacy services.\n* Amazon Renewed provides refurbished tech products.\n* Amazon collects consumer health data.\n* Users have ads privacy choices.\n* Amazon services are subject to Conditions of Use and Privacy Notice.\n* Amazon's services are available through its affiliates and subsidiaries.",
+      "tags": [
+        "wifi",
+        "streaming",
+        "smart home",
+        "security systems",
+        "pharmacy services",
+        "refurbished tech"
+      ],
+      "added_at": "2026-06-24T23:11:48.334835+00:00"
+    },
+    {
+      "id": "6be6c2f9",
+      "source_url": "https://www.amazon.com/gp/video/movie",
+      "title": "Prime Video: Watch, rent, or buy movies online - amazon.com",
+      "summary": "* Amazon Prime Video offers various movie categories, including horror, iconic lives, and date night favorites.\n* Movies can be watched, rented, or bought online through the platform.\n* The website uses a \"Store Filled\" indicator for available movies.\n* Amazon provides a \"LEAVING SOON\" label for movies that will be removed from the platform.\n* A \"NEW MOVIE\" label is used to highlight recently added content.\n* The website includes a search function and filtering options for users to find specific movies.\n* Amazon offers a range of services, including Amazon Music, Amazon Ads, and Amazon Web Services.\n* The platform supports multiple payment options, including Amazon Visa, Amazon Store Card, and Gift Cards.\n* Amazon provides a \"Make Money with Us\" section, offering opportunities for selling products, publishing content, and advertising.\n* The website is available in multiple languages and regions, including English and United States.",
+      "tags": [
+        "video streaming",
+        "online platform",
+        "search function",
+        "payment options",
+        "web services"
+      ],
+      "added_at": "2026-06-24T23:21:56.578572+00:00"
+    },
+    {
+      "id": "c510971a",
+      "source_url": "https://www.amazon.com/sign/s?k=sign+in",
+      "title": "Amazon.com: Sign In",
+      "summary": "* Products are sorted by best seller and top rated categories\n* Price filtering options are available, including free delivery on orders over $35\n* Product pages display customer reviews, ratings, and number of purchases\n* Prime membership offers exclusive prices and free delivery\n* Products have sustainability features recognized by certifications like OEKO-TEX STANDARD 100\n* Certification bodies like TESTEX AG conduct independent assessments of products\n* Products are categorized by features like HIPAA compliance and medical record labels\n* Customer purchase history is tracked, with options to view \"400+ bought in past month\"\n* Products have varying price points, with discounts for Prime members and bulk purchases\n* Delivery estimates are provided, including options for free delivery by specific dates\n* Amazon product pages display pricing information, including typical price, list price, and exclusive Prime price.\n* Products have customer reviews with ratings out of 5 stars.\n* Prime membership offers free delivery on eligible items.\n* Non-Prime members can also get free delivery on orders over $35.\n* Products may have sustainability features, such as containing recycled materials.\n* Global Recycled Standard (GRS) certification verifies recycled content in products.\n* GRS certification ensures products meet social, environmental, and chemical requirements.\n* Amazon product pages display estimated delivery dates for Prime and non-Prime members.\n* Products may have multiple p",
+      "tags": [
+        "e-commerce",
+        "product filtering",
+        "customer reviews",
+        "prime membership",
+        "sustainability certifications",
+        "purchase tracking"
+      ],
+      "added_at": "2026-06-24T23:53:14.925874+00:00"
     }
   ],
-  "last_updated": "2026-06-23T15:34:30.941333+00:00"
+  "last_updated": "2026-06-24T23:53:14.925892+00:00"
 }

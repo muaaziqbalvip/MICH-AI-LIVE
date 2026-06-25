@@ -1150,7 +1150,22 @@
         "architecture"
       ],
       "added_at": "2026-06-22T15:32:02.983154+00:00"
+    },
+    {
+      "id": "d5819b08",
+      "source_url": "https://developer.android.com/studio/install",
+      "title": "Install Android Studio",
+      "summary": "* Intel VT-x or AMD-V virtualization support is required, enabled in BIOS.\n* Recommended CPUs: Intel Core i5, i7, i9 series or AMD Ryzen 5, 7, 9 series.\n* Minimum disk space: 8 GB for Studio, 16 GB for Studio & Emulator.\n* Solid state drive with 32 GB or more is recommended.\n* Minimum screen resolution: 1280 x 800.\n* GPU requirements: 4 GB VRAM for Studio & Emulator, 8 GB VRAM for better performance.\n* Linux installation requires 64-bit libraries, including libc6, libncurses5, and libstdc++6.\n* Android Studio installation on Linux: unpack .tar.gz file, install required libraries, and execute studio.sh.\n* ChromeOS installation: install Linux for ChromeOS, copy DEB package to Linux Files, and run sudo apt install.\n* Minimum GPU models: Nvidia Geforce 10 series or AMD Radeon RX 5000 series.\n* Default installation directory: /opt/android-studio/bin\n* Launch command: studio\n* Update check: Help > Check for Update\n* Launch methods: Launcher or ChromeOS Linux terminal\n* Required action after installation: Launch Android Studio\n* Notification method: Dialog for new tools and APIs\n* License information: Content License\n* Trademarks: Java and OpenJDK owned by Oracle and/or its affiliates\n* Installation completion: Confirmed by ability to launch Android Studio",
+      "tags": [
+        "virtualization",
+        "intel",
+        "amd",
+        "linux",
+        "gpu",
+        "bios"
+      ],
+      "added_at": "2026-06-25T00:10:11.043359+00:00"
     }
   ],
-  "last_updated": "2026-06-22T15:32:02.983174+00:00"
+  "last_updated": "2026-06-25T00:10:11.043372+00:00"
 }

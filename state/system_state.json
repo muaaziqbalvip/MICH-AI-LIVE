@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 8601,
+  "cycle_count": 8606,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-24T22:59:33.260572+00:00",
+  "last_checkpoint": "2026-06-25T00:10:13.231429+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -383,7 +383,12 @@
       "https://code.visualstudio.com/",
       "https://code.visualstudio.com/docs/python/editing",
       "https://pillow.readthedocs.io/",
-      "https://www.pil-lab.com/locations-pagecat.html?cPath=257"
+      "https://www.pil-lab.com/locations-pagecat.html?cPath=257",
+      "https://www.amazon.com/gp/video/storefront/",
+      "https://www.amazon.com/gp/video/movie",
+      "https://www.amazon.com/businessprime",
+      "https://www.amazon.com/gp/video/collection/IncludedwithPrime",
+      "https://www.amazon.com/sign/s?k=sign+in"
     ],
     "marketing": [
       "https://mail.google.com/mail",
@@ -1129,7 +1134,8 @@
       "https://kotlinlang.org/docs/coroutines-overview.html",
       "https://kotlinlang.org/docs/coroutines-guide.html",
       "https://medium.com/@fatiharslan2634/mastering-android-multi-module-architecture-with-convention-plugins-bfee89f3ec38",
-      "https://www.payloadbooks.com/wp-content/uploads/2024/01/JetpackCompose1.5EssentialsPreview_optimized.pdf"
+      "https://www.payloadbooks.com/wp-content/uploads/2024/01/JetpackCompose1.5EssentialsPreview_optimized.pdf",
+      "https://developer.android.com/studio/install"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
