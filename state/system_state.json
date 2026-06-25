@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 8658,
+  "cycle_count": 8661,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-25T02:50:01.803739+00:00",
+  "last_checkpoint": "2026-06-25T09:02:40.200254+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1146,7 +1146,12 @@
       "https://goldtits.com/pornstars/eliza-ibarra/",
       "https://www.porntrex.tv/models/eliza-ibarra/",
       "https://www.sexvid.xxx/pornstars/eliza-ibarra/",
-      "https://xhamster19.com/pornstars/eliza-ibarra"
+      "https://xhamster19.com/pornstars/eliza-ibarra",
+      "https://en.wikipedia.org/wiki/Fight_Club",
+      "https://ja.wikipedia.org/wiki/ファイト・クラブ_(映画)",
+      "https://www.imdb.com/title/tt0137523/",
+      "https://www.20thcenturystudios.jp/movies/fight-club",
+      "https://www.netflix.com/mv/title/26004747"
     ],
     "web_dev": [
       "https://tailwindcss.com/",
@@ -1990,5 +1995,5 @@
   "software_factory_jobs": [],
   "total_tokens_used": 0,
   "errors_total": 0,
-  "status": "stopped"
+  "status": "running"
 }
