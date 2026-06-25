@@ -1,8 +1,8 @@
 {
   "run_id": "946af45b",
-  "cycle_count": 8626,
+  "cycle_count": 8631,
   "started_at": "2026-05-23T12:50:16.089213+00:00",
-  "last_checkpoint": "2026-06-25T00:51:07.629994+00:00",
+  "last_checkpoint": "2026-06-25T01:01:48.742806+00:00",
   "task_queue": [],
   "active_task": null,
   "crawl_index": {
@@ -1640,7 +1640,8 @@
       "https://fastapi.tiangolo.com/learn/",
       "https://www.nordstrom.com/brands/next",
       "https://www.next.co.uk/?msockid=1ae3a97e3631617c076abefd372560c2",
-      "https://www.nordstrom.com/brands/next?msockid=1ae3a97e3631617c076abefd372560c2"
+      "https://www.nordstrom.com/brands/next?msockid=1ae3a97e3631617c076abefd372560c2",
+      "https://www.prizmaliving.com/"
     ],
     "automation": [
       "https://www.selenium.dev/",
