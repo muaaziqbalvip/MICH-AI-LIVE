@@ -1545,7 +1545,31 @@
         "automation"
       ],
       "added_at": "2026-06-25T09:44:29.212225+00:00"
+    },
+    {
+      "id": "0cfcceaf",
+      "source_url": "https://drive.google.com/drive/my-drive?hl=th",
+      "title": "Google ไดรฟ์: ลงชื่อเข้าใช้",
+      "summary": "* Google ไดรฟ์ใช้การลงชื่อเข้าใช้ด้วยอีเมลหรือโทรศัพท์\n* มีฟังก์ชันสำหรับผู้ที่ลืมอีเมล\n* มีโหมดผู้มาเยือนสำหรับการใช้งานแบบส่วนตัว\n* โหมดผู้มาเยือนช่วยป้องกันข้อมูลส่วนตัว\n* การลงชื่อเข้าใช้สามารถทำได้โดยพิมพ์ข้อความที่คุณได้ยินหรือเห็น\n* มีหน้าสร้างบัญชีสำหรับผู้ที่ยังไม่มีบัญชี\n* การใช้งาน Google ไดรฟ์ต้องลงชื่อเข้าใช้ก่อน\n* มีข้อมูลเพิ่มเติมเกี่ยวกับการใช้โหมดผู้มาเยือน\n* การใช้งานแบบส่วนตัวเป็นหนึ่งในฟังก์ชันหลัก\n* มีหน้าสำหรับเข้าสู่ Google ไดรฟ์หลังจากลงชื่อเข้าใช้แล้ว",
+      "tags": [
+        "cloud storage",
+        "google drive",
+        "authentication",
+        "login system",
+        "data protection"
+      ],
+      "added_at": "2026-06-25T10:04:26.922477+00:00"
+    },
+    {
+      "id": "971e8633",
+      "source_url": "https://drive.google.com/drive/my-drive?hl=pl",
+      "title": "Dysk Google: logowanie",
+      "summary": "* Google Drive login requires an email address or phone number\n* Users can recover their account if they don't remember their email address\n* Google Drive supports incognito mode through \"tryb gościa\" (guest mode)\n* Guest mode allows private login on public computers\n* Users can create a new account if they don't have one\n* CAPTCHA is used for security (indicated by \"Wpisz tekst, który widzisz lub słyszysz\")\n* Login process involves multiple steps (e.g., entering email/phone, password)\n* Google Drive has a \"Dalej\" (Next) button to proceed with the login process\n* Account recovery and guest mode are available as additional login options\n* New account creation is possible directly from the login page",
+      "tags": [
+        "automation"
+      ],
+      "added_at": "2026-06-25T10:05:31.594834+00:00"
     }
   ],
-  "last_updated": "2026-06-25T09:44:29.212244+00:00"
+  "last_updated": "2026-06-25T10:05:31.594862+00:00"
 }
